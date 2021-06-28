@@ -6,6 +6,6 @@ Repo housing Runbooks and Documentation for Business Partners and IBMers seeking
 
 ## [Common Control Plane]()
 
-## [Skytap]()
+## [Skytap](https://github.com/IBM/dte-support-public/tree/main/Skytap)
 
 ## [IBM Demos]()
