@@ -3,17 +3,17 @@
 1. Log in to the portal using your IBM id
 2. Go to "My Library" and click on "My reservations"
 
-![Myreservations](https://github.ibm.com/dte-support/public/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/My%20reservations.png)
+![Myreservations](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/My%20reservations.png)
 
 3. Find the reservation that needs to be transferred
 4. Click on the elispe (3 dots), select Transfer
 
-![Transfer](https://github.ibm.com/dte-support/public/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/Transfer.png)
+![Transfer](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Transfer.png)
 
 5. Enter the IBMid to transfer to, enter the resource name as shown in example below or you can click on the green square to copy text and paste.
 Note: all fields have to be field for "Transfer" to turn red
 
-![Transferreservation](https://github.ibm.com/dte-support/public/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/Transferreservation.png)
+![Transferreservation](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Transferreservation.png)
 
 6. Click on "Transfer" red button
 7. The environments automatically become available in the users "My reservation"
