@@ -8,4 +8,4 @@ Repo housing Runbooks and Documentation for Business Partners and IBMers seeking
 
 ## [Skytap](https://github.com/IBM/dte-support-public/tree/main/Skytap)
 
-## [IBM Demos]()
+## [IBM Demos](https://github.com/IBM/dte-support-public/tree/main/IBM-Demos)
