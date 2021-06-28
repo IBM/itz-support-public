@@ -1,6 +1,6 @@
 # Internal server error
 
-![Internal server error](https://github.ibm.com/dte-support/public/blob/master/AssetRepo/AssetRepo-Runbooks/Images/Internal%20Server%20Error.png)
+![Internal server error](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Internal%20Server%20Error.png)
 
 Cause: Skytap associated template has been retired or deleted  
 
