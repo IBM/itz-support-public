@@ -4,7 +4,7 @@
 
 [Business Partner Access Error(403)](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/BusinessPartnersAccess.md)  :white_check_mark:  
 
-[IBM ID Sign in Error]()  :white_check_mark: 
+[IBM ID Sign in Error](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ibmidoutages.md)  :white_check_mark: 
 
 [Network Error When Attempting to Fetch Resource](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/NetworkError-when-attempting-to-fetch-resource.md)  :white_check_mark:
 
@@ -21,6 +21,10 @@
 [How to Extend a Reservation](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-a-reservation.md)  :white_check_mark: 
 
 [How to Transfer a Reservation](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer_environment.md)  :white_check_mark: 
+
+## ROKS
+
+[How to Report ROKS Issues]()  
 
 ## Content Contribution
 
