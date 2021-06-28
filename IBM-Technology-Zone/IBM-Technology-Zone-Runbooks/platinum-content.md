@@ -34,7 +34,7 @@ Not adhering to the above terms and conditions will mean content does not suffic
 3.  Select **Platinum** check box
 4.  Then additionally check the Platinum terms & conditions that you adhere to for Platinum level content
 
-![content-platinum-flags](https://github.ibm.com/dte-support/public/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/contributor-flags-platinum.png)
+![content-platinum-flags](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/contributor-flags-platinum.png)
 
 5.  Once you have completed filling all required fields for Platinum content, set status to **Active**, and click **Save**. This will publish your collection to Asset Repo as a Platinum level collection. 
 
