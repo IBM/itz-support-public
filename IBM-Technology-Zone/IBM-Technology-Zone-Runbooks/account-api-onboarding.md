@@ -15,8 +15,8 @@
 
 ### Onboarding
 
-- Acquire an API Token by navigating to the IBM Technology Zone profile page [https://assetrepo.ibm.com/my/profile](https://assetrepo.ibm.com/my/profile). This token can be used for all IBM Technology Zone API endpoints as a Bearer token (using a service id is suggested).
-- Get your unique origin and provider information from [WE NEED A PROCESS ENDPOINT HERE]
+- Acquire an API Token by navigating to the Asset Repo profile page [https://assetrepo.ibm.com/my/profile](https://assetrepo.ibm.com/my/profile). This token can be used for all Asset Repo API endpoints as a Bearer token (using a service id is suggested).
+- Get your unique origin and provider information from [Brooke Jones](mailto:brooke.jones@ibm.com) or [Benjamin Foulkes](mailto:ben.foulkes@ca.ibm.com)
 - Submit your reservation accounting journal entries via a POST request at a regular cadence or at reservation time.
 - Review your data in the dashboard
 
