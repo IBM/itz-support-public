@@ -5,7 +5,7 @@ Q: How do I get content on each of these sections as a contributor of content to
 
 ## What are the sections on home page? 
 
-![new home page tabs](https://github.ibm.com/dte-support/public/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/home-page-tabs.png)
+![new home page tabs](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/home-page-tabs.png)
 
 * Featured assets tab - This content is flagged by the Digital Technical Engagement team and is revolved around key initiatives and new infrastructure options being released on IBM Technology Zone month to month. Additionally we call out different environment portals to help close the gap for tech sellers to find other infrastructure options that IBM Technology Zone does not have existing today.
 
