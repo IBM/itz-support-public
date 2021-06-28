@@ -5,11 +5,11 @@ Collection- Collection of resources
 1. Search for the Resource on IBM Technology Zone url
 2. Click on "edit"
 
-![editimageassetrepo](https://github.ibm.com/dte-support/public/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/edit-image-techzone.png)
+![editimageassetrepo](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/edit-image-techzone.png)
 
 3. Click on the 3 dots from the menu select "Upgrade to collection"
 
-![convert2collection](https://github.ibm.com/dte-support/public/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/upgrade-to-collection.png)
+![convert2collection](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/upgrade-to-collection.png)
 
 4. Click on "save" at the bottom of page
 
