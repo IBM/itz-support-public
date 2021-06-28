@@ -20,4 +20,4 @@ How to add an employee under a Company profile:
 8. Save the validation code by precaution.
 
 Error 403 associated with this use case on IBM Technology Zone
-![Error 403 AssetRepo](https://github.ibm.com/dte-support/public/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/Error%20403%20AssetRepo.png)
+![Error 403 AssetRepo](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Error%20403%20AssetRepo.png)
