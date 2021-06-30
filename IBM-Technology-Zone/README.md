@@ -34,6 +34,8 @@
 
 [Home Page Content Sections](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/new-home-page.md)  :white_check_mark:  
 
+[Defining a Custom Published Service](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Custom_Published_Service_details.md)  :white_check_mark:  
+
 
 ## API
 
