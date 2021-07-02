@@ -1,10 +1,10 @@
 # Issue with a Common Control Plane Provisioned Cluster?
 
-## If you run into an issue with your CCP provisioned cluster, please provide the following information on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+## If you run into an issue with your CCP provisioned cluster, please provide the following information on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.  
 
-1. Specify the platform you used to deploy VMware or ROKS.  
+1.  Specify the platform you used to deploy VMware or ROKS.  
 
-2. Provide the necessary information  
+2.  Provide the necessary information  
 
   1.  VMware - Cluster Name    
 
