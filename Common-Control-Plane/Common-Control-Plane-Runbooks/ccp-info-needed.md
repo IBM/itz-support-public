@@ -6,9 +6,9 @@
 
 2. Provide the necessary information  
 
-  *  VMware - Cluster Name  
+   *  VMware - Cluster Name  
 
-  *  ROKS - Cluster Name and Transaction ID
+   *  ROKS - Cluster Name and Transaction ID
 
 3.  A brief description of your issue.
 
