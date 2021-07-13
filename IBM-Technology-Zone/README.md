@@ -22,6 +22,8 @@
 
 [How to Transfer a Reservation](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer_environment.md)  :white_check_mark: 
 
+[How long can I reserve an environment for on IBM Technology Zone?](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:  
+
 ## ROKS
 
 [How to Report ROKS Issues](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/roks-must-gather.md)  :white_check_mark:    
