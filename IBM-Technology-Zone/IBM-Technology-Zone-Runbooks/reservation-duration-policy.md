@@ -1,4 +1,4 @@
-# How long can I reserve an environment for? 
+# How Long Can I reserve an Environment? 
 
 Please review the following infographic and keep reading for additional context.
 
