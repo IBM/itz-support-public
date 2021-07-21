@@ -8,11 +8,14 @@
 4. Go to Link Patterns
 5. Enter Port Number And Template
 
-Undefined port  
-  Port Number 80 Default Template http://targerDomain:targetPort  
+Undefined port    
+
+  Port Number 80 Default Template http://targetDomain:targetPort  
   email output = http://services-uscentral.skytap.com:16617  
-Defined Port  
-  Port Number 8080 Template Access to port 8080: http://targerDomain:targetPort  
+  
+Defined Port   
+
+  Port Number 8080 Template Access to port 8080: http://targetDomain:targetPort  
   email output = Access to port 8080: http://services-uscentral.skytap.com:16624  
 
 
