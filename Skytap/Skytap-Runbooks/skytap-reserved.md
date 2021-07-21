@@ -14,13 +14,13 @@ Your screen will now tell you that your Skytap reservation has been created. You
 
 ![vm-access](https://github.com/IBM/dte-support-public/blob/main/Skytap/Skytap-Runbooks/Images/vm-access.png)
 
-2. Application Service Information - These links are for any externally exposed services that may be included with your Demo. These can include access to ssh/rdp or software included in the Demo. Note, the password from the Desktop Access Information is not used for any of these services.
+2. Application Service Information - These links are for any externally exposed services that may be included with your environment. These can include access to ssh/rdp or software included in the environment. Note, the password from the Desktop Access Information is not used for any of these services.
 
 ![application-service-info](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Defined-port-email.png)
 
 ## Using the Environment
 
-For guides on how to use your environment, including any credentials needed can be found on the Collection page for you Environment. There are multiple ways of accessing the Collection page.
+For guides on how to use your environment, including any credentials needed can be found on the Collection page for your environment. There are multiple ways of accessing the Collection page.
 
 1.  In the "Collection" column when searching for the environment.
 
@@ -30,7 +30,7 @@ For guides on how to use your environment, including any credentials needed can 
 
 ![related-collection](https://github.com/IBM/dte-support-public/blob/main/Skytap/Skytap-Runbooks/Images/realted-collection.png)
 
-When on the Collection page, navigate to the "Resources" section for documentation on using the Demo.
+When on the Collection page, navigate to the "Resources" section for documentation on using the environment.
 
 ![resources](https://github.com/IBM/dte-support-public/blob/main/Skytap/Skytap-Runbooks/Images/resources.png)
 
