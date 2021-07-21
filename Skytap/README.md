@@ -2,7 +2,7 @@
 
 ## Environments
 
-[Skytap Environments](link)
+[Skytap Environments](https://github.com/IBM/dte-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-reserved.md)  :white_check_mark:
 
 ## Known Issues  
 
