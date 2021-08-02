@@ -19,7 +19,7 @@ Your reservation will automatically be extended till the new date and time selec
 
 NOTE: if "extend" is greyed out, you do not have an opportunity number attached to your reservation. Edit your reservation to include a valid opportunity number. If you get any errors request support on slack channel #dte-techzone-support, Include the Opportunity number and reservation information (Environment id, dekstop url, cluster id,  cluster name etc )
 
-Are you going on vacation and worried about loosing your reservation? You can transfer it to a colleague to manage while away, see details [here](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer_environment.md)
+Are you going on vacation and worried about losing your reservation? You can transfer it to a colleague to manage while away, see details [here](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer_environment.md)
 
 Attention: It is a user's responsibility to ensure they extend reservations before the listed end date and time. 
 All exception request should come in at least 72 hours before the scheduled end date and time. 
