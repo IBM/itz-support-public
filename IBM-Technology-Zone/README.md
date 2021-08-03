@@ -42,9 +42,12 @@
 
 [Collection Metrics](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/collection-metrics.md)  :white_check_mark:  
 
+[IBM Product taxonomy](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/product-taxonomy.md)  :white_check_mark:  
+
 ## Content
 
 [Technical Decision Points on IBM Technology Zone](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
+
 
 ## API
 
