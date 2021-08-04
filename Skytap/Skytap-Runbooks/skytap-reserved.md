@@ -2,7 +2,7 @@
 
 Your screen will now tell you that your Skytap reservation has been created. You will receive an email with more information on how to access your environment when the environment is ready. Note: If you chose the "Schedule for later" option, You will receive this email close to the date you scheduled, not at the time of hitting submit.
 
-![success](https://github.com/IBM/dte-support-public/blob/main/Skytap/Skytap-Runbooks/Images/success.png)
+![success](https://github.com/IBM/dte-support-public/blob/main/Skytap/Skytap-Runbooks/Images/success-page.png)
 
 ## The reservation email will look like this.
 
