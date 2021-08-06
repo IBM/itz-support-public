@@ -9,9 +9,9 @@ What does a collection look like on IBM Technology Zone?
 * Here is an example of a simple collection: [Custom ROKS & VMWare requests](https://techzone.ibm.com/collection/custom-roks-vm-ware-requests)
 
 
-![collection overview](https://github.ibm.com/dte-support/private/blob/master/AssetRepo/AssetRepo-Runbooks/Images/collection%20overview.png)
+![collection overview](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection%20overview.png)
 
-![Collection overview 2](https://github.ibm.com/dte-support/private/blob/master/AssetRepo/AssetRepo-Runbooks/Images/collections-overview-2.png)
+![Collection overview 2](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collections-overview-2.png)
 
 See on this collection that there are resources to help the end user get started with one of the following environments, like the setup guide for the VMWare Cloud adoption lab. 
 
@@ -26,7 +26,7 @@ Here is an example of multiple nested collections on this main collection: [Clou
 
 **NOTE:** The box icon represents that this resource is of type collection. Hover over the box to see the type for yourself.
 
-![Collection nested example](https://github.ibm.com/dte-support/private/blob/master/AssetRepo/AssetRepo-Runbooks/Images/collection%20nested%20example.png)
+![Collection nested example](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection%20nested%20example.png)
 
 
 
