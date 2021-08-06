@@ -16,7 +16,7 @@ What does a collection look like on IBM Technology Zone?
 See on this collection that there are resources to help the end user get started with one of the following environments, like the setup guide for the VMWare Cloud adoption lab. 
 
 **NOTE:** Collections can be customized to look more complex than this one. For example, collections with journeys.
-Read the [Introduction to Journeys](CHANGE) runbook to see how owners/authors can drive a specific learning journey with their collections by ordering resources and environments into tabs that we call journeys.
+Read the [Introduction to Journeys](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/intro-collection-journey.md) runbook to see how owners/authors can drive a specific learning journey with their collections by ordering resources and environments into tabs that we call journeys.
 
 * A collection can encompass resources, environments, and journeys. It can be as complex or as simple as the owner/author deems fit to make the collection based on the experience they intend to drive to the consumer of their content. 
 
