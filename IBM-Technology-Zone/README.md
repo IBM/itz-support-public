@@ -35,7 +35,7 @@
 
 ## Cloud Paks on ROKS
 
-[How to change CP4D SSL self-signed certificates to Valid Let's Encrypt on ROKS]()  :white_check_mark:
+[How to change CP4D SSL self-signed certificates to Valid Let's Encrypt on ROKS](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/cp4d-certs.md)  :white_check_mark:
 
 [How to change CP4I SSL self-signed certificate to Valid Let's Encrypt on ROKS]()  :white_check_mark:
 
