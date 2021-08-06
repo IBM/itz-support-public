@@ -30,7 +30,15 @@
 
 [How to Report ROKS Issues](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/roks-must-gather.md)  :white_check_mark:    
 
-[IAM Fix](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/iam-fix.md)  :white_check_mark:
+[Users Don't See Cluster After Invite(IAM Fix)](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/iam-fix.md)  :white_check_mark:
+
+
+## Cloud Paks on ROKS
+
+[How to change CP4D SSL self-signed certificates to Valid Let's Encrypt on ROKS]()  :white_check_mark:
+
+[How to change CP4I SSL self-signed certificate to Valid Let's Encrypt on ROKS]()  :white_check_mark:
+
 
 ## Content Contribution
 
