@@ -1,4 +1,4 @@
-# Resource type definitions
+# Resource Type Definitions
 
 This runbook will explain each resource type option that content owners can share to a collection and additionally provide insight to consumers of content on how to find a specific resource type on IBM Technology Zone. 
 
