@@ -1,6 +1,15 @@
-# How to Create a Power Systems, IBM z, and Storage Spectrum Environment
+# How to Create an Environment that Redirects to Another Portal(Power Systems, IBM z, and Storage Spectrum Environment)
 
-These steps will walk you through how to catalog an environment on a collection for Power Systems, IBM Z, and Storage Spectrum.
+Today there are multiple infrastructure portals that we are working with to consolidate to IBM Technology Zone. 
+
+The following are all infrastructure options that will let you redirect to other portals as an environment catalog entry today.
+- Power Systems
+- IBM Z
+- Storage/Spectrum
+- VMWare Private Cloud TEC EMEA
+- Hosted redirect.
+
+If you have another portal or infrastructure that you would like to redirect to and have a new label, please create an [enhancement request](https://ibm.biz/techzone-enhancements) in Aha with the name of your new infrastructure. Additionally provide your business justification and the user base this would support. 
 
 ## Catalog the environment
 
