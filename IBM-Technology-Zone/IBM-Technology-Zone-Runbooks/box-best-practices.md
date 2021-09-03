@@ -49,4 +49,4 @@ Learn best practices when sharing a box link as a resource on your collection.
 
 For any questions, contact DTE support.
 
-IBMers - Make a post on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
