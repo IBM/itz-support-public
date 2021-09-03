@@ -1,4 +1,4 @@
-# How to create a journey
+# How to Create a Journey
 
 Reference the [Introduction to journeys runbook](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/intro-collection-journey.md) to learn more about what a journey is and how to find them on a collection. 
 
