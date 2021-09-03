@@ -26,7 +26,7 @@ Reference the [How to edit your collectiom runbook](https://github.com/IBM/dte-s
 
 **BOX Warning:** Please read through the [Resource Box link best practices runbook](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/box-best-practices.md) to ensure that your Box url is accessible to the the intended visibility user level (Business Partners or IBMr).
 
-**GitHub Warning:** (best practices coming soon)
+**GitHub Warning:** Please read through the [Github Runbook Best Practices Runbook](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/github-runbook-best-practices.md) to ensure that your Github Rnbook is accessible.
 
 **Seismic Warning:** (best practices coming soon)
 
@@ -66,4 +66,4 @@ For any questions, contact DTE support.
 
 Business Partners - Contact DTE Support - dte@us.ibm.com
 
-IBMers - Make a post on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
