@@ -13,7 +13,7 @@
 * Option 1: Click the collection tile iteself to open the collection
 ![Select collection](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/select%20collection%20from%20my%20created%20resources%20page.png)
 
-* Option 2: Click the collection ellipsis and select View
+* Option 2: Click the collection ellipsis and select View  
 ![collection ellipsis view](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection-ellipsis-view.png)
 
 4. From the view collection page, select the **Edit** button located in the top right of the collection banner. 
@@ -36,4 +36,4 @@ For any questions, contact DTE support.
 
 Business Partners - Contact DTE Support - dte@us.ibm.com
 
-IBMers - Make a post on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
