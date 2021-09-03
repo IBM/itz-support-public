@@ -58,9 +58,7 @@
 
 [Defining a Custom Published Service](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Custom_Published_Service_details.md)  :white_check_mark:  
 
-[Collection Metrics](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/collection-metrics.md)  :white_check_mark:  
-
-[IBM Product taxonomy](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/product-taxonomy.md)  :white_check_mark: 
+[Collection Metrics](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/collection-metrics.md)  :white_check_mark: 
 
 [Github Runbook Best Practices](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/github-runbook-best-practices.md)  :white_check_mark: 
 
