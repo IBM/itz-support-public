@@ -44,6 +44,8 @@
 
 [Introduction to Collections](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/intro-to-collections.md)  :white_check_mark:
 
+[Create a Collection](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/create-collection.md)  :white_check_mark:
+
 [Introduction to Journeys](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/intro-collection-journey.md)  :white_check_mark:
 
 [Upgrade Resource to a Collection](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/upgrade-resource-to-collection.md)  :white_check_mark:  
