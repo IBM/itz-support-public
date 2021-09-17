@@ -6,7 +6,7 @@ Business Partner and IBM Accessible - https://github.com/IBM/dte-support-public
 
 IBMer Only - https://github.ibm.com/dte-support/public
 
-When using a Runbook as an additional Resource for your Collection, be sure to use the correct Repo. If your Collection is avaiable to BPs and IBMers, use https://github.com/IBM/dte-support-public. If your Collection is only available to IBMers, use https://github.ibm.com/dte-support/public.
+When using a Runbook as an additional Resource for your Collection, be sure to use the correct Repo. If your Collection is available to BPs and IBMers, use https://github.com/IBM/dte-support-public. If your Collection is only available to IBMers, use https://github.ibm.com/dte-support/public.
 
 Linking directly to a specific Runbook can be done like this https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer_environment.md. Clicking that link takes the user directly to the Runbook with instructions on how to resolve their issue.
 
