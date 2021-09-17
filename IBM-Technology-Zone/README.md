@@ -70,7 +70,9 @@
 
 [Collection Metrics](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/collection-metrics.md)  :white_check_mark: 
 
-[Github Runbook Best Practices](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/github-runbook-best-practices.md)  :white_check_mark: 
+[Github Repository as a Resource Best Practices](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/git-repo-best-practices.md)  :white_check_mark: 
+
+[ITZ Github Runbook Best Practices](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/github-runbook-best-practices.md)  :white_check_mark: 
 
 ## Content
 
