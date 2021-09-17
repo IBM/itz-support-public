@@ -61,8 +61,7 @@
 [Introduction to Journeys](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/intro-collection-journey.md)  :white_check_mark:
 
 [How to Create a Journey](https://github.com/IBM/dte-support-public/edit/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/journey-creation-process.md)  :white_check_mark:
-
-[How to Contribute Platinum Level Content](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/platinum-content.md)  :white_check_mark:  
+ 
 
 [Home Page Content Sections](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/new-home-page.md)  :white_check_mark:  
 
