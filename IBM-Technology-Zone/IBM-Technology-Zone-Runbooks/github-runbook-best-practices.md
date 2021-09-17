@@ -1,4 +1,4 @@
-# Github Runbook Best Practices
+# ITZ Github Runbook Best Practices
 
 DTE Support has 2 Github Repos available for Runbooks.
 
@@ -16,8 +16,8 @@ For help creating a new Runbook, or uploading a Runbook to one of these Repos, c
 
 ### Support
 
-For any questions, contact DTE support.
+For any questions, contact ITZ support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact ITZ Support - dte@us.ibm.com
 
-IBMers - Make a post on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
