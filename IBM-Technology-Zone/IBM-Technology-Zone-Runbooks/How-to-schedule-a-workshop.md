@@ -10,7 +10,7 @@ Currently only Infrastructure "Skytap" can be scheduled on Workshop Manager
 
 3. Filter for the desired Infrastructure example "Skytap"
 
-![Workshop-infrastructuure](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Images/Workshop-infrastructuure.png)
+![Workshop-infrastructure](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-infrastructuure.png)
 
 4. Find the environment you would like to use for your workshop and click on the "reserve" icon
 
@@ -18,7 +18,7 @@ Currently only Infrastructure "Skytap" can be scheduled on Workshop Manager
 
 5. Select "schedule a workshop"
 
-![workshop-create](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Images/workshop-create.png)
+![workshop-create](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/workshop-create.png)
 
 You will be taken to the "Request a workshop" page. 
 
