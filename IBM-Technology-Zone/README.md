@@ -20,6 +20,11 @@
 
 [Not a Production Template](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/not-a-production-template.md)  :white_check_mark: 
 
+
+## GDPR
+
+[GDPR Guidelines and Features](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/gdpr-runbook.md)  :white_check_mark: 
+
 ## Reservations
 
 [How to Extend a Reservation](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-a-reservation.md)  :white_check_mark: 
