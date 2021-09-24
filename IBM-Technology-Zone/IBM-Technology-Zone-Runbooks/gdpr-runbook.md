@@ -1,4 +1,4 @@
-# GDPR guidelines and features
+# GDPR Guidelines and Features
 
 IBM Technology Zone is algined with IBM GDPR standards and have created this page to properly capture your sign off on the data that we capture from you logging in and using the site.
 
