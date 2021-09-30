@@ -51,8 +51,8 @@ Visit the IBM Technology Zone [Onboarding collection](https://ibm.biz/techzone-o
 
 ### Support
 
-For any questions, contact DTE support.
+For any questions, contact ITZ support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact ITZ Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-techzone.slack.com/archives/C0124J683GW) slack channel.
