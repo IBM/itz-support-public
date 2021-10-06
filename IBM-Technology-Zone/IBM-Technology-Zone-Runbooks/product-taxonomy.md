@@ -28,6 +28,18 @@ Reference the following taxonomy breakout:
 ![Identify the UT](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Identify%20the%20UT.png)
 
 
+## Effective Unified Taxonomy (UT) overall mapping as of today
+
+See all taxonomy levels available today from Federate Catalog [here](https://prodfedcat001.w3-969.ibm.com:9201/ut_hierarchy.html).
+
+Ensure both 'Exclude' options are both selected, as these will remove finance records that are not relevent.
+
+![exclude](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/exclude%20fields.png)
+
+Additionally review the Level 10 and Level 15 options as needed to find the offering you are looking for and the true taxonomy behind the scenes. 
+
+![mapping overview](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/overview%20taxonomy.png)
+
 ## How to catalog the correct taxonomy for your collection on IBM Technology Zone
 
 Based on the example above, for the IBM Products field, start typing in the product name that this collection is related to. A drop-down list will display once you are finished typing with results to choose from. Select the best product match from the list. 
