@@ -53,6 +53,6 @@ Visit the IBM Technology Zone [Onboarding collection](https://ibm.biz/techzone-o
 
 For any questions, contact ITZ support.
 
-Business Partners - Contact ITZ Support - itz@us.ibm.com
+Business Partners - Contact ITZ Support - techzone.help@ibm.com
 
 IBMers - Make a post on the [#itz-techzone-support](https://ibm-techzone.slack.com/archives/C0124J683GW) slack channel.
