@@ -75,12 +75,11 @@ Wait for the Journey saved notification to display before continueing to next st
 Select the view tab at the top right hand corner of the edit collection form. If your new collection is not displaying yet, refresh your page a few times or wait a few minutes for your changes to update through the cached layer. 
 
 
-
 ### Support
 
-For any questions, contact DTE support.
+For any questions, contact ITZ support.
 
-Business Partners - Contact DTE Support - itz@us.ibm.com
+Business Partners - Contact ITZ Support - techzone.help@ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
 
