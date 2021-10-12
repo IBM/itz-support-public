@@ -25,8 +25,4 @@ Provide this information to support team if you are having issues with any envir
 
 ### Support
 
-For any questions, contact DTE support.
-
-Business Partners - Contact DTE Support - dte@us.ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+All inquiries and Support for Workshop Manager use slack channel [#itz-workshop-support](https://ibm-techzone.slack.com/archives/CTA2MV9AM)
