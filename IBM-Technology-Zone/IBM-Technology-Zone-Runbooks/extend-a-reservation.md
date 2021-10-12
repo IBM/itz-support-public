@@ -3,16 +3,16 @@
 1. Log in to the portal using your IBM id
 2. Go to "My Library" and click on "My reservations"
 
-![my reservation AssetRepo](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/My%20reservations.png)
+![my reservation](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/My%20reservations.png)
 
 3. From the list of your reservation - find the reservation that requires an extension
 4. Click on the 3 vertical dots, "Extend" NOTE: if "extend" is greyed out, see note below
 
-![3dot AssetRepo](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/3dots.png)
+![3dot](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/3dots.png)
 
 5. Select new date and time and click extend
 
-![My extend AssetRepo](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/My%20extend.png)
+![My extend](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/My%20extend.png)
 
 Your reservation will automatically be extended till the new date and time selected. One week increments ONLY
 
