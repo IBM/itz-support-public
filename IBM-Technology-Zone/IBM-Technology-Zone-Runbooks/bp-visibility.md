@@ -34,11 +34,21 @@ Navigating the resources on a collection to see visibility level can be identifi
 
 ![resource visibility level on a collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resourcelevelvisibility.png)
 
+## How to request a collection be made Business Partner accessible
+
+A collection and the resource visibility levels are defined by the content owner and collaborators. 
+
+To inquire about a collection that is only IBMr visibible today, contact the owners by clicking the collection and scrolling down to the 'Authors' section.
+
+![author section](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/authorssection.png)
+
 
 ### Support
 
-For any questions, contact DTE support.
+For any questions, contact ITZ support.
 
-Business Partners - Contact DTE Support - itz@us.ibm.com
+Business Partners - Contact ITZ Support - techzone.help@ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+
+
