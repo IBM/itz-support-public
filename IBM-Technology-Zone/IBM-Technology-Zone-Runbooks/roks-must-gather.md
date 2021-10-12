@@ -15,6 +15,6 @@ The following information is needed to assist you with your ROKS cluster issue. 
     * user name/id if the issue is related to acess 
 
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.

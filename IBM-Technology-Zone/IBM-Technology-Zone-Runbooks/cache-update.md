@@ -10,11 +10,11 @@ IBM Technology Zone has a cache layer that will take time to display changes and
 
 3. Select the Cache update option.
 
-![cache update](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/cacheupdate.png)
+![cache update](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/cacheupdate.png)
 
 4. Wait for the job to run. 
 
-![Cache Buster](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/cache%20buster.png)
+![Cache Buster](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/cache%20buster.png)
 
 5. Once the job runs it will exit the Cache buster page or you can select done. 
 
@@ -24,9 +24,9 @@ IBM Technology Zone has a cache layer that will take time to display changes and
 
 For any questions, contact DTE support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.
 
 
 

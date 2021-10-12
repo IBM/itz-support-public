@@ -2,11 +2,11 @@
 
 As a user on the site, you would like to add an environment catalog entry to your collection in order for other to leverage and reserve on IBM Technology Zone.
 
-![Onboard template process flow](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/onboard%20template%20process%20flow.png)
+![Onboard template process flow](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/onboard%20template%20process%20flow.png)
 
 Step by step walk though with more detail provided below: 
 
-1. Request to onboard a template through the [custom request](https://ibm.biz/dte-environment-requests) portal. 
+1. Request to onboard a template through the [custom request](https://ibm.biz/itz-environment-requests) portal. 
 Additional documentation on process and support along the way can be found [here](https://ibm.box.com/s/i898k8fjrcabnpbj01p6aka78mvc8fhf). 
 
 2. After approval, ensure that you have created a collection for this environment to be cataloged on. 
@@ -14,7 +14,7 @@ Visit the IBM Technology Zone [Onboarding collection](https://ibm.biz/techzone-o
 
 3. Click the 'Add an environment' button on your collection.
 
-![Add an environment](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/add%20an%20environment.png)
+![Add an environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/add%20an%20environment.png)
 
 4. Provide an intuitive title for this environment and select the correct infrastructure you are onboarding a template for. 
 
@@ -25,11 +25,11 @@ Visit the IBM Technology Zone [Onboarding collection](https://ibm.biz/techzone-o
 - **IMPORTANT TO NOTE:** Title and description are the only two required fields at this time to create the environment catalog entry.  
 - Example of filled in Skytap title and description environment catalog entry. 
 
-![title and description](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/skytaptitledescriptionexample.png)
+![title and description](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/skytaptitledescriptionexample.png)
 
 7. Disregard these fields at this time, as this will be information that the IBM Technology Zone support team will support filling in on this environment catalog entry you are creating. Please proceed to the next step.
 
-![support fields](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/support-skytap-entry.png)
+![support fields](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/support-skytap-entry.png)
 
 8. Ensure to select the appropriate visibility level. 
 

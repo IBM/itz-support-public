@@ -9,14 +9,14 @@ What does a collection look like on IBM Technology Zone?
 * Here is an example of a simple collection: [Custom ROKS & VMWare requests](https://techzone.ibm.com/collection/custom-roks-vm-ware-requests)
 
 
-![collection overview](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection%20overview.png)
+![collection overview](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection%20overview.png)
 
-![Collection overview 2](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collections-overview-2.png)
+![Collection overview 2](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collections-overview-2.png)
 
 See on this collection that there are resources to help the end user get started with one of the following environments, like the setup guide for the VMWare Cloud adoption lab. 
 
 **NOTE:** Collections can be customized to look more complex than this one. For example, collections with journeys.
-Read the [Introduction to Journeys](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/intro-collection-journey.md) runbook to see how owners/authors can drive a specific learning journey with their collections by ordering resources and environments into tabs that we call journeys.
+Read the [Introduction to Journeys](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/intro-collection-journey.md) runbook to see how owners/authors can drive a specific learning journey with their collections by ordering resources and environments into tabs that we call journeys.
 
 * A collection can encompass resources, environments, and journeys. It can be as complex or as simple as the owner/author deems fit to make the collection based on the experience they intend to drive to the consumer of their content. 
 
@@ -26,7 +26,7 @@ Here is an example of multiple nested collections on this main collection: [Clou
 
 **NOTE:** The box icon represents that this resource is of type collection. Hover over the box to see the type for yourself.
 
-![Collection nested example](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection%20nested%20example.png)
+![Collection nested example](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection%20nested%20example.png)
 
 
 
@@ -36,6 +36,6 @@ Here is an example of multiple nested collections on this main collection: [Clou
 
 For any questions, contact DTE support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.

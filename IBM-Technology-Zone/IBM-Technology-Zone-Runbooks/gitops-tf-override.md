@@ -18,7 +18,7 @@ Once your pattern is onboarded, you can create a new environment from it.
 8. If you need to customize the pattern configuration, add variables from drop-down list in `Terraform Variables Overriding` section. The drop-down list will be auto populated with all variables from Terraform *.tf config files which are available for changings. It will show name, description, type, and default value of the selected variable.
 9. Click `Save`
 
-![GitOps environment](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/gitops-env.png)
+![GitOps environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/gitops-env.png)
 
 
 
@@ -29,6 +29,6 @@ Once your pattern is onboarded, you can create a new environment from it.
 
 For any questions, contact DTE support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.

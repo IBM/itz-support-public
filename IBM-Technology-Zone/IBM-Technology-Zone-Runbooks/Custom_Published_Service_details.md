@@ -20,7 +20,7 @@ Defined Port
 
 
 Link Pattern and Template example  
-![Defined port IBM Technology Zone](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Defined-port-techzone.png)  
+![Defined port IBM Technology Zone](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Defined-port-techzone.png)  
 
 Email output received   
-![Defined port email](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Defined-port-email.png)  
+![Defined port email](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Defined-port-email.png)  

@@ -9,7 +9,7 @@
 ([Swagger](https://assetrepo-staging-accounting.dal1a.ciocloud.nonprod.intranet.ibm.com/swagger))
 
 **GitHub**
-[https://github.ibm.com/dte/accounting](https://github.ibm.com/dte/accounting)
+[https://github.ibm.com/itz/accounting](https://github.ibm.com/itz/accounting)
 
 ---
 
@@ -366,4 +366,4 @@ Note: Make sure to include access_token=[YOUR_ACCESS_TOKEN] in the url query str
 
 ### Architecture
 
-![](https://raw.github.ibm.com/dte/accounting/master/data/accounting.png?token=AAAC3W3EKH6XEYJUWLQWTS3ASVVRC)
+![](https://raw.github.ibm.com/itz/accounting/master/data/accounting.png?token=AAAC3W3EKH6XEYJUWLQWTS3ASVVRC)

@@ -4,7 +4,7 @@ Please review the following infographic and keep reading for additional context.
 
 > **NOTICE:** All infrastructure options durations are dependent on the pupose selected.
 
-![Reservationdurationinfographic](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservationdurationpolicyimage.png)
+![Reservationdurationinfographic](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservationdurationpolicyimage.png)
 
 
 
@@ -71,7 +71,7 @@ Exceptions:
 
 For any questions, contact DTE support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.
 

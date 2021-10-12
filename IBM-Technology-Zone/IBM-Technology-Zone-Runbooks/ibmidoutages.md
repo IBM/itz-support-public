@@ -18,4 +18,4 @@ Contact the IBMid helpdesk for support: https://www.ibm.com/ibmid/myibm/help/us/
 
 Additional resource for IBMers to contact IBMid support team on slack: https://ibm-cio.slack.com/archives/C0MBSS9SA
 
-![ibmidoutage](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmidhelpdesk.png)
+![ibmidoutage](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmidhelpdesk.png)

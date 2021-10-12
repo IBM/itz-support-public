@@ -17,11 +17,11 @@ Getting started:
 
 2. To download all collections data live on the site today, select the download icon to the right of the search bar
 
-![download icon](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Screen%20Shot%202021-09-23%20at%205.29.32%20PM.png)
+![download icon](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Screen%20Shot%202021-09-23%20at%205.29.32%20PM.png)
 
 3. Select the text box to customize the name of your report 
 
-![customize report name](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/customize%20report%20name.png)
+![customize report name](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/customize%20report%20name.png)
 
 4. Click the export format option: CSV or JSON 
 
@@ -32,7 +32,7 @@ Additionally, add filters to your search to narrow the collection metadata that 
 
 Simply add your filters: in this example I filtered Visibility:Business Partner collections and with the Brand: AI Applications. 
 
-![filtered export](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/filtered-export.png)
+![filtered export](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/filtered-export.png)
 
 See 43 total collections display with this filtered set. Selecting the download icon will download the data set based of your filtered set. 
 
@@ -42,6 +42,6 @@ runbook support copy pase
 
 For any questions, contact DTE support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.

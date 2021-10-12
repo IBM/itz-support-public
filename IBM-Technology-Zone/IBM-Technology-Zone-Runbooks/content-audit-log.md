@@ -9,21 +9,21 @@ Disclaimer: If you are not the author or a collaborator of the collection, then 
 
 2. Select the ellipsis menu option to the right of the 'Edit' button in the top banner of your collection.
 
-![ellipsis on collection option](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ellipsis%20icon%20on%20collection.png)
+![ellipsis on collection option](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ellipsis%20icon%20on%20collection.png)
 
 3. Select the 'Audit' option.
 
-![audit option](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Audit%20feature.png)
+![audit option](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Audit%20feature.png)
 
 4. Select a line item in the Audit Log modal that displays. 
 
-![audit log flag example](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/audit%20flag%20update.png)
+![audit log flag example](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/audit%20flag%20update.png)
 
 See in this example above that username: brooke.jones@ibm.com added an 'Activation kit' contributor flag.
 
 5. Additionally, selecting another line item, we see that there was another update to the description field on August 27th at 4:54pm.
 
-![description update](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/audit%20log%20example%202.png)
+![description update](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/audit%20log%20example%202.png)
 
 Please note, that the 'Unknown' most likely can be tied to the last username that made an update to the collection. Meaning brooke.jones@ibm.com was the associated update that followed in the screenshot shown above for the 'Unknown' update.
 

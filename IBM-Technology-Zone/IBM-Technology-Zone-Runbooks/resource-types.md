@@ -6,7 +6,7 @@ This runbook will explain each resource type option that content owners can shar
 
 Below are the resource types available to associate on your collection today based on the resource agenda above:
 
-![Resource type definitions](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resource%20type%20definitions.png)
+![Resource type definitions](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resource%20type%20definitions.png)
 
 Example 1: A video that walks through the hands-on demonstration is an acceptable resource to share on your collection.
 
@@ -18,6 +18,6 @@ Example 3: A tutorial that is a step by step guide walking through a certain use
 
 For any questions, contact DTE support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.

@@ -5,18 +5,18 @@ Use cases related to 'Reservations' metrics not displaying the 'Reservations' op
 
 ## **FAQ 1: Why doesn't the 'Reservations' option display on my collection options list?**
 
-![reservations option mission](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservations%20not%20displaying.png)
+![reservations option mission](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservations%20not%20displaying.png)
 
 Answer: 'Reservations' option will only display if there is an environment catalogued on your collection. 
 
 Steps to check:
 1. Select the collection edit button
 
-![edit collection button](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/edit%20collection%20button.png)
+![edit collection button](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/edit%20collection%20button.png)
 
 2. Scroll down to the Environments section to see if there are any environments catalogued on this collection. 
 
-![add an environment](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/add%20an%20environment.png)
+![add an environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/add%20an%20environment.png)
 
 3. Next steps...
 
@@ -28,22 +28,22 @@ Steps to check:
 
 ## **FAQ 2: Why are no reservation metrics displaying after selecting the 'Reservations' option?**
 
-![Reservation metrics not available](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservation%20metrics%20not%20available%20message.png)
+![Reservation metrics not available](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservation%20metrics%20not%20available%20message.png)
 
 Answer: Reservation metrics are captured from environments that are catalogued on a collection and the provisioning pipeline has to be one that IBM Technology Zone team currently supports. If you have an environment catalogued on your collection that is of infrastructure type: VMware Private Cloud (TEC EMEA), Systems Redirect, or Hosted Redirect then please note that these environment options are merely a redirect to another site where then the reservation is to be provisioned from. As we consolidate additional environments from CECC, ISCEP, SCS, TEC EMEA, and more these metrics will start to display on your collections once they are reserved directly from an IBM Technology Zone collection. 
 
 Steps to check:
 1. Select the collection edit button
 
-![edit collection button](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/edit%20collection%20button.png)
+![edit collection button](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/edit%20collection%20button.png)
 
 2. Scroll down to the Environments section
 
-![add an environment](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/add%20an%20environment.png)
+![add an environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/add%20an%20environment.png)
 
 3. Select an Environment to see the 'Infrastructure' field. 
 
-![infrastructure type](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Infrastructure%20type.png)
+![infrastructure type](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Infrastructure%20type.png)
 
 **IMPORTANT: As stated above, Infrastructure types that are currently setup as redirects will not display reservation metrics.** 
 

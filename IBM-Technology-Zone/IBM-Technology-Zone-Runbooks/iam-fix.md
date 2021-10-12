@@ -9,9 +9,9 @@ ibmcloud login --sso
 
 2. Select the problem account.
 
-3. Switch to `dteroks` resource group.
+3. Switch to `itzroks` resource group.
 ```
-ibmcloud target -g dteroks
+ibmcloud target -g itzroks
 ```
 
 4. List clusters:
@@ -25,6 +25,6 @@ Done. User should see his/her cluster in CLI and Web.
 
 For any questions, contact DTE support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#dte-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.

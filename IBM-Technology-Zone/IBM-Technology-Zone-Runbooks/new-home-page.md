@@ -5,7 +5,7 @@ Q: How do I get content on each of these sections as a contributor of content to
 
 ## What are the sections on home page? 
 
-![new home page tabs](https://github.com/IBM/dte-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/homepagetabsnew.png)
+![new home page tabs](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/homepagetabsnew.png)
 
 * [Technology decision points](https://techzone.ibm.com/decisionpoints) - Reference [Technology decisions points runbook on Seismic](https://ibm.seismic.com/app?ContentId=6fff78a4-d544-41c7-b33c-2e5bd2cceba9) to learn more about what TDPs are. Also, note that TDPs are only aligned with Platinum level collections today. 
 
@@ -23,6 +23,6 @@ Q: How do I get content on each of these sections as a contributor of content to
 
 For any questions, contact DTE support.
 
-Business Partners - Contact DTE Support - dte@us.ibm.com
+Business Partners - Contact DTE Support - itz@us.ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.
