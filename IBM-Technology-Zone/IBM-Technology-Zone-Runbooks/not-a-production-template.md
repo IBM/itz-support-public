@@ -4,10 +4,12 @@
 
 Cause: template associated with asset/collection has not been onboarded.
 
-Resolution:
+Resolution: Contact ITZ support
 
-Verify the status of the Asset with DTE Support
+### Support
 
-Business Partners - Contact DTE Support - itz@us.ibm.com
+For any questions, contact ITZ support.
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel, include links to the IBM Technology Zone page you encounted the issue on, and screenshots(if applicable).
+Business Partners - Contact ITZ Support - techzone.help@ibm.com
+
+IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
