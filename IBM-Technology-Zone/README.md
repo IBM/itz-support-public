@@ -38,15 +38,25 @@
 ## Infrastructure
 
 [IBM Cloud]()
+
 [Managed Openshift(ROKS)]()
+
 [Fyre]()
+
 [VMware Private Cloud(Cloud Lab)]()
+
 [VMware Private Cloud(TEC EMEA)]()
+
 [Skytap]()
+
 [Hosted]()
+
 [Hosted redirect]()
+
 [Systems redirect]()
+
 [AWS]()
+
 [Azure]()
 
 ## ROKS
