@@ -4,7 +4,7 @@ Once you submit an environment request your screen will now tell you if your res
 
 Note: If you chose the "Schedule for later" option, you will receive the email close to your scheduled date, not at the time of hitting submit.
 
-![fyrethankyou](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/fyrethankyou.png)
+![fyrethankyou](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/fyrethankyou.png)
 
 NOTE: Documentation for an environment can be found in Collections. Click "related collection" this contains the resource information. 
 
@@ -12,20 +12,20 @@ Reservation emails include important details like username/passwords, guides, su
 
 The reservation email looks like below, additional email is sent once the Environment is ready with access detail.
 
-![fyreemail](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/Fyreemail.png)
+![fyreemail](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Fyreemail.png)
 
 
 
-![fyrereadymail](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/fyrereadymail.png)
+![fyrereadymail](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/fyrereadymail.png)
 
 
 From ["My reservation page"](https://techzone.ibm.com/my/reservations) you can find the status of the environment. Once your environment is ready for use the status is updated to "Ready".
 
-![fyrescheduled](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/Fyrescheduled.png)
+![fyrescheduled](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Fyrescheduled.png)
 
-![fyreprovisioning](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/fyreprovisioning.png)
+![fyreprovisioning](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/fyreprovisioning.png)
 
-![fyreready](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/fyreready.png)
+![fyreready](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/fyreready.png)
 
 Clicking on ellispe/ 3 dots, you find additional options for the environments. NOTE: list will vary based on infrastructure selected
 
@@ -37,7 +37,7 @@ Clicking on ellispe/ 3 dots, you find additional options for the environments. N
 
 Example Environment detail
 
-![fyrereservationdetails](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/fyrereservationdetail.png)
+![fyrereservationdetails](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/fyrereservationdetail.png)
 
 
 For any issues with the environment check the documentation in the resources first.
