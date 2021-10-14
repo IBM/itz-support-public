@@ -4,7 +4,7 @@ Once you submit an environment request your screen will now tell you if your res
 
 Note: If you chose the "Schedule for later" option, you will receive the email close to your scheduled date, not at the time of hitting submit.
 
-![ROKSthankyou](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/ROKSthankyou.png)
+![ROKSthankyou](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ROKSthankyou.png)
 
 NOTE: documentation for an environment can be found in Collections. Click "related collection" this contains the resource information. 
 
@@ -12,14 +12,14 @@ Reservation emails include important details like username/passwords, guides, su
 
 The reservation email looks like below, additional email is sent once the Environment is ready with access detail.
 
-![ROKSprovisioningemail](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/ROKSprovisioningemail.png)
+![ROKSprovisioningemail](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ROKSprovisioningemail.png)
 
 
 From ["My reservation page"](https://techzone.ibm.com/my/reservations) you can find the status of the environment. Once your environment is ready for use the status is updated to "Ready".
 
-![ROKSprovisioning](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/ROKSprovisioning.png)
+![ROKSprovisioning](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ROKSprovisioning.png)
 
-![ROKSready](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/ROKSready.png)
+![ROKSready](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ROKSready.png)
 
 Clicking on ellispe/ 3 dots, you find additional options for the environments. NOTE: list will vary based on infrastructure selected 
 
@@ -31,7 +31,7 @@ Clicking on ellispe/ 3 dots, you find additional options for the environments. N
 
 Example environment detail
 
-![ROKSreservationdetail](https://github.ibm.com/dte-support/private/blob/master/IBM%20Technololgy%20Zone/IBM-Technology-Zone-Runbooks/Images/ROKSreservationdetail.png)
+![ROKSreservationdetail](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ROKSreservationdetail.png)
 
 ## Support
 
