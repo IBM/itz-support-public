@@ -35,6 +35,20 @@
 
 [How to Share a ROKS Environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/share_environment.md)  :white_check_mark:
 
+## Infrastructure
+
+[IBM Cloud]()
+[Managed Openshift(ROKS)]()
+[Fyre]()
+[VMware Private Cloud(Cloud Lab)]()
+[VMware Private Cloud(TEC EMEA)]()
+[Skytap]()
+[Hosted]()
+[Hosted redirect]()
+[Systems redirect]()
+[AWS]()
+[Azure]()
+
 ## ROKS
 
 [How to Report ROKS Issues](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/roks-must-gather.md)  :white_check_mark:    
