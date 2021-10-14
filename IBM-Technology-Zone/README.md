@@ -39,17 +39,17 @@
 
 [IBM Cloud]()
 
-[Managed Openshift(ROKS)]()
+[Managed Openshift(ROKS)](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ManagedOpenShift(ROKS)reserved.md)
 
-[Fyre]()
+[Fyre](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/fyrereserved.md)
 
 [VMware Private Cloud(Cloud Lab)]()
 
 [VMware Private Cloud(TEC EMEA)]()
 
-[Skytap]()
+[Skytap](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-reserved.md)
 
-[Hosted]()
+[Hosted](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Hosted.md)
 
 [Hosted redirect]()
 
