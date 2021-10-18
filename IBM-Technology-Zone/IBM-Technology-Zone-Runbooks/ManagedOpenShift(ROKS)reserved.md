@@ -14,7 +14,9 @@ The reservation email looks like below, additional email is sent once the Enviro
 
 ![ROKSprovisioningemail](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ROKSprovisioningemail.png)
 
-Kindly note you will be sent a separate email for an invite to ITZ IBM Cloud account.
+Kindly note: a new user will be sent a separate email for an invite to IBM Cloud account.
+
+![IBMCloudInvite](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/IBMCloudInvite.png)
 
 From ["My reservation page"](https://techzone.ibm.com/my/reservations) you can find the status of the environment. Once your environment is ready for use the status is updated to "Ready".
 
