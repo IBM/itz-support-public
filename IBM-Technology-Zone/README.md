@@ -27,6 +27,8 @@
 
 ## Reservations
 
+[Valid Opportunity Codes to Input on Reservation Form](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md)  :white_check_mark: 
+
 [How to Extend a Reservation](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-a-reservation.md)  :white_check_mark: 
 
 [How to Transfer a Reservation](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer_environment.md)  :white_check_mark: 
