@@ -39,27 +39,27 @@
 
 ## Infrastructure
 
-[IBM Cloud]()
+[Coming Soon - IBM Cloud]()
 
-[Managed Openshift(ROKS)](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ManagedOpenShift(ROKS)reserved.md)
+[Managed Openshift(ROKS)](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ManagedOpenShift(ROKS)reserved.md)  :white_check_mark:  
 
-[Fyre](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/fyrereserved.md)
+[Fyre](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/fyrereserved.md)  :white_check_mark:  
 
-[VMware Private Cloud(Cloud Lab)]()
+[Coming Soon - VMware Private Cloud(Cloud Lab)]()
 
-[VMware Private Cloud(TEC EMEA)]()
+[Coming Soon - VMware Private Cloud(TEC EMEA)]()
 
-[Skytap](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-reserved.md)
+[Skytap](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-reserved.md)  :white_check_mark:  
 
-[Hosted](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Hosted.md)
+[Hosted](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Hosted.md)  :white_check_mark:  
 
-[Hosted redirect]()
+[Coming Soon - Hosted redirect]()
 
-[Systems redirect]()
+[Coming Soon - Systems redirect]()
 
-[AWS]()
+[Coming Soon - AWS]()
 
-[Azure]()
+[Coming Soon - Azure]()
 
 ## ROKS
 
