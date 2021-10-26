@@ -1,4 +1,4 @@
-# ITZ YouTube Channel Migration
+# DEPRECIATED - ITZ YouTube Channel Migration
 
 ITZ YouTube channel being shutdown, which issued for a migration of videos to a new Edge owned video storage location.
 
