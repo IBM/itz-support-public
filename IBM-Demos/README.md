@@ -8,4 +8,3 @@
 
 [IBM Demos Hands-On Lab Support](https://github.com/IBM/itz-support-public/blob/main/IBM-Demos/IBM-Demos-Runbooks/ibmdemos-handsonlab-removal-support.md)  :white_check_mark:
 
-[IBM Demos YouTube Video Migration](https://github.com/IBM/itz-support-public/blob/main/IBM-Demos/IBM-Demos-Runbooks/itz-youtube-video-migration.md)  :white_check_mark:
