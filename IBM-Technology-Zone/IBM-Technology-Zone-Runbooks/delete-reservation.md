@@ -1,4 +1,4 @@
-## How to delete a reservation
+## How to Delete a Reservation
 
 1. Log in to the portal using your IBM id
 2. Go to "My Library" and click on "My reservations"
