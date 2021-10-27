@@ -13,5 +13,5 @@
 
 ## Where do I go to request these changes? 
 
-Contact DTE Support - itz@us.ibm.com
+Contact DTE Support - techzone.help@ibm.com
 
