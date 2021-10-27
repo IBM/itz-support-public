@@ -37,6 +37,10 @@
 
 [How to Share a ROKS Environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/share_environment.md)  :white_check_mark:
 
+[How to Delete a Reservation](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/delete-reservation.md)  :white_check_mark:
+
+[How to Upgrade Configurations on my Reserved Environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/upgrade-environment-configuration-requests.md)  :white_check_mark:
+
 ## Infrastructure
 
 [Coming Soon - IBM Cloud]()
@@ -103,6 +107,8 @@
 [Github Repository as a Resource Best Practices](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/git-repo-best-practices.md)  :white_check_mark: 
 
 [ITZ Github Runbook Best Practices](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/github-runbook-best-practices.md)  :white_check_mark: 
+
+[How to Catalog Your Own Environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/catalog-your-environment.md)  :white_check_mark: 
 
 ## Content
 
