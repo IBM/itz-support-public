@@ -1,5 +1,5 @@
 
-# How to upgrade configurations on my reserved environment
+# How to Upgrade Configurations on my Reserved Environment
  
 
 ## What configuration can I request to upgrade?
