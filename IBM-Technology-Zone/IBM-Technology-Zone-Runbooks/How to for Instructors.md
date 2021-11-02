@@ -64,6 +64,8 @@ Click on submit to access the workshop
 
 9. Instructor will receive a workshop complete email. Kindly take a few mintues to take the survey attached in mail sent.
 
+![Workshopcompletemail](Images/workshopcompletemail.png) 
+
 For support and inquiries use the Slack channel #itz-workshop-support
 
 For Feed back click the "Workshop Manager feedback form" from the instructor page
