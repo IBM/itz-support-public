@@ -24,7 +24,7 @@
 
 [How to for Instructors]()
 
-[How to Schedule a Workshop]()
+[How to Schedule a Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md)
 
 [How to Save a Workshop]()
 
