@@ -22,11 +22,11 @@
 
 ## Workshop
 
-[How to for Instructors]()
+[How to for Instructors](IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md)
 
 [How to Schedule a Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md)
 
-[How to Save a Workshop]()
+[How to Save a Workshop](how-to-save-a-workshop.md)
 
 
 ## GDPR
