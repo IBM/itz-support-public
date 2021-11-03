@@ -50,6 +50,9 @@ Instructor view after environments are deployed and assigned/claimed by students
 
 
 8. Once your environments are completely deployed and ready a slack notification is sent to the #itz-workshop-support channel
+9. To view your reservation details make use of the ellipse (3 dots)
+
+![workshop](Images/workshopviewdetails.png)
 
 ## Attendee view 
 
@@ -62,7 +65,7 @@ Click on submit to access the workshop
 
 ![workshopattendeeview](Images/workshopattendeeview.png)
 
-9. Instructor will receive a workshop complete email. Kindly take a few mintues to take the survey attached in mail sent.
+10. Instructor will receive a workshop complete email. Kindly take a few mintues to take the survey attached in mail sent.
 
 ![Workshopcompletemail](Images/workshopcompletemail.png) 
 
