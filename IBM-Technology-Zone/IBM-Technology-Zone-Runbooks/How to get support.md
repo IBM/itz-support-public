@@ -1,9 +1,10 @@
 ## How do I get Support?
 
-1. There are self help guides direcly from the IBM Technology Zone ["Help"](https://techzone.ibm.com/help) page
-2. Fill out the ["Contact us"](https://techzone.ibm.com/help) form
-3. Send a note to techzone.help@ibm.com
-4. Make use of the Ask for Help? This can be found from the resource/collection page by clicking on the Question Mark "?"
+1. Self help guides directly from IBM Technology Zone ["Help"](https://techzone.ibm.com/help) page
+2. Fill the ["Contact us"](https://techzone.ibm.com/help) form
+3. Use the support email "techzone.help@ibm.com"
+4. Slack channel #itz-techzone-support (IBMer ONLY)
+5. Ask for Help? button, this can be found from the resource/collection page by clicking on the Question Mark "?"
 
 ![supportaskforhelp](Images/supportaskforhelp.png)
 
