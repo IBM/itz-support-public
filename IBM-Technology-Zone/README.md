@@ -34,7 +34,7 @@
 
 ## GDPR
 
-[GDPR Guidelines and Features](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/gdpr-runbook.md)  :white_check_mark: 
+[IBMer and BPs - GDPR Guidelines and Features](IBM-Technology-Zone-Runbooks/ibmer-bp-gdpr-runbook.md)  :white_check_mark: 
 
 ## Reservations
 
