@@ -2,6 +2,8 @@
 
 ## Support
 [How do I get support for ITZ](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How%20to%20get%20support.md)
+[Content Support](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ContentSupport.md)
+[Infrastructure Support](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/InfrastructureSupport.md)
 
 ## ITZ Enhancement Requests
 
