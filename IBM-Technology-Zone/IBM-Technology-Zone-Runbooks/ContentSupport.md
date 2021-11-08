@@ -1,6 +1,6 @@
 ## Content Support
 
-Contetn Support for all Collections, resources and environments are handled by the Content Author
+Content Support for all Collections, resources and environments are handled by the Content Author
 
 To report/log a content issue follow steps listed below.
 
