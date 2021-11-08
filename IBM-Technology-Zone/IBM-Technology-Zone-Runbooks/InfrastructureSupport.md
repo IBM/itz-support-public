@@ -16,5 +16,5 @@ Follow steps listed below for Infrastructure support
 ## From the ["Help"](https://techzone.ibm.com/help) page. 
 
 1. Click on ["Help"](https://techzone.ibm.com/help) page on the top on IBM Technology Page. ![helpitz](Images/helpitz.png)
-2. Fill out the form with helpful details (Environment id/url, collection url etc) for your inquiry, click send ![helpform](Images/helpform.png)
+2. Fill out the form on the bottom with helpful details (Environment id/url, collection url etc) for your inquiry, click send ![helpform](Images/helpform.png)
 3. This will open a ticket with the support team and you will receive a Ticket number for your inquiry and a reply within 24 hours
