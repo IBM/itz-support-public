@@ -1,8 +1,8 @@
-# Valid opportunity codes to input on reservation form
+# Valid Opportunity Codes to Input on Reservation Form
 
 This runbook will highligh what opportunity codes are valid and what systems/portals we work with to validate an opportunity code when users are making a reservation from IBM Technology Zone.
 
-**IMPORTANT: We sync new IBM Sales Cloud and Gainsite opportunity codes and relationship IDs every three hours. If you input an opportunity code or relationship ID that was just created in ISC or Gainsite, then please wait approximately three hours for our automated sync to pull new values from each databse.**
+**IMPORTANT: We sync new IBM Sales Cloud and Gainsite opportunity codes and relationship IDs every three hours. If you input an opportunity code or relationship ID that was just created in ISC or Gainsite, then please wait approximately three hours for our automated sync to pull new values from each database.**
 
 Example of Reservation form and the opportunity code field:
 
