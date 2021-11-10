@@ -42,6 +42,8 @@
 
 [IBMer and BPs - GDPR Guidelines and Features](IBM-Technology-Zone-Runbooks/ibmer-bp-gdpr-runbook.md)  :white_check_mark: 
 
+[Clients -GDPR Guidelines and Features](IBM-Technology-Zone-Runbooks/GDPR-client-runbook.md)  :white_check_mark:  
+
 ## Reservations
 
 [Valid Opportunity Codes to Input on Reservation Form](IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md)  :white_check_mark: 
