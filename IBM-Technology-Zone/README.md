@@ -72,7 +72,7 @@
 
 [Coming Soon - VMware Private Cloud(TEC EMEA)]()
 
-[Skytap](Skytap-Runbooks/skytap-reserved.md)  :white_check_mark:  
+[Skytap](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-reserved.md)  :white_check_mark:  
 
 [Hosted](IBM-Technology-Zone-Runbooks/Hosted.md)  :white_check_mark:  
 
