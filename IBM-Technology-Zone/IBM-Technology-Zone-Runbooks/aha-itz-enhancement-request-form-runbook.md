@@ -10,7 +10,7 @@ Please note: This page is not accessible to Business Partners at this time. Plea
 
 2.  Click the 'Add a new request' button 
 
-![IBM Technology Zone new request button](IBM-Technology-Zone-Runbooks/Images/IBM-enhancement-page.png)
+![IBM Technology Zone new request button](Images/IBM-enhancement-page.png)
 
 3. Provide a Summary statement of your request so that we can identify your request quickly when reviewing. 
 
