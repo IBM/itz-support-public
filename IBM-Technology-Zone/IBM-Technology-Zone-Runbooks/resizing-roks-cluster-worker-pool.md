@@ -21,13 +21,13 @@
   - Select worker pools
   - Under the 3-dot menu on the far right of the worker pool, select resize. (See figure below.)
 
-![Worker pool resize](Images/fworker-pool-resize.png)
+![Worker pool resize](Images/worker-pool-resize.png)
 
 - In the worker pool resize dialog that pops up, modify the number of workers/zone. (See figure below.)
   - Usually the Tech Zone clusters are deployed to only 1 zone (to help reduce costs).
   - Note the total number workers.
 
-![Worker pool resize dialog](Images/fworker-pool-resize-dialog.png)
+![Worker pool resize dialog](Images/worker-pool-resize-dialog.png)
 
 - Once you have the number of workers set to the desired value, click on the resize button  to kick off the provisioning.
 
