@@ -6,7 +6,7 @@ Please note: This page is not accessible to Business Partners at this time. Plea
 
 ## DTE Welcomes your feedback
 
-1.  Start by going to the ![DTE Aha Ideas portal](https://ibm.biz/DTE-Enhancements)
+1.  Start by going to the [IBM Technology Zone Enhancements](https://itz-enhancements.ideas.aha.io/portal_session/new) Page
 
 2.  Click the 'Add a new request' button 
 
