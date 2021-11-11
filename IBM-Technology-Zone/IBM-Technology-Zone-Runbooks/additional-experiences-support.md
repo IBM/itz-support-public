@@ -1,4 +1,4 @@
-# Experiences support
+# Experiences Support
 
 Navigate IBM Technology Zone to get additional support specific to Experiences. 
 
