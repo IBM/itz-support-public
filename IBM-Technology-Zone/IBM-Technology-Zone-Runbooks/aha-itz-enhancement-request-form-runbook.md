@@ -10,15 +10,15 @@ Please note: This page is not accessible to Business Partners at this time. Plea
 
 2.  Click the 'Add a new request' button 
 
-![IBM Technology Zone new request button](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/aha-addnewrequest.png)
+![IBM Technology Zone new request button](IBM-Technology-Zone-Runbooks/Images/aha-addnewrequest.png)
 
 3. Provide a Summary statement of your request so that we can identify your request quickly when reviewing. 
 
-![summary statement](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/aha-yourrequest.png)
+![summary statement](Images/aha-yourrequest.png)
 
 4. Please describe your request with more detail:
 
-![Describe your request](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/aha-describerequest.png)
+![Describe your request](Images/aha-describerequest.png)
 
 * Outline clearly the issue today
 * Why is this enhancement or new idea useful
@@ -29,27 +29,25 @@ Please note: This page is not accessible to Business Partners at this time. Plea
 
 5. Provide a contact email so that DTE can contact you after submitting your request for further follow up, information, or plans. 
 
-![Contact Email](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/aha-contactemail.png)
+![Contact Email](Images/aha-contactemail.png)
 
 9. Let us know what organization that you are associated with by selecting your role. If your role is NOT listed then please select Other - Not Listed
 
-![Select role](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ahaform-role.png)
+![Select role](Images/ahaform-role.png)
 
 10.  Choose a timeline in which you would like your request to be completed by. 
 * Please note - Requesting a specific delivery date will not garantee completion by this date.
 
-![Request date](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/aha-requestdeliverydate.png)
+![Request date](Images/aha-requestdeliverydate.png)
 
-![choose request date](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/aha-chooserequesteddate.png)
+![choose request date](Images/aha-chooserequesteddate.png)
 
 11. Select Submit request when form is completly filled out. 
 
-![Submit request button](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/aha-submitbutton.png)
+![Submit request button](Images/aha-submitbutton.png)
 
 ### Support
 
-For any questions, contact ITZ support.
+For any questions, contact ITZ support - techzone.help@ibm.com
 
-Business Partners - Contact ITZ Support - techzone.help@ibm.com
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
