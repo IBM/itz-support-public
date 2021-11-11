@@ -11,7 +11,7 @@
 
 ## ITZ Enhancement Requests
 
-[(IMBer Only) Request an Enhancement on ITZ](IBM-Technology-Zone-Runbooks/how-to-submit-itz-enhancements.md)  :white_check_mark:  
+[(IBMer Only) Request an Enhancement on ITZ](IBM-Technology-Zone-Runbooks/how-to-submit-itz-enhancements.md)  :white_check_mark:  
 
 ## Known Issues
 
