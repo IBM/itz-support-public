@@ -1,4 +1,4 @@
-# Customized journeys with Mermaid
+# Customized Journeys with Mermaid
 
 The main purpose of Mermaid is to help with Visualizing Documentation and resources using text and code. It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically. 
 
