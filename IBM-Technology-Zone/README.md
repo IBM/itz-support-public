@@ -117,7 +117,6 @@
 [Introduction to Journeys](IBM-Technology-Zone-Runbooks/intro-collection-journey.md)  :white_check_mark:
 
 [How to Create a Journey](IBM-Technology-Zone-Runbooks/journey-creation-process.md)  :white_check_mark:
- 
 
 [Home Page Content Sections](hIBM-Technology-Zone-Runbooks/new-home-page.md)  :white_check_mark:  
 
@@ -130,6 +129,8 @@
 [ITZ Github Runbook Best Practices](IBM-Technology-Zone-Runbooks/github-runbook-best-practices.md)  :white_check_mark: 
 
 [How to Catalog Your Own Environment](IBM-Technology-Zone-Runbooks/catalog-your-environment.md)  :white_check_mark: 
+
+[Customized Journeys with Mermaid](IBM-Technology-Zone-Runbooks/mermaid-docs.md)  :white_check_mark:  
 
 ## Content
 
