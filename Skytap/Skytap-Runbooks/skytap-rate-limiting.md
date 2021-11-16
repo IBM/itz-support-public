@@ -10,7 +10,6 @@ To prevent this, please start/stop/suspend/shutdown your Environment ahead of ti
 
 In case of emergency
 
+Contact DTE Support - techzone.help@ibm.com, Provide your Environment Name or ID in the email.
 
-Business Partners - Contact DTE Support - itz@us.ibm.com, Provide your Environment Name or ID in the email.
 
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel, Provide your Environment Name or ID in the post.
