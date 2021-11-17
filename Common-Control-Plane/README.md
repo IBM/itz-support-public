@@ -7,8 +7,3 @@
 ## Issues
 
 [How to Report Issues](https://github.com/IBM/itz-support-public/blob/main/Common-Control-Plane/Common-Control-Plane-Runbooks/ccp-info-needed.md)  :white_check_mark:  
-
-## On Prem Vmware
-
-## ROKS
-
