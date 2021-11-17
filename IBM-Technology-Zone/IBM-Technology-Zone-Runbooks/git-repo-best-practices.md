@@ -15,8 +15,4 @@ When using a Git Repo as an additional Resource for your Collection, be sure to 
 
 ### Support
 
-For any questions, contact ITZ support.
-
-Business Partners - Contact ITZ Support - techzone.help@ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+For any questions, contact ITZ support, techzone.help@ibm.com
