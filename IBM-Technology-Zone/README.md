@@ -11,10 +11,6 @@
 
 [Find Collection Resources Related to an Environment Reservation](IBM-Technology-Zone-Runbooks/reservation-collection-linkage.md)  :white_check_mark:  
 
-## ITZ Enhancement Requests
-
-[(IBMer Only) Request an Enhancement on ITZ](IBM-Technology-Zone-Runbooks/how-to-submit-itz-enhancements.md)  :white_check_mark:  
-
 ## Known Issues
 
 [Business Partner Access Error(403)](IBM-Technology-Zone-Runbooks/BusinessPartnersAccess.md)  :white_check_mark:  
