@@ -27,8 +27,4 @@ Once your pattern is onboarded, you can create a new environment from it.
 
 ### Support
 
-For any questions, contact DTE support.
-
-Business Partners - Contact DTE Support - techzone.help@ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.
+For any questions, contact ITZ support, techzone.help@ibm.com
