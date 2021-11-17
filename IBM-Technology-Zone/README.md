@@ -92,6 +92,8 @@
 
 [Users Don't See Cluster After Invite(IAM Fix)](IBM-Technology-Zone-Runbooks/iam-fix.md)  :white_check_mark:
 
+[IBM Cloud ROKS/Kubernetes Command Line Login Context](IBM-Technology-Zone-Runbooks/ibmcloud-cluster-command-line-login-context.md)  :white_check_mark:
+
 
 ## Cloud Paks on ROKS
 
