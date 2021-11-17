@@ -2,11 +2,11 @@
 
 When using Public Github Repositories as resources, be aware of which users can access the Repositories.
 
-Business Partner and IBM Accessible - https://github.com/  
+## Business Partner and IBM Accessible - https://github.com/  
 
 (Note this is the regular Github website directly on the internet.)
 
-IBMer Only - https://github.ibm.com/
+## IBMer Only - https://github.ibm.com/
 
 (Note this IBM's Eneterprise Github. This will only be accessible to IBM employees logged in with their W3 ID.)
 
