@@ -130,6 +130,8 @@
 
 [Customized Journeys with Mermaid](IBM-Technology-Zone-Runbooks/mermaid-docs.md)  :white_check_mark:  
 
+[How to Publish your Collection or Resource on TechZone](IBM-Technology-Zone-Runbooks/how-to-publish-on-itz.md)  :white_check_mark:
+
 ## Content
 
 [Technical Decision Points on IBM Technology Zone](IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
