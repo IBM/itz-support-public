@@ -12,7 +12,7 @@
 
 ![3dot ITZ](Images/3dots-delete.png)
 
-5. Confirm your action by Entering the value shown in bold (you can select the copy icon to copy and paste) and selecting delete
+5. Confirm your action by entering the value shown in bold (you can select the copy icon to copy and paste) and selecting delete
 
 ![Delete ITZ](Images/delete-confirm.png)
 
