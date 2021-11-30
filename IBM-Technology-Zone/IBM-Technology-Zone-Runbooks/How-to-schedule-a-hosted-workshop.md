@@ -2,6 +2,15 @@
 
 Group reservations can be scheduled on IBM Technology Zone using the "schedule a workshop" feature which takes you to the Workshop Manager. 
 
+**Berfore getting started:** 
+
+What is a "Hosted" environment? 
+
+A hosted environment is an "Always-on" environment, meaning the cluster is running 24/7 that you can request access too. When requesting to schedule a workshop 
+with a hosted environment, keep in mind that each student will be accessing the same cluster. Whereas on Skytap, each student gets assigned their own environment. 
+
+### Schedule a Hosted Workshop
+
 1. From the [IBM Technology Zone](https://techzone.ibm.com/decisionpoints) page 
 
 
