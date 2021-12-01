@@ -9,7 +9,7 @@ For Skytap environments you can share the access information for the client to u
 In this method, there is no limit to invited users.
 
 Example of Desktop URL for VM access
-![email](Images/email.png)
+![email](/Skytap/Skytap-Runbooks/Images/email.png)
 
 Example of Published Services for access just to a web hosted service
 ![published-service](Images/Defined-port-email.png)
