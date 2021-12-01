@@ -11,7 +11,7 @@ In this method, there is no limit to invited users.
 Example of Desktop URL for VM access
 ![email](/Skytap/Skytap-Runbooks/Images/email.png)
 
-Example of Published Services for access just to a web hosted service
+Example of Application links for access just to an application
 ![published-service](Images/Defined-port-email.png)
 
 
