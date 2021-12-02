@@ -1,6 +1,6 @@
 # Share an Environment with a Client
 
-You will need to provision the environment yourself, but it be shared to clients
+You will need to provision the environment yourself, but it can be shared to clients
 
 ## Please note: The use of Customer Data is not allowed on IBM Technology Zone.
 
