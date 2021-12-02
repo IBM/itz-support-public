@@ -5,20 +5,19 @@ You will need to provision the environment yourself, but it can be shared to cli
 ## Please note: The use of Customer Data is not allowed on IBM Technology Zone.
 
 ## Skytap
-For Skytap environments you can share the access information for the client to use(Desktop URL and password or application links).
+For Skytap environments you can share the access information for the client to use (Desktop URL and password or application links).  
 In this method, there is no limit to invited users.
 
-Example of Desktop URL for VM access
-![email](/Skytap/Skytap-Runbooks/Images/email.png)
+Example of Desktop URL for VM access  
+![email](/Skytap/Skytap-Runbooks/Images/email.png)  
 
-Example of Application links for access just to an application
-![published-service](Images/Defined-port-email.png)
+Example of Application links for access just to an application  
+![published-service](Images/Defined-port-email.png)  
+
+## ROKS  
+ROKS environments can be shared with any users with an IBM ID, https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/share_environment.md.  
 
 
-## ROKS
-ROKS environments can be shared with any users with an IBM ID, https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/share_environment.md.
+### Support  
 
-
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
+For any questions, contact ITZ support - techzone.help@ibm.com  
