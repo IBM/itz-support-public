@@ -54,6 +54,8 @@
 
 [How to Share a ROKS Environment](IBM-Technology-Zone-Runbooks/share_environment.md)  :white_check_mark:
 
+[Can an Environment be Shared with a Client?](IBM-Technology-Zone-Runbooks/share-any-env-with-client.md)  :white_check_mark:  
+
 [How to Delete a Reservation](IBM-Technology-Zone-Runbooks/delete-reservation.md)  :white_check_mark:
 
 [How to Upgrade Configurations on my Reserved Environment](IBM-Technology-Zone-Runbooks/upgrade-environment-configuration-requests.md)  :white_check_mark:
