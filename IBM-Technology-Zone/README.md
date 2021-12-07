@@ -52,7 +52,7 @@
 
 [How Long Can I Reserve an Environment for on IBM Technology Zone?](IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:  
 
-[How to Share a ROKS Environment](IBM-Technology-Zone-Runbooks/share-environment.md)  :white_check_mark:
+[How to Share an Environment](IBM-Technology-Zone-Runbooks/share_environment.md)  :white_check_mark:
 
 [Can an Environment be Shared with a Client?](IBM-Technology-Zone-Runbooks/share-any-env-with-client.md)  :white_check_mark:  
 
