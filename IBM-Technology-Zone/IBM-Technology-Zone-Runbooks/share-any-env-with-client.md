@@ -15,7 +15,7 @@ Example of Application links for access just to an application
 ![published-service](Images/Defined-port-email.png)  
 
 ## ROKS or Other
-ROKS environments can be shared with any users with an IBM ID, https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/share-environment.md.  
+ROKS environments can be shared with any users with an IBM ID, https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/share_environment.md.  
 
 
 ### Support  
