@@ -92,6 +92,8 @@
 
 [IBM Cloud ROKS/Kubernetes Command Line Login Context](IBM-Technology-Zone-Runbooks/ibmcloud-cluster-command-line-login-context.md)  :white_check_mark:
 
+[Fix a PVC that Never Binds](IBM-Technology-Zone-Runbooks/pvc-never-binds.md)  :white_check_mark:  
+
 
 ## Cloud Paks on ROKS
 
