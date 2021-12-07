@@ -1,4 +1,4 @@
-# PVC never binds
+# PVC Never Binds
 
 We've seen that occasionally a PVC provisioned using the `ibmc-file-gold` storage class gets stuck in the pending state.
 
