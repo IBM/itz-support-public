@@ -1,4 +1,4 @@
-# How Long Can I Reserve an Environment? 
+# How Long Can Business Partners Reserve an Environment? 
 
 Please review the following infographic and keep reading for additional context.
 
