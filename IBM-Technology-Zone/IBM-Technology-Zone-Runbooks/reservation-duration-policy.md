@@ -4,7 +4,7 @@ Please review the following infographic and keep reading for additional context.
 
 > **NOTICE:** All infrastructure options durations are dependent on the pupose selected.
 
-![Reservationdurationinfographic](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservationdurationpolicyimage.png)
+![Reservationdurationinfographic](Images/reservationdurationpolicyimage-12-21.png)
 
 
 
