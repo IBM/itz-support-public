@@ -21,7 +21,7 @@ Please review the following infographic and keep reading for additional context.
     * Extend your reservation 1 week at a time for up 3 months by providing a valid opportunity code in the reservation form. 
 
 
-## IBM Cloud, ROKS, & duration policies:
+## IBM Cloud, ROKS duration policies:
 * Purpose type: Test or Self-education
     * Minimum duration to have this environment is 3 days. (this value is by default)
     * Maximum duration that you can reserve on the initial reservation request form is up to 2 weeks. 
