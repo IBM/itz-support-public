@@ -88,7 +88,7 @@
 
 ## ROKS
 
-[How to Report ROKS Issues](IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/roks-must-gather.md)  :white_check_mark:    
+[How to Report ROKS Issues](IBM-Technology-Zone-Runbooks/roks-must-gather.md)  :white_check_mark:    
 
 [Users Don't See Cluster After Invite(IAM Fix)](IBM-Technology-Zone-Runbooks/iam-fix.md)  :white_check_mark:
 
