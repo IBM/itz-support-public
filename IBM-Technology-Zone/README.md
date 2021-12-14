@@ -88,6 +88,8 @@
 
 ## ROKS
 
+[How to Accept an IBM Cloud Invite](IBM-Technology-Zone-Runbooks/ibm-cloud-accept-invite.md)  :white_check_mark:    
+
 [How to Report ROKS Issues](IBM-Technology-Zone-Runbooks/roks-must-gather.md)  :white_check_mark:    
 
 [Users Don't See Cluster After Invite(IAM Fix)](IBM-Technology-Zone-Runbooks/iam-fix.md)  :white_check_mark:
