@@ -14,7 +14,7 @@
 
 ![My extend](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/My%20extend.png)
 
-Your reservation will automatically be extended till the new date and time selected. One week increments ONLY
+Your reservation will automatically be extended till the new date and time selected. Please note, you have unlimited 1 week extension for the validity of their opportunity number. You are able to extend a reservation within 120hours (5 days) of your current end date.
 
 
 If your reservation was self-education or test, you will be able to update the purpose, then add your opportunity number. You will then be able to extend.
