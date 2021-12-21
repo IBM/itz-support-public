@@ -1,4 +1,4 @@
-# Change reservation purpose to enable self-service extension option
+# Change Reservation Purpose to Enable Self-Service Extension Option
 
 For example, change reservation purpose from Self-Education to Customer Demo to enable the self-service reservation option. 
 
