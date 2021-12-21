@@ -48,6 +48,8 @@
 
 [How to Extend a Reservation](IBM-Technology-Zone-Runbooks/extend-a-reservation.md)  :white_check_mark: 
 
+[Change Reservation Purpose to Enable Self-Service Extension Option](IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md)  :white_check_mark:  
+
 [How to Transfer a Reservation](IBM-Technology-Zone-Runbooks/transfer_environment.md)  :white_check_mark: 
 
 [How Long Can IBMers Reserve an Environment for on IBM Technology Zone?](IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:  
