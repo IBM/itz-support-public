@@ -34,6 +34,10 @@ Navigating the resources on a collection to see visibility level can be identifi
 
 ![resource visibility level on a collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resourcelevelvisibility.png)
 
+Additionally, for collections that have journey tabs setup, select the journey (tab) and reference the visibility column to identify what a partner would see when on this journey within this collection. 
+
+![journey visibility](Images/custom%20journey%20visibility%20enhancement.png)
+
 ## How to request a collection be made Business Partner accessible
 
 A collection and the resource visibility levels are defined by the content owner and collaborators. 
@@ -45,10 +49,6 @@ To inquire about a collection that is only IBMr visibible today, contact the own
 
 ### Support
 
-For any questions, contact ITZ support.
-
-Business Partners - Contact ITZ Support - techzone.help@ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
+For any questions, contact ITZ support techzone.help@ibm.com
 
 
