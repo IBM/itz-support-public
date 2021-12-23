@@ -1,4 +1,4 @@
-# Find content accessible today for Business Partners
+# Find Content Accessible Today for Business Partners
 
 IBM Technology Zone is accessible to IBMers and Business Partners that validate through Partner World. 
 
