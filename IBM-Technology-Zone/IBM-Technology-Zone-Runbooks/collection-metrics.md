@@ -63,5 +63,3 @@ Answer: A resource click event is a user viewing your collection and clicking on
 
 Bugs identified can be captured in git issue board: https://github.ibm.com/dte2-0/cap-common-access-portal
 Questions can be directed to brooke.jones@ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
