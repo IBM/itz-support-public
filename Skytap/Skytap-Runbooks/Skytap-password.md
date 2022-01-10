@@ -2,8 +2,7 @@
 
 1. Skytap passwords can be found by clicking on the keys symbol  
 
-2.  
-![skytapkeys](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapkeys.png)  
+2.  ![skytapkeys](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapkeys.png)  
 
 ![skytapkey](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapkey.png)  
 
