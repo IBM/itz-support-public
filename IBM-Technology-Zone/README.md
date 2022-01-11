@@ -100,6 +100,9 @@
 
 [Fix a PVC that Never Binds](IBM-Technology-Zone-Runbooks/pvc-never-binds.md)  :white_check_mark:  
 
+## Fyre(IBMer Only)
+
+[Fix Error EOF on Fyre OCP Clusters](IBM-Technology-Zone-Runbooks/fyre-ocp-fix-eof.md)  :white_check_mark:
 
 ## Cloud Paks on ROKS
 
