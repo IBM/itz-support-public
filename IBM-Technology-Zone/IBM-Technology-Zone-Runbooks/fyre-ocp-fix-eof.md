@@ -2,9 +2,9 @@
 
 1.  SSH to the Load Balancer VM  
 
-2.  From the Load Balancer Run (Replace [node_name] with the actual name of each node)  
+2.  From the Load Balancer VM, run these commands 
 
-`ssh core@[node_name] `  
+`ssh core@[node_name] `  (Note: Replace [node_name] with the actual name of each node)  
 `sudo -i `  
 `export KUBECONFIG=/etc/kubernetes/static-pod-resources/kube-apiserver-certs/secrets/node-kubeconfigs/lb-int.kubeconfig `  
 `oc get csr -o name | xargs oc adm certificate approve `  
