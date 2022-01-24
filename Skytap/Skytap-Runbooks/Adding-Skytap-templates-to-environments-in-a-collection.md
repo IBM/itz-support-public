@@ -16,7 +16,7 @@
 
 a. choose "environment title" "Infrastructure"
 
-6. scroll down to Region, enter the template ids provided to you by the support team, add template ids for each regions separatly
+6. scroll down to Region, click on plus sign (+)  enter the template ids provided to you by the support team, add template ids for each regions separately
 
 ![regiontemplate](Images/regiontemplate.png)
 
