@@ -1,6 +1,6 @@
 1. Log on to IBM Technology Zone https://techzone.ibm.com/
 
-2. Go to "My Library" > "My created resource", if you haven't created one this will be required
+2.  "My Library" > "My created resource", if you haven't created one this will be required
 
 ![Mycreatedresource](Images/mycreatedresource.png) 
 
