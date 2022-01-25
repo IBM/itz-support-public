@@ -1,4 +1,4 @@
-# How do I extend my reservation?
+# How Do I Extend My Reservation?
 
 1. Log in to the portal using your IBM id
 2. Go to "My Library" and click on "My reservations"
