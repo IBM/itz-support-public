@@ -33,11 +33,11 @@ This will quit the reservation form and navigate you to the collection of resour
 
 - Click view workshop from the ellipsis option to the right or by clicking the hyperlink of the workshop request title you would like to view
 
-![view instructor page](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/Images/view%20instructor%20page.png)
+![view instructor page](Images/view%20instructor%20page.png)
 
 - Once on the instructor page, select collection name to navigate to the collection of resources associated with this environment workshop request. 
 
-![view collection](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/Images/collection%20url%20on%20instructor%20page.png)
+![view collection](Images/collection%20url%20on%20instructor%20page.png)
 
 
 ### Support
