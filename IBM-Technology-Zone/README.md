@@ -66,7 +66,7 @@
 
 ## Infrastructure
 
-[Coming Soon - IBM Cloud]()
+[IBM Cloud (IBM Virtual Server Instance (Classic))](IBM-Technology-Zone-Runbooks/ibm-virt-server-classic-reserve.md)  :white_check_mark:  
 
 [Managed Openshift(ROKS)](IBM-Technology-Zone-Runbooks/ManagedOpenShift(ROKS)reserved.md)  :white_check_mark:  
 
