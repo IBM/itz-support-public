@@ -2,7 +2,7 @@ Only administrator owned templates can be added to an environment in a collectio
 
 1. Send a note to techzone.help@ibm.com "template onboarding request"   
   a. Collection url  
-  b. Collection name  
+  b. Collection name / Environment name
   c. environment url/Template url  
   
  2. Once completed you will be sent template ids to update your collection  
