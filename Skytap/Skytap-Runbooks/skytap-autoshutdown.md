@@ -1,12 +1,8 @@
 # Skytap Auto-Shutdown/Suspend Timer
 
-## All Skytap Environments provisioned through IBM Technology Zone have an Automatic shutdown/suspend timer.  
+## All Skytap Environments provisioned through IBM Technology Zone have an Automatic shutdown/suspend timer.  This is an amount of idle time that varies by environment, after that time the Environment will shutdown/suspend.  
 
-## This is an amount of idle time that varies by environment, after that time the Environment will shutdown/suspend.  
-
-### Here is what affects the auto-shutdown/suspend timer.
-
-#### The following activities prevent auto-shutdown (the environment stays active):
+### The following activities prevent auto-shutdown (the environment stays active):
 
 There is keyboard or mouse activity in a VM browser client session or sharing portals session.
 
@@ -18,7 +14,7 @@ A signed in user or administrator is viewing the Environment Details page for th
 
 A VM in the environment was started (run) within the previous 30 minutes
 
-####  By default, Skytap does not check for active connections over published services or public IP addresses.
+###  By default, Skytap does not check for active connections over published services or public IP addresses.
 
 To prevent a VM from shutting down or suspending while published services or other unmonitored services are in use, run a script that periodically sends keep-alive messages to Skytap. For instructions, see Sending keep-alive messages from a VM to prevent automatic shutdown or suspend.
 
