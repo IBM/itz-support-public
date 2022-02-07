@@ -6,7 +6,7 @@
 
 ## Known Issues  
 
-[Automatic SHutdown/Suspend](Skytap-Runbooks/skytap-autoshutdown.md)  :white_check_mark:  
+[Automatic Shutdown/Suspend](Skytap-Runbooks/skytap-autoshutdown.md)  :white_check_mark:  
 
 [Rate Limiting](Skytap-Runbooks/skytap-rate-limiting.md)  :white_check_mark:  
 
