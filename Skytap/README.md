@@ -10,7 +10,7 @@
 
 [Rate Limiting](Skytap-Runbooks/skytap-rate-limiting.md)  :white_check_mark:  
 
-[Skytap Passwords](Skytap-Runbooks/Skytap-password.md)
+[Skytap Passwords](Skytap-Runbooks/Skytap-password.md)  :white_check_mark:  
 
 ## Onboarding 
 
