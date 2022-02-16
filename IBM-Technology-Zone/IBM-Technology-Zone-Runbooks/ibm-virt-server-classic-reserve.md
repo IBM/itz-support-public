@@ -7,6 +7,8 @@ Access the VM using the Public IP, Username and Password
 
 For Linux, use ssh  
 For Windows, use RDP  
+(For Windows users connecting with RDP, make sure the username is used alone, not with an additional domain)  
+![windows-rdp-username](Images/windows-rdp-username.png)  
 
 Note: Private IP is not accessible externally. This can only be used between IBM Virtual Server Instance (Classic) VMs.  
 
