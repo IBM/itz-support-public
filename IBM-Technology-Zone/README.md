@@ -104,6 +104,10 @@
 
 ## Fyre (IBMer Only)  
 
+## Azure
+
+[Add vCPUs to Azure Cluster](IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/azure-add-vcpu.md)  :white_check_mark:  
+
 [Fix Error EOF on Fyre OCP Clusters](IBM-Technology-Zone-Runbooks/fyre-ocp-fix-eof.md)  :white_check_mark:
 
 ## Cloud Paks on ROKS
