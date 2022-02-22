@@ -1,4 +1,4 @@
-# Testing Collections/Environments Before Making them Active
+# Testing Collections/Environments Before Making Them Active
 
 Add the tester or user as a collaborator to the collection and leave the status in draft.  
 The user will be able to test as they need and once completed testing, the owner can remove them as a collaborator when they change status to live.  
