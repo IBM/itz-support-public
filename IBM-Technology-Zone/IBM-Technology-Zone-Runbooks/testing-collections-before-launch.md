@@ -5,9 +5,9 @@ The user will be able to test as they need and once completed testing, the owner
 
 See how to edit a collection [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/edit-a-collection.md)  
 
-[add collaborators](Images/add-collaborators.png)  
+[Add Collaborators](Images/add-collaborators.png)  
 
-[set as draft](Images/set-as-draft.png)  
+[Set as Draft](Images/set-as-draft.png)  
 
 
 ### Support
