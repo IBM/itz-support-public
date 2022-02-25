@@ -104,6 +104,10 @@
 
 [Resizing a ROKS Cluster Worker Pool](IBM-Technology-Zone-Runbooks/resizing-roks-cluster-worker-pool.md)  :white_check_mark:  
 
+[Replace(Reload) Worker Nodes on ROKS VPC Gen2 Clusters](IBM-Technology-Zone-Runbooks/roks-vpc-replace-nodes.md)  :white_check_mark:  
+
+[Reload Worker Nodes on Classic ROKS Clusters](IBM-Technology-Zone-Runbooks/roks-classic-reload-nodes.md)  :white_check_mark:  
+
 ## Fyre (IBMer Only)  
 
 
