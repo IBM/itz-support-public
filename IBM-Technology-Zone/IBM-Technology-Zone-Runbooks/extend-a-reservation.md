@@ -10,9 +10,13 @@
 
 ![3dot](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/3dots.png)
 
-5. Select new date and time and click extend
+5. Select new date and time, selectable dates are in a light gray  
 
-![My extend](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/My%20extend.png)
+![calendar view](Images/extend-calendar-selection.png)  
+
+6. Select extend 
+
+![My extend](IBM-Technology-Zone-Runbooks/Images/My%20extend.png)  
 
 Your reservation will automatically be extended till the new date and time selected. Please note, you have unlimited 1 week extensions for the validity of your opportunity number. You are able to extend a reservation within 120 hours (5 days) of your current end date.
 
