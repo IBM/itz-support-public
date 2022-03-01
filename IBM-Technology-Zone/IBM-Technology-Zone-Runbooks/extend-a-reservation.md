@@ -23,10 +23,14 @@ Your reservation will automatically be extended till the new date and time selec
 
 If your reservation was self-education or test, you will be able to update the purpose, then add your opportunity number. You will then be able to extend.
 
-NOTE: if "extend" is greyed out, you do not have an opportunity number attached to your reservation. Edit your reservation to include a valid opportunity number. If you get any errors request support on slack channel #itz-techzone-support, Include the Opportunity number and reservation information (Environment id, dekstop url, cluster id,  cluster name etc )
+NOTE: if "extend" is greyed out, you do not have an opportunity number attached to your reservation. [Edit your reservation to include a valid opportunity number.](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md) If you get any errors contact support, Include the Opportunity number and reservation information (Environment id, dekstop url, cluster id,  cluster name etc )
 
 Are you going on vacation and worried about losing your reservation? You can transfer it to a colleague to manage while away, see details [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer_environment.md)
 
 Attention: It is a user's responsibility to ensure they extend reservations before the listed end date and time. 
 All exception request should come in at least 72 hours before the scheduled end date and time. 
 Environments are auto removed once reservations are expired and are currently not recoverable.
+
+### Support
+
+For any questions, contact ITZ support - techzone.help@ibm.com
