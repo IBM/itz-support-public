@@ -14,7 +14,7 @@
 
 ![calendar view](Images/extend-calendar-selection.png)  
 
-6. Select extend 
+6. Select Extend 
 
 ![My extend](Images/My%20extend.png)  
 
