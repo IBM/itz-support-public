@@ -22,7 +22,8 @@
 8.  Edit your Environment and update any missing information, set the status to "Active"
 ![edit-your-environment-with-new-options](Images/edit-your-environment-with-new-options.png)  
 
-9. The environment will now be avialable to provision on your environment  
+9. The environment will now be avialable to provision on your environment (A [Cache Update](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/cache-update.md) may be required to see the saved changes)  
+![new self template ready as env](Images/new-self-template-ready-as-env.png)  
 
 ### Support
 
