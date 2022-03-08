@@ -90,6 +90,20 @@
 
 [Coming Soon - Azure]()
 
+## Skytap
+
+[Automatic Shutdown/Suspend](main/Skytap/Skytap-Runbooks/skytap-autoshutdown.md)  :white_check_mark:  
+
+[Rate Limiting](main/Skytap/Skytap-Runbooks/skytap-rate-limiting.md)  :white_check_mark:  
+
+[Skytap Passwords](main/Skytap/Skytap-Runbooks/Skytap-password.md)  :white_check_mark:  
+
+## Onboarding 
+
+[Onboard a Skytap Template](Skytap-Runbooks/SkytapTemplateOnboarding.md)  :white_check_mark:
+
+[Use a Skytap Template as an Environment in Collection](Skytap-Runbooks/Adding-Skytap-templates-to-environments-in-a-collection.md)  :white_check_mark:
+
 ## ROKS
 
 [How to Accept an IBM Cloud Invite](IBM-Technology-Zone-Runbooks/ibm-cloud-accept-invite.md)  :white_check_mark:    
