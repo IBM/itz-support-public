@@ -92,11 +92,11 @@
 
 ## Skytap
 
-[Automatic Shutdown/Suspend](main/Skytap/Skytap-Runbooks/skytap-autoshutdown.md)  :white_check_mark:  
+[Automatic Shutdown/Suspend](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-autoshutdown.md)  :white_check_mark:  
 
-[Rate Limiting](main/Skytap/Skytap-Runbooks/skytap-rate-limiting.md)  :white_check_mark:  
+[Rate Limiting](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-rate-limiting.md)  :white_check_mark:  
 
-[Skytap Passwords](main/Skytap/Skytap-Runbooks/Skytap-password.md)  :white_check_mark:  
+[Skytap Passwords](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Skytap-password.md)  :white_check_mark:  
 
 ## Onboarding 
 
