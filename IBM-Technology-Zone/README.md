@@ -66,7 +66,7 @@
 
 [How to Upgrade Configurations on my Reserved Environment](IBM-Technology-Zone-Runbooks/upgrade-environment-configuration-requests.md)  :white_check_mark:
 
-## Infrastructure
+## Infrastructure Support (How to Reserve these Infrastructures)  
 
 [IBM Cloud (IBM Virtual Server Instance (Classic))](IBM-Technology-Zone-Runbooks/ibm-virt-server-classic-reserve.md)  :white_check_mark:  
 
