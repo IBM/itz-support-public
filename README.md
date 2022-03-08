@@ -3,9 +3,3 @@
 Repo housing Runbooks and Documentation for Business Partners and IBMers seeking support for ITZ Content and Infrastructure
 
 ## [IBM Technology Zone](https://github.com/IBM/itz-support-public/tree/main/IBM-Technology-Zone)
-
-## [On-prem VMware](https://github.com/IBM/itz-support-public/tree/main/Common-Control-Plane)
-
-## [Skytap](https://github.com/IBM/itz-support-public/tree/main/Skytap)
-
-## [IBM Demos](https://github.com/IBM/itz-support-public/tree/main/IBM-Demos)
