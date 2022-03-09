@@ -116,7 +116,7 @@
 
 [Fix a PVC that Never Binds](IBM-Technology-Zone-Runbooks/pvc-never-binds.md)  :white_check_mark:  
 
-[Resizing a ROKS Cluster Worker Pool](IBM-Technology-Zone-Runbooks/resizing-roks-cluster-worker-pool.md)  :white_check_mark:  
+[Resizing a ROKS Cluster Worker Pool (Add Worker Nodes)](IBM-Technology-Zone-Runbooks/resizing-roks-cluster-worker-pool.md)  :white_check_mark:  
 
 [Replace(Reload) Worker Nodes on ROKS VPC Gen2 Clusters](IBM-Technology-Zone-Runbooks/roks-vpc-replace-nodes.md)  :white_check_mark:  
 
