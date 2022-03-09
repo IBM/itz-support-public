@@ -11,7 +11,7 @@
 
 [Find Collection Resources Related to an Environment Reservation](IBM-Technology-Zone-Runbooks/reservation-collection-linkage.md)  :white_check_mark:  
 
-## CECC
+## Systems
 
 
 
