@@ -1,4 +1,4 @@
-# How do I share my environment with another user?
+# How do I Share my Environment with Another User?
 
 Share an environoment with an IBMr, a business partner, or even invite a client to access the environment. The following steps will show you how to manage your environment reservation to share with the entended user and how they will be invited to the environment per persona (IBMr, business partner, clients).
 
