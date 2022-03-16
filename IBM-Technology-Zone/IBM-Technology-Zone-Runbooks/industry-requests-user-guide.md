@@ -42,7 +42,7 @@ NOTE: Business Partners and IBMrs with a IBMid can sign into this form
 
 Note: For dates longer than 2 weeks, or if extensions are required, a valid opportunity number may be necessary. 
 
-![start and end date](hImages/start-end-date-sbaas.png)
+![start and end date](Images/start-end-date-sbaas.png)
 
 * **Stakeholder Organization** - Choose the organization that you are in. You can use bluepages to further identify this field.
 
