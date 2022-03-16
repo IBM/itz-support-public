@@ -1,6 +1,6 @@
 # Fix Error EOF on Fyre OCP Clusters  
 
-1.  SSH to the Load Balancer VM  
+1.  SSH to the Load Balancer VM  root / WinningWithTechZone2021!
 
 2.  From the Load Balancer VM, run these commands 
 
