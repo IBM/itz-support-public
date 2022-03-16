@@ -189,6 +189,10 @@
 [Search Filter Logic](IBM-Technology-Zone-Runbooks/itz-filter-logic.md)  :white_check_mark:  
 
 
+## Requests
+
+[Industry Environment Request Process and Expectations](IBM-Technology-Zone-Runbooks/industry-requests-user-guide.md)  :white_check_mark:  
+
 ## API
 
 [Account API Onboarding](IBM-Technology-Zone-Runbooks/account-api-onboarding.md)  :white_check_mark:
