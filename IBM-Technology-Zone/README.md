@@ -184,6 +184,10 @@
 
 [Technical Decision Points on IBM Technology Zone](IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
 
+## Site Navigation
+
+[Search Filter Logic](IBM-Technology-Zone-Runbooks/itz-filter-logic.md)  :white_check_mark:  
+
 
 ## API
 
