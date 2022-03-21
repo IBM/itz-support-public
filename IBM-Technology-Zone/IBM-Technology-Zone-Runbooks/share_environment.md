@@ -34,7 +34,7 @@ As the reservation owner, you can share the reservation, transfer ownership of t
 
 **Important:** Once shared it can not be revoked. Only by ITZ Admins per owner request.
 
-7. An email will then be sent to the user that yoou shared the environment with. Access credentials included in the email. 
+7. An email will then be sent to the user that you shared the environment with. Access credentials included in the email. 
 
 **Important:** Not all environments trigger a shared email at this time. Shared emails will be sent with all IBM Cloud, Hosted, SaaS, AWS, and Azure environment reservations. The IBM Technology Zone team is working to integrate the Skytap, Fyre, and ROKS pipeline to have this same capability, but it is not available at this time. 
 
