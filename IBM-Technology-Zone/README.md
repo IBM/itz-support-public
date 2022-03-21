@@ -188,6 +188,8 @@
 
 [Search Filter Logic](IBM-Technology-Zone-Runbooks/itz-filter-logic.md)  :white_check_mark:  
 
+[Collection Brand Filter](IBM-Technology-Zone-Runbooks/brand-filter-search.md)  :white_check_mark:  
+
 
 ## Requests
 
