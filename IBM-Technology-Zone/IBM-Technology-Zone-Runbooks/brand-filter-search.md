@@ -55,4 +55,8 @@ Step 4. Save your collection and then allow time for your results to display.
 
 NOTE: To speed up the process, select the reindex option and then following the cache update option from your collection view page. The Reindex will force any data points that you updated on your collection to be updated within elastic search, meaning that the brand filter should be updated with the forced update. The cache update will speed up the refresh process for your collection to show the most recent version based on your changes while editing your collection.
 
-![reindex and cache update](Images/reindexandcache.png)
+![reindex and cache update](Images/reindexandcache.png)  
+
+### Support
+
+For any questions, contact ITZ support - techzone.help@ibm.com
