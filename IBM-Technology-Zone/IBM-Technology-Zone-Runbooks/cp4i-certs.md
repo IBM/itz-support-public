@@ -15,7 +15,7 @@ oc project cp4i
 oc extract secret/$(oc get route console -n openshift-console -o jsonpath="{.spec.host}" | awk -F'.' '{print $2}') -n ibm-cert-store --confirm --to=./
 ```
 
-4. Spit CA and cert:
+4. Split CA and cert:
 ```
 split -p "-----BEGIN CERTIFICATE-----" tls.crt cert-
 ```
