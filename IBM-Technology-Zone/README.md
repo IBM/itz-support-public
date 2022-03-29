@@ -104,9 +104,9 @@
 
 ## Onboarding 
 
-[Onboard a Skytap Template](Skytap-Runbooks/SkytapTemplateOnboarding.md)  :white_check_mark:
+[Onboard a Skytap Template](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/SkytapTemplateOnboarding.md)  :white_check_mark:
 
-[Use a Skytap Template as an Environment in Collection](Skytap-Runbooks/Adding-Skytap-templates-to-environments-in-a-collection.md)  :white_check_mark:
+[Use a Skytap Template as an Environment in Collection](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Adding-Skytap-templates-to-environments-in-a-collection.md)  :white_check_mark:
 
 ## ROKS
 
