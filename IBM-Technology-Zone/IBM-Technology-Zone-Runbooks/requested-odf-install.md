@@ -1,4 +1,4 @@
-Requested Added ODF(OCS) for a ROKS cluster
+# How to Check if Your Requested ODF(OCS) is Installed
 
 **NOTE:**  ODF(OCS) can only be installed on ROKS on VPC clusters.  
 
