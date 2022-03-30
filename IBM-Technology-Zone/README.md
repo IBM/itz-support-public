@@ -126,7 +126,7 @@
 
 [Reload Worker Nodes on Classic ROKS Clusters](IBM-Technology-Zone-Runbooks/roks-classic-reload-nodes.md)  :white_check_mark:  
 
-[How to check if your Requested ODF(OCS) is Installed](IBM-Technology-Zone-Runbooks/requested-odf-install.md)  :white_check_mark:  
+[How to Check if Your Requested ODF(OCS) is Installed](IBM-Technology-Zone-Runbooks/requested-odf-install.md)  :white_check_mark:  
 
 ## Fyre (IBMer Only)  
 
