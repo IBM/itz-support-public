@@ -16,10 +16,46 @@ You will be presented with the welcome screen shown above. If you do not see it,
 3. Are you on a corporate network with restricted internet access?
 You may need to engage your local IT helpdesk to help resolve the connectivity issues.
 
-Assuming the page loads properly, in the middle of the screen you will see the Login section. The Group is a drop-down menu, but unless told otherwise by the project manager, you should choose the default *AnyConnect*. 
+Assuming the page loads properly, choose the default *AnyConnect*. 
 
 ![](images/vpn1.png)
 
-This is the easiest and most common method for gaining access to the Garage, and is the one you will use unless the project manager has instructed otherwise. Access to the portal requires a browser with Java enabled. Windows, Mac, and Linux are supported, but see Appendix A for full details on system requirements.
+Then, enter the VPN username and password assigned to you.
 
-Note: Every OS and browser has their own look, security policy, and notification system. What follows is an example connection using Windows 7 and Firefox. You may see more “pop-ups” or perhaps none at all, but it is important to follow the messages that do appear, so that the installation process is not blocked or disabled.
+Before clicking *ACCEPT Usage Policy AND Log in* please read and understand the usage policy accessible via the link at the top of the log in page.
+
+If the authentication succeeded, you will see a welcome screen.
+![](images/Vpnuserguide3_3.png)
+
+If authentication did not succeed, you will see a “Login Failed” message. Verify the password and try again, and if it still does not work, contact support.
+
+Once you click 'Continue', the download and install process will begin. You will be presented with the following screen which will be tailored to your operating system.
+![](images/Vpnuserguide4.png)
+
+Click on the Download button to begin downloading the client installer. Save the file to a known location for easy access.
+
+Once the download completes, browse to the location of the saved file and open, run, or execute the file as required by your OS.
+
+This will attempt to install the VPN client. During this process you may see various warning messages from the browser, from anti-virus application, or from the OS itself (password requested for installing new software, etc). In all cases, it is important to be aware of what the messages say.
+
+Choose appropriate selections that will allow the install to continue. 
+
+## Connecting the VPN
+
+Start the client, enter *asa003b.centers.ihost.com* in the box and click connect. When prompted choose AnyConnect as the group, and enter the VPN id and password assigned to you.
+
+![](images/Vpnuserguide5.png)
+
+Users on Linux may see an initial warning message saying the server is untrusted. This is a known bug, and is not accurate (the gateway does use an SSL certificate from a known and trusted CA). If this happens to you, please select 'Connect Anyway' and then enter the information as mentioned above.
+
+![](images/Vpnuserguide6.png)
+
+If your connection to the gateway fails, please open a support request.
+
+If the connection is successful, you will see the VPN client icon in your system tray (or equivalent)
+
+![](images/Vpnuserguide7.png)
+
+Right-clicking the icon will bring up a menu where you can see more details or disconnect/quit your session.
+
+Congratulations, you are now able to access the resources assigned and provided to you. 
