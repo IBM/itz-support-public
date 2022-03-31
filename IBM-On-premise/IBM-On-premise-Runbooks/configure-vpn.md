@@ -22,7 +22,7 @@ Assuming the page loads properly, choose the default *AnyConnect*.
 
 Then, enter the VPN username and password assigned to you.
 
-Before clicking *ACCEPT Usage Policy AND Log in* please read and understand the usage policy accessible via the link at the top of the log in page.
+Before clicking **ACCEPT Usage Policy AND Log in** please read and understand the usage policy accessible via the link at the top of the log in page.
 
 If the authentication succeeded, you will see a welcome screen.
 
@@ -44,7 +44,7 @@ Choose appropriate selections that will allow the install to continue.
 
 ## Connecting the VPN
 
-Start the client, enter *asa003b.centers.ihost.com* in the box and click connect. When prompted choose AnyConnect as the group, and enter the VPN id and password assigned to you.
+Start the client, enter **asa003b.centers.ihost.com** in the box and click connect. When prompted choose **AnyConnect** as the group, and enter the VPN id and password assigned to you.
 
 ![](images/Vpnuserguide5.png)
 
@@ -52,7 +52,7 @@ Users on Linux may see an initial warning message saying the server is untrusted
 
 ![](images/Vpnuserguide6.png)
 
-If your connection to the gateway fails, please open a support request.
+If your connection to the gateway fails, please contact support.
 
 If the connection is successful, you will see the VPN client icon in your system tray (or equivalent)
 
