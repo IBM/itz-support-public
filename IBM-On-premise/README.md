@@ -15,6 +15,5 @@ To get help, please open a ticket to [our support team](mailto:techzone.help@ibm
 
 ## HOW-TOs
 
-[Configure the VPN connection](IBM-On-premise/configure-vpn.md)
-[Configure the second disk]
-[Configure the VPN connection]
+[Configure the VPN connection](IBM-On-premise-Runbooks/configure-vpn.md)
+[Configure the second disk](IBM-On-premise-Runbooks/configure-second-disk.md)
