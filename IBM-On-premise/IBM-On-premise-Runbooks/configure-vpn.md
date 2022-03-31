@@ -5,7 +5,7 @@
 
 ## Download Cisco AnyConnect
 
-:warning: If you already have cisco 4.4 or greater installed on your system, you should skip to [Connecting the VPN](#Coonecting the VPN).
+:warning: If you already have cisco 4.4 or greater installed on your system, you should skip to [Connecting the VPN](#connecting-the-vpn).
 
 
 Open your browser and enter [https://asa003b.centers.ihost.com](https://asa003b.centers.ihost.com) in the address field. If for some reason the name is not resolving, you can use the IP address (32.97.185.16). The URL will automatically expand to the one shown in the following screenshot:
@@ -25,11 +25,13 @@ Then, enter the VPN username and password assigned to you.
 Before clicking *ACCEPT Usage Policy AND Log in* please read and understand the usage policy accessible via the link at the top of the log in page.
 
 If the authentication succeeded, you will see a welcome screen.
+
 ![](images/Vpnuserguide3_3.png)
 
 If authentication did not succeed, you will see a “Login Failed” message. Verify the password and try again, and if it still does not work, contact support.
 
 Once you click 'Continue', the download and install process will begin. You will be presented with the following screen which will be tailored to your operating system.
+
 ![](images/Vpnuserguide4.png)
 
 Click on the Download button to begin downloading the client installer. Save the file to a known location for easy access.
