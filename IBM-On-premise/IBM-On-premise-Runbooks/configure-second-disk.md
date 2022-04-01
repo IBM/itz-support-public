@@ -3,6 +3,8 @@
 During the reservation process you can add a second disk. The additional disk is mapped to your system and we let you use it at your convenience (raw, LVM, formatting, mount points, etc).
 Here are some examples on how to discover, format and mount the disk in a traditional fashion.
 
+[TOC]
+
 [Add storage to a Linux server](#add-storage-to-a-linux-server)
 
 [Add storage to an AIX server](#add-storage-to-an-aix-server)
@@ -274,7 +276,7 @@ This output give details about the multipath devices you have on your systems. W
 
 After adding a new volume to that system, you must re-scan for new multipath volumes with the following command:
 
-:warning: If the rescan-scsi-bus.sh is not available, install it with the following commands depending on the Linux distro:
+:warning: If the `rescan-scsi-bus.sh` is not available, install it with the following commands depending on the Linux distro:
 - Ubuntu: `sudo apt-get install sg3_utils`
 - RHEL: `sudo yum install sg3-utils`
 - SLES: `sudo zypper install sg3_utils`
@@ -329,7 +331,7 @@ size=50G features='1 queue_if_no_path' hwhandler='0' wp=rw
   `- 1:0:1:0 sdb 8:16 active ready running
 ```
 
-You can see a new multipath device mpathb is now available.
+You can see a new multipath device mpathb is available.
 
 :point_up: If a new multipath device does not appear even after scanning with `rescan-scsi-bus.sh -a`, reboot the system
 
