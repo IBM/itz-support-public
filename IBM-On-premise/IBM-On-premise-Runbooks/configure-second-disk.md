@@ -1,4 +1,4 @@
-# Configure your second disk
+# Configure the second disk
 
 During the reservation process you can add a second disk. The additional disk is mapped to your system and we let you use it at your convenience (raw, LVM, formatting, mount points, etc).
 Here are some examples on how to discover, format and mount the disk in a traditional fashion.
@@ -48,7 +48,7 @@ sr0     11:0    1  580K  0 rom
 vda    253:0    0   60G  0 disk
 ├─vda1 253:1    0    4M  0 part
 └─vda2 253:2    0   60G  0 part /
-**vdb**    253:16   0   50G  0 disk
+vdb    253:16   0   50G  0 disk
 ```
 
 If for any reason the added volume does not appear as a new block device, even after scanning with `rescan-scsi-bus.sh -a`, reboot the system.
@@ -198,9 +198,9 @@ drwxrwxrwx.  2 root root   6 Aug  8 15:01 .
 dr-xr-xr-x. 18 root root 252 Aug  8 16:21 ..
 ```
 
-There is one more step in order to get the filesystem to auto mount in case of a system reboot: add an entry in the /etc/fstab file.
+There is one more step in order to get the filesystem to auto mount in case of a system reboot: add an entry in the **/etc/fstab** file.
 
-First take a backup of the /etc/fstab file:
+:warning: First take a backup of the /etc/fstab file:
 
 ```shell
 $ sudo cp -p /etc/fstab /etc/fstab.bak
@@ -212,7 +212,7 @@ Then append the entry in /etc/fstab as follow:
 $ sudo bash -c "echo '/dev/vdb1 /data xfs defaults 0 0' >> /etc/fstab"
 ```
 
-:warning: the >> append is critical - if a single > is used you will overwrite all other information in /etc/fstab
+:warning: The >> append is critical - if a single > is used you will overwrite all other information in /etc/fstab
 
 The /dev/vdb1 /data xfs defaults 0 0 tells the system to mount the xfs filesystem we created in /dev/vdb1 on /data with the defaults options (read/write).
 
@@ -256,7 +256,7 @@ You will notice this output shows 2 block devices: sda and sdb. However, both bl
 
 mpatha is a multipath alias. This means that actually sda and sdb are representing the same volume but seen from 2 paths (because the system that you are using has multiple storage controllers, or is using SAN attached storage with multiple paths defined).
 
-Note: On SLES, the multipath aliases are usually longer and look like *SIBM_3303_NVDISK_c2b0668f6d0654c818b7c7003288d155*
+:point_up: On SLES, the multipath aliases are usually longer and look like *SIBM_3303_NVDISK_c2b0668f6d0654c818b7c7003288d155*
 
 On Linux, multipathing is managed by the multipathd daemon. To query it and check the status of multipath devices:
 
@@ -276,7 +276,9 @@ After adding a new volume to that system, you must re-scan for new multipath vol
 
 :warning: If the rescan-scsi-bus.sh is not available, install it with the following commands depending on the Linux distro:
 Ubuntu: `sudo apt-get install sg3_utils`
+
 RHEL: `sudo yum install sg3-utils`
+
 SLES: `sudo zypper install sg3_utils`
 
 ```shell
