@@ -275,11 +275,9 @@ This output give details about the multipath devices you have on your systems. W
 After adding a new volume to that system, you must re-scan for new multipath volumes with the following command:
 
 :warning: If the rescan-scsi-bus.sh is not available, install it with the following commands depending on the Linux distro:
-Ubuntu: `sudo apt-get install sg3_utils`
-
-RHEL: `sudo yum install sg3-utils`
-
-SLES: `sudo zypper install sg3_utils`
+- Ubuntu: `sudo apt-get install sg3_utils`
+- RHEL: `sudo yum install sg3-utils`
+- SLES: `sudo zypper install sg3_utils`
 
 ```shell
 $ sudo rescan-scsi-bus.sh -a
