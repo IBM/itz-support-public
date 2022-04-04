@@ -343,4 +343,137 @@ Now that you have identified your multipath device name and path you can return 
 
 ## Add storage to an AIX server
 
+AIX uses LVM by default, all block devices are automatically presented as Physical Volumes (PV).
+
+### Discover the new volume
+
+The command to list Physical Volumes on AIX is `lspv`. If you type it on your system before you add a volume, you should get the following output, or similar:
+
+user664@c664-pvm3:/home/user664 $ lspv
+hdisk0          00c3545039af54e2                    rootvg          active
+
+After adding the volume, you need to rescan the system configuration to discover the newly added volume using the `cfgmgr` command:
+
+```shell
+$ sudo cfgmgr
+```
+
+Finally, check you see the new Physical Volume with lspv again:
+
+```shell
+$ lspv
+hdisk0          00c3545039af54e2                    rootvg          active
+hdisk1          none                                None
+```
+
+### Configure the new physical volume with AIX LVM
+
+A Physical Volume needs to be part of a Volume Group (VG). We can either extend an exiting Volume Group, or create a new one. Here we will create a new one, but you could decide to extend rootvg which is the Volume Group used by AIX for its system files and to boot the system.
+
+Create a new volume group called datavg for the new Physical Volume:
+
+```shell
+$ sudo mkvg -S -y datavg hdisk1
+0516-1254 mkvg: Changing the PVID in the ODM.
+datavg
+```
+
+Check with lspv
+
+```shell
+$ lspv
+hdisk0          00c3545039af54e2                    rootvg          active
+hdisk1          00c3546076c7701f                    datavg          active
+```
+
+A volume group contains logical volumes which are the devices used to create filesystems on.
+
+Create a new logical volume called datalv in the datavg volume group:
+
+```shell
+$ sudo mklv -y datalv -t jfs2 -x 4096 datavg $(lsvg datavg | awk '/FREE PPs/ {print $6}')
+datalv
+```
+
+Check with `lsvg`
+
+```shell
+$ lsvg -l datavg
+datavg:
+LV NAME             TYPE       LPs     PPs     PVs  LV STATE      MOUNT POINT
+datalv              jfs2       199     199     1    closed/syncd  N/A
+```
+
+### Create the filesystem
+
+Use the following command to create a /data filesystem on the logical volume datalv you just created
+
+```shell
+$ sudo crfs -v jfs2 -A yes -a logname=INLINE -d datalv -m /data
+File system created successfully.
+52123900 kilobytes total disk space.
+New File System size is 104660992
+```
+
+### Mount the filesystem
+
+Mount `/data` with the following command:
+
+```shell
+$ sudo mount /data
+```
+
+Verify that it is mounted and available:
+
+```shell
+$ df -g
+Filesystem    GB blocks      Free %Used    Iused %Iused Mounted on
+/dev/hd4           0.12      0.06   50%     4150    22% /
+/dev/hd2           3.19      0.11   97%    56468    65% /usr
+/dev/hd9var        1.00      0.96    5%     1144     1% /var
+/dev/hd3           1.00      1.00    1%       30     1% /tmp
+/dev/hd1           2.00      2.00    1%       18     1% /home
+/dev/hd11admin      0.12      0.12    1%        5     1% /admin
+/proc                 -         -    -        -      - /proc
+/dev/hd10opt       1.00      0.56   44%    12446     9% /opt
+/dev/livedump      0.25      0.25    1%        4     1% /var/adm/ras/livedump
+/dev/datalv       49.91     49.70    1%        4     1% /data
+```
+
+Finally, let's allow all users read+write access to /data
+
+```shell
+$ sudo chmod a+rw /data
+```
+
+The /data filesystem is now ready to use. 
+
 ## Add storage to an IBM i server 
+
+### Before you begin
+
+:point_up: On IBM i 7.4, you can use your Operating System credentials to get into SST.
+
+:warning: On IBM i 7.3 and earlier, we cannot create DST/SST user during setup automatically. Please open a support request and ask for a DST/SST account to be able to add your disk to an ASP.
+
+
+### Grow the System ASP
+
+Open SST using STRSST and log in with your SST user.
+1. Select 3. Work with disk units
+2. Select 2. Work with disk configuration
+3. Select 2. Add units to ASPs or 4. Add units to ASPs and balance data
+4. Select 3. Add units to existing ASPs
+
+Specify the ASP you want to grow. Press `F11` to get the current system ASP number.
+
+![](images/ibmi_disk1.png)
+
+You can press `F10` to ignore the warnings and continue.
+
+![](images/ibmi_disk2.png)
+
+
+Finally press `Enter` or `F10` to go on and wait for the process to complete.
+
+![](images/ibmi_disk3.png)
