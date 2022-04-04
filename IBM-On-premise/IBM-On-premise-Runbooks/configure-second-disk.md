@@ -347,8 +347,11 @@ AIX uses LVM by default, all block devices are automatically presented as Physic
 
 The command to list Physical Volumes on AIX is `lspv`. If you type it on your system before you add a volume, you should get the following output, or similar:
 
-user664@c664-pvm3:/home/user664 $ lspv
+
+```shell
+$ lspv
 hdisk0          00c3545039af54e2                    rootvg          active
+```
 
 After adding the volume, you need to rescan the system configuration to discover the newly added volume using the `cfgmgr` command:
 
