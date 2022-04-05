@@ -53,7 +53,7 @@ General Purpose instances offer a good choice for running development and test e
 
 ## Q. Which operating systems are supported?
 The following OS’s are supported:
-- IBM AIX 7.1, 7.2 7.3
+- IBM AIX 7.1, 7.2, 7.3
 - IBM i 7.2, 7.3, 7.4
 - Red Hat Enterprise Linux 7, 8, 9 (on various platforms)
 - Ubuntu 18.04 and 20.04
@@ -93,9 +93,9 @@ The data stored on a local instance store will persist only if that instance is 
 An additional disk has been mapped to your system and we let you use this disk at your convenience (raw, LVM, formatting, mount points, etc).
 
 Here are some examples on how to discover, format and mount the disk in a traditional fashion.
-[Add storage to a Linux server](configure-second-disk.md#add-storage-to-a-linux-server)
-[Add storage to an AIX server](configure-second-disk.md#add-storage-to-an-aix-server)
-[Add storage to an IBM i server](configure-second-disk.md#add-storage-to-an-ibm-i-server)
+- [Add storage to a Linux server](configure-second-disk.md#add-storage-to-a-linux-server)
+- [Add storage to an AIX server](configure-second-disk.md#add-storage-to-an-aix-server)
+- [Add storage to an IBM i server](configure-second-disk.md#add-storage-to-an-ibm-i-server)
 
 ## Q. How do I prevent other people from viewing my systems?
 You have complete control over the visibility of your systems. The IBM Technology Zone Infrastructure OnPrem Systems Infrastructure will isolate each environment with separate VLAN’s.
@@ -127,8 +127,8 @@ No. IBM Technology Zone Infrastructure OnPrem Systems Infrastructure provides sh
 
 ## Q. Does IBM Technology Zone Infrastructure OnPrem Systems Infrastructure allow installation of software from other sites?
 Yes, installation of other software, IBM or open-source, is allowed on the systems. One example is below:
-• H2O: documentation is available online on the [H2O website](https://s3.amazonaws.com/artifacts.h2o.ai/releases/ai/h2o/dai/rel-1.5.4-65/docs/userguide/install/ibm-power.html 
-Registered IBM PartnerWorld Members can download IBM applications and middleware from the IBM Software Access Catalog.
+- H2O: documentation is available online on the [H2O website](https://s3.amazonaws.com/artifacts.h2o.ai/releases/ai/h2o/dai/rel-1.5.4-65/docs/userguide/install/ibm-power.html)
+- Registered IBM PartnerWorld Members can download IBM applications and middleware from the IBM Software Access Catalog.
 Go here for details and steps required.
 
 
