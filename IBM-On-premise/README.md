@@ -6,7 +6,7 @@
 - Request HMC access: If you really need HMC access, please book through our [old portal](http://ibm.biz/cecc-portal).
 
 
-## Self-service actions currently not available
+## Self-service runtime actions currently not available
 - Add a second disk after the creation: A workaround is to cancel your current reservation and add a second disk during the booking process.
 - Add more VPN IDs: please open a ticket
 
@@ -23,3 +23,7 @@ To get help, please open a ticket to [our support team](mailto:techzone.help@ibm
 The IBM Technology Zone OnPrem Systems Infrastructure team will notify customers about both scheduled and unscheduled service interruptions.
 
 The standard Maintenance Schedule is between 6 AM to 10 AM ET on the 1st and 3rd Monday of every month excluding US holidays. 
+
+## FAQ
+
+[Check our FAQ](IBM-On-premise-Runbooks/faq.md)
