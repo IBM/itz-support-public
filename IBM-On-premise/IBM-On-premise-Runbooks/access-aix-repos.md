@@ -4,7 +4,7 @@ AIX systems will be installed with default images.  Additional images and update
 
 ## AIX 7.1
 
-/cecc/repos/aix71
+`/cecc/repos/aix71`
 
 /cecc/repos/lpp
 
