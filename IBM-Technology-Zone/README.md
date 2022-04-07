@@ -182,6 +182,8 @@
 
 [Template an IBM Cloud Classic VM for Your Collection](IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md)  :white_check_mark:  
 
+[Support Contacts on a Collection](IBM-Technology-Zone-Runbooks/supportcontactsfield.md)  :white_check_mark:  
+
 ## Content
 
 [Technical Decision Points on IBM Technology Zone](IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
