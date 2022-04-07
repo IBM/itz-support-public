@@ -18,6 +18,8 @@ To get help, please open a ticket to [our support team](mailto:techzone.help@ibm
 
 [Configure the second disk](IBM-On-premise-Runbooks/configure-second-disk.md)
 
+[Access AIX repos](IBM-On-premise-Runbooks/access-aix-repos.md)
+
 ## Maintenance
 
 The IBM Technology Zone OnPrem Systems Infrastructure team will notify customers about both scheduled and unscheduled service interruptions.
