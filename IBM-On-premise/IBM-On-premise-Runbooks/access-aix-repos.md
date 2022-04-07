@@ -6,13 +6,13 @@ AIX systems will be installed with default images.  Additional images and update
 
 `/cecc/repos/aix71`
 
-/cecc/repos/lpp
+`/cecc/repos/lpp`
 
 ## AIX 7.2
 
-/cecc/repos/aix72
+`/cecc/repos/aix72`
 
-/cecc/repos/lpp
+`/cecc/repos/lpp`
 
 Example: 
 ```shell
@@ -28,6 +28,6 @@ XLC
 
 ## AIX 7.3
 
-/cecc/repos/aix73
+`/cecc/repos/aix73`
 
-/cecc/repos/lpp
+`/cecc/repos/lpp`
