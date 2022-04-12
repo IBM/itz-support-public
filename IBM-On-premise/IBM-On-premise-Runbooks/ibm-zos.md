@@ -7,11 +7,14 @@
 - CICS Performance Analyzer v5.4
 - DB2 v12.1
 - DB2 Admin Tool v 12.1
-- Java v8
 - MQ v9.2
 - Rocket tools
 - Bash v4.3
 - TWS v9.3
+- Java v8 (1.8.0_281)
+- Enterprise Cobol v4r2, v5r1, v6r1, v6r2, v6r3
+- PL1 v2r3, v3r3, v4r2
+- REXX v1r4
 
 ## How to connect to the z/OS LPARs
 
