@@ -1,4 +1,4 @@
-# How to Schedule a Skytap Workshop
+# DELETE REQUIRED How to Schedule a Skytap Workshop
 
 Group reservations can be scheduled on IBM Technology Zone using the "schedule a workshop" feature which takes you to the Workshop Manager. 
 
