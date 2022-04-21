@@ -31,11 +31,12 @@ You will be taken to the "Request a workshop" page.
   
   a. Environment Template selection is pre filled from the parent environment
  
- b. Select the Region you want the environments provionined from. Choose the region closest to the students physical location
+ b. Select the Region you want the environments provionined from. Choose the region closest to the students physical location.
+ 
+ Afterwards click **Next**
    
   ![Workshop-step 1](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step%201.png)
   
-  click "next"
   
 8. Step 2: Workshop Justification
   
