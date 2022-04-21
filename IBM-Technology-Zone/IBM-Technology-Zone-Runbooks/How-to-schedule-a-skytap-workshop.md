@@ -50,6 +50,7 @@ You will be taken to the "Request a workshop" page.
   ![Workshop-step 2](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step%202.png)  
    
  9. Step 3: Scheduling Information
+
   
 * Select the "workshop delivery audience"
   
@@ -68,7 +69,7 @@ You will be taken to the "Request a workshop" page.
    ![Workshop-step3a](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step3a.png)
   
   
-  10. Step 4: Workshop Information Fill out the workshop details and click the "Submit" button once finished. If you would like to finish this workshop request at a later time you can select "Save draft". Saved or submitted workshop requests can be viewed in "My workshops" tab.
+ 10. Step 4: Workshop Information Fill out the workshop details and click the "Submit" button once finished. If you would like to finish this workshop request at a later time you can select "Save draft". Saved or submitted workshop requests can be viewed in "My workshops" tab.
     
 * "Workshop Title" this should be a unique title we suggest adding a date. If the title is a duplicate you will be unable to submit
     
