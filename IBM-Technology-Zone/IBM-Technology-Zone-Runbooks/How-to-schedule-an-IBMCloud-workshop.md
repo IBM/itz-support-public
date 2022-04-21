@@ -10,11 +10,11 @@ Group reservations can be scheduled on IBM Technology Zone using the "schedule a
 
 3. Filter for the desired Infrastructure example "Skytap"
 
-![Workshop-infrastructure](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-infrastructuure.png)
+![Workshop-infrastructure](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/.png)
 
 4. Find the environment you would like to use for your workshop and click on the "reserve" icon
 
-![workshop-reserve](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reserve%20environment.png)
+![workshop-reserve](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/.png)
 
 5. Select "schedule a workshop"
 
@@ -33,7 +33,7 @@ You will be taken to the "Request a workshop" page.
  
 * Select the Region you want the environments provionined from. Choose the region closest to the students physical location. Afterwards click **Next**
    
-  ![Workshop-step 1](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step%201.png)
+  ![Workshop-step 1](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/.png)
   
   
 8. Step 2: Workshop Justification
@@ -61,12 +61,6 @@ You will be taken to the "Request a workshop" page.
   
    
   ![Workshop-step3](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step3.png)
-  
-     
-   [OPTIONAL] Advanced settings is available if you require specific features for your workshops 
-   
-   ![Workshop-step3a](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step3a.png)
-  
   
   10. Step 4: Workshop Information Fill out the workshop details and click the "Submit" button once finished. If you would like to finish this workshop request at a later time you can select "Save draft". Saved or submitted workshop requests can be viewed in "My workshops" tab.
     
