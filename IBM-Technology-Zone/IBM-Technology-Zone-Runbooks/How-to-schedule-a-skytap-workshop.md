@@ -3,10 +3,10 @@
 Group reservations can be scheduled on IBM Technology Zone using the "schedule a workshop" feature which takes you to the Workshop Manager. 
 
 1. From the IBM Technology Home page
+2. Click on "Environments"
 
 ![Workshop-environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-environment.png)
 
-2. click on "Environments"
 
 3. Filter for the desired Infrastructure example "Skytap"
 
