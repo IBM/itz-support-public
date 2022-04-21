@@ -84,9 +84,7 @@ You will be taken to the "Request a workshop" page.
     
 * survey url
   
-  ![Workshop-step4](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step4.png) 
-  
-   
+  ![Workshop-step4](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step4.png)
      
 11. After submitting your workshop request, navigate to your My workshops page by selecting the "My workshops" button. 
    
