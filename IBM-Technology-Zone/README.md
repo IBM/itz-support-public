@@ -33,11 +33,15 @@
 
 ## Workshop
 
-[How to for Attendee](IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-for-Attendee.md)  :white_check_mark: 
+[How to for Attendee (Skytap)](IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-for-Attendee.md)  :white_check_mark: 
 
-[How to for Instructors](IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md)  :white_check_mark: 
+[How to step by step for Instructors](IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md)  :white_check_mark: 
 
-[How to Schedule a Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md)  :white_check_mark: 
+[How to Schedule an IBM Cloud Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-an-IBMCloud-workshop.md)  
+
+[How to Schedule a Hosted Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-hosted-workshop.md)  
+
+[How to Schedule a Skytap Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md)  :white_check_mark: 
 
 [How to Save a Workshop](IBM-Technology-Zone-Runbooks/how-to-save-a-workshop.md)  :white_check_mark: 
 
