@@ -56,7 +56,7 @@ You will be taken to the "Request a workshop" page.
  
 * Select the Workshop Phase
   
-* Enter 'Sales Opportunity Number' of Customer Company name is **required** for all workshop. This is a detemining factor for if you workshops get Approved or rejected
+* Sales Opportunity Number or Customer Company name is **required** for all workshop. This priotizes your request and a determining factor for approvals or rejection.
  
 * Enter any notes you want to include with your workshop. Afterwards, click **Next**
   
@@ -82,7 +82,7 @@ You will be taken to the "Request a workshop" page.
    
 11. After submitting your workshop request, navigate to your My workshops page by selecting the "My workshops" button. 
    
-Only submitted worksops are reviewed "saved" Workshops are not reviewed.
+Only submitted worksops are sent for review, "saved" Workshops are not reviewed.
    
 ![submit workshop manager page](Images/submitted%20workshop%20request.png)
 
