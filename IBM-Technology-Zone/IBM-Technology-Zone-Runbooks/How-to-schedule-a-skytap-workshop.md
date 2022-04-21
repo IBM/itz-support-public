@@ -6,6 +6,7 @@ Currently only Infrastructure "Skytap" can be scheduled on Workshop Manager
 1. From the IBM Technology Home page
 
 ![Workshop-environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-environment.png)
+
 2. click on "Environments"
 
 3. Filter for the desired Infrastructure example "Skytap"
