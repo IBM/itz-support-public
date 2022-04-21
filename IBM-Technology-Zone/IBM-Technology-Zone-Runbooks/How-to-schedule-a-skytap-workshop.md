@@ -29,71 +29,68 @@ You will be taken to the "Request a workshop" page.
 
 7. Step 1: Environment Infromation
   
-  a. Environment Template selection is pre filled from the parent environment
+* Environment Template selection is pre filled from the parent environment
  
- b. Select the Region you want the environments provionined from. Choose the region closest to the students physical location.
- 
- Afterwards click **Next**
+* Select the Region you want the environments provionined from. Choose the region closest to the students physical location. Afterwards click **Next**
    
   ![Workshop-step 1](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step%201.png)
   
   
 8. Step 2: Workshop Justification
   
-  a. IBM Products is pre filled from the environment page
+* (Prefilled) IBM Products
  
- b. Select the Workshop Phase
+* Select the Workshop Phase
   
-  c. sales opportunity number of Customer Company name is required for all workshop. This is a detemining factor for if you workshops get Approved or rejected
+* Sales Opportunity Number or Customer Company name is **required** for all workshop. This priotizes your request and a determining factor for approvals or rejection.
  
- d. Notes
+* Enter any notes you want to include with your workshop. Afterwards, click **Next**
  
   
   ![Workshop-step 2](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step%202.png)  
-    
-   click "next"
-
+   
  9. Step 3: Scheduling Information
   
-  a. Select the "workshop delivery audience"
+* Select the "workshop delivery audience"
   
-  b. number of environmenrs
+* Enter number of environments
  
- c. number of attendees
+* Enter number of attendees
   
-  d. select start date/time and end date/time. Note: your start date has to be greater than or equal to 72 hours of your current time.
+* Select start date/time and end date/time. Note: your start date has to be greater than or equal to 72 hours of your current time. Afterwards, click **Next**
   
    
   ![Workshop-step3](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step3.png)
   
-   click "next"
      
    [OPTIONAL] Advanced settings is available if you require specific features for your workshops 
    
    ![Workshop-step3a](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step3a.png)
   
   
-  10. Step 4: Workshop Information
+  10. Step 4: Workshop Information Fill out the workshop details and click the "Submit" button once finished. If you would like to finish this workshop request at a later time you can select "Save draft". Saved or submitted workshop requests can be viewed in "My workshops" tab.
     
-   a. "Workshop Title" this should be a unique title we suggest adding a date. If the title is a duplicate you will be unable to submit
+* "Workshop Title" this should be a unique title we suggest adding a date. If the title is a duplicate you will be unable to submit
     
-   b. Description
+* Description
     
-   c. Instructor emails
+* Instructor emails
     
-   d. physical location
+ * physical location
     
-   e. workshop password - this is strongly advised to protect your workshop
+* workshop password - this is strongly advised to protect your workshop
     
-   f. Guide url
+ * Guide url
     
-   g. survey url
+* survey url
   
   ![Workshop-step4](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-step4.png) 
   
-   Click "Submit" button
    
-   11. After submitting your workshop request, navigate to your My workshops page by selecting the "My workshops" button. 
+     
+11. After submitting your workshop request, navigate to your My workshops page by selecting the "My workshops" button. 
+   
+Only submitted worksops are sent for review, "saved" Workshops are not reviewed.
    
    ![submit workshop manager page](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/submitted%20workshop%20request.png)
    
@@ -102,6 +99,8 @@ You will be taken to the "Request a workshop" page.
    ![Workshop-pendingapproval](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Workshop-pendingapproval.png)   
   
   Your request will be treated within 72 hours of when it was submitted.   
+  
+  **NOTE** Only request in status "pending approval" are reviewed. Status "saved" will not be reviewed.
   
   All inquiries and Support for Workshop Manager use slack channel [#itz-workshop-support](https://ibm-techzone.slack.com/archives/CTA2MV9AM)
     
