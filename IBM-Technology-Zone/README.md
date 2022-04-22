@@ -45,6 +45,10 @@
 
 [How to Save a Workshop](IBM-Technology-Zone-Runbooks/how-to-save-a-workshop.md)  :white_check_mark: 
 
+[How do I upload a list of students to a workshop?](IBM-Technology-Zone-Runbooks/UploadAttendees.md)  :white_check_mark: 
+
+[How to Download Workshop Environment Information to a Spreadsheet](IBM-Technology-Zone-Runbooks/DownloadWSEnvInfo.md)  :white_check_mark: 
+
 
 ## GDPR
 
