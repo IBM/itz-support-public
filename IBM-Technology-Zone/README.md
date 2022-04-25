@@ -3,7 +3,7 @@
 ## Support
 [How do I get support for ITZ](IBM-Technology-Zone-Runbooks/How%20to%20get%20support.md)  :white_check_mark:  
 
-[Content Support](IBM-Technology-Zone-Runbooks/ContentSupport.md)
+[Content Support](IBM-Technology-Zone-Runbooks/ContentSupport.md)  :white_check_mark: 
 
 [Infrastructure Support](IBM-Technology-Zone-Runbooks/InfrastructureSupport.md)
 
