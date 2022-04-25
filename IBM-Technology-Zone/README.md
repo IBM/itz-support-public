@@ -5,7 +5,7 @@
 
 [Content Support](IBM-Technology-Zone-Runbooks/ContentSupport.md)  :white_check_mark: 
 
-[Infrastructure Support](IBM-Technology-Zone-Runbooks/InfrastructureSupport.md)
+[Infrastructure Support](IBM-Technology-Zone-Runbooks/InfrastructureSupport.md)  :white_check_mark: 
 
 [Experiences Support](IBM-Technology-Zone-Runbooks/additional-experiences-support.md)  :white_check_mark:
 
