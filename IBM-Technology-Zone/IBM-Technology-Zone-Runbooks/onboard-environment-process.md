@@ -7,7 +7,6 @@ As a user on the site, you would like to add an environment catalog entry to you
 Step by step walk though with more detail provided below: 
 
 1. Request to onboard a template through the [custom request](https://ibm.biz/itz-environment-requests) portal. 
-Additional documentation on process and support along the way can be found [here](https://ibm.box.com/s/i898k8fjrcabnpbj01p6aka78mvc8fhf). 
 
 2. After approval, ensure that you have created a collection for this environment to be cataloged on. 
 Visit the IBM Technology Zone [Onboarding collection](https://ibm.biz/techzone-onboarding) for self-paced training videos on this process. 
