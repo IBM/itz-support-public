@@ -1,69 +1,27 @@
-# How Long Can IBMers Reserve an Environment? 
+# How long can I reserve an environment for? 
 
-Please review the following infographic and keep reading for additional context.
-
-> **NOTICE:** All infrastructure options durations are dependent on the pupose selected.
-
-![Reservationdurationinfographic](Images/reservationdurationpolicyimage-12-21.png)
+Please review the following enhnacement added to IBM Technology Zone's reservation forms to improve the visibility for our users to see exactly how long they can reserve an environment for. 
 
 
+Now find two places on the reservation form that display the amount of time in which a user can reserve an environment for (see screenshot below). 
 
-## Skytap infrastructure duration policies:
-* Purpose type: Test or Self-education
-    * Minimum duration to have this environment is 4 hours. (this value is by default)
-    * Default maximum duration means that you can select to have this environment for up to 1 week based on this purpose.
-    * To extend this reservation you must edit the reservation and input a new purpose along with a valid opportunity code.
-  
-    
-* Purpose type: Customer Demo, POT, & POC
-    * Minimum duration to have this environment is 3 days. (this value is by default)
-    * Maximum duration that you can reserve on the initial reservation request form is up to 2 weeks. 
-    * Extend your reservation 1 week at a time for up 3 months by providing a valid opportunity code in the reservation form. 
+![reservation durations](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/Images/reservation_durations.png)
 
 
-## IBM Cloud, ROKS, & Fyre infrastructure duration policies:
-* Purpose type: Test or Self-education
-    * Minimum duration to have this environment is 3 days. (this value is by default)
-    * Maximum duration that you can reserve on the initial reservation request form is up to 2 weeks. 
-    * To extend this reservation you must edit the reservation and input a new purpose along with a valid opportunity code.
-    
-* Purpose type: Customer Demo, POT, & POC
-    * Minimum duration to have this environment is 3 days. (this value is by default)
-    * Maximum duration that you can reserve on the initial reservation request form is up to 2 weeks. 
-    * Extend your reservation 1 week at a time for up 3 months by providing a valid opportunity code in the reservation form.
-
-
-## AWS & Azure infrastructure duration policies:
-* Purpose type: Test or Self-education
-    * We are not currently allowing reservations for 3rd Party Cloud unless there is a Sales opportunity associated with the reservation. Please proceed to customer related purpose if you have a valid opportunity code. 
-    
-* Purpose type: Customer Demo, POT, & POC
-    * Minimum duration to have this environment is 3 days. (this value is by default)
-    * Maximum duration that you can reserve on the initial reservation request form is up to 2 weeks. 
-    * Extend your reservation 1 week at a time for up 3 months by providing a valid opportunity code in the reservation form.
-
-
-
+Watch how the reservation durations will change as you fill out the form. Providing more information, for example, selecting a "Customer Demo", "Proof of Concept", or "Proof of Technology" purpose and provding a valid IBM Sales Cloud or Gainsite relationship ID will provide you more time on the intial reservation form. 
 
 
 ### Definitions
 
+Default duration: Without selecting a purpose or geo on the initial reservation form, this will be the default time frames that you can reserve this environment for to start. 
 
-Default minimum: Without changing any dates on the initial reservation form will default to this time frame specified above. 
+Maximum duration: As you fill out the form the maximum duration will be how long you can choose to reserve this environment till. The max time allowed on this initial reservation form. (Note: users can leverage the extend option if they provide a valid opportunity code after making the inital reservation)
 
-Default maximum: If you would like to modify past the default minimum, you can select up to the default maximum based on time frame specified above. 
+Delay by: There are some environments that you can reserve on Technology Zone that need to be scheduled a specific amount of time before the environment will start provisioning. For example: A delay by date of 3 days, means that you will not be able to select a start date until three days from today's date. 
 
-Initial reservation: Starting by filling out the reservation form on IBM Technology Zone.
+Extension duration: This environment will allow you to extend for this duration after reserving the environment. For example: An extension duration of 7 days means that you will be able to extend this reservation every week for another 7 days.
 
-Extensions: 
-* For purpose Test or Self-education, you must edit the reservation to input a new purpose and opportunity code to then be able to extend the reservation. (follow next extension rule once you have updated your reservation with the new purpose) 
-* For purpose Customer Demo, POC, & POT the customer name and opportunity code field capture will display. Filling in a valid opportunity code will alloow you to exgtend up to 1 week at a time for up to 3 months.
-
-> **NOTICE** For the self service extension, you must extend within one week of the reservation expiration date. 
-    
-Exceptions:
-* If you do not have an opportunity code or customer name associated with your reservation that you reserved as purpose Test, then follow the custom request runbook to request an extension based on your unique business justification. 
-
+Extension limit: This environment has a limited number of extensions. For example: Having an extension limit of 12 means that you can extend your reservation every week for another 7 days but there is a limite to doing an extension to 12 times only. 
 
 
 ### Support
