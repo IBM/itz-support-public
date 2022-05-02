@@ -5,7 +5,7 @@ Please review the following enhnacement added to IBM Technology Zone's reservati
 
 Now find two places on the reservation form that display the amount of time in which a user can reserve an environment for (see screenshot below). 
 
-![reservation durations](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/Images/reservation_durations.png)
+![reservation durations](Images/reservation_durations.png)
 
 
 Watch how the reservation durations will change as you fill out the form. Providing more information, for example, selecting a "Customer Demo", "Proof of Concept", or "Proof of Technology" purpose and provding a valid IBM Sales Cloud or Gainsite relationship ID will provide you more time on the intial reservation form. 
