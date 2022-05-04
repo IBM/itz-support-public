@@ -1,4 +1,4 @@
-# How long can I reserve an environment for? 
+# How Long Can I Reserve an Environment For? 
 
 Please review the following enhnacement added to IBM Technology Zone's reservation forms to improve the visibility for our users to see exactly how long they can reserve an environment for. 
 
