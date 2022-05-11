@@ -14,7 +14,7 @@
 
 ![addenvironment](Images/addenvironment.png)
 
-a. choose "environment title" "Infrastructure"
+a. choose "environment title" "Infrastructure" Skytap
 
 6. Fill environment form 
 
