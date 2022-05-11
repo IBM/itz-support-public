@@ -20,7 +20,10 @@ a. choose "environment title" "Infrastructure" Skytap
 
 ![environmentform](Images/environmentform.png)
 
+
  Scroll down to Region, use the plus sign (+) to add template ids provided to you by the support team Enter each regions separately 
+ 
+ ![regiontemplate](Images/regiontemplate.png)
 
 If you have Opened Ports for the templates define them using Link Patterns sections. Use the plus sign (+) to add all ports opened
 
@@ -30,18 +33,21 @@ Template - syntax for published  http://targetDomain:targetPort --- targetDomain
 Example Link Patterns
 
 Port and template
+
 ![port1](Images/port1.png)
 
 Automated Mail output
+
 ![mail1](Images/mail1.png)
 
 Port and template
+
 ![port2](Images/port2.png)
 
 Automated Mail output
+
 ![mail2](Images/mail2.png)
 
-![regiontemplate](Images/regiontemplate.png)
 
 7. Click Save once form is completed
 
