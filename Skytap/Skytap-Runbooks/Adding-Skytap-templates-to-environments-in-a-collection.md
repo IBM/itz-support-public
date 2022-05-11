@@ -28,7 +28,7 @@ a. choose "environment title" "Infrastructure" Skytap
 If you have Opened Ports for the templates define them using Link Patterns sections. Use the plus sign (+) to add all ports opened
 
 Port - enter the port number opened
-Template - syntax for published  http://targetDomain:targetPort --- targetDomain (auto created) targetPorts(auto created)
+Template - syntax for published url http://targetDomain:targetPort --- targetDomain (auto created) targetPorts(auto created)
 
 Example Link Patterns
 
