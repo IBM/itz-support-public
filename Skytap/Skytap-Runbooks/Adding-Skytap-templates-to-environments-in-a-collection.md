@@ -16,9 +16,31 @@
 
 a. choose "environment title" "Infrastructure"
 
-6. scroll down to Region, click on plus sign (+)  enter the template ids provided to you by the support team, add template ids for each regions separately
+6. Fill environment form 
+
+![environmentform](Images/environmentform.png)
+
+ - scroll down to Region, use the plus sign (+) to add template ids provided to you by the support team Enter each regions separately 
+
+If you have Opened Ports for the templates define them using Link Patterns sections. Use the plus sign (+) to add all ports opened
+
+Port - enter the port number opened
+Template - syntax for published  http://targetDomain:targetPort --- targetDomain (auto created) targetPorts(auto created)
+
+Example Link Patterns
+Port and template
+![port1](Images/port1.png)
+Automated Mail output
+![port1](Images/port1.png)
+
+Port and template
+![port2](Images/port2.png)
+Automated Mail output
+![port2](Images/port2.png)
 
 ![regiontemplate](Images/regiontemplate.png)
+
+7. Click Save once form is completed
 
 ### Support
 
