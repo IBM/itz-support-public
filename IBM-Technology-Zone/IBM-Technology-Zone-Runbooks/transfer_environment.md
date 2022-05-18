@@ -1,4 +1,4 @@
-# How do I transfer my environment/reservation to another user?
+# How Do I Transfer My Environment/Reservation to Another User?
 
 1. Log in to the portal using your IBM id
 2. Go to "My Library" and click on "My reservations"
@@ -20,7 +20,8 @@ Note: all fields have to be field for "Transfer" to turn red
 
 
 Important notes: 
-1. There are no limits to the number of times an environment can be transferred. An environment can onnly be transfered to one user per time
-2. Once you transfer an environment it is removed from your "My reservation" view
+1. There are no limits to the number of times an environment can be transferred. An environment can onnly be transfered to one user per time  
+2. Once you transfer an environment it is removed from your "My reservation" view  
 3. You can request the environment be transferred back to you if you need it
 4. Use case where transfers are suggested a. when you are going on a vacation you can trasnfer your reservation to a colleague to manage in your absence b. collaborating with a colleague 
+5. The reservation will be removed from your view and ownership
