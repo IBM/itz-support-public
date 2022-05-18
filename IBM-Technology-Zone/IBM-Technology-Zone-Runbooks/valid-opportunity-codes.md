@@ -10,7 +10,7 @@ Selecting one of the following purposes will require a valid opportunity code: C
 
 ![opportunity code field](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/opportunity%20code%20field.png)
 
-## What is a Valid Opportunity code? 
+## What is a Valid Opportunity Code? 
 
 Technical Sellers - All IBM Sales Cloud opportunity codes that are not in a "lost" sales stage are considered valid opportunity codes.
 
@@ -58,7 +58,7 @@ There are two ways to find this unique ID.
 ![step 3 relationship id](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/step3relationship%20id.png)
 
 
-## How to reserve if you do not have a valid opportunity created yet
+## How to Reserve if You Do Not Have a Valid Opportunity Created Yet
 
 If you are working with a customer and you do not yet have an opportunity logged in ISC or Gainsite CRM tool, then please proceed with the following:
 
@@ -71,4 +71,8 @@ Note: These fields will not require an opportunity code or relationship ID and w
 Reservation duration policies linked on reservation form:
 
 ![reservation duration policy link on form](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservation%20duration%20policy.png)
+
+### Support
+
+For any questions, contact ITZ support - techzone.help@ibm.com
 
