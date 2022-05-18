@@ -10,7 +10,11 @@ Selecting one of the following purposes will require a valid opportunity code: C
 
 ![opportunity code field](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/opportunity%20code%20field.png)
 
+## What is a Valid Opportunity code? 
 
+Technical Sellers - All IBM Sales Cloud opportunity codes that are not in a "lost" sales stage are considered valid opportunity codes.
+
+Customer Success Managers using Gainsite - Relationship IDs that are open and active are considered valid opportunity codes. 
 
 ## IBM Sales Cloud (ISC) Opportunity codes
 
