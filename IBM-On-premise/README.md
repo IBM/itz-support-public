@@ -2,9 +2,9 @@
 
 ## Known limitations
 - Extending a reservation is not possible: This will be addressed soon and is coming in a future release.
-- Several resources within a same network: If you need more than 1 resources that have to communicate with each other, please keep booking resources through our [legacy portal](http://ibm.biz/cecc-portal).
-- Request HMC access: If you really need HMC access, please book through our [legacy portal](http://ibm.biz/cecc-portal).
-- SSH key: Injecting your own SSH key into the OS is currently disabled but we are working on adding this feature back. In the meantime please you can use the auto-generated project key.
+- Several resources within a same network: If you need more than 1 resource that have to communicate with each other, please keep booking resources through our [legacy portal](http://ibm.biz/cecc-portal). PROJECT will be available in IBM Technology Zone soon.
+- Request HMC access: If you really need HMC access, please book through our [legacy portal](http://ibm.biz/cecc-portal). HMC access is available by default for On Prem Systems offerings in IBM Technology Zone.
+- SSH key: Injecting your own SSH key into the OS is currently disabled but we are working on adding this feature back. In the meantime you can use the auto-generated project key.
 
 
 ## Self-service runtime actions currently not available
