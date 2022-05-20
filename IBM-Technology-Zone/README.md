@@ -190,6 +190,8 @@
 
 [Support Contacts on a Collection](IBM-Technology-Zone-Runbooks/supportcontactsfield.md)  :white_check_mark:  
 
+[Transfer Collection Ownership](IBM-Technology-Zone-Runbooks/transfer-collection.md)  :white_check_mark:  
+
 ## Content
 
 [Technical Decision Points on IBM Technology Zone](IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
