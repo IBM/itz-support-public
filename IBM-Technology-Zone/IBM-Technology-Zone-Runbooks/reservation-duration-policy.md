@@ -21,7 +21,7 @@ Delay by: There are some environments that you can reserve on Technology Zone th
 
 Extension duration: This environment will allow you to extend for this duration after reserving the environment. For example: An extension duration of 7 days means that you will be able to extend this reservation every week for another 7 days.
 
-Extension limit: This environment has a limited number of extensions. For example: Having an extension limit of 12 means that you can extend your reservation every week for another 7 days but there is a limite to doing an extension to 12 times only. 
+Extension limit: This environment has a limited number of extensions. For example: Having an extension limit of 12 means that you can extend your reservation every week for another 7 days but there is a limit to doing an extension to 12 times only. 
 
 
 ### Support
