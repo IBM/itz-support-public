@@ -43,7 +43,7 @@ Learn best practices when sharing a box link as a resource on your collection.
 
 ![copy box link](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/copy%20box%20link.png)
 
-11. Update that URL to the Resource URL field as shown in the [How to add a resource to a collection runbook](FIX)
+11. Update that URL to the Resource URL field as shown in the [How to add a resource to a collection runbook](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/add-a-resource.md)
 
 ### Support
 
