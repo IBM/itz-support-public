@@ -1,4 +1,4 @@
-# Resource Box link best practices
+# Resource Box link Best Practices
 
 Learn best practices when sharing a box link as a resource on your collection.
 
