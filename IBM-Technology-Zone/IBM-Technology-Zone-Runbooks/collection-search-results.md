@@ -1,4 +1,4 @@
-# Content Creator: How to improve your collections search results
+# Content Creator: How to Improve Your Collections Search Results
 
 Scenario:
 
