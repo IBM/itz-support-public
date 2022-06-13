@@ -192,6 +192,8 @@
 
 [Transfer Collection Ownership](IBM-Technology-Zone-Runbooks/transfer-collection.md)  :white_check_mark:  
 
+[Automated Collection Lifecycle Management](IBM-Technology-Zone-Runbooks/launch%20of%20new%20automated-lifecycle-management.md)  :white_check_mark:  
+
 ## Content
 
 [Technical Decision Points on IBM Technology Zone](IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
