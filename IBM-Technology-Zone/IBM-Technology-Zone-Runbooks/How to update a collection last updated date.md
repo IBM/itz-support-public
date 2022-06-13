@@ -22,7 +22,7 @@ Update brand: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology
 
 6. Click the **Save** button. 
 
-![Save changes](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/Images/save%20the%20collection.png)
+![Save changes](Images/save%20the%20collection.png)
 
 ## Preview as you edit
 
