@@ -194,6 +194,8 @@
 
 [Automated Collection Lifecycle Management](IBM-Technology-Zone-Runbooks/launch%20of%20new%20automated-lifecycle-management.md)  :white_check_mark:  
 
+[How to Update a Collection's Last Updated Date](IBM-Technology-Zone-Runbooks/How%20to%20update%20a%20collection%20last%20updated%20date.md)  :white_check_mark:  
+
 ## Content
 
 [Technical Decision Points on IBM Technology Zone](IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
