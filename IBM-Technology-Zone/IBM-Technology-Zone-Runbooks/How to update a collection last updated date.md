@@ -1,4 +1,4 @@
-# How to Update a Collection Last Updated Date
+# How to Update a Collection's Last Updated Date
 
 1. Navigate to your collection from the **My library* tab in the top navigation bar.
 
