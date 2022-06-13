@@ -14,6 +14,10 @@
 
 5. Please look for and update the following within your collection (if applicable): 
 
+Review the collection title & description
+
+Review resources, environments, & journeys referenced on the collection
+
 Transfer collection ownership: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer-collection.md
 
 Update taxonomy: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/product-taxonomy.md#how-to-catalog-the-correct-taxonomy-for-your-collection-on-ibm-technology-zone
