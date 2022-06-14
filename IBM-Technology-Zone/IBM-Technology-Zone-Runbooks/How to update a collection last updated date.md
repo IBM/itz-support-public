@@ -8,11 +8,11 @@
 
 ![My created resources](Images/my%20created%20resources.png)
 
-4. From the view collection page, select the **Edit** button located in the top right of the collection banner. 
+3. From the view collection page, select the **Edit** button located in the top right of the collection banner. 
 
 ![Edit collection](Images/edit-collection.png)
 
-5. Please look for and update the following within your collection (if applicable): 
+4. Please look for and update the following within your collection (if applicable): 
 
 Review the collection title & description
 
@@ -24,9 +24,23 @@ Update taxonomy: https://github.com/IBM/itz-support-public/blob/main/IBM-Technol
 
 Update brand: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/product-taxonomy.md#selecting-the-correct-brand
 
-6. Click the **Save** button. 
+5. Click the **Save** button. 
 
 ![Save changes](Images/save%20the%20collection.png)
+
+## How to retire content that is not longer current
+
+If after following the review process above (step 5) you determin your collection is no longer needed, please follow next steps to unpublish your collection.
+
+1. Click on collection status located on the bottom right. 
+
+![Retire collection]Images/retired.jpg)
+
+2. Click the **Save** button. 
+
+![Save changes](save%20the%20collection.png)
+
+Note: Retired status is an archived state. This collection can be brought back at a later time, if needed.
 
 ## Preview as you edit
 
