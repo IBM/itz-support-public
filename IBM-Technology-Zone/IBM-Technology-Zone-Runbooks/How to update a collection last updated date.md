@@ -34,7 +34,7 @@ If after following the review process above (step 5) you determin your collectio
 
 1. Click on collection status located on the bottom right. 
 
-![Retire collection]Images/retired.jpg)
+![Retire collection](Images/retired.jpg)
 
 2. Click the **Save** button. 
 
