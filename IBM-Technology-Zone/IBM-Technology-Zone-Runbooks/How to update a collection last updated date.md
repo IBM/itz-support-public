@@ -38,7 +38,7 @@ If after following the review process above (step 5) you determin your collectio
 
 2. Click the **Save** button. 
 
-![Save changes](save%20the%20collection.png)
+![Save changes](Images/save%20the%20collection.png)
 
 Note: Retired status is an archived state. This collection can be brought back at a later time, if needed.
 
