@@ -227,11 +227,11 @@ variable "secondary_disk_size_options" {
   ]
 }
 ```
-Results:
-![Reservation Options](Images/gitops-options.png)
+Results:  
+![Reservation Options](Images/gitops-options.png)  
 
 
-4) `main.tf`
+4) `main.tf`  
 The main config file consists the resources to be provisioned.
 ```
 data "ibm_resource_group" "resource_group" {
