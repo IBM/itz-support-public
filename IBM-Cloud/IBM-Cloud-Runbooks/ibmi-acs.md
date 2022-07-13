@@ -36,21 +36,21 @@ Keep port **22** and Connection type **SSH**.
 
 6. Load the private key into PuTTY. Expand the left menu Connection -> SSH -> Auth and use the Browse button to load your Putty private key `putty-private-key.ppk`.
 
-![](images/putty-load-key.png
+![](images/putty-load-key.png)
 
 7. Configure the port redirections. Expand the left menu Connection -> SSH -> Tunnel. Set Source Port with **50000**, Destination **Localhost:23**, and click Add. 
 
 ![](images/putty-conf-port.png)
 
 Then repeat the same using these mapping - do not forget to click Add:
-    - source port: **449** / desination **localhost:449**
-    - source port: **8470** / desination **localhost:8470**
-    - source port: **8471** / desination **localhost:8471**
-    - source port: **8472** / desination **localhost:8472**
-    - source port: **8473** / desination **localhost:8473**
-    - source port: **8474** / desination **localhost:8474**
-    - source port: **8475** / desination **localhost:8475**
-    - source port: **8476** / desination **localhost:8476**
+- source port: **449** / desination **localhost:449**
+- source port: **8470** / desination **localhost:8470**
+- source port: **8471** / desination **localhost:8471**
+- source port: **8472** / desination **localhost:8472**
+- source port: **8473** / desination **localhost:8473**
+- source port: **8474** / desination **localhost:8474**
+- source port: **8475** / desination **localhost:8475**
+- source port: **8476** / desination **localhost:8476**
 
 Once done, your configuration has a list with all the redirected ports.
 
