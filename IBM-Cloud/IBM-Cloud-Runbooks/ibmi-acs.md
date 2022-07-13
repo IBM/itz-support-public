@@ -43,14 +43,14 @@ Keep port **22** and Connection type **SSH**.
 ![](images/putty-conf-port.png)
 
 Then repeat the same using these mapping - do not forget to click Add:
-- source port: **449** / desination **localhost:449**
-- source port: **8470** / desination **localhost:8470**
-- source port: **8471** / desination **localhost:8471**
-- source port: **8472** / desination **localhost:8472**
-- source port: **8473** / desination **localhost:8473**
-- source port: **8474** / desination **localhost:8474**
-- source port: **8475** / desination **localhost:8475**
-- source port: **8476** / desination **localhost:8476**
+- source port: **449** / desination: **localhost:449**
+- source port: **8470** / desination: **localhost:8470**
+- source port: **8471** / desination: **localhost:8471**
+- source port: **8472** / desination: **localhost:8472**
+- source port: **8473** / desination: **localhost:8473**
+- source port: **8474** / desination: **localhost:8474**
+- source port: **8475** / desination: **localhost:8475**
+- source port: **8476** / desination: **localhost:8476**
 
 Once done, your configuration has a list with all the redirected ports.
 
@@ -65,19 +65,20 @@ Once done, your configuration has a list with all the redirected ports.
 ![](images/putty-security.png)
 
 10. Enter your system login. Check your reservation details. It should be **cecuser**.
-Your connection is now opened and you can go to the [part about configuring ACS](#configuring-access-client-solution-windows--linuux--mac)
+Your connection is now opened and you can go to the [part about configuring ACS](#configuring-access-client-solution-windows--linux--mac)
 
 ![](images/putty-user.png)
 
 
 ### Configuring the SSH tunnel on a Linux/Windows machine
 
-1. Save the project SSH private key into a file on your laptop using the editor of your choice (avoid MS Word or OpenOffice). You can name this file `private-key.txt`. The private SSH key is provided through the CECC project kit or directly within your TechZone reservation details page. To help you identify the private key, it starts with `-----BEGIN RSA PRIVATE KEY-----`
+1. Save the project SSH private key into a file on your laptop using the editor of your choice (avoid MS Word or OpenOffice). You can name this file `private-key.txt`. The private SSH key is provided through the project kit or directly within your TechZone reservation page details. To help you identify the private key, it starts with `-----BEGIN RSA PRIVATE KEY-----`
 
 2. Open a terminal and enter the following command. Replace :
 - the IP address with the public **External IP address** provided in your reservation details
 - the location of the `private-key.txt` file after the `-i` parameter
 - **cecuser** if you are provided with a different account
+
 If your local user is **root** you can remove **sudo**.
 
 ```shell
@@ -86,22 +87,22 @@ sudo ssh -L 50000:localhost:23 -L 2001:localhost:2001 -L 2005:localhost:2005 -L 
 
 ![](images/terminal-sudo.png)
 
-If you keep `sudo`, the password that the command prompts you is your local user password.
+If you kept `sudo`, the password that the command prompts you is your local user password.
 
 ![](images/terminal-done.png)
 
-Your connection is now opened and you can go to the [part about configuring ACS](#configuring-access-client-solution-windows--linuux--mac)
+Your connection is now opened and you can go to the [part about configuring ACS](#configuring-access-client-solution-windows--linux--mac)
 
 
-## Configuring Access Client Solution (Windows / Linuux / Mac)
+## Configuring Access Client Solution (Windows / Linux / Mac)
 
 1. Donwload and install Access Client Solution (ACS) [https://www.ibm.com/support/pages/ibm-i-access-client-solutions](https://www.ibm.com/support/pages/ibm-i-access-client-solutions)
 
-2. Open ACS. Open Session Manager.
+2. Open ACS. Open **5250 Session Manager**.
 
 ![](images/acs-sesssion-manager.png)
 
-3. Start a new session.
+3. Start a New Display Session.
 
 ![](images/acs-new-display.png)
 
@@ -109,6 +110,6 @@ Your connection is now opened and you can go to the [part about configuring ACS]
 
 ![](images/acs-session-configure.png)
 
-5. Use the provided **CECUSER** and password to connect to your IBM i 5250 session.
+5. Use the provided **CECUSER** login and password to connect to your IBM i 5250 session.
 
 ![](images/acs-connect.png)
