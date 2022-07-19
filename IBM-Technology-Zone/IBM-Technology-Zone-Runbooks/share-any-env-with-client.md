@@ -8,6 +8,8 @@ You will need to provision the environment yourself, but it can be shared to cli
 For Skytap environments you can share the access information for the client to use (Desktop URL and password or application links).  
 In this method, there is no limit to invited users.
 
+Just send the client the Desktop URL and password ddirectly to provide them access. You can find that information below.
+
 Example of Desktop URL for VM access  
 ![email](/Skytap/Skytap-Runbooks/Images/email.png)  
 
