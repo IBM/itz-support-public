@@ -200,6 +200,8 @@
 
 [GitOps Template Developer Guide](IBM-Technology-Zone-Runbooks/gitops-templates.md)  :white_check_mark:  
 
+[How to View What Business Partners Would on a Collection](IBM-Technology-Zone-Runbooks/view-what-business-partners-would-see.md)  :white_check_mark:  
+
 ## Content
 
 [Technical Decision Points on IBM Technology Zone](IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
