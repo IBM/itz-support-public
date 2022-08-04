@@ -1,4 +1,4 @@
-# How to view what business partners would on a collection
+# How to View What Business Partners Would on a Collection
 
 In this runbook we will walk through how to view what business partners would see on IBM Technology Zone collections!
 
