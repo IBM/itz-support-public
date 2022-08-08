@@ -16,5 +16,8 @@ After Password is entered
 4. Your environment details will be provided, click on "Link" to access your environment use the Environment login Password to log into the environment  
 ![Attendeeview](Images/Attendeeview.png)  
 
+Note: **IBM Cloud ONLY!!!**  Attendee's will need to formally accept the invite to our own IBM Cloud account in which we are provisioning these environments from. Reference the [how to accept IBM Cloud invite](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/ibm-cloud-accept-invite.md) documentation for support on this step.
+
+
 
 Contact your Workshop Instructor if you have any questions.  
