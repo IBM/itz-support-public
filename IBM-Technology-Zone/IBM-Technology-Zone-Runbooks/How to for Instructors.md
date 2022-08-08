@@ -63,6 +63,8 @@ When an attendee clicks on the link provided by the instructor they are directed
 Click on submit to access the workshop
 - Workshop name, start/end date/time, Environment access details
 
+Note: **IBM Cloud ONLY!!!**  Attendee's will need to formally accept the invite to our own IBM Cloud account in which we are provisioning these environments from. Reference the [how to accept IBM Cloud invite](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/ibm-cloud-accept-invite.md) documentation for support on this step.
+
 ![workshopattendeeview](Images/workshopattendeeview.png)
 
 10. Instructor will receive a workshop complete email. Kindly take a few mintues to take the survey attached in mail sent.
