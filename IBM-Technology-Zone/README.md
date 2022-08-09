@@ -53,6 +53,8 @@
 
 [How to Redeploy a Workshop Environment](IBM-Technology-Zone-Runbooks/RedeployWorkshopEnv.md)  :white_check_mark:  
 
+[Enable Workshop Requests on an IBM Cloud Environment](IBM-Technology-Zone-Runbooks/enable-ibmcloud-workshop.md)  :white_check_mark:  
+
 
 ## GDPR
 
