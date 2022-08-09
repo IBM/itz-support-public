@@ -25,7 +25,7 @@ Step 2: After validating the environment can be enabled, contact IBM Technology 
 
 This information will help the support team identify which environment to enable and coordinate with you to help test the environment. 
 
-Step 3: Once a date is established for testing, the support team will enable workshop requests for the environment the morning of the specified testing date. Contact IBM Technology Zone support team if you do not see the workshop request option when selecting to reserve the environment. The workshop request process will look like the following screenshot. If you need help understanding how to get to the reservation form, reference the [How to schedule a workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-schedule-a-Skytap-workshop.md) documentation for support. 
+Step 3: Once a date is established for testing, the support team will enable workshop requests for the environment the morning of the specified testing date. Contact IBM Technology Zone support team if you do not see the workshop request option when selecting to reserve the environment. The workshop request process will look like the following screenshot. If you need help understanding how to get to the reservation form, reference the [How to schedule a workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md) documentation for support. 
 
 ![workshop request process](Images/workshoprequest.png)
 
@@ -37,7 +37,7 @@ Step 5: Fill in additional information on workshop request form. Reference the r
 
 ![Workshop form help](Images/workshophelp.png)
 
-Step 6: Provide the IBM Technology Zone support team the name of your workshop. Reference the [How to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-for-Instructors.md) to understand the approval workflow after submitting your workshop request.
+Step 6: Provide the IBM Technology Zone support team the name of your workshop. Reference the [How to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How to for Instructors.md) to understand the approval workflow after submitting your workshop request.
 
 NOTE: Workshop requests must be requested 72-hours before workshop start date. Due to this environment being tested, the IBM Technology Zone support team will adjust the start date to today's date (testing date agreed upon by user and support team) so that the environments can start provisioning once approved by the support team. 
 
@@ -45,9 +45,9 @@ Step 7: TESTING PHASE
 
 Please note that these tasks must be checked before officially enabling workshop request option for the specified environment. 
 
-- Successfully able to submit the workshop request form. Reference the [how to schedule a workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-schedule-a-Skytap-workshop.md) documentation for additional support.
+- Successfully able to submit the workshop request form. Reference the [how to schedule a workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md) documentation for additional support.
 
-- Successfully received the following workshop request notifications: Pending approval email, Approved email, Scheduled email, Ready email, Completed email. These emails are generated through the workshop manager tool to inform you every step of the way in the workshop request process. Reference the [how to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-for-Instructors.md) documentation to see examples of emails that you should receive through out the workshop request process. 
+- Successfully received the following workshop request notifications: Pending approval email, Approved email, Scheduled email, Ready email, Completed email. These emails are generated through the workshop manager tool to inform you every step of the way in the workshop request process. Reference the [how to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How to for Instructors.md) documentation to see examples of emails that you should receive through out the workshop request process. 
 
 - Successfully received (and other instructors if any added to the workshop request form) an IBM Cloud email invite. For every IBM Cloud environment on Technology Zone, in order to get access to the environments, you will need to formally accept the invite to our own IBM Cloud account in which we are provisioning these environments from. Reference the [how to accept IBM Cloud invite](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ibm-cloud-accept-invite.md) documentation for support on this step.
 
@@ -63,11 +63,11 @@ Please note that these tasks must be checked before officially enabling workshop
   - To confirm environments have successfully deployed the "Run State" column will read "Ready" for all environments that have successfully deployed. 
   - If any environments have failed to deploy the "Run State" column will read "Failed" for the environment. 
 
-- Test the workshop redeploy environment feature successfully redeploys an environment directly from the instructor page. The environment can be a failed or in a ready Run State to test this feature. Reference the [how to redeploy a workshop environment](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/RedeployWorkshopEnv.md) documentation for step by step support on how to use this feature.
+- Test the workshop redeploy environment feature successfully redeploys an environment directly from the instructor page. The environment can be a failed or in a ready Run State to test this feature. Reference the [how to redeploy a workshop environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/RedeployWorkshopEnv.md) documentation for step by step support on how to use this feature.
 
-- Ensure you can add attendee emails to each environment by selecting **edit environments** button. Add emails of attendee's to each environment you would like to assign them too. Then make sure to click the **Save changes** button. Additionally, feel free to test leveraging the new [upload attendees](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/UploadAttendees.md) feature from the instructor page. Please note that providing the attendee URL to your students is a manual action as of today that you will need to share if you would like attendees to access their environment credentials in this way. Follow the next test to ensure you, as an attendee, can access the attendee page and the environment. 
+- Ensure you can add attendee emails to each environment by selecting **edit environments** button. Add emails of attendee's to each environment you would like to assign them too. Then make sure to click the **Save changes** button. Additionally, feel free to test leveraging the new [upload attendees](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/UploadAttendees.md) feature from the instructor page. Please note that providing the attendee URL to your students is a manual action as of today that you will need to share if you would like attendees to access their environment credentials in this way. Follow the next test to ensure you, as an attendee, can access the attendee page and the environment. 
 
-- Successfully open the attendee URL and login with the workshop password to test claiming an environment as an attendee of the workshop. Reference the [how to for the attendee of the workshop](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/How%20to%20for%20Attendee.md) documentation for support on this step. 
+- Successfully open the attendee URL and login with the workshop password to test claiming an environment as an attendee of the workshop. Reference the [how to for the attendee of the workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-for-Attendee.md) documentation for support on this step. 
 
 - Successfully able to login and access the environment with the access URL and password information provided to you from the instructor view. 
     - From the instructor page, locate the "environments" section towards the bottom of the page. 
