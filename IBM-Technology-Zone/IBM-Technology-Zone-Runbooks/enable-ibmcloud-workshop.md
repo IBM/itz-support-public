@@ -37,7 +37,7 @@ Step 5: Fill in additional information on workshop request form. Reference the r
 
 ![Workshop form help](Images/workshophelp.png)
 
-Step 6: Provide the IBM Technology Zone support team the name of your workshop. Reference the [How to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How to for Instructors.md) to understand the approval workflow after submitting your workshop request.
+Step 6: Provide the IBM Technology Zone support team the name of your workshop. Reference the [How to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md) to understand the approval workflow after submitting your workshop request.
 
 NOTE: Workshop requests must be requested 72-hours before workshop start date. Due to this environment being tested, the IBM Technology Zone support team will adjust the start date to today's date (testing date agreed upon by user and support team) so that the environments can start provisioning once approved by the support team. 
 
@@ -47,7 +47,7 @@ Please note that these tasks must be checked before officially enabling workshop
 
 - Successfully able to submit the workshop request form. Reference the [how to schedule a workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md) documentation for additional support.
 
-- Successfully received the following workshop request notifications: Pending approval email, Approved email, Scheduled email, Ready email, Completed email. These emails are generated through the workshop manager tool to inform you every step of the way in the workshop request process. Reference the [how to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How to for Instructors.md) documentation to see examples of emails that you should receive through out the workshop request process. 
+- Successfully received the following workshop request notifications: Pending approval email, Approved email, Scheduled email, Ready email, Completed email. These emails are generated through the workshop manager tool to inform you every step of the way in the workshop request process. Reference the [how to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md) documentation to see examples of emails that you should receive through out the workshop request process. 
 
 - Successfully received (and other instructors if any added to the workshop request form) an IBM Cloud email invite. For every IBM Cloud environment on Technology Zone, in order to get access to the environments, you will need to formally accept the invite to our own IBM Cloud account in which we are provisioning these environments from. Reference the [how to accept IBM Cloud invite](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ibm-cloud-accept-invite.md) documentation for support on this step.
 
