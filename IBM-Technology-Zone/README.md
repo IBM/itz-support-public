@@ -9,7 +9,9 @@
 
 [Experiences Support](IBM-Technology-Zone-Runbooks/additional-experiences-support.md)  :white_check_mark:
 
-[Find Collection Resources Related to an Environment Reservation](IBM-Technology-Zone-Runbooks/reservation-collection-linkage.md)  :white_check_mark:  
+[Find Collection Resources Related to an Environment Reservation](IBM-Technology-Zone-Runbooks/reservation-collection-linkage.md)  :white_check_mark: 
+
+[How to submit an idea to the IBM Technology Zone team](IBM-Technology-Zone-Runbooks/how-to-submit-itz-enhancements.md)  :white_check_mark:  
 
 ## Systems
 
