@@ -72,7 +72,7 @@
 
 [How to Transfer a Reservation](IBM-Technology-Zone-Runbooks/transfer_environment.md)  :white_check_mark: 
 
-[How Long Can IBMers Reserve an Environment for on IBM Technology Zone?](IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:  
+[How Long Can I Reserve an Environment for on IBM Technology Zone?](IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:  
 
 [How to Share an Environment](IBM-Technology-Zone-Runbooks/share_environment.md)  :white_check_mark:
 
