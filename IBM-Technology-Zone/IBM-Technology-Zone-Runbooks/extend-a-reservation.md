@@ -20,8 +20,9 @@
 
 Your reservation will automatically be extended till the new date and time selected. Please note, you have unlimited 1 week extensions for the validity of your opportunity number. You are able to extend a reservation within 120 hours (5 days) of your current end date.
 
+Self - education or test can now be extended for an additional five days only.
 
-If your reservation was self-education or test, you will be able to update the purpose, then add your opportunity number. You will then be able to extend.
+If you need more time you can [change your reservation purpose](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md) to enable additional self- extension, you will be able to update the purpose, then add your opportunity number. You will then be able to extend.
 
 NOTE: if "extend" is greyed out, you do not have an opportunity number attached to your reservation. [Edit your reservation to include a valid opportunity number.](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md) If you get any errors contact support, Include the Opportunity number and reservation information (Environment id, dekstop url, cluster id,  cluster name etc )
 
