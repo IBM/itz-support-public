@@ -22,7 +22,7 @@ Your reservation will automatically be extended till the new date and time selec
 
 Self - education or test can now be extended for an additional five days only.
 
-If you need more time you can [change your reservation purpose](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md) to enable additional self- extension, you will be able to update the purpose, then add your opportunity number. You will then be able to extend.
+If you need more time you can [change your reservation purpose](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md) to enable additional self- extension, you will be able to update the purpose, add your opportunity number and then self-extend.
 
 NOTE: if "extend" is greyed out, you do not have an opportunity number attached to your reservation. [Edit your reservation to include a valid opportunity number.](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md) If you get any errors contact support, Include the Opportunity number and reservation information (Environment id, dekstop url, cluster id,  cluster name etc )
 
