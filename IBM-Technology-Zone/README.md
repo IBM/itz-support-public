@@ -158,6 +158,8 @@
 
 ## Content Contribution
 
+[IBM Business Partner Contribution Terms & Conditions](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/bp-contribution-agreement.md) :white_check_mark:
+
 [Introduction to Collections](IBM-Technology-Zone-Runbooks/intro-to-collections.md)  :white_check_mark:
 
 [Create a Collection](IBM-Technology-Zone-Runbooks/create-collection.md)  :white_check_mark:
