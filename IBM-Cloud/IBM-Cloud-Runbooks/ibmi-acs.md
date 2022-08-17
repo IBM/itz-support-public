@@ -44,6 +44,8 @@ Keep port **22** and Connection type **SSH**.
 
 Then repeat the same using these mapping - do not forget to click Add:
 - source port: **449** / desination: **localhost:449**
+- source port: **2001** / desination: **localhost:2001**
+- source port: **2002** / desination: **localhost:2002**
 - source port: **8470** / desination: **localhost:8470**
 - source port: **8471** / desination: **localhost:8471**
 - source port: **8472** / desination: **localhost:8472**
@@ -82,7 +84,7 @@ Your connection is now opened and you can go to the [part about configuring ACS]
 If your local user is **root** you can remove **sudo**.
 
 ```shell
-sudo ssh -L 50000:localhost:23 -L 2001:localhost:2001 -L 2005:localhost:2005 -L 449:localhost:449 -L 8470:localhost:8470 -L 8471:localhost:8471 -L 8472:localhost:8472 -L 8473:localhost:8473 -L 8474:localhost:8474 -L 8475:localhost:8475 -L 8476:localhost:8476 -o ExitOnForwardFailure=yes -o ServerAliveInterval=15 -o ServerAliveCountMax=3 -i ~/Desktop/private-key.txt cecuser@128.168.153.117
+sudo ssh -L 50000:localhost:23 -L 2001:localhost:2001 -L 2002:localhost:2002 -L 449:localhost:449 -L 8470:localhost:8470 -L 8471:localhost:8471 -L 8472:localhost:8472 -L 8473:localhost:8473 -L 8474:localhost:8474 -L 8475:localhost:8475 -L 8476:localhost:8476 -o ExitOnForwardFailure=yes -o ServerAliveInterval=15 -o ServerAliveCountMax=3 -i ~/Desktop/private-key.txt cecuser@128.168.153.117
 ```
 
 ![](images/terminal-sudo.png)
