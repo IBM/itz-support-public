@@ -220,7 +220,7 @@
 
 [Collection Brand Filter](IBM-Technology-Zone-Runbooks/brand-filter-search.md)  :white_check_mark:  
 
-[Contact Preference]()  :white_check_mark:  
+[Contact Preference](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-preferences.md)  :white_check_mark:  
 
 
 ## Requests
