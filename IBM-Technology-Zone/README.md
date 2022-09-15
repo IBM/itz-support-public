@@ -196,6 +196,8 @@
 
 [Template an IBM Cloud Classic VM for Your Collection](IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md)  :white_check_mark:  
 
+[How to Share Content as a Partner through a Squad Leader](IBM-Technology-Zone-Runbooks/partner-contribution-share-content.md)  :white_check_mark:
+
 [Support Contacts on a Collection](IBM-Technology-Zone-Runbooks/supportcontactsfield.md)  :white_check_mark:  
 
 [Transfer Collection Ownership](IBM-Technology-Zone-Runbooks/transfer-collection.md)  :white_check_mark:  
