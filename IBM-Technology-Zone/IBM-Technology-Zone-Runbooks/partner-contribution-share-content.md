@@ -7,7 +7,7 @@ Aligning with a [Platinum Squad Leader](https://ibm.ent.box.com/v/squad-leader)
 
 Partners agree to the terms and conditions by proceeding through the process to align with a Squad Leader.
 
-![Partner-share-content-t&c-new](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/Images/Partner-share-content-t%26c-new.png)
+![Partner-share-content-t&c-new](Images/Partner-share-content-t%26c-new.png)
 
 
 
