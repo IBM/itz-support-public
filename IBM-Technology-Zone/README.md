@@ -149,6 +149,11 @@
 
 [Add vCPUs to Azure Cluster](IBM-Technology-Zone-Runbooks/azure-add-vcpu.md)  :white_check_mark:  
 
+
+## VMware
+
+[Migrate Skytap to VMWare](IBM-Technology-Zone-Runbooks/migrate-skytap.md)  :white_check_mark:  
+
 ## Cloud Paks on ROKS
 
 [How to change CP4D SSL self-signed certificates to Valid Let's Encrypt on ROKS](IBM-Technology-Zone-Runbooks/cp4d-certs.md)  :white_check_mark:
