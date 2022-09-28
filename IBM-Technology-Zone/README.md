@@ -74,6 +74,8 @@
 
 [How Long Can I Reserve an Environment for on IBM Technology Zone?](IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:  
 
+[How to search for environments/collections](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/search-environments-collections.md) :white_check_mark:
+
 [How to Share an Environment](IBM-Technology-Zone-Runbooks/share_environment.md)  :white_check_mark:
 
 [Can a Client be Given Access to an Environment?](IBM-Technology-Zone-Runbooks/share-any-env-with-client.md)  :white_check_mark:  
