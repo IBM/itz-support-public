@@ -114,6 +114,8 @@
 
 [Skytap Passwords](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Skytap-password.md)  :white_check_mark:  
 
+[Migrate Skytap](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/migrate-skycap.md)  :white_check_mark:
+
 ## Onboarding 
 
 [Onboard a Skytap Template](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/SkytapTemplateOnboarding.md)  :white_check_mark:
