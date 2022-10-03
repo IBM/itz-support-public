@@ -13,7 +13,7 @@ Example of an IBM Cloud environment that can be requested to be enabled for work
 Examples of environment types that are not currently supported for workshops include: Systems, Systems 2, Managed OpenShift (ROKS), AWS, and Azure.
 
 
-Step 2: After validating the environment can be enabled, contact IBM Technology Zone support team via email at [techzone.help@ibm.com](techzone.help@ibm.com) or Slack us in the [#itz-workshop-support](https://ibm-dte.slack.com/app_redirect?channel=itz-workshop-support) channel. Please provide the following information in the request:
+Step 2: After validating the environment can be enabled, contact IBM Technology Zone support team via Slack [#itz-workshop-support](https://ibm-dte.slack.com/app_redirect?channel=itz-workshop-support) channel. Please provide the following information in the request:
 
 - Date(s)which you can dedicate to help validate and test the environment through the workshop manager request process and tool. 
 
