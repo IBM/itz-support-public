@@ -19,6 +19,8 @@ These changes are in place to support what we call Dynamic Provisioning. Instead
 
 **Detailed Instructions**
 
+Follow these steps for any new Environment entries you need to create. For existing entries, they will continue to work as-is. Recreating existing entries is optional, but is recommended.
+
 1. When Editing your Collection, you click "Add an Environment".
 2. Provide an Environment Title and Infrastructure.
 3. Add your Description.
@@ -48,4 +50,6 @@ These changes are in place to support what we call Dynamic Provisioning. Instead
 6. In most cases the following entry "Account Pool: shared, Cloud Account: Any, Geo: Any, Region: Any, Datacenter: Any" should be all you need for most use cases. But if you need to customize this Environment to select specific locations, continue with step 5 again to add additional options until done.
 
 ![environment preferred](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/environment-preferred.png)
+
+**Note:** The above does not change how information is fed to the GitOps Patterns. The GitOps Pattern input received will include the API Key and Data Center/Region needed to perform the deployment of the Environment. This new model is used to select the best possible location for the Environment deployment.
 
