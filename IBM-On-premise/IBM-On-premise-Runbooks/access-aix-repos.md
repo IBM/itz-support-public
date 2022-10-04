@@ -1,33 +1,9 @@
 # AIX Repositories
 
-AIX systems will be installed with default images.  Additional images and updates are automatically mounted by the NFS automounter when needed at the following locations:
+On-premise AIX systems will be installed with default images that do not have lots of extras installed.  Additional images and updates are automatically mounted by the NFS automounter when needed at the /repos mount point.
 
-## AIX 7.1
+    
+These are broken out into aix71, aix72, and aix73 subdirectories and the trial versions of the XLC compilers can be found in the lpp/XLC directory.  For non-IBMers these are typically but may not always be installed during provisioning.
 
-`/cecc/repos/aix71`
 
-`/cecc/repos/lpp`
-
-## AIX 7.2
-
-`/cecc/repos/aix72`
-
-`/cecc/repos/lpp`
-
-Example: 
-```shell
-cecuser@p1304-pvm1:/cecc/repos/aix72 $ ls
-TL3                   TL4                   expansion_pack_92018  license
-cecuser@p1304-pvm1:/cecc/repos/aix72 $ cd TL4
-cecuser@p1304-pvm1:/cecc/repos/aix72/TL4 $ ls
-BASE  SP1   SP2
-cecuser@p1304-pvm1:/cecc/repos/aix72 $ cd /cecc/repos/lpp
-cecuser@p1304-pvm1:/cecc/repos/lpp $ ls
-XLC
-```
-
-## AIX 7.3
-
-`/cecc/repos/aix73`
-
-`/cecc/repos/lpp`
+Note we may sometimes overlook staging updates there, so if you find something missing you need please open a support ticket.

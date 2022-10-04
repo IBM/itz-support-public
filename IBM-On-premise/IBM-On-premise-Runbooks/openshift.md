@@ -25,13 +25,13 @@ To login to the console it is best to choose the htpasswd authentication method 
 
 If you are experiencing connection issues you likely need to add some DNS suffixes to your resolver configuration. These suffixes should be added if missing:
 ```
- pbm.ihost.com
  cecc.ihost.com
+ pbm.ihost.com
  ibm.com
 ```
 A few more details can be found here:
 
-[Windows DNS Configuration](dns-config.md)
+[Windows DNS Configuration](configure-dns.md)
 
 ## Rate Limiting
 
