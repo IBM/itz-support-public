@@ -90,7 +90,7 @@ Put images in the skytap-exports bucket.
 ![migrate28](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate28.png)
 
 12. Create Techzone environment in https://techzone.ibm.com/collection/skytap-test
-![migrate30](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate30.png)
+![migrate36](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate36.png)
 
 
 13. Test reservation
