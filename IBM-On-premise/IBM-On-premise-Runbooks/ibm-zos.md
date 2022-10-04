@@ -1,6 +1,6 @@
-# IBM z/OS
+# IBM z/OS Offering
 
-## Application Versions
+## The following application versions are part of the deployed builds:
 
 - z/OS 2.4
 - CICS v5.6

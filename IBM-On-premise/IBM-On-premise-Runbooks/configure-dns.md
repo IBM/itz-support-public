@@ -1,7 +1,8 @@
 
 # DNS Settings
     
-How to change DNS settings on your PC running Windows 10 [https://www.windowscentral.com/how-change-your-pcs-dns-settings-windows-10](https://www.windowscentral.com/how-change-your-pcs-dns-settings-windows-10)
+How to change DNS settings on your PC running Windows 10:
+[https://www.windowscentral.com/how-change-your-pcs-dns-settings-windows-10](https://www.windowscentral.com/how-change-your-pcs-dns-settings-windows-10)
 
 **If you are experiencing connection issues please follow these steps.**
 
@@ -26,7 +27,7 @@ Double-click on "Internet Protocol (TCP/IP).
 
 Add these suffixes:
 ```
- pbm.ihost.com
  cecc.ihost.com
+ pbm.ihost.com
  ibm.com
 ```
