@@ -29,6 +29,8 @@ To get help, please open a ticket to [our support team](https://techzone.ibm.com
 [Windows DNS search order configuration](IBM-On-premise-Runbooks/configure-dns.md)
 
 [OpenShift offering information](IBM-On-premise-Runbooks/openshift.md)
+    
+[OpenShift Multi-Tenant offering information](IBM-On-premise-Runbooks/openshift-mt.md)
 
 [IBM z/OS offering information](IBM-On-premise-Runbooks/ibm-zos.md)
 
