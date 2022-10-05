@@ -24,4 +24,11 @@ Once your z/OS LPAR has been provisioned (and you have access to the IP address 
 
 2.  Connecting via SSH (port 22) or Telnet (port 623) can be done through PUTTY (for Windows) or through the terminal installed by default (for Mac and Linux) PUTTY - Also installed by default on IBM issued windows machines.
 
-3.  Connecting via z/OSMF (port 443) by using the web browser The z/OSMF url will have the following structure - https://<hostname>/zosmf 
+3.  Connecting via z/OSMF (port 443) by using the web browser The z/OSMF url will have the following structure - https://<hostname>/zosmf
+
+## Additional Information
+
+A lot of additional information about the provided z/OS environment can be found in the document here:
+
+[https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/docs/zOS_Information_0924.pdf](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/docs/zOS_Information_0924.pdf)
+
