@@ -1,4 +1,6 @@
-# Template an IBM Cloud Classic VM for Your Collection  
+# Template an IBM Cloud Classic VM and VPC Environments for Your Collection  
+
+Here is how to template either an IBM Cloud Classic AND VPC Environments for your Collection.
 
 1.  Got to https://techzone.ibm.com/my/reservations  
 
