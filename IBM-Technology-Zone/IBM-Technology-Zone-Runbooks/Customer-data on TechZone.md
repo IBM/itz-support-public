@@ -1,6 +1,6 @@
-# Can I use Customer Data on TechZone?
+# Can I use Customer Data on IBM Technology Zone?
 
-The use/hosting **Customer data** is not permitted on TechZone. Dummy, fake or sample data is allowed. 
+The use/hosting **Customer data** is not permitted on IBM Technology Zone. Dummy, fake or sample data is allowed. 
 
 For exceptions BISO team approvals is required, this ensures legal coverage.
 
