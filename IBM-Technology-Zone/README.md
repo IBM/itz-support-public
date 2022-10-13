@@ -13,6 +13,10 @@
 
 [How to submit an idea to the IBM Technology Zone Team](IBM-Technology-Zone-Runbooks/how-to-submit-itz-enhancements.md)  :white_check_mark:  
 
+
+## ## General site usage features
+[Can I use Customer data on TechZone?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Customer-data%20on%20TechZone.md)  :white_check_mark:  
+
 ## Systems
 
 
@@ -212,7 +216,10 @@
 
 [GitOps Template Developer Guide](IBM-Technology-Zone-Runbooks/gitops-templates.md)  :white_check_mark:  
 
-[How to View What Business Partners Would on a Collection](IBM-Technology-Zone-Runbooks/view-what-business-partners-would-see.md)  :white_check_mark:  
+[How to View What Business Partners Would on a Collection](IBM-Technology-Zone-Runbooks/view-what-business-partners-would-see.md)  :white_check_mark:
+
+[Ownership Transfer](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ownership-transfer.md)  :white_check_mark: 
+
 
 ## Content
 
@@ -222,13 +229,14 @@
 
 [New Content Authoring](IBM-Technology-Zone-Runbooks/new-environment-authoring.md)  :white_check_mark:
 
+
 ## Site Navigation
 
 [Search Filter Logic](IBM-Technology-Zone-Runbooks/itz-filter-logic.md)  :white_check_mark:  
 
 [Collection Brand Filter](IBM-Technology-Zone-Runbooks/brand-filter-search.md)  :white_check_mark:  
 
-[Content Preference](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-preferences.md)  :white_check_mark:  
+[Content Preference](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-preferences.md)  :white_check_mark: 
 
 
 ## Requests
