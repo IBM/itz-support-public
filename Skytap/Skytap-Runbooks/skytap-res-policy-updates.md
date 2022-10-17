@@ -48,7 +48,7 @@ Users that made a reservation before October 24th that would like to request mor
 **Requesting an extension on a Skytap infrastructure:**
 
 Use case: Skytap reservation purpose of self education or test
-- If you have an opportunity code, update the reservation to provide the opportunity code and leverage the self-service extension option. 
+- If you have an opportunity code, [update the reservation](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md) to provide the opportunity code and leverage the [self-service extension option](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/extend-a-reservation.md). 
 - If there is no opportunity code provided, executive approval is required. Provide the Technology Zone support team with business justification for the request and they will escalate the request for executive approval. 
 
 Use case: Skytap reservation purpose of Customer Demo, POC, or POT
