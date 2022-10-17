@@ -12,6 +12,8 @@
 
 [Skytap Passwords](Skytap-Runbooks/Skytap-password.md)  :white_check_mark:  
 
+[Skytap Reservation Policy Updates](Skytap/Skytap-Runbooks/skytap-res-policy-updates.md)  :white_check_mark: 
+
 ## Onboarding 
 
 [Onboard a Skytap Template](Skytap-Runbooks/SkytapTemplateOnboarding.md)  :white_check_mark:
