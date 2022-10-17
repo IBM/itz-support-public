@@ -37,7 +37,7 @@ Users that made a reservation before October 24th that would like to request mor
 _**REMINDER**: self education and test purpose reservations are not permitted at this time._
 
 Use case: Third Party Cloud reservation purpose of Customer Demo, POC, or POT. 
-- If you have a new opportunity code, the Technology Zone support team will approve requests to extend up to 1 month. Note if reservation was made after October 24th, provide business justification and the Technology Zone support team will escalate your request for executive approval. 
+- If you have a new opportunity code and the reservation on IBM Technology Zone has reached it's extension limit, the Technology Zone support team will approve requests to extend up to 1 month. Note if reservation was made after October 24th, provide business justification and the Technology Zone support team will escalate your request for executive approval. 
 - If you do NOT provide a new opportunity code, executive approval is required. Provide the Technology Zone support team with business justification for the request and they will escalate the request for executive approval. 
 
 **What information is needed and sent to executive for approval:**
