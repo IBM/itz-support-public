@@ -12,7 +12,7 @@ _**REMINDER**: Self education and test third party cloud reservations are not pe
 
 **Why This Change**
 
-This change is in effect as of October 24th due to reported high monthly costs for Skytap, AWS, and Azure insfrastructure's in September.  
+This change is in effect as of October 24th due to reported high monthly costs for Skytap, AWS, and Azure insfrastructure's in September, and aligns with the [go-to-market efficiences](https://w3.ibm.com/w3publisher/ibm-technology-sales-hub/leadership-blogs/205750e0-19bd-11ed-b604-1d206bf34037) Jason Gartner announced September 1st, 2022.
 
 **Impact to active reservations**
 
