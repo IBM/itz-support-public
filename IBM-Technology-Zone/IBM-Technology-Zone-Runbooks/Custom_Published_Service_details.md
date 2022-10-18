@@ -2,11 +2,12 @@
 
 ## All ports opened for environments in Skytap are automatically sent with reservation emails
 
-1. Go to (https://techzone.ibm.com/)
+1. Go to (https://techzone.ibm.com)
 2. Click on edit
-3. Click Environments, next click edit "pencil" icon
-4. Go to Link Patterns
-5. Enter Port Number And Template
+3. Click Environments.
+4. Click edit "pencil" icon
+5. Go to Link Patterns
+6. Enter Port Number And Template
 
 Undefined port    
 
