@@ -1,4 +1,6 @@
-# Automated Collection Lifecycle Management on Technology Zone
+# Automated Collection Lifecycle Management on Technology Zone *RETIRED*
+
+*RETIRED*
 
 As of today, content contributors must adhere and agree to guidelines and standards before creating and publishing any collection on IBM Technology Zone. Refer to screenshot below on terms you agreed to as a contributor to maintain consistent, accessible, and quality content is published on the site. 
 
