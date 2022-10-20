@@ -40,3 +40,11 @@ Keep port **22** and Connection type **SSH**.
 9. Enter your system login. Check your reservation details. It should be **cecuser**.
 Your connection is now opened.
 
+
+## Connecting with a Linux / MacOS machine
+
+1. Save the private key in a text file (eg: ~/Downloads/private-key.txt). The private SSH key is provided through the project kit or directly within your TechZone reservation page details. To help you identify the private key, it starts with `-----BEGIN RSA PRIVATE KEY-----`
+
+2. Change the permissions on that file to match 600 `chmod 600 ~/Downloads/private-key.txt`
+
+3. Open the SSH connection using the private key such as `ssh cecuser@123.123.123.123 -i ~/Downloads/private-key.txt`
