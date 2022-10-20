@@ -96,7 +96,9 @@
 
 [Managed Openshift(ROKS)](IBM-Technology-Zone-Runbooks/ManagedOpenShift(ROKS)reserved.md)  :white_check_mark:  
 
-[Fyre](IBM-Technology-Zone-Runbooks/fyrereserved.md)  :white_check_mark:  
+[Fyre](IBM-Technology-Zone-Runbooks/fyrereserved.md)  :white_check_mark:
+
+[Free Third Party Cloud Infrastructure for Education](IBM-Technology-Zone-Runbooks/free-third-party-cloud-infrastructure-for-education.md) :white_check_mark:
 
 [Coming Soon - VMware Private Cloud(Cloud Lab)]()
 
