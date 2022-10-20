@@ -157,7 +157,9 @@
 
 ## Azure
 
-[Add vCPUs to Azure Cluster](IBM-Technology-Zone-Runbooks/azure-add-vcpu.md)  :white_check_mark:  
+[Add vCPUs to Azure Cluster](IBM-Technology-Zone-Runbooks/azure-add-vcpu.md)  :white_check_mark: 
+
+[Azure Aro Adding Worker Nodes](IBM-Technology-Zone-Runbooks/azure-aro-adding-worker-nodes.md)  :white_check_mark: 
 
 ## Cloud Paks on ROKS
 
