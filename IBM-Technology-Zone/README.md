@@ -208,7 +208,7 @@
 
 [Testing Collections/Environments Before Making Them Active](IBM-Technology-Zone-Runbooks/testing-collections-before-launch.md)  :white_check_mark:  
 
-[Template an IBM Cloud Classic VM for Your Collection](IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md)  :white_check_mark:  
+[Template an IBM Cloud VSI on Classic and VPC VM for Your Collection](IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md)  :white_check_mark:  
 
 [How to Share Content as a Partner through a Squad Leader](IBM-Technology-Zone-Runbooks/partner-contribution-share-content.md)  :white_check_mark:
 
