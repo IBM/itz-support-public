@@ -39,7 +39,7 @@ Best to use Chrome for clipboard access, or if you are using Firefox and unable 
 ![migrate11b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate11b.png)
 - Download the VM to the /home/techzone folder.
 - Once downloaded you can extract the VM by double clicking it in the Files application.
-![migrate12b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrat12b.png)
+![migrate12b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate12b.png)
 - You will need to wait until the .vmx file shows up and this could take a long time since the unzip process runs in the background.
 
 5. Edit the .vmx, remove floppy, and set power options to “soft”
