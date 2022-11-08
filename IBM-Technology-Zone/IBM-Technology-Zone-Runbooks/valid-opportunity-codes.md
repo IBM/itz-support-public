@@ -2,19 +2,32 @@
 
 This runbook will highlight what opportunity codes are valid and what systems/portals we work with to validate an opportunity code when users are making a reservation from IBM Technology Zone.
 
-**IMPORTANT: We sync new IBM Sales Cloud and Gainsite opportunity codes and relationship IDs every three hours. If you input an opportunity code or relationship ID that was just created in ISC or Gainsite, then please wait approximately three hours for our automated sync to pull new values from each database.**
+**IMPORTANT: We sync new IBM Sales Cloud and Gainsite opportunity codes and relationship IDs every three hours. If you input an opportunity code or relationship ID that was just created in ISC or Gainsite, then please wait approximately 24 hours for our opportunity table to update with your newly create opportunity code.**
 
 Example of Reservation form and the opportunity code field:
 
 Selecting one of the following purposes will require a valid opportunity code: Customer Demo, Proof of Concept, Proof of Technology.
 
-![opportunity code field](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/opportunity%20code%20field.png)
+![opportunity code field](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/updatedopportunitynumberform.png)
 
-## What is a Valid Opportunity Code? 
+Providing a Valid Sales Opportunity number will prompt a new field (as of November 8th, 2022) named Sales Opportunity Product.
 
-Technical Sellers - All IBM Sales Cloud opportunity codes that are not in a "lost" sales stage are considered valid opportunity codes.
+![valid opportunity product record](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/validoppproductfield.png)
+
+- If the Sales Opportunity number has a Opportunity product associated, then it will appear in the drop-down list. (can be one or multiple)
+
+- If there is only one Opportunity product associated to the Sales Opportunity number, then it will be pre-filled automatically. 
+
+Selecting the appropriate Opportunity product, in 2023, will generate a IBM Sales Cloud Technical Sales Activity automatically for the user making the reservation on Technology Zone. Not providing the Sales Opportunity number and Opportunity product will not capture an automatic Sales Activity in IBM Sales Cloud. Learn more about ISC Opportunity products by referencing the [Seismic IBM Sales Cloud - Working with products documentation](https://ibm.seismic.com/app?ContentId=0612f17d-d710-46ed-bb06-6274fff2992a#/doccenter/5477419a-9474-4c51-94af-b442e9169fab/doc/%252Fddf1dbfee9-0f74-8b63-0adf-9bc88689151d%252Fdf48a6d366-1efd-415a-ad51-7e53d37ae0f4%252Fdf3a06671b-59d5-4d9c-a7bf-7a48bc8c489a%252Flf909cf97a-278a-48c4-9899-cbc77a05ca24/grid/?anchorId=334448a9-c480-4063-9d2e-e5100bd36fe4).
+
+## What is a Valid Sales Opportunity number? 
+
+Technical Sellers - All IBM Sales Cloud opportunity codes that are not in a "won" or "lost" sales stage are considered valid opportunity codes.
 
 Customer Success Managers using Gainsite - Relationship IDs that are open and active are considered valid opportunity codes. 
+
+Note: The TechZone Opportunity number validation service updates records every three hours. If you have just created an opportunity number or updated a status of an opportunity number from an invalid sales stage, please allow 3 to 24 hours for the record to udpate. In the mean time, reserve the environment with a purpose of self-education or test. The reservation can be updated at a later time with your opportunity number. 
+
 
 ## IBM Sales Cloud (ISC) Opportunity codes
 
