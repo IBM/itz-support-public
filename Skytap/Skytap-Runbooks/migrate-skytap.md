@@ -44,7 +44,9 @@ Best to use Chrome for clipboard access, or if you are using Firefox and unable 
 
 5. Edit the .vmx, remove floppy, and set power options to “soft”
 ![migrate14b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate14b.png)
+
 ![migrate13](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate13.png)
+
 ![migrate12](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate12.png)
 
 6. Convert VM to OVA.  
