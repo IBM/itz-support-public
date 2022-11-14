@@ -17,6 +17,9 @@
 ## General site usage features
 [Can I use Customer data on TechZone?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Customer-data%20on%20TechZone.md)  :white_check_mark:  
 
+## TechZone 2.0 
+[Widget Dashboard](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/widget-dashboard.md)  :white_check_mark: 
+
 ## Systems
 
 
