@@ -1,7 +1,7 @@
 # Using The New Customizable Widget Dashboard 
 
 ## What Is A Widget
-A widget is a custimizable panel on IBM Technology Zone that presents content from the site. It is made to be easy for users to access key places onto their homepage.
+A widget is a customizable panel on IBM Technology Zone that presents content from the site. It is made to be easy for users to access key places onto their homepage.
 
 ## How To Setup Dashboard As Homepage
 To setup the Widget Dashboard as your Homepage:
