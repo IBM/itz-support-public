@@ -18,6 +18,7 @@ To setup the Widget Dashboard as your Homepage:
 
 
 3. Once selected, click "IBM Technology Zone" in the top left, and changes will automatically be made.
+
 ![widgetdashitzlogo](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashitzlogo.png)
 
 ## What Widgets Are On My Homepage:
@@ -43,6 +44,7 @@ To edit a widget:
 2. Use the 4 arrow icon to drag your widgets, placing them in your preferred order.
 3. To resize, use the 2 chevrons by clicking and dragging them.
 4. To edit a specific widget, click the pencil icon, and you can change the name, layout, and limit as needed. 
+
 ![widgetdashcustomize](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashcustomize.png)
 
 ![widgetdasheditchoices](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdasheditchoices.png)
@@ -61,9 +63,13 @@ To add a widget:
 ## How To Delete A Widget
 To delete a Widget:
 
-1. Click on the trash icon on the right side of the page of the widget.
+1. Click on the trash icon beside the widget.
+
+![widgetdashdel](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashdel.png)
+
 2. A delete confirmation will pop up.
 3. Type confirm and click delete.
+
 ![widgetdashdelete](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashdelete.png)
 Note: At this time, the "Get Started widget" cannot be removed.  
 
