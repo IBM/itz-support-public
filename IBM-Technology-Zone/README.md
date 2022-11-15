@@ -20,6 +20,8 @@
 ## TechZone 2.0 
 [Widget Dashboard](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/widget-dashboard.md)  :white_check_mark: 
 
+[Add Automation File To Collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/add-automation-file-to-collection.md)  :white_check_mark:
+
 ## Systems
 
 
