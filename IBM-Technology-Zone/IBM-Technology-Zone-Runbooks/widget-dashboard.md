@@ -7,7 +7,9 @@ A widget is a customizable panel on IBM Technology Zone that presents content fr
 To setup the Widget Dashboard as your Homepage:
 
 1. Click your profile picture in the top right corner and click "Profile"
-![widgetdashprofile](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashprofile.png)
+
+![widgetdashprofile](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashprofile1.png)
+
 2. Under "Default Homepage", select dashboard. 
 ![widgetdashdropdown](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashdh.png)
 
@@ -55,7 +57,7 @@ To delete a Widget:
 2. A delete confirmation will pop up.
 3. Type confirm and click delete.
 ![widgetdashdelete](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashdelete.png)
-Note: At this time, Get Started widget cannot be removed.  
+Note: At this time, the "Get Started widget" cannot be removed.  
 
 ### Support
 
