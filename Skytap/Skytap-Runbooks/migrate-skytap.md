@@ -127,7 +127,7 @@ Put images in the skytap-exports bucket.
 Default Variables required
 - vm_template_folder
 - vm_template_id
-- vm_map_string
+- vm_map_string (make sure your VM Map string is correct, you can use any JSON validators like https://jsonlint.com/) 
 - vm_domain
 - vm_router_ip
 - vm_subnet
