@@ -1,5 +1,7 @@
 # Using The New Customizable Widget Dashboard 
 
+Now, build your own customized IBM Technology Zone portal driven by content preferences. By selecting preferred content through brand, offering and language, only surface what you need as you work to close end of year engagements
+
 ## What Is A Widget
 A widget is a customizable panel on IBM Technology Zone that presents content from the site. It is made to be easy for users to access key places onto their homepage.
 
