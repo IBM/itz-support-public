@@ -63,35 +63,43 @@ Best to use Chrome for clipboard access, or if you are using Firefox and unable 
 
 ![migrate12](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate12.png)
 
-6. Convert VM to OVA.  
+6. Convert the VM to OVA 
 - Run a Terminal window
 ```
 cd ~
 ovftool session.vmx mynewvm.ova
 ```
+
 ![migrate14](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate14.png)
 
-7. Backup your environment.   Upload to Cloud Object Storage
+7. To Backup your environment, upload to Cloud Object Storage, 
 
 `Assuming you made a reservation for Cloud Object Storage, and accepted the invite to the ITZ-TECH account.`
 
-  Log into cloud.ibm.com, navigate to Storage under resources and open the dte-cos instance.
+  Log into cloud.ibm.com, navigate to Storage under resources and open the cos-dte instance.
 
 ![migrate15](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate15.png)
+
 Put images in the skytap-exports bucket.
+
 ![migrate16](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate16.png)
 
-8. Open Chrome, log into vSphere using the credentials at the bottom of your Template Builder reservation.  Create folder in vSphere under templates-shared.  
-
+8. Open Chrome, log into vSphere using the credentials at the bottom of your Template Builder reservation.  Create folder in vSphere under **templates-shared.  
+**
 9. Right click to Deploy OVF.
 ![migrate17](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate17.png)
+
 ![migrate19](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate19.png)
+
 - Select your default compute resource:
 ![migrate20](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate20.png)
+
 - Select the storage "datastore-shared":
 ![migrate21](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate21.png)
+
 - Select the network "gym-segment-shared":
 ![migrate22](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate22.png)
+
 - Finish
 ![migrate23](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate23.png)
 ![migrate24](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate24.png)
@@ -118,12 +126,12 @@ Default Variables required
 - vm_router_ip
 - vm_subnet
 
-Note if you do not have Network details from Skytap use the default values
+Note: if you do not have Network details from Skytap use the default values
 
 13. Test reservation
 
 14. Production rollout
-- Support request to template VM to production
+- Send a Support request to template VM to production
 Infrastructure admin to template and provide env details
 
 
