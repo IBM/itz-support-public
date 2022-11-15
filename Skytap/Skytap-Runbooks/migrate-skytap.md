@@ -96,13 +96,15 @@ Put images in the skytap-exports bucket.
 ![migrate36](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate36.png)
 
 
-Variables required
+Default Variables required
 - vm_template_folder
 - vm_template_id
 - vm_map_string
 - vm_domain
 - vm_router_ip
 - vm_subnet
+
+Note if you do not have Network details from Skytap use the default values
 
 13. Test reservation
 
