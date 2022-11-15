@@ -9,7 +9,9 @@ To setup the Widget Dashboard as your Homepage:
 1. Click your profile picture in the top right corner and click "Profile"
 ![widgetdashprofile](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashprofile.png)
 2. Under "Default Homepage", select dashboard. 
-![widgetdashdropdown](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashdropdown.png)
+![widgetdashdropdown](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashdh.png)
+
+
 3. Once selected, click "IBM Technology Zone" in the top left, and changes will automatically be made.
 
 ## What Widgets Are On My Homepage:
@@ -31,11 +33,11 @@ To setup the Widget Dashboard as your Homepage:
 ## How To Edit A Widget
 To edit a widget:
 
-1. Click the edit icon ![widgetdashedit]((https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashedit.png)
+1. Click the edit icon ![widgetdashedit](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashedit.png)
 2. Use the 4 arrow icon to drag your widgets, placing them in your preferred order.
 3. To resize, use the 2 chevrons by clicking and dragging them.
 4. To edit a specific widget, click the pencil icon, and you can change the name, layout, and limit as needed. 
-![widgetdashcustomize]((https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashcustomize.png)
+![widgetdashcustomize](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashcustomize.png)
 Note: Ensure you click save, cancel, or delete after any changes.
 
 ## How To Add A Widget
