@@ -47,6 +47,8 @@ To edit a widget:
 
 ![widgetdashcustomize](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashcustomize.png)
 
+Here are examples of the three available layout options:
+
 ![widgetdasheditchoices](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdasheditchoices.png)
 Note: Ensure you click save, cancel, or delete after any changes.
 
