@@ -24,7 +24,7 @@ NOTE: As you level up, your collections must incorporate the standards from the 
 
    **Content Maintenance Standards**
    
-   1. Content Currency - Silver and Bronze contributors must perform the following maintenance reviews every quarter, Gold every 60 days, and Platinum every 30 days in order to meet site standards.
+   1. Content currency - all content must perform a review every 180 days in order to meet site standards.
    2. Content Accuracy - changing anything that is no longer factually accurate since publication or disabling if no longer viable
    3. Technical Accuracy – updating the content when a new product version has been released that impacts the viability and currency of the content
    4. Accessibility - links are routed to the correct content and are accessible to both IBMers and BPs (where applicable)`
