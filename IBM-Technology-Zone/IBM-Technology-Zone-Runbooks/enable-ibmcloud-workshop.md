@@ -77,6 +77,14 @@ Step 8: After validating the above test cases, please notify the IBM Technology 
 
 Step 9: Once all tests have successfully passed, the environment will be enabled for all IBMers to request a workshop. If you have additional feedback or ideas on how we can improve the workshop manager process or tool, please submit an enhancement request through our [IBM Technology Zone Aha enhancements portal](https://ibm.biz/techzone-enhancements) so our team can properly review and prioritize. 
 
+## IBM Cloud email invite information
+
+When running an IBM Cloud environment workshop (except VMware), an email will be sent to instructors inviting instructors to the IBM Cloud account once the environments have finished provisioning. An email will also be sent to attendees once the environment is deployed and a student has already been assigned. NOTE: A student will have to login with workshop password to claim an environment or the instructor can assign student from the instructor page. 
+
+## VMWare on IBM Cloud invite information
+
+VMWare on IBM Cloud workshops will not send an email inviting instructors or users to the IBM Cloud account. Access credentials will be provided on the instructor and student pages. 
+
 ### Support
 
 IBMers - use the [#itz-workshop-support](https://ibm-techzone.slack.com/archives/CTA2MV9AM) slack channel
