@@ -134,10 +134,12 @@ Default Variables required
 
 Note: if you do not have Network details from Skytap use the default values
 
-13. Test reservation
+13. Test reservation 
 
 14. Production rollout
-- Send a Support request to template VM to production
-Infrastructure admin to template and provide env details
+
+Once all testing is completed you need to send a note to techzone.help@ibm.com or #itz-techzone-support to have an admin move your from _template-shared_ to _templates _ (production)
+
+Now you can update your environment with the correct  details
 
 
