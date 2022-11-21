@@ -8,6 +8,12 @@
 
 [Azure Aro Adding Worker Nodes](IBM-Technology-Zone-Runbooks/azure-aro-adding-worker-nodes.md)  :white_check_mark: 
 
+## Cloud
+
+[AIX Linux Access](https://github.com/IBM/itz-support-public/blob/main/IBM-Cloud/IBM-Cloud-Runbooks/aix-linux-access.md)  :white_check_mark:
+
+[IBMI ACS](https://github.com/IBM/itz-support-public/blob/main/IBM-Cloud/IBM-Cloud-Runbooks/ibmi-acs.md)  :white_check_mark:
+
 ## Cloud Paks on ROKS
 
 [How to change CP4D SSL self-signed certificates to Valid Let's Encrypt on ROKS](IBM-Technology-Zone-Runbooks/cp4d-certs.md)  :white_check_mark:
