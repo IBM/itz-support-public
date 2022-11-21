@@ -139,6 +139,30 @@
 
 [Use a Skytap Template as an Environment in Collection](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Adding-Skytap-templates-to-environments-in-a-collection.md)  :white_check_mark:
 
+## On Premise
+
+[Access AIX Repos](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/access-aix-repos.md)  :white_check_mark:
+
+[Configure DNS](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/configure-dns.md) :white_check_mark:
+
+[Configure Second Disk](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/configure-second-disk.md) :white_check_mark:  
+
+[Configure VPN](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/configure-vpn.md) :white_check_mark:
+
+[Connecting to IBMI](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/connecting-to-ibmi.md)  :white_check_mark:
+
+[FAQ](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/faq.md) :white_check_mark:
+
+[IBM Z/OS](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/ibm-zos.md)  :white_check_mark:
+
+[Openshift](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/openshift.md) :white_check_mark:
+
+[Openshift MT](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/openshift-mt.md)  :white_check_mark:
+
+[Openshift Rate Limit](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/openshift-rate-limit.md)  :white_check_mark:
+
+[Spectrum Discover](https://github.com/IBM/itz-support-public/blob/main/IBM-On-premise/IBM-On-premise-Runbooks/spectrum-discover.md) :white_check_mark:
+
 ## ROKS
 
 [Fix a PVC that Never Binds](IBM-Technology-Zone-Runbooks/pvc-never-binds.md)  :white_check_mark:  
