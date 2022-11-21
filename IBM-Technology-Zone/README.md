@@ -84,6 +84,14 @@
 
 [Upgrade Resource to a Collection](IBM-Technology-Zone-Runbooks/upgrade-resource-to-collection.md)  :white_check_mark:  
 
+## Demos
+
+[DEPRECIATED ITZ Youtube Video Migration](https://github.com/IBM/itz-support-public/blob/main/IBM-Demos/IBM-Demos-Runbooks/DEPRECIATED-itz-youtube-video-migration.md)  :white_check_mark:
+
+[IBM Demons Hands On Lab Removal Support](https://github.com/IBM/itz-support-public/blob/main/IBM-Demos/IBM-Demos-Runbooks/ibmdemos-handsonlab-removal-support.md) :white_check_mark:
+
+[Request Published Content on IBM Demos](https://github.com/IBM/itz-support-public/blob/main/IBM-Demos/IBM-Demos-Runbooks/request-publish-content-ibmdemos.md)  :white_check_mark:
+
 ## Fyre (IBMer Only)  
 
 [Fix Error EOF on Fyre OCP Clusters](IBM-Technology-Zone-Runbooks/fyre-ocp-fix-eof.md)  :white_check_mark:
