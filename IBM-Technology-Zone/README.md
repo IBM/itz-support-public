@@ -32,7 +32,7 @@
 
 [Add a Resource to a Collection](IBM-Technology-Zone-Runbooks/add-a-resource.md)  :white_check_mark:
 
-[Automated Collection Lifecycle Management](IBM-Technology-Zone-Runbooks/launch%20of%20new%20automated-lifecycle-management.md)  :white_check_mark:  aa
+[Automated Collection Lifecycle Management](IBM-Technology-Zone-Runbooks/launch%20of%20new%20automated-lifecycle-management.md)  :white_check_mark: 
 
 [Create a Collection](IBM-Technology-Zone-Runbooks/create-collection.md)  :white_check_mark:
 
