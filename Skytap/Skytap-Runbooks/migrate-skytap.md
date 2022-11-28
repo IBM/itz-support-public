@@ -45,7 +45,7 @@ Best to use Chrome for clipboard access, or if you are using Firefox and unable 
 
 ![migrate7](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate7.png)
 
-4. **To download exported VM, use the link provided by support and paste it into Filezilla within the Template Builder VM.**
+4. **To download exported VM, use the ftp link provided by support and paste it into Filezilla within the Template Builder VM.**
 
 
 ![migrate11b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate11b.png)
