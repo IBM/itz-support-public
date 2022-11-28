@@ -158,12 +158,13 @@ Note: if you do not have Network details from Skytap use the default values
 
 Send Folder name and Collection name/url to techzone.help@ibm.com or #itz-techzone-support to have this completed
 
-`Example mail
-Subject: VMware Template to Production
+Example mail
 
-Collection name/url:
+**Subject:** VMware Template to Production
 
-Folder name in "Template shared"`
+**Collection name/url:**
+
+**Folder name in "Template shared":**
 
 Note: if you require access in other data centers please include it in your production request. Only dal10 and wdc04 are currently available.
 
