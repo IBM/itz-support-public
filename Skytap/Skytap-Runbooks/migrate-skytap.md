@@ -134,12 +134,17 @@ Default Variables required
 
 Note: if you do not have Network details from Skytap use the default values
 
-13. Test reservation 
+13. Test reservation - Once all testing is completed.
 
-14. Production rollout
+14. For Production rollout your VM folder _(vm_template_id)_ in "template-shared" needs to be copied to "templates" (production folder). This can only be completed by admins
 
-Once all testing is completed you need to send a note to techzone.help@ibm.com or #itz-techzone-support to have an admin move your from _template-shared_ to _templates _ (production)
+Send Folder name and Collection name/url to techzone.help@ibm.com or #itz-techzone-support to have this completed
 
-Now you can update your environment with the correct  details
+" Example mail
+Subject: VMware Template to Production
+Collection name/url:
+Folder name in "Template shared" "
+
+Once completed add your environment to your collection
 
 
