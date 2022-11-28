@@ -4,7 +4,7 @@ This will guide you through the steps to migrate your Skytap environments to the
 
 Use **#skytap-migration-support** for any migration specific ask, this is a private channel request access #itz-techzone-support
 
-1. Create a support request to export Skytap environment 
+1. **Create a support request to export Skytap environment **
 
 - You will need to provide the template id from your Techzone collection (just one region is sufficient):
 
@@ -25,7 +25,7 @@ Sample Network environment details, use the network information when you catalog
 ![ftp link](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate4.png)
 
 
-2. Make reservations for Template Builder _(Vsphere access)_, and IBM Cloud Object Storage _(Image Storage)_ from https://techzone.ibm.com/collection/skytap-migration
+2. **Make reservations for Template Builder** _(Vsphere access)_, and **IBM Cloud Object Storage** _(Image Storage)_ from https://techzone.ibm.com/collection/skytap-migration
 
 - If your Template Builder reservation expires you lose everything except what you upload to COS!!!
 - If you don't have access to skytap-mgration Collection, request it from Support.
@@ -38,14 +38,14 @@ Sample Environment from https://techzone.ibm.com/collection/skytap-migration
 
 ![migrate7](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate6.png)
 
-3. From within Template Builder VM you can access the vSphere console login information is at the bottom of the reservation details.
+3. **From within Template Builder VM you can access the vSphere console login information is at the bottom of the reservation details.**
 
 `Open Chrome and use credentials for vSphere found at bottom of Template Builder reservation.
 Best to use Chrome for clipboard access, or if you are using Firefox and unable to copy/paste in Remote Desktop Web Client, please enable clipboard See https://sudoedit.com/firefox-async-clipboard/.` 
 
 ![migrate7](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate7.png)
 
-4. To download exported VM, use the link provided by support and paste it into Filezilla within the Template Builder VM.
+4. **To download exported VM, use the link provided by support and paste it into Filezilla within the Template Builder VM.**
 
 
 ![migrate11b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate11b.png)
@@ -57,7 +57,7 @@ Best to use Chrome for clipboard access, or if you are using Firefox and unable 
 ![migrate12b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate12b.png)
 
 
-5. Edit the .vmx file to remove floppy and set the power options to "soft"
+5. **Edit the .vmx file to remove floppy and set the power options to "soft"**
 
 ![migrate14b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate14b.png)
 
@@ -67,8 +67,8 @@ Best to use Chrome for clipboard access, or if you are using Firefox and unable 
 
 ![migrate12](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate12.png)
 
-6. Convert the VM to OVA 
-- Run a Terminal window to convert the VM to ova
+6. **Convert the VM to OVA** (this combines all the vms into one an image that can be run on VMware on IBM Cloud)
+- In a Terminal window  run to convert the VM to ova
 ```
 cd ~
 ovftool session.vmx mynewvm.ova
@@ -76,7 +76,7 @@ ovftool session.vmx mynewvm.ova
 
 ![migrate14](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate14.png)
 
-7. Upload your vms to the COS (Cloud Object Storage) bucket to Backup your images
+7. **Upload your vms to the COS (Cloud Object Storage)** bucket to Backup your images
 
 `Assuming you made a reservation for Cloud Object Storage, and accepted the invite to the ITZ-TECH account.`
 
@@ -90,9 +90,11 @@ Ensure the images are placed in the skytap-exports bucket.
 
 To continue Migrations
 
-8. Open Chrome, log into vSphere using the credentials at the bottom of your Template Builder reservation.  Create your folder in vSphere under **templates-shared.** Short unique naming conventions advised
+8. **Open Chrome, log into vSphere using the credentials at the bottom of your Template Builder reservation.**
+- Create your folder in vSphere under **templates-shared.** Short unique naming conventions advised
 
-9. Right click to Deploy OVF.
+9. **Upload the OVA file VM to vSphere**
+- Right click to Deploy OVF and select the OVA file created
 
 ![migrate17](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate17.png)
 
@@ -112,31 +114,34 @@ To continue Migrations
 
 ![migrate22](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate22.png)
 
-- Finish
+- Click Finish, please wait for the recent task to complete before proceeding to next step
 
 ![migrate23](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate23.png)
 
 ![migrate24](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate24.png)
 
-10. Upgrade vSphere compatibility
+10. **Upgrade vSphere compatibility**
 
 ![migrate25](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate25.png)
+
+- Configure for compatibility as seen below
 
 ![migrate26](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate26.png)
 
 
-11. Clone your VM to Template, right click the vm, select Clone, clone to template
+11. **Clone your VM to Template, right click the vm, select Clone, clone to template**
 
 ![migrate27](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate27.png)
 
 ![migrate28](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate28.png)
 
-12. To test your migration **Create Techzone environment** in https://techzone.ibm.com/collection/skytap-test
+12. **To test your migration **Create Techzone environment**** in https://techzone.ibm.com/collection/skytap-test
 
 Sample Network details
 ![migrate36](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate36.png)
 
 Default Variables required
+- Infrastructure - IBM Cloud
 - GitOps Patterns (Select vmware-template)
 - Account pool (itzvmware), Cloud Account (itzvmware), Geo (Americas), Region (us-south), Datacenter (dal10)
 - vm_template_folder (parent folder example "template-shared")
@@ -148,8 +153,8 @@ Default Variables required
 
 Note: if you do not have Network details from Skytap use the default values
 
-13. Once all these are completed create a Test reservation, if testing is successful next steps is to production roll out
-14. For Production rollout your VM folder _(vm_template_id)_ in "template-shared" needs to be copied to "templates" (production folder). This can only be completed by admins
+13. Once all these are completed create a **Test reservation**, if testing is successful next steps is to production roll out
+14. For **Production rollout** your VM folder _(vm_template_id)_ in "template-shared" needs to be copied to "templates" (production folder). This can only be completed by admins
 
 Send Folder name and Collection name/url to techzone.help@ibm.com or #itz-techzone-support to have this completed
 
