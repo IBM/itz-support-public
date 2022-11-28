@@ -153,15 +153,17 @@ Default Variables required
 
 Note: if you do not have Network details from Skytap use the default values
 
-13. Once all these are completed create a **Test reservation**, if testing is successful next steps is to production roll out
+13. Once all these are completed create a **Test reservation**, if testing is successful next steps is production roll out
 14. For **Production rollout** your VM folder _(vm_template_id)_ in "template-shared" needs to be copied to "templates" (production folder). This can only be completed by admins
 
 Send Folder name and Collection name/url to techzone.help@ibm.com or #itz-techzone-support to have this completed
 
 `Example mail
 Subject: VMware Template to Production
+
 Collection name/url:
-Folder name in "Template shared" `
+
+Folder name in "Template shared"`
 
 Note: if you require access in other data centers please include it in your production request. Only dal10 and wdc04 are currently available.
 
