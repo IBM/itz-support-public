@@ -61,7 +61,7 @@ Best to use Chrome for clipboard access, or if you are using Firefox and unable 
 
 ![migrate14b](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate14b.png)
 
-** View to remove floppy, and set power options to “soft”**
+**View to remove floppy, and set power options to “soft”**
 
 ![migrate13](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate13.png)
 
