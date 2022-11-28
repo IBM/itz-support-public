@@ -4,7 +4,7 @@ This will guide you through the steps to migrate your Skytap environments to the
 
 Use **#skytap-migration-support** for any migration specific ask, this is a private channel request access #itz-techzone-support
 
-1. **Create a support request to export Skytap environment **
+1. ** Create a support request to export Skytap environment **
 
 - You will need to provide the template id from your Techzone collection (just one region is sufficient):
 
