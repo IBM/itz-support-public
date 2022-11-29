@@ -25,7 +25,7 @@ Sample Network environment details, use the network information when you catalog
 ![ftp link](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate4.png)
 
 
-2. **Make reservations for Template Builder** _(Vsphere access)_, and **IBM Cloud Object Storage** _(Image Storage)_ from https://techzone.ibm.com/collection/skytap-migration
+2. **Make reservations for Template Builder** _(Vsphere access)_, and **Cloud Object Storage for exported VMs** _(Image Storage)_ from https://techzone.ibm.com/collection/skytap-migration
 
 - If your Template Builder reservation expires you lose everything except what you upload to COS!!!
 - If you don't have access to skytap-mgration Collection, request it from Support.
