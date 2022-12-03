@@ -2,8 +2,9 @@
 
 :warning: *If you are an IBMer* either at an IBM location or connection to IBM from home or remote office through Cisco AnyConnect, you don't need to use this guide. You already have access to the systems from the IBM intranet.
 
+## Windows
 
-## Download Cisco AnyConnect
+### Download Cisco AnyConnect
 
 :warning: If you already have cisco 4.4 or greater installed on your system, you should skip to [Connecting the VPN](#connecting-the-vpn).
 
@@ -42,7 +43,7 @@ This will attempt to install the VPN client. During this process you may see var
 
 Choose appropriate selections that will allow the install to continue. 
 
-## Connecting the VPN
+### Connecting the VPN
 
 Start the client, enter **asa003b.centers.ihost.com** in the box and click connect. When prompted choose **AnyConnect** as the group, and enter the VPN id and password assigned to you.
 
@@ -61,3 +62,13 @@ If the connection is successful, you will see the VPN client icon in your system
 Right-clicking the icon will bring up a menu where you can see more details or disconnect/quit your session.
 
 Congratulations, you are now able to access the resources assigned and provided to you. 
+
+## Red Hat / CentOS / Fedora Linux
+
+[NetworkManager's openconnect VPN plugin](https://gitlab.gnome.org/GNOME/NetworkManager-openconnect) can be used. Make sure the plugin's RPM was installed, and then create a new VPN profile via Gnome's Settings panel, or via command-line like this:
+```
+sudo dnf install NetworkManager-openconnect-gnome
+nmcli connection add type vpn connection.id IBM-TECH-ZONE vpn-type openconnect vpn.data gateway=asa003b.centers.ihost.com ipv4.dns-search ihost.com
+```
+
+:information_source: For Ubuntu, consider `sudo apt install network-manager-openconnect-gnome`
