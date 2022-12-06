@@ -92,6 +92,16 @@ To continue Migrations
 
 8. **Open Chrome, log into vSphere using the credentials at the bottom of your Template Builder reservation.**
 - Create your folder in vSphere under **templates-shared.** Short unique naming conventions advised
+- Create and Assign Tag (Tags are used to identify template owner)
+    Steps to create a Tag
+     a. Right click folder "Tags & Custom Attributes" Select Assign Tag
+     b. Click on Add Tag on Top left corner
+       - Name Type First and Last name
+       - Description enter your IBM id email
+       - Category use drop down select "Owners"  
+       - click create
+     c. Your Tag Name should appear on the list, use check box to select and Assign
+
 
 9. **Upload the OVA file VM to vSphere**
 - Right click to Deploy OVF and select the OVA file created
