@@ -29,9 +29,12 @@ NOTE: if "extend" is greyed out, you do not have an opportunity number attached 
 Are you going on vacation and worried about losing your reservation? You can transfer it to a colleague to manage while away, see details [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer_environment.md)
 
 Attention: It is a user's responsibility to ensure they extend reservations before the listed end date and time. 
-All exception request should come in at least 72 hours before the scheduled end date and time. 
-Environments are auto removed once reservations are expired and are currently not recoverable.
+Environments are auto removed once reservations are expired and are currently not recoverable. All exception request should come in at least 72 hours before the scheduled end date and time. 
+
+**Extension Exception Request**
+An opportunity number is required for all exception request
 
 ### Support
 
 For any questions, contact ITZ support - techzone.help@ibm.com
+IBMers Slack Channel #itz-techzone-support(https://ibm-techzone.slack.com/archives/C0124J683GW)
