@@ -176,7 +176,9 @@ Example mail
 
 **Folder name in "Template shared":**
 
-Note: if you require access in other data centers please include it in your production request. Only dal10 and wdc04 are currently available.
+**Required Region:**
+
+Note: if you require access in other data centers please include it in your production request. Only DAL10, WDC04, FRA04, TOK02 are currently available.
 
 Once completed 
 - create your environment in your collection _please note:_ vm_template_folder name should be **"templates"**)
