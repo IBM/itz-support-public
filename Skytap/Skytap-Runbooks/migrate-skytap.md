@@ -179,7 +179,8 @@ Example mail
 Note: if you require access in other data centers please include it in your production request. Only dal10 and wdc04 are currently available.
 
 Once completed 
-- add your environment to your collection and update old Skytap environment status to "disabled"
-- If you create a new collection, retire old collection
+- create your environment in your collection (vm_template_folder name should be **"templates"**)
+- update old Skytap environment status to "disabled"
+- if you create a new collection, retire old collection
 
 
