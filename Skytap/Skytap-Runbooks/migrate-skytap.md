@@ -97,7 +97,8 @@ To continue Migrations
      a. Right click folder "Tags & Custom Attributes" Select Assign Tag
      b. Click on Add Tag on Top left corner
        - Name Type First and Last name
-       - Description enter your IBM id email
+       - Description enter your IBM id email , VM_template_id and collection url
+              -If you have mutiple Collections update your tags to include them
        - Category use drop down select "Owners"  
        - click create
      c. Your Tag Name should appear on the list, use check box to select and Assign
