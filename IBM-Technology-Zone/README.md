@@ -265,6 +265,12 @@
 
 [Widget Dashboard](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/widget-dashboard.md)  :white_check_mark: 
 
+## VMware on IBM Cloud
+
+[VMware Published Services](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwarePublishedServices.md)  :white_check_mark:
+
+[VMware Wireguard VPN Access](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareWireguardVPNaccess.md) :white_check_mark:
+
 ## Workshop
 
 [Enable Workshop Requests on an IBM Cloud Environment](IBM-Technology-Zone-Runbooks/enable-ibmcloud-workshop.md)  :white_check_mark:  
