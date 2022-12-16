@@ -155,7 +155,7 @@ Default Variables required
 - Infrastructure - IBM Cloud
 - GitOps Patterns (Select vmware-template)
 - Account pool (itzvmware), Cloud Account (itzvmware), Geo (Americas), Region (us-south), Datacenter (dal10)
-- vm_template_folder (parent folder example "template-shared")
+- vm_template_folder (parent folder example "templates-shared")
 - vm_template_id (the vspehre folder name for the VMs)
 - vm_map_string (make sure your VM Map string is correct, you can use any JSON validators like https://jsonlint.com/) 
 - vm_domain
@@ -165,7 +165,7 @@ Default Variables required
 Note: if you do not have Network details from Skytap use the default values
 
 13. Once all these are completed create a **Test reservation**, if testing is successful next steps is production roll out
-14. For **Production rollout** your VM folder _(vm_template_id)_ in "template-shared" needs to be copied to "templates" (production folder). This can only be completed by admins
+14. For **Production rollout** your VM folder _(vm_template_id)_ in "templates-shared" needs to be copied to "templates" (production folder). This can only be completed by admins
 
 Send Folder name and Collection name/url to techzone.help@ibm.com or #itz-techzone-support to have this completed
 
