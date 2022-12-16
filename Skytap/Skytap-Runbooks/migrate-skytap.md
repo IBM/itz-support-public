@@ -175,7 +175,7 @@ Example mail
 
 **Collection name/url:**
 
-**Folder name in "Template shared":**
+**Folder name in "Templates-shared":**
 
 **Required Region:**
 
