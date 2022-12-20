@@ -117,7 +117,7 @@ To continue Migrations
 
 ![migrate20](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate20.png)
 
-- Select the storage "datastore-shared":
+- Select the storage "datastore-dal10-templates":
 
 ![migrate21](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate21.png)
 
