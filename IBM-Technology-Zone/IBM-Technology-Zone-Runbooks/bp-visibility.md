@@ -1,8 +1,8 @@
 # Find content accessible today for Business Partners
 
-IBM Technology Zone is accessible to IBMers and Business Partners that validate through Partner World. 
+IBM Technology Zone is accessible to IBMers and Business Partners that validate through Partner Plus. 
 
-See Partner access runbook for additional details on getting Partner World account properly setup. 
+See Partner access runbook for additional details on getting Partner Plus account properly setup. 
 
 **Option 1:** How to navigate Business Partner content and environments from the search page.
 
