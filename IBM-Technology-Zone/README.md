@@ -22,6 +22,8 @@
 
 ## Content
 
+[BP-Visibility](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/bp-visibility.md)  :white_check_mark:
+
 [Content Creator: How to Improve Your Collections Search Results](IBM-Technology-Zone-Runbooks/collection-search-results.md) :white_check_mark: 
 
 [New Content Authoring](IBM-Technology-Zone-Runbooks/new-environment-authoring.md)  :white_check_mark:
