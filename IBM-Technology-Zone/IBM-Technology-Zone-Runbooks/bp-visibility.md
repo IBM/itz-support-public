@@ -56,7 +56,7 @@ A collection and the resource visibility levels are defined by the content owner
 
 To inquire about a collection that is only IBMr visibible today, contact the owners by selecting the support icon. 
 
-![support collection option](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/support-collection.png)
+![support collection option](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/support-collection.pngd
 
 Click the content support option at the top. 
 
