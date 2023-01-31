@@ -23,10 +23,10 @@ d. regions additional copies are required for. Supported Regions (DAL10, WDC04, 
 
 You will be sent a response once move to production is completed.  Please note if you don't specify a region, your template will be onboarded only in Dal 10.
 
-Next Steps Add your vmware environment to your collection.
+Next Steps Add/update your vmware environment to your collection. 
 
-Update environment 
-- vm_template_folder = templates
+Update variables required  
+- vm_template_folder = **templates**
 - vm_template_id = leave as is or update if template folder name changes
 
 
