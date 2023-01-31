@@ -269,6 +269,8 @@
 
 ## VMware on IBM Cloud
 
+[VMware Template Onboarding](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md)  :white_check_mark:
+
 [VMware Published Services](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwarePublishedServices.md)  :white_check_mark:
 
 [VMware Wireguard VPN Access](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareWireguardVPNaccess.md) :white_check_mark:
