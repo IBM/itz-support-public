@@ -285,7 +285,7 @@
 
 [How to Download Workshop Environment Information to a Spreadsheet](IBM-Technology-Zone-Runbooks/DownloadWSEnvInfo.md)  :white_check_mark: 
 
-[How to for Attendee (Skytap)](IBM-Technology-Zone-Runbooks/How-to-for-Attendee.md)  :white_check_mark: 
+[How to for Attendee](IBM-Technology-Zone-Runbooks/How-to-for-Attendee.md)  :white_check_mark: 
 
 [How to Redeploy a Workshop Environment](IBM-Technology-Zone-Runbooks/RedeployWorkshopEnv.md)  :white_check_mark:  
 
