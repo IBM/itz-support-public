@@ -4,7 +4,7 @@ Please review the following enhancement added to IBM Technology Zone's reservati
 
 ## Current Policies as of February 6th
 
-![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservationdurationpolicies-020623.png)
+![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resdurationpolicies1.png)
 
 ## Find Duration Policies on TechZone Reservations Form
 
