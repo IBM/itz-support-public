@@ -1,7 +1,9 @@
 ## Download/Export VMware envrionment/template
 
 - Send a support request to techzone.help@ibm.com
+   
    Subject: Export vmware environment/template
+   
    Include the VM details: **"vm_template_id"** or **"reservation id"**
    
  - The Support team will initiate an export and upload vm to a COS (Cloud Object Storage) bucket for user downloads.
