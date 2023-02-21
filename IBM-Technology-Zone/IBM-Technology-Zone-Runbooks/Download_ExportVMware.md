@@ -1,4 +1,4 @@
-## Download/Export VMware envrionment/template
+## Download/Export VMware envrionment or template
 
 - Send a support request to techzone.help@ibm.com
    
