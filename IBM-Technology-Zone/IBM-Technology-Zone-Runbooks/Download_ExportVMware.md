@@ -6,7 +6,7 @@
    
    Include the VM details: **"vm_template_id"** or **"reservation id"**
    
- - The Support team will initiate an export and upload vm to a COS (Cloud Object Storage) bucket for user downloads.
+ - The Support team will initiate an export and upload files into a COS (Cloud Object Storage) bucket for user downloads.
  - A COS reservation will be transferred to you for downloads, you have **7 days** from the date of transfer to comlpete the downloads, after which the reservation and COS details will be deleted.
  - To access the COS bucket.
    
