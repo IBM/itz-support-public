@@ -33,7 +33,7 @@ The max durations for environments leveraging the Workshop Manager is 3 days.
 
 The max number of environments that can be scheduled using Workshop Manager is 30 environments. 
 
-A Businees justifcation will be required for any Workshop that exceeds the stated maximums.
+An exception request is required for any Workshop that exceeds the stated maximums.
 
 
 ### Support
