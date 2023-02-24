@@ -15,7 +15,12 @@ _An exception request is required for any Workshop that exceeds the stated maxim
   Subject Workshop Manager exception request
   Include
   1. Workshop name and url
-  2. External - Customer Company name and Opportunity number
+  2. External - Customer Company name and valid Opportunity number
   3. Internal - IBM group name
   4. Business Justification
-  5. 
+
+### Support
+
+For any questions, contact ITZ support - techzone.help@ibm.com
+
+  
