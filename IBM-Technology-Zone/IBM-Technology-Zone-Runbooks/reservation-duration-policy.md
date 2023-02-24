@@ -27,6 +27,14 @@ Watch how the reservation durations will change as you fill out the form. Provid
 
 **Extension limit:** This environment has a limited number of extensions. For example: Having an extension limit of 12 means that you can extend your reservation every week for another 7 days but there is a limit to doing an extension to 12 times only. 
 
+## Workshops
+
+The max durations for environments leveraging the Workshop Manager is 3 days.
+
+The max number of environments that can be scheduled using Workshop Manager is 30 environments. 
+
+A Businees justifcation will be required for any Workshop that exceeds the stated maximums.
+
 
 ### Support
 
