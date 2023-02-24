@@ -223,6 +223,8 @@
 
 [How to Upgrade Configurations on my Reserved Environment](IBM-Technology-Zone-Runbooks/upgrade-environment-configuration-requests.md)  :white_check_mark:
 
+[Reservation Duration Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:
+
 [Third Party Reservation Policy Updates](IBM-Technology-Zone-Runbooks/thirdparty-res-policy-updates.md)  :white_check_mark:
 
 [Valid Opportunity Codes to Input on Reservation Form](IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md)  :white_check_mark: 
