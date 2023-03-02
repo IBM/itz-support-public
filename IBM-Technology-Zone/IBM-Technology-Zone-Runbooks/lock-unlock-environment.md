@@ -27,7 +27,7 @@ Collaborators will not be able to lock and unlock an environment on a collection
 
 Navigate to the bottom of the collection edit form. The email provided in the author field is the owner that will be able to lock and unlock environments. 
 
-![AuthorField](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/authorfield.png)
+![AuthorField](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/authorfieldnew.png)
 ## How to Identify Content Collaborator Role:
 Navigate to the bottom of the collection edit form . The emails provided in the collaborator field are the users that can modify content but must work with content author if an environment is locked to make their updates. (show picture of collaborator field on collection edit form)
 
