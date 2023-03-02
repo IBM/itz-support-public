@@ -35,4 +35,4 @@ Navigate to the bottom of the collection edit form . The emails provided in the 
 
 # Support
 
-For support, please email techzone.help@ibm.com
+For any questions, contact ITZ support - techzone.help@ibm.com
