@@ -70,7 +70,9 @@
 
 [Introduction to Journeys](IBM-Technology-Zone-Runbooks/intro-collection-journey.md)  :white_check_mark:
 
-[ITZ Github Runbook Best Practices](IBM-Technology-Zone-Runbooks/github-runbook-best-practices.md)  :white_check_mark: 
+[ITZ Github Runbook Best Practices](IBM-Technology-Zone-Runbooks/github-runbook-best-practices.md)  :white_check_mark:
+
+[Lock and Unlock an Environment in a Collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/lock-unlock-environment.md) :white_check_mark:
 
 [Ownership Transfer](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ownership-transfer.md)  :white_check_mark: 
 
