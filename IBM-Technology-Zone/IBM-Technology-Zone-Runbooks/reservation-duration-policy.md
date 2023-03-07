@@ -2,7 +2,7 @@
 
 Please review the following enhancement added to IBM Technology Zone's reservation forms to improve the visibility for our users to see exactly how long they can reserve an environment for, and to understand the current policies in place today.
 
-## Current Policies as of February 6th
+## Current Policies as of March 15th
 
 ![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resdurpol3.png)
 
