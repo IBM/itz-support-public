@@ -58,7 +58,13 @@ You will be taken to the "Request a workshop" page.
  
 * Enter number of attendees
   
-* Select start date/time and end date/time. Note: your start date has to be greater than or equal to 72 hours of your current time. Afterwards, click **Next**
+* Select start date/time and end date/time. 
+
+Note: 
+
+1. Number of environments cannot be greater than number of attendees selected
+
+2. The Start date has to be greater than or equal to 72 hours of your current time. Afterwards, click **Next**
   
    
   ![step3ibmcloud](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/step3ibmcloud.png)
