@@ -58,7 +58,7 @@ To add a widget:
 1. Click the add widget icon.
 2. Click the "+" button on the list of available widgets that can be added. 
 
-![widgetdashadd](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashadd1.png)
+![widgetdashadd](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Screen%20Shot%202023-03-09%20at%209.35.30%20AM.png)
 
 3. Newly added widgets will be automatically added at the top of the dashboard.
 
