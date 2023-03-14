@@ -29,9 +29,9 @@ Watch how the reservation durations will change as you fill out the form. Provid
 
 ## Workshops
 
-The maximum duration for environments leveraging the Workshop Manager is 3 days.
+The maximum duration for environments leveraging the Workshop Manager is **5** days.
 
-The maximum number of environments that can be scheduled using Workshop Manager is 80 environments. 
+The maximum number of environments that can be scheduled using Workshop Manager is **80** environments and has to be submitted **72 hours** before the intended start date. We suggest submitting your request earlier than 72 hours for environments request greater than **40**.
 
 An exception request is required for any Workshop that exceeds the stated maximums.
 
