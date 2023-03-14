@@ -2,7 +2,7 @@
 
 Effective May 9th 2022
 
-The maximum duration for any reservation scheduled using the Workshop Manager is **3 days** with a maximum number of **80 environments**.
+The maximum duration for any reservation scheduled using the Workshop Manager is **5 days** with a maximum number of **80 environments**.
 
 All request should come in **72 hours** beofre the intended start date and time. We suggest submitting your request earlier than 72 hours for environments request greater than 40 
 
