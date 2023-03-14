@@ -1,6 +1,6 @@
 # Workshop Manager Reservation Policy
 
-Effective May 9th 2022
+Effective March 8th 2023
 
 The maximum duration for any reservation scheduled using the Workshop Manager is **5 days** with a maximum number of **80 environments**.
 
