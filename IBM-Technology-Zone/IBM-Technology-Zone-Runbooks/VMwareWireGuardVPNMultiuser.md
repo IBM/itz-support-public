@@ -11,7 +11,7 @@ Users need to manually to create additional WireGuard VPN peers, if they need to
 `wg genkey | tee user2-privatekey | wg pubkey > user2-publickey`
 If `wg` is not found, install it by `sudo yum install wireguard-tools`
 
-3. Go the router web interface https://192.168.252.1/wg/vpn_wg_peers.php from your VM bastion
+3. Go the router web interface https://192.168.253.1/wg/vpn_wg_peers.php from your VM bastion
 (Default username: `admin`, password: `< your bastion password from reservation page >`)
 4. Create a VPN peer for each user:
 - Click `Add peer`
