@@ -5,7 +5,7 @@
 Users need to manually to create additional WireGuard VPN peers, if they need to share access to their VM envrionment, or would like to connect from multiple systems at the same time
 
 1. Follow the initial steps to enable VPN for a reservation
-[VMware WireGuard VPN Access](VMwareWireGuardVPN.md)
+[VMware WireGuard VPN Access](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareWireguardVPNaccess.md)
 
 2. Generate WireGuard public and private keys for each user
 `wg genkey | tee user2-privatekey | wg pubkey > user2-publickey`
