@@ -1,4 +1,6 @@
-# Reservation Duration and Extension Policy | How Long Can I Reserve an Environment For? 
+# Reservation Duration and Extension Policy 
+
+This Documentation contains information for how Long you can reserve an Environment For? 
 
 Please review the following enhancement added to IBM Technology Zone's reservation forms to improve the visibility for our users to see exactly how long they can reserve an environment for, and to understand the current policies in place today.
 
