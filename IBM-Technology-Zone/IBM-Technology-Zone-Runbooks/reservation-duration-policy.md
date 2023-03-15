@@ -1,4 +1,4 @@
-# Reservation Duration and Extension Policy 
+# Reservation Durations and Extension Policy 
 
 This Documentation contains information for how Long you can reserve an Environment For? 
 
