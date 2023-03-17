@@ -55,6 +55,8 @@ You will be taken to the "Request a workshop" page.
 * Select the "workshop delivery audience"
   
 * Enter number of environments
+
+**Note** (You will want to provision the number of environments equal to the number of participants in the workshop, with a maximum of 30 environments)
  
 * Enter number of attendees
   
