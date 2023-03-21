@@ -275,6 +275,8 @@
 
 ## VMware on IBM Cloud
 
+[VMware Known Errors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMware_knownerrors.md) :white_check_mark:
+
 [VMware Template Onboarding](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md)  :white_check_mark:
 
 [VMware Published Services](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwarePublishedServices.md)  :white_check_mark:
