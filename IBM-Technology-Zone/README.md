@@ -243,11 +243,11 @@
 
 ## Skytap
 
-[Automatic Shutdown/Suspend](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-autoshutdown.md)  :white_check_mark:  
+[Skytap Automatic Shutdown/Suspend](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-autoshutdown.md)  :white_check_mark:  
 
 [Migrate Skytap](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/migrate-skytap.md)  :white_check_mark:
 
-[Rate Limiting](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-rate-limiting.md)  :white_check_mark:  
+[Skytap Rate Limiting](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-rate-limiting.md)  :white_check_mark:  
 
 [Skytap Passwords](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Skytap-password.md)  :white_check_mark:  
 
