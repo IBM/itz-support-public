@@ -2,7 +2,7 @@
 
 ![not-a-production-template](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/not%20a%20production%20template.png)
 
-Cause: template associated with asset/collection has not been onboarded.
+Cause: Skytap templates associated with asset/collection has not been onboarded.
 
 Resolution: Contact ITZ support
 
