@@ -1,6 +1,6 @@
 ## How to open a Support web Case.
 
-1. Log in to (IBM Internal Web case)[https://ibmsf.force.com/ibminternalproducts/s/], select "Open case"
+1. Log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case"
 2. Type of Support: select Product Support
 3. Case Title: Enter the case title that best describes your inquiry
 4. Product manufacturer: IBM
@@ -12,4 +12,31 @@
 10. Case Contact number: include if available
 11. Click **Submit Case**
 
-You will immediately receive a case created mail
+You will immediately receive a case created mail ![Case created]((Images/Casecreated.png)
+
+To view your cases go to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "View your cases"
+
+A list of your case will be visible [Casedetails](Images/Casedetails.png)
+
+Select a case to view details [Casedetailsview](Images/Casedetailsview.png)
+
+Details available
+- case number
+- case history
+- add comment, 
+- response and comment from a support agent
+- case status
+- close case
+- escalate case
+- case information
+- upload files 
+
+## How to Manager case
+ Your case can be managed from the details view. 
+ - Add a comment 
+ Use to provide details, updates on your case
+ - Close Case
+ You can close your case at any point in time, click on close case [Closecase](Images/Closecase.png)
+ - Reopen case
+ 4. reopen case
+
