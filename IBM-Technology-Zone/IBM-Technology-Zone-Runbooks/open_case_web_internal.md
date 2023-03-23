@@ -14,9 +14,13 @@
 
 You will immediately receive a case created mail ![Case created](Images/Casecreated.png)
 
-To view your cases go to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "View your cases"
+## How to View your cases
 
-A list of your case will be visible ![Casedetails](Images/Casedetails.png)
+Click on [My Cases](https://ibmsf.force.com/ibminternalproducts/s/my-cases) to view your case list
+
+You can also go to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "View your cases" 
+
+A list of all your case will be visible ![Casedetails](Images/Casedetails.png)
 
 Select a case to view details ![Casedetailsview](Images/Casedetailsview.png)
 
