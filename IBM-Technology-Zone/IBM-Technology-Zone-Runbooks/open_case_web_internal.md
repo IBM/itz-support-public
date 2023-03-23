@@ -42,5 +42,25 @@ Details available
  
 You can add a comment, close case, escalate case or review responses to your case. 
 
+## Notifcation Mails sent
+
+A number of mails are sent through the procees from when opend to closed
+
+Example 
+
+1. Case Created
+
+![Case created](Images/Casecreated.png)
+
+2. Awaiting Feedback 
+
+![caseemailawaiting](Images/caseemailawaiting.png)
+
+3. Case Closed 
+
+![case closed mail](Images/case closed mail.png)
+
+
+
 
 
