@@ -54,7 +54,7 @@ Example
 
 2. Awaiting Feedback 
 
-![caseemailawaiting](Images/caseemailawaiting.png)
+![caseemailawaiting](Images/caseemailawaiting .png)
 
 3. Case Closed 
 
