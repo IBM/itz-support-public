@@ -16,9 +16,9 @@ You will immediately receive a case created mail ![Case created]((Images/Casecre
 
 To view your cases go to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "View your cases"
 
-A list of your case will be visible [Casedetails](Images/Casedetails.png)
+A list of your case will be visible ![Casedetails](Images/Casedetails.png)
 
-Select a case to view details [Casedetailsview](Images/Casedetailsview.png)
+Select a case to view details ![Casedetailsview](Images/Casedetailsview.png)
 
 Details available
 - case number
@@ -33,10 +33,10 @@ Details available
 
 ## How to Manager case
  Your case can be managed from the details view. 
- - Add a comment 
- Use to provide details, updates on your case
- - Close Case
- You can close your case at any point in time, click on close case [Closecase](Images/Closecase.png)
- - Reopen case
- 4. reopen case
+ Select the case you intend to manage from [My Cases](https://ibmsf.force.com/ibminternalproducts/s/my-cases)
+ ![caselist](Images/caselist.png)
+ 
+You can add a comment, close case, escalate case or review responses to your case. 
+
+
 
