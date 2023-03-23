@@ -12,7 +12,7 @@
 10. Case Contact number: include if available
 11. Click **Submit Case**
 
-You will immediately receive a case created mail ![Case created]((Images/Casecreated.png)
+You will immediately receive a case created mail ![Case created](Images/Casecreated.png)
 
 To view your cases go to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "View your cases"
 
