@@ -58,7 +58,7 @@ Example
 
 3. Case Closed 
 
-![case closed mail](Images/case closed mail.png)
+![caseclosedmail](Images/caseclosedmail.png)
 
 
 
