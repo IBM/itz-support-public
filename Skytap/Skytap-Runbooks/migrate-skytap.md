@@ -146,7 +146,7 @@ To continue Migrations
 
 ![migrate28](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate28.png)
 
-12. **To test your migration **Create Techzone environment**** in https://techzone.ibm.com/collection/skytap-test
+12. **To test your migration **Create Techzone environment**, please create your own collection and follow the exact same steps.
 
 Sample Network details
 ![migrate36](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate36.png)
