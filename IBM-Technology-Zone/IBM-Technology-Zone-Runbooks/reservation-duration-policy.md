@@ -16,6 +16,10 @@ Now find two places on the reservation form that display the amount of time in w
 
 Watch how the reservation durations will change as you fill out the form. Providing more information, for example, selecting a "Customer Demo", "Proof of Concept", or "Proof of Technology" purpose and providing a valid IBM Sales Cloud or Gainsite relationship ID will provide you more time on the intial reservation form, dependent on the infrastructure.
 
+## Costs Updated
+
+Estimated costs are now displayed, which are estimated based upon the build materials and length of your reservation. At the moment, they only appear in the "create a reservation request" section. 
+![costsupdated](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Costs%20updated.png)
 
 ### Definitions
 
