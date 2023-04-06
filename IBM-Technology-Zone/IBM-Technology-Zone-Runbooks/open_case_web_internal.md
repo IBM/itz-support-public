@@ -4,7 +4,7 @@
 
 ![techzonehelp](Images/techzonehelp.png)
 
-2. Click on [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyplerlink or log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" ![opencase](Images/opencase.png)
+2. Click on [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyplerlink or log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" ![opencase](Images/opencase.png) ![webopencase](Images/webopencase.png)
 3. Begin to fill the form to open case your support case
 4. **Type of Support:** select Product Support
 5. **Case Title:** Enter the case title that best describes your inquiry
