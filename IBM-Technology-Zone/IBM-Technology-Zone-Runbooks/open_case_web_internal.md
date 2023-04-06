@@ -12,15 +12,25 @@ B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.pn
 
 
 3. Fill the form to open case your support case
+
    **Type of Support:** select Product Support
+   
    **Case Title:** Enter the case title that best describes your inquiry
+   
    **Product manufacturer:** IBM
+   
    **Product:** Select **IBM Technology Zone** Note: This is a required field to ensure you case gets routed to proper queue
+   
    **Reservation ID:** Enter the reservation id, if not applicable leave blank
+   
    **Severity and account information:** select the severity level that defines your case
+   
    **Case Description:** enter detailed description of your issue/inquiry
+   
    **Client reference:** include if available 
+   
    **Case Contact number:** include if available
+   
 4. Click **Submit Case**, your case is automatically created
 
 >Note: You will be taken to your Case detail page that includes your Case number and description and you should receive a case created mail 
