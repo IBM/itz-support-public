@@ -1,18 +1,25 @@
 ## How to open a Support web Case.
 
-1. Log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case"
-2. Type of Support: select Product Support
-3. Case Title: Enter the case title that best describes your inquiry
-4. Product manufacturer: IBM
-5. Product: Select **IBM Technology Zone**
-6. Reservation ID: Enter the reservation id, if not applicable leave blank
-7. Severity and account information: select the severity level that defines your case
-8. Case Description: Please enter a details description of your issue/inquiry
-9. Client reference: include if available 
-10. Case Contact number: include if available
-11. Click **Submit Case**
+1. Go to IBM Technology Zone [Help Page](https://techzone.ibm.com/help)
 
-You will immediately receive a case created mail ![Case created](Images/Casecreated.png)
+![techzonehelp](Images/techzonehelp.png)
+
+2. Click on [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyplerlink or log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" ![opencase](Images/opencase.png)
+3. Begin to fill the form to open case your support case
+4. **Type of Support:** select Product Support
+5. **Case Title:** Enter the case title that best describes your inquiry
+6. **Product manufacturer:** IBM
+7. **Product:** Select **IBM Technology Zone** Note: This is a required field to ensure you case gets routed to proper queue
+8. **Reservation ID:** Enter the reservation id, if not applicable leave blank
+9. **Severity and account information:** select the severity level that defines your case
+10. **Case Description:** enter detailed description of your issue/inquiry
+11. **Client reference:** include if available 
+12. **Case Contact number:** include if available
+13. Click **Submit Case**
+14. Your case is automatically created
+
+>Note: - You will be taken to your Case detail page that includes your Case number and description
+- You will immediately receive a case created mail ![Case created](Images/Casecreated.png)
 
 ## How to View your cases
 
@@ -40,7 +47,10 @@ Details available
  Select the case you intend to manage from [My Cases](https://ibmsf.force.com/ibminternalproducts/s/my-cases)
  ![caselist](Images/caselist.png)
  
-You can add a comment, close case, escalate case or review responses to your case. 
+- you can **add a comment** to provide additional details on your case to the support team 
+- close case
+- escalate case
+- View responses to your case. 
 
 ## Notifcation Mails sent
 
