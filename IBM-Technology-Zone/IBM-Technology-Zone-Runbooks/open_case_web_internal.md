@@ -1,6 +1,6 @@
 ## How to open a Support web Case.
 
-1. Go to IBM Technology Zone [Help Page](https://techzone.ibm.com/help)
+1. From the IBM Technology Zone [Help Page](https://techzone.ibm.com/help)
 
 ![techzonehelp](Images/techzonehelp.png)
 
