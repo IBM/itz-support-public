@@ -31,9 +31,9 @@ B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.pn
    
    **Case Contact number:** include if available
    
-## 4. Click **Submit Case**, your case is automatically created
+## 4. Click **Submit Case**, case is automatically created
 
->Note: You will be taken to your Case detail page that includes your Case number and description and you should receive a case created mail 
+>Note: You will be taken to your Case detail page that includes your Case number and description.
 
 ![Case created](Images/Casecreated.png)
 
@@ -67,9 +67,9 @@ Select a case to view available details, list below
 - escalate case
 - View responses to your case. 
 
-# Notifcation Mails sent
+# Notifcation Mails 
 
-Notifcation mails are sent for actions taken on your case.
+Notifcation mail is sent when a cases is submitted and for subsequent actions taken on the case.
 
 Example, **Case Created**, **Awaiting Feedback** and **Case Closed**
 
