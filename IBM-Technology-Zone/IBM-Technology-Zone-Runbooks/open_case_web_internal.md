@@ -19,7 +19,7 @@ B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.pn
    
    **Product manufacturer:** IBM
    
-   **Product:** Select **IBM Technology Zone** Note: This is a required field to ensure you case gets routed to proper queue
+   **Product:** type or select **IBM Technology Zone** from the dropdown. _**NOTE: This is a required field to ensure case gets routed to proper queue**_
    
    **Reservation ID:** Enter the reservation id, if not applicable leave blank
    
