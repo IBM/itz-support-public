@@ -11,7 +11,7 @@ A. **Open Case Hyperlink** ![opencase](Images/opencase.png)
 B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.png)
 
 
-3. Fill the form to open case your support case
+3. Complete and submit form to open a support case
 
    **Type of Support:** select Product Support
    
