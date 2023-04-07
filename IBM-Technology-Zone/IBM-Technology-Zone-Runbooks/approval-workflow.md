@@ -23,7 +23,7 @@ The IBM Technology Zone team will review requests within 3 to 5 business days. A
 
 Users will receive an email confirming that their request was submitted which will be a pending approval status email. Along with an email once a request has been approved or denied. For requests that have been denied, a reason is required for the approving group to provide to the user/requestor and additional comments will be required that will be shared in the email.
 
-- Where can I find my requests that are pending approval? 
+- Where can I find  my requests that are pending approval? 
 
 Users/Requestors can find requests that are pending approval right from their reservations widget from their dashboard
 
