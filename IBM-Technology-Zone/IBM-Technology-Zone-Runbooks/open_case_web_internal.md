@@ -1,17 +1,17 @@
-## How to open a Support web Case.
+# How to open a Support web Case.
 
-1. From the IBM Technology Zone [Help Page](https://techzone.ibm.com/help)
+## 1. From the IBM Technology Zone [Help Page](https://techzone.ibm.com/help)
 
 ![techzonehelp](Images/techzonehelp.png)
 
-2. Click on [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyplerlink or log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" 
+## 2. Click on [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyplerlink or log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" 
 
 A. **Open Case Hyperlink** ![opencase](Images/opencase.png) 
 
 B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.png)
 
 
-3. Complete and submit form to open a support case
+## 3. Complete and submit form to open a support case
 
    **Type of Support:** select Product Support
    
@@ -31,13 +31,13 @@ B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.pn
    
    **Case Contact number:** include if available
    
-4. Click **Submit Case**, your case is automatically created
+## 4. Click **Submit Case**, your case is automatically created
 
 >Note: You will be taken to your Case detail page that includes your Case number and description and you should receive a case created mail 
 
 ![Case created](Images/Casecreated.png)
 
-## How to View your cases
+# How to View your cases
 
 Click on [My Cases](https://ibmsf.force.com/ibminternalproducts/s/my-cases) to view your case list 
 
@@ -58,7 +58,7 @@ Select a case to view available details, list below
  - upload files 
 ![Casedetailsview](Images/Casedetailsview.png)
 
-## How to Manager case
+# How to Manager case
  Your case can be managed from the details view. Select the case you intend to manage from [My Cases](https://ibmsf.force.com/ibminternalproducts/s/my-cases)
  ![caselist](Images/caselist.png)
  
@@ -67,7 +67,7 @@ Select a case to view available details, list below
 - escalate case
 - View responses to your case. 
 
-## Notifcation Mails sent
+# Notifcation Mails sent
 
 Notifcation mails are sent for actions taken on your case.
 
