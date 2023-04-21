@@ -9,6 +9,7 @@
 **Fix:** Please re-template VMs.
 
 ---
+## Known Issues and Errors
 
 **Problem** User getting following message during failed reservation:
 
