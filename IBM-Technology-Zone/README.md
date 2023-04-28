@@ -287,7 +287,7 @@
 
 ## Workshop
 
-[Enable Workshop Requests on an IBM Cloud Environment](IBM-Technology-Zone-Runbooks/enable-ibmcloud-workshop.md)  :white_check_mark:  
+[Enable Workshop Requests on an IBM Cloud and VMware on IBM Cloud Environment](IBM-Technology-Zone-Runbooks/enable-ibmcloud-workshop.md)  :white_check_mark:  
 
 [How do I upload a list of students to a workshop?](IBM-Technology-Zone-Runbooks/UploadAttendees.md)  :white_check_mark: 
 
