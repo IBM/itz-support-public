@@ -1,4 +1,4 @@
-# Enable workshop requests on an IBM Cloud environment 
+# Enable workshop requests on an IBM Cloud and VMware on IBM Cloud environment 
 
 This runbook will describe how an IBM user or an IBM contributor can request and test an IBM Cloud environment on the workshop manager tool.
 
