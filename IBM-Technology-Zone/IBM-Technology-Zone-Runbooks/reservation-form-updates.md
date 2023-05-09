@@ -1,4 +1,4 @@
-# Reservation Form Updates - As of April 2023
+# Reservation Form Updates - As of April 2023.
 
 In this release, the there are many improvements to the reservations form based on stakeholder input and NPS survey feedback. Read below to see what changed when making a reservation for an environment on IBM Technology Zone.
 
