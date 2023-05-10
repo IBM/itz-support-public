@@ -14,6 +14,7 @@ Every users must adhere and agree on every environment reservation form that the
 - This check box captures your agreement that customer data will not be used within environments IBM Technology Zone provides.
 - If customer data is found on an IBM Technology Zone environment, the reservation owner will be held responsible.
 **NOTE: The reservation owner should take any necessary measures to ensure that any user that the environment is shared with understands that this environment is not to be used with customer data.**
+
 ![no customer data](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/no_customer_data.png)
 ## 3. Improved Visibility of Reservation Policies
 You asked, we listened. The reservation duration policies once placed on the right hand menu of the reservation form were reported from our users difficult to understand.
