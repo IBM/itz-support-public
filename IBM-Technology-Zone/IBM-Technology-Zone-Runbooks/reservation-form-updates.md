@@ -27,5 +27,7 @@ To reduce the amount of information that initially displays on a reservation for
 - The expandable collection and environment information can be found in the right hand menu on every reservation form.
 - The hyperlinked collection name and environment name will both navigate the user back to the collection landing page.
 - The description of the collection descriptions that display underneath the hyperlinked names are the short descriptions for the collection and environment directly provided by the content owner.
+
 ![expand collection and environment information](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection_env_expand.png)
+
 ![expanded information](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection_end_expanded.png)
