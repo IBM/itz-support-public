@@ -4,7 +4,7 @@ This Documentation contains information for how Long you can reserve an Environm
 
 Please review the following enhancement added to IBM Technology Zone's reservation forms to improve the visibility for our users to see exactly how long they can reserve an environment for, and to understand the current policies in place today.
 
-## Current Policies as of March 8th
+## Current Policies as of March 26th
 
 ![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resdurpolicynew.png)
 
