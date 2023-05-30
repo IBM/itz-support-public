@@ -1,56 +1,50 @@
-# Reservation Durations and Extension Policy 
+# IBM Technology Zone Reservation Duration Policies
 
-This Documentation contains information for how Long you can reserve an Environment For? 
+This Documentation contains information regarding reservation duration policies for IBM Technology Zone environments based on the Infrastructure of the environment and the purpose in which the environment is being reserved for. This includes details for the length of time that can be requested up front for the environemnt with information on length of time allowed with extensions. 
 
-Please review the following enhancement added to IBM Technology Zone's reservation forms to improve the visibility for our users to see exactly how long they can reserve an environment for, and to understand the current policies in place today.
-
-## Current Policies as of May 26th
+## Current Policies as of May 26th, 2023:
 
 ![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resdurpolicynew.png)
 
-## Find Duration Policies on TechZone Reservations Form
+**Definitions:** Per the above chart
 
-Now find two places on the reservation form that display the amount of time in which a user can reserve an environment (see screenshot below). 
+**Use Case:** The infrastructure of the environment being reserved broken down by the purpose in which the environment is being used for. This information is captured on the reservation form to determine the duration policy per reservation. 
 
-![reservation durations](Images/reservation_durations.png)
+**Default Reservation Days:** On the reservation form, this duration is the default amount of time, pre-selected, on the end date field. 
 
-Watch how the reservation durations will change as you fill out the form. Providing more information, for example, selecting a "Customer Demo", "Proof of Concept", or "Proof of Technology" purpose and providing a valid IBM Sales Cloud or Gainsite relationship ID will provide you more time on the intial reservation form, dependent on the infrastructure.
+**Extension Days:** After a reservation has been created with the initial default reservation days (per above), leverage the self-service extension option to extend for this length of time. 
 
-## Review Reservation Cost  
+**Max Extensions:** The total number of extensions allowed for the reservation. 
 
-Review an estimated cost of a reservation directly from the reservation form.
+**Max Days:** Total time the environment can be reserved if all extensions are used.
 
-### How Are Costs Estimated?
 
-• Estimated costs are estimated by hour based on the services/build materials used within the environment that is to be provisioned
+## Duration Policies Displayed On Every Reservation Form
 
-• Estimated costs take the hourly estimated rate and keep in mind the length of your reservations to provide the total estimated cost for your reservation
+Duration policies can be found on every TechZone environment reservation form directly below the end date field. This helper text below the date picker field will explain in detail the default recommended duration for the reservation being created with further guidance on the amount of time allowed per extension and how many extensions this reservation will have. If all extensions are used, as stated in the helper text the total amount of time that the environment can be reserved for is provided as additional guidance.
 
-**NOTE**: Estimated costs will only display for ROKS environment reservations forms at this moment, but other infrastructure options are in plan
+**NOTE:** Client facing purpose reservations (Customer Demo, Proof of Concept, Proof of Technology) have policies in place today to provide more time to those that are reserving environment for client demonstrations.
 
-![costsupdated](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Costs%20updated.png)
+![reservation durations](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservationdurationUI.png)
 
-### Definitions
 
-**Default duration:** Without selecting a purpose or geo on the initial reservation form, this will be the default time frames that you can reserve this environment to start. 
+## Workshop Manager Policies
 
-**Maximum duration:** As you fill out the form, the maximum duration will be the maximum duration you can choose to reserve the environment. (Note: users can leverage the extend option if they provide a valid opportunity code after making the inital reservation based on [reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/reservation-duration-policy.md))
+Workshop Manager requests must be submitted minimally 7 days before the intended start date of the workshop engagement. Submitting requests earlier than the 7 day lead time is highly encouraged. This 7 day lead time on requests allows for the IBM Technology Zone team to prepare, review, and allocate resources to support our user's workshop environment needs.
 
-**Delay by:** There are some environments that you can reserve that need to be scheduled before the environment will start provisioning. For example: A delay by date of 3 days, means that you will not be able to select a start date until three days from today's date. 
+For requests that exceed the max duration of 3 days and max of 30 environments being requested, an exception request is required for further executive approval. 
 
-**Extension duration:** This environment will allow you to extend for the stated duration after reserving the environment. For example: An extension duration of 7 days means that you will be able to extend this reservation every week for another 7 days.
-
-**Extension limit:** This environment has a limited number of extensions. For example: Having an extension limit of 3 means that you can extend your reservation every week for another 7 days but there is a limit to extending 3 times only. 
-
-## Workshops
-
-The maximum duration for environments leveraging the Workshop Manager is **5** days.
-
-The maximum number of environments that can be scheduled using Workshop Manager is **80** environments and has to be submitted **72 hours** before the intended start date. We suggest submitting your request earlier than 72 hours for environments request greater than **40**.
-
-An exception request is required for any Workshop that exceeds the stated maximums.
+Follow the steps below for exception request process: 
+1. Schedule your workshop with the requested duration and total number of environments needed
+2. Send an email to Techzone.help@ibm.com with the following information provided: 
+- Subject of email: Workshop Manager exception request
+- Provide Workshop name and URL
+- Provide information on if this workshop is external or internal workshop
+External workshops are tied to an engagement with a customer and a valid IBM Sales Cloud opportunity code should be provided
+Internal workshops are tied to an internal IBM go-to-market teams enablement and the IBM Group/Team name should be provided
+- Provide additional business justification for needing this workshop request
 
 
 ### Support
 
-For any questions, contact ITZ support - techzone.help@ibm.com or #itz-techzone-support
+For any questions, contact ITZ support - techzone.help@ibm.com
