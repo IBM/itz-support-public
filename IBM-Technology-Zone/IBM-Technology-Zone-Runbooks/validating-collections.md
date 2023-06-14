@@ -1,4 +1,4 @@
-## How to Verify Validaiton Runs against a collection
+## How to Verify Validaiton Runs Against a Collection
 
 1. Log in to Techzone
 2. Navigate to the collection in question via https://techzone.ibm.com/collection/<id> or https://techzone.ibm.com/collection/<slug>
