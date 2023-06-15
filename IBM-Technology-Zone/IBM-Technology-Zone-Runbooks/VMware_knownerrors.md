@@ -29,8 +29,6 @@ Fix: Ensure the vm_subnet variable override is typed correctly. Example user add
 
 ---
 
-**Problem:**
+**Problem:** User creates an OCP cluster using one of the offerings for CP4I and can't find the cluster
 
-_"error"_
-
-**Fix:**
+**Fix:** This reservation deploys OpenShift and deploys CP4I on a cluster through Red Hat GitOps, which does not use IBM Cloud catalog CP4I installer or give users access to it
