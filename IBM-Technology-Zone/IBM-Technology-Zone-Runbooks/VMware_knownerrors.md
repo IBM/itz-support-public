@@ -32,3 +32,12 @@ Fix: Ensure the vm_subnet variable override is typed correctly. Example user add
 **Problem:** User creates an OCP cluster using one of the offerings for CP4I and can't find the cluster
 
 **Fix:** This reservation deploys OpenShift and deploys CP4I on a cluster through Red Hat GitOps, which does not use IBM Cloud catalog CP4I installer or give users access to it
+
+
+---
+
+**Problem:** User is wondering how to add Kubernetes support to a TZ based windows server template-able environment and what licensing conditions for the software components are needed.
+
+**Fix:** Currently, we have a Windows VM pattern that users can use and install Kubernetes on (please search those and see if there are any that fit your uses the best!)
+New patterns with Kubernetes on Windows and using multiple machines can be created but this is up to the user. Kubernetes has no licensing, so there is no impact that we would need to worry about. 
+Any business justifcations for creating this can also be submitted as a custom request (https://custom-requests.ideas.aha.io/portal_session/new).
