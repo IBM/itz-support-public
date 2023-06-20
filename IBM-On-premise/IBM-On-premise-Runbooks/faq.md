@@ -131,6 +131,8 @@ Yes, installation of other software, IBM or open-source, is allowed on the syste
 - Registered IBM PartnerWorld Members can download IBM applications and middleware from the IBM Software Access Catalog.
 Go here for details and steps required.
 
+## Q. Does the On-Premises IBM Z z/OS Base Image come with RACF pre-installed and configured and is it accessible by external IP addrress (for instance, from an virtual server hosted on our IBM Cloud)? 
+Yes, RACF should pre-installed and configured! However, this is not accessible by external IP address as these are in POK and not exposed on the internet in any manner.
 
 Thank you!
 
