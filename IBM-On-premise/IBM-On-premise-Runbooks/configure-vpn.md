@@ -9,7 +9,7 @@
 :warning: If you already have cisco 4.4 or greater installed on your system, you should skip to [Connecting the VPN](#connecting-the-vpn).
 
 
-Open your browser and enter [https://asa003b.centers.ihost.com](https://asa003b.centers.ihost.com) in the address field. If for some reason the name is not resolving, you can use the IP address (32.97.185.16). The URL will automatically expand to the one shown in the following screenshot:
+Open your browser and enter [https://asa003b.centers.ihost.com](https://asa003b.centers.ihost.com) in the address field. If for some reason the name is not resolving, you can use the IP address (131.239.211.196). The URL will automatically expand to the one shown in the following screenshot:
 
 You will be presented with the welcome screen shown above. If you do not see it, if the page does not load, there are some things to check:
 1. Do you have a firewall installed on your system that may be blocking the connection?
