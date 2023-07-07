@@ -38,4 +38,7 @@ It is important to communicate with support re: specific regional availability f
 
 Please leverage https://techzone.ibm.com/collection/onboarding/journey-share-your-content for more information.
 
+Please leverage https://techzone.ibm.com/collection/onboarding/journey-share-your-content for further guidance to onboard an environment.
+
+
   
