@@ -36,8 +36,8 @@ For requests that exceed the max duration of 3 days and max of 30 environments b
 
 Follow the steps below for exception request process: 
 1. Schedule your workshop with the requested duration and total number of environments needed
-2. Send an email to Techzone.help@ibm.com with the following information provided: 
-- Subject of email: Workshop Manager exception request
+2. Log a Support case using TechZone webform(https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) Send an email to Techzone.help@ibm.com with the following information provided: 
+- Subject of email: Workshop Manager extension exception request
 - Provide Workshop name and URL
 - Provide information on if this workshop is external or internal workshop
 External workshops are tied to an engagement with a customer and a valid IBM Sales Cloud opportunity code should be provided
