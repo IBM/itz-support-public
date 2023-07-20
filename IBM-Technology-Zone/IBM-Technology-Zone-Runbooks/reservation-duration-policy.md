@@ -2,9 +2,9 @@
 
 This Documentation contains information regarding reservation duration policies for IBM Technology Zone environments based on the Infrastructure of the environment and the purpose in which the environment is being reserved for. This includes details for the length of time that can be requested up front for the environemnt with information on length of time allowed with extensions. 
 
-## Current Policies as of May 26th, 2023:
+## Current Policies as of July 20th, 2023:
 
-![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/resdurpolicynew.png)
+![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/policiesssnew.png)
 
 **Definitions:** Per the above chart
 
