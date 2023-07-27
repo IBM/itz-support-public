@@ -39,7 +39,7 @@ Step 5: Fill in additional information on workshop request form. Reference the r
 
 Step 6: Provide the IBM Technology Zone support team the name of your workshop. Reference the [How to for instructors](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md) to understand the approval workflow after submitting your workshop request.
 
-NOTE: Workshop requests must be requested 72-hours before workshop start date. Due to this environment being tested, the IBM Technology Zone support team will adjust the start date to today's date (testing date agreed upon by user and support team) so that the environments can start provisioning once approved by the support team. 
+**NOTE:** Workshop requests must be requested 7 days before workshop start date. Due to this environment being tested, the IBM Technology Zone support team will adjust the start date to today's date (testing date agreed upon by user and support team) so that the environments can start provisioning once approved by the support team. 
 
 Step 7: TESTING PHASE 
 
@@ -62,8 +62,6 @@ Please note that these tasks must be checked before officially enabling workshop
   - From the instructor page, locate the "environments" section towards the bottom of the page. 
   - To confirm environments have successfully deployed the "Run State" column will read "Ready" for all environments that have successfully deployed. 
   - If any environments have failed to deploy the "Run State" column will read "Failed" for the environment. 
-
-- Test the workshop redeploy environment feature successfully redeploys an environment directly from the instructor page. The environment can be a failed or in a ready Run State to test this feature. Reference the [how to redeploy a workshop environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/RedeployWorkshopEnv.md) documentation for step by step support on how to use this feature.
 
 - Ensure you can add attendee emails to each environment by selecting **edit environments** button. Add emails of attendee's to each environment you would like to assign them too. Then make sure to click the **Save changes** button. Additionally, feel free to test leveraging the new [upload attendees](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/UploadAttendees.md) feature from the instructor page. Please note that providing the attendee URL to your students is a manual action as of today that you will need to share if you would like attendees to access their environment credentials in this way. Follow the next test to ensure you, as an attendee, can access the attendee page and the environment. 
 
