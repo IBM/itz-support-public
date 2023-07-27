@@ -1,4 +1,4 @@
-# How to Redeploy a Workshop Environment
+# How to Redeploy a Workshop Environment (Admin Only) feature
 Sometimes an environment in a workshop will need to be redeployed.  This can be caused ny a failed deployment or a clean environment is required. 
 
 To redeploy an environment:
