@@ -19,9 +19,8 @@ b. Environment name
 
 C. Template id: vm_template_id or Template name in "Template Shared" folder
 
-d. regions additional copies are required for. Supported Regions (DAL10, WDC04, FRA04, TOK02)
 
-You will be sent a response once move to production is completed.  Please note if you don't specify a region, your template will be onboarded only in Dal 10.
+You will be sent a response once move to production is completed. 
 
 Next Steps Add/update your vmware environment to your collection. 
 
