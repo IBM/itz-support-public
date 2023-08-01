@@ -5,7 +5,9 @@ Only templates onboarded by the IBM Technology Zone Support Team is accepted as 
 Production Templates are admind owned VMs for environments defined within an enabled collection. 
 Production templates are stored in folder named **Templates**. 
 
-To identify your environment folder name, edit the environment within a collection and check the **'vm_template_folder'**, template-shared and template-user are temporary folders.
+To identify your environment folder name, edit the environment within a collection and check the **'vm_template_folder'**, template-shared and template-user are temporary folders. 
+
+To identify your environment folder name, edit the environment within a collection and check the **'vm_template_id'**
 
 ## Steps to request a VMware template onboarding
 
@@ -17,7 +19,9 @@ a. Collection url/ name
 
 b. Environment name
 
-C. Template id: vm_template_id or Template name in "Template Shared" folder
+C. Template id: vm_template_id
+
+D. vm_template_folder: template-shared, template-user or templates
 
 
 You will be sent a response once move to production is completed. 
