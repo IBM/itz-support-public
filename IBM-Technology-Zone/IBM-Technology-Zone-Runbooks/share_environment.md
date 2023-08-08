@@ -1,14 +1,14 @@
 # How do I Share my Environment with Another User?
 
-Share an environoment with an IBMr, a business partner, or even invite a client to access the environment. The following steps will show you how to manage your environment reservation to share with the entended user and how they will be invited to the environment per persona (IBMr, business partner, clients).
+Share an environment with an IBMr, a business partner, or even invite a client to access the environment. The following steps will show you how to manage your environment reservation to share with the entended user and how they will be invited to the environment per persona (IBMr, business partner, clients). Continue reading below to understand the rules of who can reserve each environment by infrastructure and which persona the environment can be shared with. 
 
-**Important - Know who can reserve each infrastructure and who you can share with:**
+**IBM Cloud** - IBM Cloud environments (this includes ROKS, Hosted, SaaS options) can be reserved by IBMrs and Business Partners and can be shared amongst IBMrs, Business Partners, and Clients. Ensure that the user has accepted the IBM Cloud invite or they will not be able to access the environment. The IBM Cloud invite is an email sent to the IBMid email that the owner shared the environment with. 
+
+_**IMPORTANT: IBM Technology Zone user that you are sharing an IBM Cloud environment with (IBMer, Business Partner, and/or client) must have an IBMid for you to share access to the environment.**_
+
+**AWS and Azure** - AWS and Azure environments on TechZone can be reserved by IBMrs and Business Partners and can be shared with other IBMrs, Business Partners, and Clients. 
  
-- Skytap environments: Reserved by IBMrs and Business Partners and can be shared amongst IBMrs, Business Partners, and Clients. 
-- IBM Cloud environments (this includes ROKS, Hosted, SaaS options): Reserved by IBMrs and Business Partners and can be shared amongst IBMrs, Business Partners, and Clients. Ensure that the user has accepted the IBM Cloud invite or they will not be able to access the environment. The IBM Cloud invite is an email sent to the IBMid email that the owner shared the environment with. 
-- AWS and Azure environments: Reserved by IBMrs and Business Partners and can be shared amongst IBMrs, Business Partners, and Clients. 
-- Fyre environments: Reserved ONLY by IBMrs at this time due to VPN access. Can ONLY be shared amongst IBMrs at this time.
-
+**Fyre** - Fyre environments on TechZone can ONLY be reserved by IBMrs at this time due to VPN access. These environments are only accessible to IBMers so they can not be shared with any other user at this time. 
 
 ## How to share
 
