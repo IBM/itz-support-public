@@ -40,8 +40,11 @@ Follow the steps below for exception request process:
 - Subject/Title: Workshop Manager extension exception request
 - Provide Workshop name and URL
 - Provide information on if this workshop is external or internal workshop
+  
   **External workshops** are tied to an engagement with a customer and a valid IBM Sales Cloud opportunity code should be provided
+  
   **Internal workshops** are tied to an internal IBM go-to-market teams enablement and the IBM Group/Team name should be provided
+  
 - Provide additional business justification for needing this extension
 
 
