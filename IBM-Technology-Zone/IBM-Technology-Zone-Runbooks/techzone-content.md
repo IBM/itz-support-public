@@ -796,10 +796,7 @@ Step 4. Save your collection and then allow time for your results to display.
 NOTE: To speed up the process, select the reindex option and then following the cache update option from your collection view page. The Reindex will force any data points that you updated on your collection to be updated within elastic search, meaning that the brand filter should be updated with the forced update. The cache update will speed up the refresh process for your collection to show the most recent version based on your changes while editing your collection.
 
 ![reindex and cache update](/itz/itz-runbooks/Images/reindexandcache.png)       
-        
-                                                                                 
-https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collections-overview-2.png                                                                      
-                                                                                                                                                                                                                             
-  [Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)              
+                                                                                                                                         
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)              
 
 
