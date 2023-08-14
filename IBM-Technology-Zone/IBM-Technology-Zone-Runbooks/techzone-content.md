@@ -5,13 +5,13 @@
 
 
 ### 1. Getting Started
-  * [Collection lifecycle management on Technology Zone](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Automated%20collection%20lifecycle%20management%20on%20Technology%20Zone)
+  * [Collection lifecycle management on Technology Zone](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#automated-collection-lifecycle-management-on-technology-zone)
 
   * [Guidance and Standards](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/techzone-content.md#automated-collection-lifecycle-management-on-technology-zone)
 
   * [Branding Standards](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/techzone-content.md#automated-collection-lifecycle-management-on-technology-zone)
 
-  * [How to filter content and environments by Brand](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=IBM%20Technology%20Zone-,How%20to%20filter%20content%20and%20environments%20by%20Brand,-There%20are%20multiple)
+  * [How to filter content and environments by Brand](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-filter-content-and-environments-by-brand)
 
 
 
