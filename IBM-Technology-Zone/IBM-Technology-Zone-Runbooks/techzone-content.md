@@ -66,14 +66,8 @@
    * [Create a journey](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=How%20to%20create%20a%20journey)
 
 
-
-   
-
-
         
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
-
-
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 # Collections
 
@@ -106,8 +100,7 @@ Here is an example of multiple nested collections on this main collection: [Clou
 ![Collection nested example](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection%20nested%20example.png)
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Getting%20Started)
-
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 # How to create a collection
@@ -184,7 +177,7 @@ Select the appropriate visibility level based on the intent for this collection.
 
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 
@@ -226,8 +219,7 @@ Leverage the Preview option as you edit your collection to see how the changes w
 
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
-
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 ## Ownership Transfer
@@ -241,11 +233,7 @@ If you are a contributor, you will be able to click the Update Ownership link on
 
 <img width="1412" alt="Screen Shot 2022-10-07 at 11 18 17 AM" src="https://media.github.ibm.com/user/1828/files/cc1abe80-4631-11ed-8215-91758110b108">
 
-
-
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
-
-
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 # Automated collection lifecycle management on Technology Zone
@@ -297,9 +285,7 @@ Emails sent to authors with trigger based on once a week running validation chec
 Additional questions or support on this initiative can be direct to brooke.jones@ibm.com.
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
-
-
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 # Collection Metrics
@@ -369,12 +355,7 @@ Questions can be directed to brooke.jones@ibm.com
 
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
-
-
-
-
-
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 ## What is a Resource?
@@ -395,9 +376,8 @@ Example 2: A Demo script that will help the practioner with the hands-on demonst
 Example 3: A tutorial that is a step by step guide walking through a certain use case or scenario showing the hands-on activity is an acceptable resource to share on your collection.
 
 
-    
-       
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
       
       
@@ -469,7 +449,7 @@ brooke.jones@ibm.com
  
         
         
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 
@@ -479,19 +459,19 @@ brooke.jones@ibm.com
 
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 
          b. Create an environment
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
          c. Reserve environment
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 
@@ -521,7 +501,7 @@ If any errors occur, request support on slack channel #itz-techzone-support. Ple
 brooke.jones@ibm.com      
     
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 
@@ -565,7 +545,7 @@ Show advanced: refine your list by "Owner", "collaborators", "Languages", "Audie
 
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 
@@ -622,7 +602,7 @@ IBMrs and Partners that you shared the environment with will be able to login to
 
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 
@@ -657,7 +637,7 @@ Important notes:
 
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
     
@@ -675,7 +655,7 @@ What does a journey look like on a collection?
 * Each tab is a journey specified and created by the content owner to help drive a particular engagement or activity.
 * Each journey will have its own set of resources that align based on the content owners intent of the journey
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 # How to create a journey
@@ -754,7 +734,7 @@ Wait for the Journey saved notification to display before continueing to next st
 Select the view tab at the top right hand corner of the edit collection form. If your new collection is not displaying yet, refresh your page a few times or wait a few minutes for your changes to update through the cached layer. 
 
 
-[Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
 
@@ -820,6 +800,6 @@ NOTE: To speed up the process, select the reindex option and then following the 
                                                                                  
 https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collections-overview-2.png                                                                      
                                                                                                                                                                                                                              
-  [Back to Top](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=TechZone%20Contents%20Guide-,Table%20of%20Contents,-1.%20Collections)              
+  [Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)              
 
 
