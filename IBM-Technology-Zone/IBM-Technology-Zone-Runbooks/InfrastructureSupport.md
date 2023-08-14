@@ -2,7 +2,7 @@
 
 You can get help for infrastructure by using the "Ask for Help" or filling out form on the ["help"](https://techzone.ibm.com/help) page. 
 
-Follow steps listed below for Infrastructure support
+Follow steps listed below for Infrastructure support:
 
 ## From a collection/resource
 
