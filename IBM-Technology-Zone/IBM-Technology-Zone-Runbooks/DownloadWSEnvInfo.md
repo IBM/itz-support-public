@@ -1,3 +1,5 @@
+public link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/DownloadWSEnvInfo.md
+
 # How to Download Workshop Environment Information to a Spreadsheet
 Workshop Manager will maintain a list of environments and assigned students. But some users prefer to manage the workshop own their own in a spreadsheet. 
 Workshop Manager allows you to download a ".csv" file (spreadsheet) with a list of students and their assigned environment information.
