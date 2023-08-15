@@ -1,3 +1,5 @@
+public link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ContentSupport.md
+
 ## Content Support
 
 Content Support for all Collections, resources and environments are handled by the Content Author
