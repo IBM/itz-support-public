@@ -1,3 +1,5 @@
+public link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Custom_Published_Service_details.md
+
 # Defining Custom Published Services
 
 ## All ports opened for environments in Skytap are automatically sent with reservation emails
