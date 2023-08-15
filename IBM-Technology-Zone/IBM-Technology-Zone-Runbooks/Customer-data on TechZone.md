@@ -1,3 +1,5 @@
+public link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Customer-data%20on%20TechZone.md
+
 # Customer Data Enabled Environments on IBM Technology Zone
 
 Starting July 18th, IBM Technology Zone will be releasing a select set of environments that will support specific classifications of customer data. IBM Technology Zone's [Terms and Conditions](https://techzone.ibm.com/terms) have been updated per BISO and Legal guidance. Additionally, [End User Security Policies](https://techzone.ibm.com/terms/securitypolicy) have been added to the Terms and Conditions to maintain a compliant and secure platform for all users. Continue reading this runbook to understand the classifications of Customer Data that we do/do not support, new feature functionality added the site to support this iniatitive, and other updates regarding provisioning process updates and email template changes. 
