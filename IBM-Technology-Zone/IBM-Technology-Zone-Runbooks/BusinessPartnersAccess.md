@@ -1,3 +1,5 @@
+public link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/BusinessPartnersAccess.md
+
 # Business Partners (BPs) Authenticated on IBM Partner Plus (PP) Have Access to IBM Technology Zone Using Their IBM Ids.
 
 In some cases BPs do not have their IBM Ids associated with their companies partner profile, which affects their access to IBM Technology Zone and results in Error 403.
