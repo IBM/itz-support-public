@@ -1,4 +1,3 @@
-public link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Customer-data%20on%20TechZone.md
 
 # Customer Data Enabled Environments on IBM Technology Zone
 
