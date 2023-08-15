@@ -1,4 +1,3 @@
-public link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/BusinessPartnersAccess.md
 
 # Business Partners (BPs) Authenticated on IBM Partner Plus (PP) Have Access to IBM Technology Zone Using Their IBM Ids.
 
