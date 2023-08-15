@@ -1,4 +1,3 @@
-public link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Couldn’t-get-the-requested-template.md
 
 # Couldn’t Get the Requested Template
 
