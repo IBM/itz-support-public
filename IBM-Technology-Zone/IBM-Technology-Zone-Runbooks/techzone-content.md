@@ -39,12 +39,6 @@
 
 
 ### 4. Environments
-
-   * [What is an enviroment?](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=a.-,What%20is%20an%20enviroment%3F,-b.%20Create%20an)
-
-   * [Create an environment](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=an%20enviroment%3F%0A%0A%20%20%20%20%20b.-,Create%20an%20environment,-c.%20Reserve%20environment)
-
-   * [Reserve environment](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=an%20environment%0A%0A%20%20%20%20%20c.-,Reserve%20environment,-d.%20Delete%20environment)
     
    * [Delete environment](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=How%20to%20delete%20a%20reservation)
 
