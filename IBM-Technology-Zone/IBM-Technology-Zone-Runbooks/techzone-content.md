@@ -17,24 +17,24 @@
 
 ### 2. Collections
               
-   * [What is a collection?](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Introduction%20to%20Collections%20%2D%20What%20is%20a%20collection)
+   * [What is a collection?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#introduction-to-collections----what-is-a-collection)
 
-  * [Create a collection](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,How%20to%20create%20a%20collection,-In%20this%20runbook)
+  * [Create a collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection)
 
-   * [Edit a collection](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,How%20to%20edit%20a%20collection,-Navigate%20to%20your)
+   * [Edit a collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-edit-a-collection)
 
-   * [How to transfer owernship of a collection](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,Ownership%20Transfer,-When%20the%20existing)
+   * [How to transfer owernship of a collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#ownership-transfer)
 
-   * [Collection Metrics](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,Collection%20Metrics,-How%20to%20view)
+   * [Collection Metrics](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#collection-metrics)
    
  
 
 ### 3. Resources
 
-   * [What is a Resource?](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,What%20is%20a%20Resource,-%3F)
+   * [What is a Resource?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#what-is-a-resource)
 
-   * [Create a Resource](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=How%20to%20create%20a%20resource%20on%20a%20collection)
-   * [What is a Resource click event?](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Question%3A%20What%20is%20a%20resource%20click%20event%3F)
+   * [Create a Resource](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-resource-on-a-collection)
+   * [What is a Resource click event?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#navigate-to-your-resource-click-event-metrics)
 
 
 
@@ -42,11 +42,11 @@
     
    * [Delete environment](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=How%20to%20delete%20a%20reservation)
 
-   * [How do I search for an environments/collection?](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,How%20do%20I%20search%20for%20an%20environments/collection%3F,-1.%20Search%20for)
+   * [How do I search for an environments/collection?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-do-i-search-for-an-environmentscollection)
 
-   * [How do I share my environment with another user?](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,How%20do%20I%20share%20my%20environment%20with%20another%20user%3F,-Share%20an%20environoment)   
+   * [How do I share my environment with another user?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-do-i-share-my-environment-with-another-user)   
 
-   * [How do I transfer my environment/reservation to another user?](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,How%20do%20I%20transfer%20my%20environment/reservation%20to%20another%20user%3F,-Log%20in%20to)
+   * [How do I transfer my environment/reservation to another user?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-do-i-transfer-my-environmentreservation-to-another-user)
 
 
     
@@ -55,9 +55,9 @@
     
 ### 5. Journey
 
-   * [What is a journey](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=Introduction%20to%20journeys%20%2D-,What%20is%20a%20journey%3F,-A%20sequenced%20navigation)
+   * [What is a journey](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#introduction-to-journeys---what-is-a-journey)
         
-   * [Create a journey](https://github.ibm.com/dte-support/private/edit/master/itz/itz-runbooks/techzone-content.md#:~:text=How%20to%20create%20a%20journey)
+   * [Create a journey](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-journey)
 
 
         
