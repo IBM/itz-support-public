@@ -67,7 +67,7 @@ Self Education Quota Policy: Only 1 "Practice / Self-Education" reservation(s) p
 
 Quota policy violation notices are triggered from the reservation form when users go to make a reservation that violate an existing quota policy. Every quota policy violation notice will include information regarding the quota policy that was violated and the existing reservation ID's that violate the specific quota policies within the specified time frame or specified the total allowed at a time. 
 
-![Quota Policy](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/Images/policy_modal.png)
+![Quota Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/policy_modal.png)
 
 _**IMPORTANT:** There are no exceptions to quota policies at this time to ensure fair allocation of resources and to prevent overutilization._
 
