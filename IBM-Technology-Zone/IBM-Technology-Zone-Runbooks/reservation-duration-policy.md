@@ -2,6 +2,9 @@
 
 This Documentation contains information regarding reservation duration policies for IBM Technology Zone environments based on the Infrastructure of the environment and the purpose in which the environment is being reserved for. This includes details for the length of time that can be requested up front for the environemnt with information on length of time allowed with extensions. 
 
+• [Duration Policies]
+• [Quota Policies]
+
 ## Current Policies as of July 20th, 2023:
 
 ![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/policiesssnew.png)
@@ -47,6 +50,27 @@ Follow the steps below for exception request process:
   
 - Provide additional business justification for needing this extension
 
+## Quota Policies
+
+A reservation quota policy is a predefined restriction or limit imposed on users when making reservations on IBM Technology Zone, based on specific criteria. Quota policies are put in place to ensure fair allocation of resources and to prevent overutilization. Reference information below to learn about the current reservation quota policies in place today and how we will notify you on the reservation form experience if you are violating a quota policy. 
+
+### Current Quota Policies as of August 24th, 2023:
+
+Self Education Quota Policy: Only 1 "Practice / Self-Education" reservation(s) permitted at a time per user.
+
+### Quota Policy Violations
+
+Quota policy violation notices are triggered from the reservation form when users go to make a reservation that violate an existing quota policy. Every quota policy violation notice will include information regarding the quota policy that was violated and the existing reservation ID's that violate the specific quota policies within the specified time frame or specified the total allowed at a time. 
+
+![Quota Policy](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/Images/policy_modal.png)
+
+_**IMPORTANT:** There are no exceptions to quota policies at this time to ensure fair allocation of resources and to prevent overutilization._
+
+Additional Quota Policy Rules: 
+
+- Currently quotas are setup to account for allowing only one self education reservation at a time. If you receive a Quota Violation notice on your next self education reservation form, the quota service identified existing self-education reservations that are in a scheduled, ready, or provisioning status. Failed reservation statuses do not count against your existing quota. If you made a self education reservation and your reservation failed, please proceed to make a new reservation. 
+
+- A net new reservation can NOT be scheduled in advance if you have an existing self-education purpose reservation. If you have an existing self-education purpose reservation, you can delete it or wait for it to expire before making the next self-education purpose reservation. 
 
 ### Support
 
