@@ -11,7 +11,7 @@ To identify your environment folder name, click edit the environment within a co
 
 ## Steps to request a VMware template onboarding
 
-To have your template/ VM copied to production, send a note to techzone.help@ibm.com
+To have your template/ VM copied to production, open a [support case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send a note to techzone.help@ibm.com
 
 **Subject: VMware "template onboarding request"**
 
