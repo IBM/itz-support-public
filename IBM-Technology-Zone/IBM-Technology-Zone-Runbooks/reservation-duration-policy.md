@@ -40,7 +40,7 @@ Duration policies can be found on every TechZone environment reservation form di
 
 Workshop Manager requests must be submitted minimally **7** days before the intended start date of the workshop engagement. Submitting requests earlier than the 7 day lead time is highly encouraged. This 7 day lead time on requests allows for the IBM Technology Zone team to prepare, review, and allocate resources to support our user's workshop environment needs.
 
-For requests that exceed the max duration of **3** days and max of **30** environments being requested, an exception request is required for further executive approval. 
+For requests that exceed the max duration of **3** working days and max of **30** environments being requested, an exception request is required for further executive approval. 
 
 Follow the steps below for exception request process: 
 1. Schedule your workshop with the requested duration and total number of environments needed
