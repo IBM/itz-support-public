@@ -63,7 +63,7 @@ Follow the steps below for exception request process:
 
 A reservation quota policy contains predefined restriction for users making reservations on IBM Technology Zone. Quota policies are in place to ensure appropriate allocation of resources and prevent overutilization. Levereage the information below to understand current reservation quota policies in place today and how we will notify you on the reservation form experience if you are violating a quota policy. 
 
-### Current Quota Policies as of August 24th, 2023:
+### Current Quota Policies as of August 25th, 2023:
 
 Self-Education Quota Policy = Maximum 2 "Practice / Self-Education" reservation(s) permitted at a time per user.
 
