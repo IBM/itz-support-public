@@ -61,25 +61,28 @@ Follow the steps below for exception request process:
 
 ## Quota Policies
 
-A reservation quota policy is a predefined restriction or limit imposed on users when making reservations on IBM Technology Zone, based on specific criteria. Quota policies are put in place to ensure fair allocation of resources and to prevent overutilization. Reference information below to learn about the current reservation quota policies in place today and how we will notify you on the reservation form experience if you are violating a quota policy. 
+A reservation quota policy contains predefined restriction for users making reservations on IBM Technology Zone. Quota policies are in place to ensure appropriate allocation of resources and prevent overutilization. Levereage the information below to understand current reservation quota policies in place today and how we will notify you on the reservation form experience if you are violating a quota policy. 
 
 ### Current Quota Policies as of August 24th, 2023:
 
-Self Education Quota Policy: Only 1 "Practice / Self-Education" reservation(s) permitted at a time per user.
+Self-Education Quota Policy = Maximum 2 "Practice / Self-Education" reservation(s) permitted at a time per user.
 
 ### Quota Policy Violations
 
-Quota policy violation notices are triggered from the reservation form when users go to make a reservation that violate an existing quota policy. Every quota policy violation notice will include information regarding the quota policy that was violated and the existing reservation ID's that violate the specific quota policies within the specified time frame or specified the total allowed at a time. 
+Quota policy violation notices are triggered from the reservation form when users make a reservation that violate an existing quota policy. Every notice will include the quota policy that was violated along with the associated reservation ID's. 
 
 ![Quota Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/policy_modal.png)
 
-_**IMPORTANT:** There are no exceptions to quota policies at this time to ensure fair allocation of resources and to prevent overutilization._
+_**IMPORTANT:** There are no exceptions to quota policies at this time.
 
-Additional Quota Policy Rules: 
+Additional Guidance: 
 
-- Currently quotas are setup to account for allowing only one self education reservation at a time. If you receive a Quota Violation notice on your next self education reservation form, the quota service identified existing self-education reservations that are in a scheduled, ready, or provisioning status. Failed reservation statuses do not count against your existing quota. If you made a self education reservation and your reservation failed, please proceed to make a new reservation. 
+- Failed reservation statuses do not count against your existing quota.
 
-- A net new reservation can NOT be scheduled in advance if you have an existing self-education purpose reservation. If you have an existing self-education purpose reservation, you can delete it or wait for it to expire before making the next self-education purpose reservation. 
+- If you made a self-education reservation and it failed, please provision a new instance. 
+
+- A net new self-education reservation can NOT be scheduled in advance if you have two existing reservations. You can delete one or wait for one or both to expire before making the next self-education reservation.
+  
 
 ### Support
 
