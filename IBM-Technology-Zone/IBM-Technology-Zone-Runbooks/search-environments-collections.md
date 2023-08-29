@@ -2,7 +2,7 @@
 
 # 1. Search for environments
 
-- Click on the "Applications" button in the top left corner
+- Click on the "Applications" button in the top right corner
   
 ![clickenvironments](Images/ClickApps.png)
 
