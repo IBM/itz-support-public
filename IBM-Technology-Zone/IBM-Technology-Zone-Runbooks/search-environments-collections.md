@@ -8,13 +8,13 @@
 
 - Click on "Environments"
   
-![clickenvironments](Images/ClickEnv.png)
+![clickenvironments](Images/ClickEnv2.png)
 
 - Enter desired environment name and click enter, a list of environments will be available to choose from
 
 ![searchenvironments](Images/EnterEnv.png)
 
-Example we enter cp4d, available "cp4d" environments is listed
+For example, if we enter "cp4d," available cp4d environments are listed
 
 ![listenvironments](Images/SearchCP4D.png)
 
@@ -28,7 +28,7 @@ Options available : Brand, Resource Type, Language, Audience, etc.
 
 Enter the desired collection/resource name in the [search box](https://techzone.ibm.com/) 
 
-![searchbox](Images/searchbox.png)
+![searchbox](Images/CollectionSearch.png)
 
 click enter, a list of collections/resources will be available to choose from. Select your desired collection from the list to explore.
 
