@@ -2,17 +2,19 @@
 
 # 1. Search for environments
 
-- Click on the Environments tab
+- Click on the "Applications" button in the top left corner
+![clickenvironments](Images/ClickApps.png)
 
-![clickenvironments](Images/clickenvironments.png)
+- Click on "Environments"
+![clickenvironments](Images/ClickEnv.png)
 
 - Enter desired environment name and click enter, a list of environments will be available to choose from
 
-![searchenvironments](Images/searchenvironments.png)
+![searchenvironments](Images/EnterEnv.png)
 
 Example we enter cp4d, available "cp4d" environments is listed
 
-![listenvironments](Images/listenvironments.png)
+![listenvironments](Images/SearchCP4D.png)
 
 We have **Filter by** and **Show advanced filter** which narrows down your search list, displaying only the data that interest you. 
 Options available : Brand, Resource Type, Language, Audience, etc.
