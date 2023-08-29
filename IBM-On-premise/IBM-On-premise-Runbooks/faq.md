@@ -134,5 +134,8 @@ Go here for details and steps required.
 ## Q. Does the On-Premises IBM Z z/OS Base Image come with RACF pre-installed and configured and is it accessible by external IP addrress (for instance, from an virtual server hosted on our IBM Cloud)? 
 Yes, RACF should pre-installed and configured! However, this is not accessible by external IP address as these are in POK and not exposed on the internet in any manner.
 
+## Q. How do I share an environment with a client?
+To start, clients will not need an IBM Cloud account to share an environment. They only need an IBMid to be created and they can bypass the IBM Cloud account registration process where they would normally have to provide credit card info by having the reservation owner share the environment as usual to their newly created IBM ID. The link to create an IBM ID can be found [here](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776). To see how to share an environment with other users, please see [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/share_environment.md).
+
 Thank you!
 
