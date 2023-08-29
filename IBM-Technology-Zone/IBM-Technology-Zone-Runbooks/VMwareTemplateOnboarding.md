@@ -1,8 +1,8 @@
 ## VMware template onboarding to Production
 
-1. From a new reservation Template your reseervation to your collection by clicking [Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md) from your dash board menu.
+1. You need to Template to collection if you are working from a new reservation Template your reseervation to your collection by clicking [Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md) from your dash board menu. Diregard step 1 if you have completed your Template to collection action.
 
-2. go to the new environment to get your **'vm_template_id'** and **'vm_template_folder'** this is required to onboard your template. 
+2. Go to the new environment to get your **'vm_template_id'** and **'vm_template_folder'** this is required to onboard your template. 
 
 To identify your environment **'vm_template_id'**, 
 - click edit on the top right of your collection the environment within a collection and check the 'vm_template_id'
