@@ -3,9 +3,11 @@
 # 1. Search for environments
 
 - Click on the "Applications" button in the top left corner
+  
 ![clickenvironments](Images/ClickApps.png)
 
 - Click on "Environments"
+  
 ![clickenvironments](Images/ClickEnv.png)
 
 - Enter desired environment name and click enter, a list of environments will be available to choose from
