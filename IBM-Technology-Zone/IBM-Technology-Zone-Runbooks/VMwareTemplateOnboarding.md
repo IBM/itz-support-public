@@ -28,7 +28,7 @@ Next Steps: Update your environment settings and Terraform Variables Overriding
 
 - Account Pool: itzmware
 - Cloud Account: Any
-- Geo: Select appropriate geo (Americas,Europe or AP)
+- Geo: Select preferred geo (Americas,Europe or AP)
 - Region: Any
 - Datacenter: Any
 - Click the + sign to enter your entry
@@ -58,7 +58,7 @@ Next Steps: Update your environment settings and Terraform Variables Overriding
 
 - Account Pool: itzmware
 - Cloud Account: Any
-- Geo: Select appropriate geo (Americas,Europe or AP)
+- Geo: Select preferred geo (Americas,Europe or AP)
 - Region: Any
 - Datacenter: Any
 - Click the + sign to enter your entry
