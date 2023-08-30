@@ -17,10 +17,12 @@ Note: templating is not available for OpenShift Clusters.
 5.  Select "Template" in the bottom right, please note it take 30 - 90 mins to complete
 ![select template to finish](Images/select-template-to-finish.png)  
 
+5a. The reservation might "disappear" from your My reservation when in Status: Templating
+
 6.  When the Templating process is complete, you will receive an email
 ![sample self template email](Images/sample-self-template-email.png)  
 
-7.  You can now edit your collection, and see the environmnet available, but disabled, select the pencil icon to edit it. For VMware environments see [here] (https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md) for additional steps required before you set the status to "Active"
+7.  You can now edit your collection, and see the environmnet available, but **disabled**, select the pencil icon to edit it. For VMware environments see [here] (https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md) for additional steps required before you set the status to "Active"
 ![your new environment in your collection](Images/your-new-environment-in-your-collection.png)  
 
 8.  Edit your Environment and update any missing information, set the status to "Active"
