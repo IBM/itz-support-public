@@ -17,7 +17,7 @@ Note: templating is not available for OpenShift Clusters.
 5.  Select "Template" in the bottom right, please note it take 30 - 90 mins to complete
 ![select template to finish](Images/select-template-to-finish.png)  
 
-5a. The reservation might "disappear" from your My reservation when in Status: Templating
+5a. The reservation might "disappear" from [My reservation](https://techzone.ibm.com/my/reservations) during templating,, to view the reservation during this process you can update your status filter on the top right of My reservation page
 
 6.  When the Templating process is complete, you will receive an email
 ![sample self template email](Images/sample-self-template-email.png)  
