@@ -40,6 +40,9 @@ Repeat steps to add additional Geo's
 - vm_template_folder: **templates-user**
 - vm_template_id: leave as is
 
+- Save the environment on your collection and wait for the confirmation notification that the save was successful.
+- Save the collection and wait for the confirmation notification that the save was successful.
+
 
 # VMware template onboarding from Template-shared
 1. Send a VMware "template onboarding request"** to the TechZone Support Team
@@ -69,6 +72,9 @@ Repeat steps to add additional Geo's
  
 - vm_template_folder: **templates**
 - vm_template_id:Template name in Folder **Template-shared**
+
+- Save the environment on your collection and wait for the confirmation notification that the save was successful.
+- Save the collection and wait for the confirmation notification that the save was successful.
 
 **NOTES:** Only templates onboarded by the IBM Technology Zone Support Team is accepted as a Production Templates.
 
