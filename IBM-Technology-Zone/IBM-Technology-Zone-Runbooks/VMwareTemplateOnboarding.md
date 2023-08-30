@@ -87,7 +87,7 @@ Repeat steps to add additional Geo's
 Production Templates are admin owned VMs for environments defined within an enabled collection and stored in folder named **Templates** or **Templates-user** 
 
 
-
+For any questions, contact ITZ support - techzone.help@ibm.com
 
 
 
