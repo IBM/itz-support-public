@@ -1,9 +1,9 @@
 # VMware template onboarding to Production
 
 There are two ways to have your template onboarded to production
-1. By Providing the vm_template_id name from your [Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md) environment. 
+1. By Providing the vm_template_id name from your [Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md) environment. (Follow this step if you are making updates from a reservation)
 
-2. By Providing template name in folder Template-Shared (Applicable only to Auhtors that completed Skytap to VMware migrations and have access to template-shared in vcenter)
+2. By Providing template name in folder Template-Shared (Applicable ONLY to Authors that completed Skytap migrations and have access to template-shared folder in vcenter)
 
   All templates need to be onboarded correctly to ensure user environment provisioning do not fail. Follow steps listed below.
 
