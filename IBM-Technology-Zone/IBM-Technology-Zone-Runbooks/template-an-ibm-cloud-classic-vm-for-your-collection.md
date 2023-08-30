@@ -14,10 +14,10 @@ Note: templating is not available for OpenShift Clusters.
 4.  Select the Collection this new Template will be used for  
 ![Select template collection](Images/select-template-collection.png)  
   
-5.  Select "Template" in the bottom right  
+5.  Select "Template" in the bottom right, please note it take 30 - 90 mins to complete
 ![select template to finish](Images/select-template-to-finish.png)  
 
-6.  When the Templating process is complete, you will receive an email  
+6.  When the Templating process is complete, you will receive an email
 ![sample self template email](Images/sample-self-template-email.png)  
 
 7.  You can now edit your collection, and see the environmnet available, but disabled, select the pencil icon to edit it  
