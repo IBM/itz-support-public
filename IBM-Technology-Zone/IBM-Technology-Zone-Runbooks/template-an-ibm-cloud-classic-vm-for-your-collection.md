@@ -1,6 +1,8 @@
 # Template an IBM Cloud VSI on Classic, VPC, and VMware Environments for Your Collection  
 
-Steps to template an IBM Cloud Classic, VPC, and VMware Environments for your Collection. Note templating is not available for OpenShift Clusters.
+Steps to template an IBM Cloud Classic, VPC, and VMware Environments for your Collection. 
+
+Note: templating is not available for OpenShift Clusters.
 
 1.  Got to https://techzone.ibm.com/my/reservations  
 
