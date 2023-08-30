@@ -45,7 +45,7 @@ Repeat steps to add additional Geo's
 **_Alternative_**
 
 - Account Pool: itzmware
-- Cloud Account: Select preferred cloud account (itzvmware,itzsquad ...)
+- Cloud Account: Select preferred cloud account (itzvmware,itzsquad, itzvmware-ocpgym,itzv2...)
 - Geo: Select preferred geo (Americas,Europe or AP)
 - Region: Select preferred region (us-east,eu-de, jp-tok ... ) 
 - Datacenter: Select preferred datacenter (wdc04, fra04, tok02 ...)
@@ -91,7 +91,7 @@ Repeat steps to add additional Geo's
 
 **_Alternative_**
 - Account Pool: itzmware
-- Cloud Account: Select preferred cloud account (itzvmware,itzsquad ...)
+- Cloud Account: Select preferred cloud account (itzvmware,itzsquad, itzvmware-ocpgym,itzv2...)
 - Geo: Select preferred geo (Americas,Europe or AP)
 - Region: Select preferred region (us-east,eu-de, jp-tok ... ) 
 - Datacenter: Select preferred datacenter (wdc04, fra04, tok02 ...)
