@@ -1,4 +1,4 @@
-## VMware template onboarding to Production
+# VMware template onboarding to Production
 
 There are two ways to have your template onboarded to production
 1. By Providing the vm_template_id name from your [Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md) environment
@@ -6,7 +6,7 @@ There are two ways to have your template onboarded to production
 
   All templates need to be onboarded correctly to ensure user environment provisioning do not fail. Follow steps listed below.
 
-# VMware template onboarding from Template to collection
+## VMware template onboarding from Template to collection
 1. Send a VMware "template onboarding request"** to the TechZone Support Team
 Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
@@ -44,7 +44,7 @@ Repeat steps to add additional Geo's
 - Save the collection and wait for the confirmation notification that the save was successful.
 
 
-# VMware template onboarding from Template-shared
+## VMware template onboarding from Template-shared
 1. Send a VMware "template onboarding request"** to the TechZone Support Team
 Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
