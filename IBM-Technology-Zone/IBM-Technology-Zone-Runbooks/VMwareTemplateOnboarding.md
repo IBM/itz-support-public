@@ -7,6 +7,8 @@ There are two ways to have your template onboarded to production
   All templates need to be onboarded correctly to ensure user environment provisioning do not fail. Follow steps listed below.
 
 ## VMware template onboarding from Template to collection
+Now that your Template has been successfully created it needs to be onboarded before you update your environment configuration setting follow steps to get this completed.
+
 1. Send a VMware "template onboarding request"** to the TechZone Support Team
 Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
@@ -25,7 +27,7 @@ Note: To obtain **'vm_template_id'**,
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
-Next Steps: Update your environment settings and Terraform Variables Overriding
+Next Steps: Update your environment configuration settings and Terraform Variables Overriding
 
 **Settings**
 
@@ -61,7 +63,7 @@ C. Template name in Folder **Template-shared**
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
-Next Steps: Update your environment settings and Terraform Variables Overriding
+Next Steps: Update your environment configuration settings and Terraform Variables Overriding
 
 **Settings**
 
