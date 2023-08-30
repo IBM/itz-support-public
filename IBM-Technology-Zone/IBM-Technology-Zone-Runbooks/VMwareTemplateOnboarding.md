@@ -58,6 +58,7 @@ Repeat steps to add additional entries
 - vm_template_folder: **templates-user**
 - vm_template_id: leave as is
 
+- Set the status to "Enabled"
 - Save the environment on your collection and wait for the confirmation notification that the save was successful.
 - Save the collection and wait for the confirmation notification that the save was successful.
 
@@ -104,6 +105,7 @@ Repeat steps to add additional entries
 - vm_template_folder: **templates**
 - vm_template_id:Template name in Folder **Template-shared**
 
+- Set the status to "Enabled"
 - Save the environment on your collection and wait for the confirmation notification that the save was successful.
 - Save the collection and wait for the confirmation notification that the save was successful.
 
