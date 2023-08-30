@@ -8,7 +8,7 @@ There are two ways to have your template onboarded to production
 
 # VMware template onboarding from Template to collection
 1. Send a VMware "template onboarding request"** to the TechZone Support Team
-Complete a (webform)[https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US] or send an email to techzone.help@ibm.com
+Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
 **Subject: VMware "template copy/onboarding request"**
 a. Collection url/ name: 
@@ -22,16 +22,28 @@ Note: To obtain **'vm_template_id'**,
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
-Next Steps
+Next Steps: Update your environment settings and Terraform Variables Overriding
 
-Update variables required  
-- vm_template_folder = **templates**
-- vm_template_id = leave as is
+**Settings**
+
+- Account Pool: itzmware
+- Cloud Account: Any
+- Geo: Select appropriate geo (Americas,Europe or AP)
+- Region: Any
+- Datacenter: Any
+- Click the + sign to enter your entry
+  
+Repeat steps to add additional Geo's
+
+**Terraform Variables Overriding**
+ 
+- vm_template_folder: **templates-user**
+- vm_template_id: leave as is
 
 
 # VMware template onboarding from Template-shared
 1. Send a VMware "template onboarding request"** to the TechZone Support Team
-Complete a (webform)[https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US] or send an email to techzone.help@ibm.com
+Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
 **Subject: VMware "template copy/onboarding request"**
 a. Collection url/ name: 
@@ -40,16 +52,27 @@ C. Template name in Folder **Template-shared**
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
-Next Steps
+Next Steps: Update your environment settings and Terraform Variables Overriding
 
-Update variables required  
-- vm_template_folder = **templates**
-- vm_template_id = Template name in Folder **Template-shared**
+**Settings**
 
+- Account Pool: itzmware
+- Cloud Account: Any
+- Geo: Select appropriate geo (Americas,Europe or AP)
+- Region: Any
+- Datacenter: Any
+- Click the + sign to enter your entry
+  
+Repeat steps to add additional Geo's
+
+**Terraform Variables Overriding**
+ 
+- vm_template_folder: **templates**
+- vm_template_id:Template name in Folder **Template-shared**
 
 **NOTES:** Only templates onboarded by the IBM Technology Zone Support Team is accepted as a Production Templates.
 
-Production Templates are admin owned VMs for environments defined within an enabled collection and stored in folder named **Templates** or **Template-user** 
+Production Templates are admin owned VMs for environments defined within an enabled collection and stored in folder named **Templates** or **Templates-user** 
 
 
 
