@@ -11,8 +11,11 @@ There are two ways to have your template onboarded to production
 Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
 **Subject: VMware "template copy/onboarding request"**
+
 a. Collection url/ name: 
+
 b. Environment name:
+
 C. vm_template_id: 
 
 Note: To obtain **'vm_template_id'**, 
@@ -49,8 +52,11 @@ Repeat steps to add additional Geo's
 Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
 **Subject: VMware "template copy/onboarding request"**
+
 a. Collection url/ name: 
+
 b. Environment name:
+
 C. Template name in Folder **Template-shared**
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
