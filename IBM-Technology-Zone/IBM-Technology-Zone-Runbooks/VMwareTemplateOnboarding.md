@@ -3,7 +3,7 @@
 There are two ways to have your template onboarded to production
 1. By Providing the vm_template_id name from your [Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md) environment. (Follow this step if you are making updates from a reservation)
 
-2. By Providing template name in folder Template-Shared (Applicable ONLY to Authors that completed Skytap migrations and have access to template-shared folder in vcenter or Template builder)
+2. By Providing template name in folder templates-Shared (Applicable ONLY to Authors that completed Skytap migrations and have access to templates-shared folder in vcenter or Template builder access)
 
   All templates need to be onboarded correctly to ensure user environment provisioning do not fail. Follow steps listed below.
 
@@ -63,7 +63,7 @@ Repeat steps to add additional entries
 - Save the collection and wait for the confirmation notification that the save was successful.
 
 
-## VMware template onboarding from "Template-shared"
+## VMware template onboarding from "templates-shared"
 Send a VMware "template onboarding request"** to the TechZone Support Team
 Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
@@ -73,7 +73,7 @@ a. Collection url/ name:
 
 b. Environment name:
 
-C. Template name in Folder **Template-shared**
+C. Template name in Folder **templates-shared**
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
@@ -103,7 +103,7 @@ Repeat steps to add additional entries
 **Terraform Variables Overriding**
  
 - vm_template_folder: **templates**
-- vm_template_id:Template name in Folder **Template-shared**
+- vm_template_id: Template name in Folder **templates-shared**
 
 - Set the status to "Enabled"
 - Save the environment on your collection and wait for the confirmation notification that the save was successful.
@@ -111,7 +111,7 @@ Repeat steps to add additional entries
 
 **NOTES:** Only templates onboarded by the IBM Technology Zone Support Team is accepted as a Production Templates.
 
-Production Templates are admin owned VMs for environments defined within an enabled collection and stored in folder named **Templates** or **Templates-user** 
+Production Templates are admin owned VMs for environments defined within an enabled collection and stored in folder named **templates** or **templates-user** 
 
 
 For any questions, contact ITZ support - techzone.help@ibm.com
