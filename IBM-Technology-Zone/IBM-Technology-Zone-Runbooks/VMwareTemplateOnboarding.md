@@ -64,6 +64,7 @@ Repeat steps to add additional entries
 
 
 ## VMware template onboarding from "templates-shared"
+
 Send a VMware "template onboarding request"** to the TechZone Support Team
 Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or send an email to techzone.help@ibm.com
 
