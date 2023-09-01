@@ -71,19 +71,24 @@ There are two ways to find this unique ID.
 ![step 3 relationship id](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/step3relationship%20id.png)
 
 
-## How to Reserve if You Do Not Have a Valid Opportunity Created Yet
+## Invalid errors with actionable next steps
 
-If you are working with a customer and you do not yet have an opportunity logged in ISC or Gainsite CRM tool, then please proceed with the following:
+'Not Found' Error: 
+- As mentioned above, our system pulls updated opportunity codes every three hours. If you recently created this opportunity code or if you recently updated the status from 'Lost' to another valid sales stage, then please wait three hours for the updates to occur to pull in the record updates. 
+- Additionally, check directly in IBM Sales Cloud to ensure that you have copied the exact opportunity code as shown in IBM Sales Cloud. Our validation is run against actual IBM Sales Cloud opportunity code IDs and if the ID does not exist in ISC then it will not exist when our system goes to validate against it. Please ensure to provide the code as it is shown in ISC. 
 
-1. Select one of the following purpose types on the reservation form: Self education or Testing
+![Not Found Error](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/NotFoundISC.png)
 
-Note: These fields will not require an opportunity code or relationship ID and will still allow you to reserve the environment. 
+'Lost' Sales Stage Error:
+- IBM Sales Cloud opportunity codes that are in a 'Lost' sales stage are considered invalid for a TechZone reservation. Please provide a new opportunity code that is in a valid sales stage or if this opportunity code needs to be updated as it is now active again, proceed with updating the record in IBM Sales Cloud directly and waiting approximately 3 hours for the updates to take place on the TechZone side. 
 
-**IMPORTANT: The reservation duration we allow might be less than the duration allowed with providing a valid opportunity code. Reference the reservation duration policy linked from the reservation form to understand reservation durations we allow per purpose and infrastructure. After making a reservation without an opportunity code, please take note of the reservation end date and contact support 2 days prior to the environment expiring so our team can work with you on getting approval for a possible extension of your environment reservation. If you have a valid oppotunity that you can now add to the reservation, contact support with your opportunity code and reservation ID so that they can update the reservation with this information.**
+![Lost ISC code error](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/LostStageISC.png)
 
-Reservation duration policies linked on reservation form:
+'Won' Sales Stage Error:
+- IBM Sales Cloud opportunity codes that are in a 'Won' sales stage are considered invalid for a TechZone reservation. Please provide a new opportunity code that is in a valid sales stage or if this opportunity code needs to be updated as it is now active again, proceed with updating the record in IBM Sales Cloud directly and waiting approximately 3 hours for the updates to take place on the TechZone side. 
 
-![reservation duration policy link on form](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservation%20duration%20policy.png)
+![Won ISC code error](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/WonStageISC.png)
+
 
 ### Support
 
