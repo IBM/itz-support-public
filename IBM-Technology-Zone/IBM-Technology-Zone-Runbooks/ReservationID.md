@@ -1,5 +1,9 @@
 # How to find your reservation ID
 
+## Summary
+Runbook on how to find reservations from your dashboard
+
+## From the homepage
 To start, visit your reservation dashboard. You can do this by clicking on "My library" and then "my reservations." You can also find this page at https://techzone.ibm.com/my/reservations. 
 
 ![Find reservaiton dashboard](Images/FindResDashboard.png)
@@ -15,6 +19,10 @@ As can be seen from the screenshot below, the ID can be found under the "Environ
 # To find missing reservations
 
 If you're having trouble finding your reservation, try altering the filters on your dashboard
+
+# Keywords
+
+Reservation
 
 ![image](Images/FilterBar.png)
 
