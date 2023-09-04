@@ -20,12 +20,12 @@ As can be seen from the screenshot below, the ID can be found under the "Environ
 
 If you're having trouble finding your reservation, try altering the filters on your dashboard
 
-# Keywords
-
-Reservation
-
 ![image](Images/FilterBar.png)
 
 You can scroll through the dropdown to see different options to select. By default, only 4 are selected when you open your reservation dashboard
 
 ![image](https://github.com/IBM/itz-support-public/assets/132365220/de70d231-6aa5-4b6b-b064-77137cde6cdc)
+
+# Keywords
+
+Reservation
