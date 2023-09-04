@@ -14,7 +14,7 @@ As can be seen from the screenshot below, the ID can be found under the "Environ
 
 # To find missing reservations
 
-If you're having trouble finding your reservation, try altering the filters
+If you're having trouble finding your reservation, try altering the filters on your dashboard
 
 ![image](Images/FilterBar.png)
 
