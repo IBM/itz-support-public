@@ -2,7 +2,7 @@
 
 Share an environment with an IBMr, a business partner, or even invite a client to access the environment. The following steps will show you how to manage your environment reservation to share with the entended user and how they will be invited to the environment per persona (IBMr, business partner, clients). Continue reading below to understand the rules of who can reserve each environment by infrastructure and which persona the environment can be shared with. 
 
-**IBM Cloud** - IBM Cloud environments (this includes ROKS, Hosted, SaaS options) can be reserved by IBMrs and Business Partners and can be shared amongst IBMrs, Business Partners, and Clients. Ensure that the user has accepted the IBM Cloud invite or they will not be able to access the environment. The IBM Cloud invite is an email sent to the IBMid email that the owner shared the environment with. 
+**IBM Cloud** - IBM Cloud environments (this includes ROKS, Hosted, SaaS, and VMWare on IBM Cloud options) can be reserved by IBMrs and Business Partners and can be shared amongst IBMrs, Business Partners, and Clients. Ensure that the user has accepted the IBM Cloud invite or they will not be able to access the environment. The IBM Cloud invite is an email sent to the IBMid email that the owner shared the environment with. 
 
 _**IMPORTANT: IBM Technology Zone user that you are sharing an IBM Cloud environment with (IBMer, Business Partner, and/or client) must have an IBMid for you to share access to the environment.**_
 
