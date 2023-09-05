@@ -19,7 +19,7 @@ B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.pn
    
    **Product manufacturer:** IBM
    
-   **Product:** type or select **IBM Technology Zone** from the dropdown. Other Product Alias "TechZone", "ITZ" _**NOTE: This is a required field to ensure case gets routed to proper queue**_
+   **Product:** type or select **IBM Technology Zone** from the dropdown. Other Product Alias "**TechZone**", "**ITZ**" _**NOTE: This is a required field to ensure case gets routed to proper queue**_
    
    **Reservation ID:** Enter the reservation id, if not applicable leave blank
    
