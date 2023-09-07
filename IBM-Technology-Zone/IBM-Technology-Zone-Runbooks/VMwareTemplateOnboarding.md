@@ -28,7 +28,7 @@ Note: To obtain **'vm_template_id'**,
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
-Next Steps: Update your environment configuration settings and Terraform Variables Overriding. 
+**Next Steps:** Update your environment configuration settings and Terraform Variables Overriding. 
 
 **Settings**
 
@@ -80,7 +80,7 @@ C. Template name in Folder **templates-shared**
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
-Next Steps: Update your environment configuration settings and Terraform Variables Overriding
+**Next Steps:** Update your environment configuration settings and Terraform Variables Overriding
 
 **Settings**
 
