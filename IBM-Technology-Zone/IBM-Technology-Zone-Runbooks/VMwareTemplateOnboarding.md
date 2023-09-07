@@ -28,7 +28,7 @@ Note: To obtain **'vm_template_id'**,
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
-Next Steps: Update your environment configuration settings and Terraform Variables Overriding
+Next Steps: Update your environment configuration settings and Terraform Variables Overriding. 
 
 **Settings**
 
@@ -52,6 +52,8 @@ Repeat steps to add additional Geo's
 - Click the + sign to enter your entry
   
 Repeat steps to add additional entries
+
+**Note:** this is an environment settings quick steps, click on [link](https://pages.github.ibm.com/dte2-0/automation-team-docs/Best%20Practices/EnvironmentDefinitions/) for environment definition best precatice, how dynamic workload placement work and how techzone decides where to place workload
 
 **Terraform Variables Overriding**
  
@@ -100,6 +102,8 @@ Repeat steps to add additional Geo's
 - Click the + sign to enter your entry
   
 Repeat steps to add additional entries
+
+**Note:** this is an environment settings quick steps, click on [link](https://pages.github.ibm.com/dte2-0/automation-team-docs/Best%20Practices/EnvironmentDefinitions/) for environment definition best precatice, how dynamic workload placement work and how techzone decides where to place workload
 
 **Terraform Variables Overriding**
  
