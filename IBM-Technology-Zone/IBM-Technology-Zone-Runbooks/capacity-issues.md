@@ -19,8 +19,6 @@ Given the dynamic nature of reservations, often waiting, and trying a new reserv
 We will be exposing capacity at a future time to allow better visibility, but this is not immediately available today.
 
 
-Non-customer-facing workloads (those without opportunity codes) are not impacted and will attempt to provision based on datacenter choice at time of reservation whether capacity exists or not.
-
 ## Capacity Build Out
 
 We continue to stand up additional infrastructure to dedicate to customer-facing workloads as fast as the hardware can be racked and stacked across various datacenters and geos.  We appreciate your patience as we work to scale to unprecedented 75% growth month-on-month.
