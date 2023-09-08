@@ -211,8 +211,6 @@
 
 [Can a Client be Given Access to an Environment?](IBM-Technology-Zone-Runbooks/share-any-env-with-client.md)  :white_check_mark:  
 
-[Change Reservation Purpose to Enable Self-Service Extension Option](IBM-Technology-Zone-Runbooks/extend-self-education-into-sales-demo.md)  :white_check_mark:  
-
 [How Long Can I Reserve an Environment for on IBM Technology Zone?](IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:  
 
 [How to Delete a Reservation](IBM-Technology-Zone-Runbooks/delete-reservation.md)  :white_check_mark:
