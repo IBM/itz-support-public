@@ -1,6 +1,8 @@
 
 # Business Partners (BPs) Authenticated on IBM Partner Plus (PP) Have Access to IBM Technology Zone Using Their IBM Ids.
 
+IBM Authenticate BPs using IBM Partner Plus, if you have not been onboarded contact Partner Plus support Desk www.ibm.com/partnerplus/member for assitance.
+
 In some cases BPs do not have their IBM Ids associated with their companies partner profile, which affects their access to IBM Technology Zone and results in Error 403.
 
 Steps to resolve:
