@@ -5,7 +5,7 @@ In some cases BPs do not have their IBM Ids associated with their companies part
 
 Steps to resolve:
 
-Have the BP reach out to their company authorized profile administrators [APA] to have their IBM id attached to your company partner account.
+Have the BP reach out to their company authorized profile administrators [APA] to have their IBM id attached to their company partner account.
 If they do not know their APA, they can go to PP and use the chatbot or contact PP support Desk www.ibm.com/partnerplus/member
 Once their account is attached, they will be able to access IBM Technology Zone.
 
