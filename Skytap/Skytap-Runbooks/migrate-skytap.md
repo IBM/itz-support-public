@@ -4,7 +4,7 @@ This will guide you through the steps to migrate your Skytap environments to the
 
 Use **#skytap-migration-support** for any migration specific ask, this is a private channel request access #itz-techzone-support
 
-# 1. **Create a support request to export Skytap environment**
+1. **Create a support request to export Skytap environment**
 
 - You will need to provide the template id from your Techzone collection (just one region is sufficient):
 
@@ -89,6 +89,8 @@ Ensure the images are placed in the skytap-exports bucket.
 ![migrate16](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/Images/skytapmigrate16.png)
 
 To continue Migrations
+
+
 
 8. **Open Chrome, log into vSphere using the credentials at the bottom of your Template Builder reservation.**
 - Create your folder in vSphere under **templates-shared.** Short unique naming conventions advised
