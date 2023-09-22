@@ -14,11 +14,15 @@ This runbook contain steps for opening a support case with the IBM TechZone Supp
 
 ![techzonehelp](Images/techzonehelp.png)
 
-### 2. Click on [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyplerlink or log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" 
+### 2A. Click [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyperlink
 
-A. **Open Case Hyperlink** ![opencase](Images/opencase.png) 
+![opencase](Images/opencase.png)   
 
-B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.png)
+### 2B. log in to [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" 
+
+
+
+**Open Case from IBM internal web link** ![webopencase](Images/webopencase.png)
 
 
 ### 3. Complete and submit form to open a support case
