@@ -40,13 +40,25 @@ B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.pn
    
    **Case Contact number:** include if available
 
-   ##  **Add team memebers:** You can add your team members to your case. Note: Team members can only be added before your submit your case and not after
+   **Add team memebers:** You can add your team members to your case. Note: Team members can only be added before you submit case and not after.
    
 ### 4. Click **Submit Case**, case is automatically created
 
 >Note: You will be taken to your Case detail page that includes your Case number and description.
 
 ![Case created](Images/Casecreated.png)
+
+## Adding a Team member to your case
+
+Adding a team member to your case has to be completed while creating your support case and not after. Team memebers cannot be added after you submit a case
+- Enter the name of your team membeer in the "search box"
+
+  ![Addmember](Images/Addmember.png)
+  
+- Select the team member name from the drop down list
+- The team member is automatically added to the "Selected member" list
+- You can include mutiple team members on your case
+  
 
 ## How to View your cases
 
@@ -66,7 +78,8 @@ Select a case to view available details, list below
  - close case
  - escalate case
  - case information
- - upload files 
+ - upload files
+ - Team members
 ![Casedetailsview](Images/Casedetailsview.png)
 
 ## How to Manager case
