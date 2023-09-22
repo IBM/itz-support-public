@@ -31,7 +31,8 @@ This runbook contain steps for opening a support case with the IBM TechZone Supp
  - **Product:** select or type **IBM Technology Zone** if it is not listed. Other Product Alias accepted "**TechZone**", "**ITZ**"
 >_**IMPORTANT NOTE: Product is a required field to ensure case gets routed to proper support queue**_
  - **Reservation ID:** Enter your reservation id, if not applicable leave blank
- - **Severity and account information:** select the severity level that defines your case. **Note:** severity level is subject to change after your case is reviewed by a Support agent. 
+ - **Severity and account information:** select the severity level that defines your case.
+>**Note:** severity level is subject to change after your case is reviewed by a Support agent. 
  - **Case Description:** enter detailed description of your issue/inquiry
  - **Client reference:** include if available
  - **Case Contact number:** include if available
