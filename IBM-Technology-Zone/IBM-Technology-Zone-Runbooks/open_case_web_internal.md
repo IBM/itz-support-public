@@ -92,11 +92,13 @@ Select a case to view available details, list below
   - Click on Escalate case
     
     ![escalatecase](Images/escalatecase.png)
-  - Select "preferred method of contact". Phone not currently supported
+  - Select "preferred method of contact". 
+> Phone not currently supported
   - Select "escalation reason" from drop down list
   - Type your "Description of concern/escalation"
     
-    ![escalatetedetails](Images/escalatedetails.png)
+    ![escalatetedetails](Images/escalatetedetails.png)
+    
   - click submit
    
 
