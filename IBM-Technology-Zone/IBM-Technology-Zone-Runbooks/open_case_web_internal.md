@@ -14,36 +14,28 @@ This runbook contain steps for opening a support case with the IBM TechZone Supp
 
 ![techzonehelp](Images/techzonehelp.png)
 
-### Click [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyperlink
+### Click [Open a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) hyperlink to get redirect to the webform
 
 ![opencase](Images/opencase.png)   
 
-### From [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" 
+### You can also open a case directly from the [IBM Internal Web case](https://ibmsf.force.com/ibminternalproducts/s/), select "Open a case" to get started
 
 ![webopencase](Images/webopencase.png)
 
 
 ### 3. Complete and submit form to open a support case
 
-   **Type of Support:** select Product Support
-   
-   **Case Title:** Enter the case title that best describes your inquiry
-   
-   **Product manufacturer:** IBM
-   
-   **Product:** type or select **IBM Technology Zone** from the dropdown. Other Product Alias "**TechZone**", "**ITZ**" _**NOTE: This is a required field to ensure case gets routed to proper queue**_
-   
-   **Reservation ID:** Enter the reservation id, if not applicable leave blank
-   
-   **Severity and account information:** select the severity level that defines your case
-   
-   **Case Description:** enter detailed description of your issue/inquiry
-   
-   **Client reference:** include if available 
-   
-   **Case Contact number:** include if available
-
-   **Add team memebers:** You can add your team members to your case. Note: Team members can only be added before you submit case and not after.
+ - **Type of Support:** select or Type **Product Support**if it is not default.
+ - **Case Title:** Enter the case title that best describes your inquiry.
+ - **Product manufacturer:** select or type **IBM** if it is not default.
+ - **Product:** select or type **IBM Technology Zone** if it is not listed. Other Product Alias accepted "**TechZone**", "**ITZ**"
+>_**IMPORTANT NOTE: Product is a required field to ensure case gets routed to proper support queue**_
+ - **Reservation ID:** Enter your reservation id, if not applicable leave blank
+ - **Severity and account information:** select the severity level that defines your case. **Note:** severity level is subject to change after your case is reviewed by a Support agent. 
+ - **Case Description:** enter detailed description of your issue/inquiry
+ - **Client reference:** include if available
+ - **Case Contact number:** include if available
+ - **Add team memebers:** You can add your team members to your case. **Note:** Team members can only be added before you submit a case and not after.
    
 ### 4. Click **Submit Case**, case is automatically created
 
