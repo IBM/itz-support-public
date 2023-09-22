@@ -1,14 +1,14 @@
 # How to open a Support web Case.
 This runbook contain steps for opening a support case with the IBM TechZone Support Team
 
-- [Steps to open a support case](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#steps-to-open-a-support-case)
+- [Getting started](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#steps-to-open-a-support-case)
 - [Adding a Team memeber to your case]()
 - [How to view your case](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#how-to-view-your-cases)
 - [How to manage your case]()
 - [How to escalate your case]()
 
 
-## Steps to open a support case
+## Getting started
 # 1. From the IBM Technology Zone [Help Page](https://techzone.ibm.com/help)
 
 ![techzonehelp](Images/techzonehelp.png)
