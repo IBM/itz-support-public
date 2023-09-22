@@ -1,9 +1,8 @@
 ## How do I get Support?
 
 1. Self help guides directly from IBM Technology Zone ["Help"](https://techzone.ibm.com/help) page
-2. Fill the ["Contact us"](https://techzone.ibm.com/help) form a salesforce ticket will be generated.
-3. Use the support email "techzone.help@ibm.com" a salesforce ticket will be generated.
-4. Slack channel #itz-techzone-support (IBMer ONLY)
+2. Click on [Open a case](https://ibmsf.my.site.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) and fill form, you can find guide [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md) **IBM ONLY**
+4. Send an email to "techzone.help@ibm.com" to open a support caase. 
 5. Ask for Help? button, this can be found from the resource/collection page by clicking on the Question Mark "?"
 
 ![supportaskforhelp](Images/supportaskforhelp.png)
