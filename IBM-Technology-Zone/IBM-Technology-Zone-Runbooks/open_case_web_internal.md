@@ -39,6 +39,8 @@ B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.pn
    **Client reference:** include if available 
    
    **Case Contact number:** include if available
+
+   ##  **Add team memebers:** You can add your team members to your case. Note: Team members can only be added before your submit your case and not after
    
 ### 4. Click **Submit Case**, case is automatically created
 
@@ -46,7 +48,7 @@ B. **Open Case from IBM internal web link** ![webopencase](Images/webopencase.pn
 
 ![Case created](Images/Casecreated.png)
 
-# How to View your cases
+## How to View your cases
 
 Click on [My Cases](https://ibmsf.force.com/ibminternalproducts/s/my-cases) to view your case list 
 
@@ -67,7 +69,7 @@ Select a case to view available details, list below
  - upload files 
 ![Casedetailsview](Images/Casedetailsview.png)
 
-# How to Manager case
+## How to Manager case
  Your case can be managed from the details view. Select the case you intend to manage from [My Cases](https://ibmsf.force.com/ibminternalproducts/s/my-cases)
  ![caselist](Images/caselist.png)
  
@@ -76,7 +78,7 @@ Select a case to view available details, list below
 - escalate case
 - View responses to your case. 
 
-# Notifcation Mails 
+## Notifcation Mails 
 
 Notifcation mail is sent when a cases is submitted and for subsequent actions taken on the case.
 
