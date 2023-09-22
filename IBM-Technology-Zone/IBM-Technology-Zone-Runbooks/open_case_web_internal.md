@@ -3,7 +3,7 @@ This runbook contain steps for opening a support case with the IBM TechZone Supp
 
 - [Steps to open a support case](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#steps-to-open-a-support-case)
 - [Adding a Team memeber to your case]()
-- [How to view your case]()
+- [How to view your case](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#how-to-view-your-cases)
 - [How to manage your case]()
 - [How to escalate your case]()
 
