@@ -251,6 +251,8 @@
 
 ## Support
 
+[Steps to open a support case using a webform IBM ONLY](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md)
+
 [Content Support](IBM-Technology-Zone-Runbooks/ContentSupport.md)  :white_check_mark: 
 
 [Experiences Support](IBM-Technology-Zone-Runbooks/additional-experiences-support.md)  :white_check_mark:
