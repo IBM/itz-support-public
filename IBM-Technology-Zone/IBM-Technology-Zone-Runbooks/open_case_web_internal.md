@@ -5,7 +5,7 @@ This runbook contain steps for opening a support case with the IBM TechZone Supp
 - [Adding a Team member to your case](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#adding-a-team-member-to-your-case)
 - [How to view your case](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#how-to-view-your-cases)
 - [How to manage your case](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#how-to-manager-case)
-- [How to escalate your case]()
+- [How to escalate your case](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#how-to-escalate-your-case)
 - [Notification emails](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md#notifcation-mails)
 
 
@@ -95,11 +95,11 @@ Select a case to view available details, list below
   ## How to escalate your case
 
   - Click on Escalate case
-    [escalatecase](Images/escalatecase)
+    ![escalatecase](Images/escalatecase)
   - Select "preferred method of contact". Phone not currently supported
   - Select "escalation reason" from drop down list
-  - Type "Description of concern/escalation"
-    [escalatetedetails](Images/escalatedetails)
+  - Type your "Description of concern/escalation"
+    ![escalatetedetails](Images/escalatedetails)
   - click submit
    
 
