@@ -95,17 +95,17 @@ Select a case to view available details, list below
   ## How to escalate your case
 
   - Click on Escalate case
-    ![escalatecase](Images/escalatecase)
+    ![escalatecase](Images/escalatecase.png)
   - Select "preferred method of contact". Phone not currently supported
   - Select "escalation reason" from drop down list
   - Type your "Description of concern/escalation"
-    ![escalatetedetails](Images/escalatedetails)
+    ![escalatetedetails](Images/escalatedetails.png)
   - click submit
    
 
 ## Notifcation Mails 
 
-Notifcation mail is sent when a cases is submitted and for subsequent actions taken on the case.
+A notifcation mail is sent when a cases is submitted and for subsequent actions taken on the case.
 
 Example, **Case Created**, **Awaiting Feedback** and **Case Closed**
 
