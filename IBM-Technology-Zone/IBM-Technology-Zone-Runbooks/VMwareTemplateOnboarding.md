@@ -33,6 +33,7 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
 **Next Steps:** Update your environment configuration settings and Terraform Variables Overriding. 
 
 **Settings**
+
 _**Preffered**_
        
  ```
@@ -77,11 +78,13 @@ Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/
 
 **Subject: VMware "template copy/onboarding request"**
 
+```
 a. Collection url/ name: 
 
 b. Environment name:
 
 C. Template name in Folder **templates-shared**
+```
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
 
@@ -90,21 +93,28 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
 **Settings**
 
 _**Preffered**_
+
+```
 - Account Pool: itzmware
 - Cloud Account: Any
 - Geo: Select preferred geo (Americas,Europe or AP)
 - Region: Any
 - Datacenter: Any
 - Click the + sign to enter your entry
+```
+
 Repeat steps to add additional Geo's 
 
 **_Alternative_**
+
+```
 - Account Pool: itzmware
 - Cloud Account: Select preferred cloud account (itzvmware,itzsquad, itzvmware-ocpgym,itzv2...)
 - Geo: Select preferred geo (Americas,Europe or AP)
 - Region: Select preferred region (us-east,eu-de, jp-tok ... ) 
 - Datacenter: Select preferred datacenter (wdc04, fra04, tok02 ...)
 - Click the + sign to enter your entry
+```
   
 Repeat steps to add additional entries
 
