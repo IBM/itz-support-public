@@ -34,13 +34,16 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
 
 **Settings**
 
-_**Prefered**_
-- Account Pool: itzmware
-- Cloud Account: Any
-- Geo: Select preferred geo (Americas,Europe or AP)
-- Region: Any
-- Datacenter: Any
-- Click the + sign to enter your entry
+ * Prefered
+        ```
+        Account Pool: itzmware
+        Cloud Account: Any
+        Geo: Select preferred geo (Americas,Europe or AP)
+        Region: Any
+        Datacenter: Any
+        Click the + sign to enter your entry
+        Repeat steps to add additional Geo's
+        ```
   
 Repeat steps to add additional Geo's 
 
