@@ -34,28 +34,28 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
 
 **Settings**
 _**Preffered**_
-        ```
-        Account Pool: itzmware
-        Cloud Account: Any
-        Geo: Select preferred geo (Americas,Europe or AP)
-        Region: Any
-        Datacenter: Any
-        Click the + sign to enter your entry
-        Repeat steps to add additional Geo's
-        ```
+       
+ ```
+ Account Pool: itzmware
+ Cloud Account: Any
+ Geo: Select preferred geo (Americas,Europe or AP)
+ Region: Any
+ Datacenter: Any
+ Click the + sign to enter your entry
+ ```
   
 Repeat steps to add additional Geo's 
 
 **_Alternative_**
 
-    ```
-        Account Pool: itzmware
-        Cloud Account: Select preferred cloud account (itzvmware,itzsquad, itzvmware-ocpgym,itzv2...)
-        Geo: Select preferred geo (Americas,Europe or AP)
-        Region: Select preferred region (us-east,eu-de, jp-tok ... )
-        Datacenter: Select preferred datacenter (wdc04, fra04, tok02 ...)
-        Click the + sign to enter your entry
-        ```
+```
+Account Pool: itzmware
+Cloud Account: Select preferred cloud account (itzvmware,itzsquad, itzvmware-ocpgym,itzv2...)
+Geo: Select preferred geo (Americas,Europe or AP)
+Region: Select preferred region (us-east,eu-de, jp-tok ... )
+Datacenter: Select preferred datacenter (wdc04, fra04, tok02 ...)
+Click the + sign to enter your entry
+```
 Repeat steps to add additional entries
 
 **Note:** this is an environment settings quick steps, click on [link](https://pages.github.ibm.com/dte2-0/automation-team-docs/Best%20Practices/EnvironmentDefinitions/) for environment definition best precatice, how dynamic workload placement work and how techzone decides where to place workload
