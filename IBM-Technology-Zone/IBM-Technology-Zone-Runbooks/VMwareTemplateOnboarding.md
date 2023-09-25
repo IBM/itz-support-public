@@ -15,11 +15,13 @@ Complete a [webform](https://ibmsf.force.com/ibminternalproducts/s/createrecord/
 
 **Subject: VMware "template copy/onboarding request"**
 
+```
 a. Collection url/ name: 
 
 b. Environment name:
 
-C. vm_template_id: 
+C. vm_template_id:
+```
 
 Note: To obtain **'vm_template_id'**, 
 - click edit on the top right of your collection 
