@@ -5,11 +5,13 @@ IBM Authenticate BPs using IBM Partner Plus, if you have not been onboarded cont
 
 In some cases BPs do not have their IBM Ids associated with their companies partner profile, which affects their access to IBM Technology Zone and results in Error 403.
 
-Steps to resolve:
+**Steps to resolve**
 
-Have the BP reach out to their company authorized profile administrators [APA] to have their IBM id attached to their company partner account.
-If they do not know their APA, they can go to PP and use the chatbot or contact PP support Desk www.ibm.com/partnerplus/member
-Once their account is attached, they will be able to access IBM Technology Zone.
+Have the business partner reach out to their company authorized profile administrators [APA] to have their IBMid associated with their company partner account.
+If the BP does not know their APA, they can go to Partner Plus and use the chatbot or contact the [Partner Plus Support Desk](https://www.ibm.com/partnerworld/resources/support) (https://www.ibm.com/partnerworld/resources/support).
+Once their account is attached they will be able to access Asset Repo.
+
+If a business partner has already been successfully onboarded to their company profile, partners will need to ensure that they are using the same IBMid that was registered to their company profile. The IBMid used to sign into Partner Plus, IBM Training, or ePricer for example would be the same IBMid they would use to login to IBM Technology Zone. If they can not access any of these sites, Partner Plus support can help determine the correct IBMid that they should be using to login to these platforms. 
 
 # Helpful Information for Company APA
 How to add an employee under a Company profile:
