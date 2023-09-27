@@ -11,9 +11,14 @@ Indicators will display on the environment tile in the descirption as shown in b
 
 ![requires approval](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/requiresapproval2.png)
 
-As well as, when on the reservation form, the button in the bottom right hand corner will read "Submit for approval"
+As well as, when on the reservation form, there are two indcators displayed with a banner on the request form as well as the button in the bottom right hand corner will read "Submit for approval".
 
-![submit for approval](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/submitforapproval.png)
+![submit for approval](https://github.com/IBM/itz-support-public/blob/7f5fa58269a8b6d5d8eefcf00a321cd271d9a210/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/needsapprovalindicators.png)
+
+Lastly, after a request form has been submitted, navigating to My Reservations page and clicking on the pending approval request tile will display the details page. Find the Approval team on this details page and click the hyperlinked team name for the emails of the individuals in this group.
+
+![approval group details](https://github.com/IBM/itz-support-public/blob/7f5fa58269a8b6d5d8eefcf00a321cd271d9a210/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/approvaldetailspage.png)
+
 
 - How long will a request take to be reviewed? 
 
