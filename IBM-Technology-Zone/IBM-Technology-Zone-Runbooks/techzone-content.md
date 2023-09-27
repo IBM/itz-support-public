@@ -165,7 +165,7 @@ Select the appropriate visibility level based on the intent for this collection.
 
 ![Save the collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/save%20the%20collection.png)
 
-* Wait for the Collection saved notification to display before continueing.
+* Wait for the Collection saved notification to display before continuing.
 
 ![Save collection notification](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/save%20collection%20notification.png)
 
@@ -429,7 +429,7 @@ Reference the How to edit your collectiom runbook for additional help on this st
 
 ![Save the collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/save%20the%20collection.png)
 
-* Wait for the Collection saved notification to display before continueing. 
+* Wait for the Collection saved notification to display before continuing. 
 
 ![Save collection notification](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/save%20collection%20notification.png)
 
@@ -707,7 +707,7 @@ See and end result example below of after dragging and dropping the resources an
 
 5. Select 'Save' to capture this newly created journey. 
 
-Wait for the Journey saved notification to display before continueing to next step. 
+Wait for the Journey saved notification to display before continuing to next step. 
 
 ![Journey saved notification](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/saved%20journey%20notification1.png)
 
@@ -719,7 +719,7 @@ Wait for the Journey saved notification to display before continueing to next st
 
 ![Save the collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/save%20the%20collection.png)
 
-* Wait for the Collection saved notification to display before continueing. 
+* Wait for the Collection saved notification to display before continuing. 
 
 ![Save collection notification](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/save%20collection%20notification.png)
 
