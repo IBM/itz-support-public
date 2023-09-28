@@ -301,10 +301,6 @@
 
 [How to Schedule a Hosted Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-hosted-workshop.md)  :white_check_mark: 
 
-[How to Schedule a Skytap Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md)  :white_check_mark: 
-
-[How to Schedule an IBM Cloud Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-an-IBMCloud-workshop.md)  :white_check_mark: 
-
 [How to step by step for Instructors](IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md)  :white_check_mark: 
 
 [Workshop Manager Reservation Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Workshop_Reservation_Policy.md) :white_check_mark:
