@@ -58,4 +58,7 @@ To resolve:
 
 ## Keywords
 
-IBM watsonx, IBM watsonx.ai, watsonx SaaS, watsonx.ai SaaS
+- IBM watsonx
+- IBM watsonx.ai
+- watsonx SaaS
+- watsonx.ai SaaS
