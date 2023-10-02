@@ -41,28 +41,30 @@ As the reservation owner, you can share the reservation, transfer ownership of t
 
 5. Enter the IBMid to whom you want to share this environment with. If you have multiple IBMid's that you would like to share this environment with, enter each IBMid and then seperate with a comma.
 
-- If the user that you wish to share this environment with does not have an IBMid, please send them to this [URL](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776&target=https%3A%2F%2Flogin.ibm.com%2Foidc%2Fendpoint%2Fdefault%2Fauthorize%3FqsId%3D1156c9eb-c357-471b-a524-9ae38869e775%26client_id%3DODllMDk4YzItMjgxOC00) to get started creating their IBMid. 
-
 ![Sharereservation](Images/email%20for%20share.png)
 
 6. Click on "Share" blue button.
 
-**Important:** Once shared it can not be revoked. Only by ITZ Admins per owner request.
-
 7. An email will then be sent to the user that you shared the environment with. Access credentials included in the email. 
 
-**Important:** Not all environments trigger a shared email at this time. Shared emails will be sent with all IBM Cloud, Hosted, SaaS, AWS, and Azure environment reservations. The IBM Technology Zone team is working to integrate the Skytap, Fyre, and ROKS pipeline to have this same capability, but it is not available at this time. 
+![shared with](https://github.com/IBM/itz-support-public/blob/43f3d35125c666a2e346a60e3cf90b0885b351ef/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/shared%20with.png)
 
-![shared template](Images/shared%20template.png)
+**Important:** Once shared it can not be revoked. Only by ITZ Admins per owner request.
 
-IBMrs and Partners that you shared the environment with will be able to login to IBM Technology Zone and see a reservation card on their "My reservations" page. The shared environment will have **(Shared)** next to their status field. Users that are shared the environment will not be able to extend, share, or transfer the environment. These actions are owner actions and the user that was shared the environment will need to reach out to the owner to request these actions. 
+## Users experience that has been shared a reservation
 
-![sharee view](Images/sharee%20view.png)
+An email will then be sent to the user that you shared the environment with. See below for a blank email template example of what the user will receive in their email. 
 
-8. See who all you have shared this environment with right from the reservation card from "My reservations" page. 
+![shared template](https://github.com/IBM/itz-support-public/blob/51fda870b998856c006c1cd9a1ad8d95a948cb6b/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Blank%20shared%20email.png)
 
-![shared with](Images/shared%20with.png)
+IBMrs and Partners that you shared the environment with will be able to login to IBM Technology Zone and see a reservation card on their "My reservations" page. The shared environment will have **(Shared)** notation next to their status field.
 
+![sharee view](https://github.com/IBM/itz-support-public/blob/51fda870b998856c006c1cd9a1ad8d95a948cb6b/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/sharee%20view.png)
+
+**IMPORTANT:** Users that are shared a reserved environment on TechZone will not be able to extend, share, or transfer the reserved environment. The owner of the shared reservation that initially shared the reserved environment can field these requests and perform these actions as needed. The shared reservation owner will however be able to delete their shared reservation. This will not delete the parent reservation. Deleting a shared reservation will remove the reservation from the users My reservations page and there is no impact to the original owners reservation record. 
+
+## Keywords
+Sharing, Reservation, IBM Technology Zone Portal, Step-by-Step guide
 
 ### Support
 
