@@ -4,7 +4,7 @@
 Starting July 18th, IBM Technology Zone will be releasing a select set of environments that will support specific classifications of customer data. IBM Technology Zone's [Terms and Conditions](https://techzone.ibm.com/terms) have been updated per BISO and Legal guidance. Additionally, [End User Security Policies](https://techzone.ibm.com/terms/securitypolicy) have been added to the Terms and Conditions to maintain a compliant and secure platform for all users. Continue reading this runbook to understand the classifications of Customer Data that we do/do not support, new feature functionality added the site to support this iniatitive, and other updates regarding provisioning process updates and email template changes. 
 
 Supported Customer Data Classifications:
-- Publicly available 
+- Publicly available (example of data available through the web is [BERKELEY SETI RESEARCH CENTER](https://seti.berkeley.edu/listen/data.html))
 - Anonymized / Obfuscated / Masked
 - Non-PI
 
@@ -12,9 +12,16 @@ NOT Supported Customer Data Classifications:
 - No regulated data allowed. Regulated - PI, SPI, PCI, PHI, Financial Data, Other.
 - Governed by a plethora of global/federal/local regulations- GDPR, HIPAA, GLB, FTC, CCPA, Sarbanes-Oxley, + many others. Regulated data **requires** engaging Legal & BISO. 
 
-If you have an environment that needs regulated customer data, submit a [TechZone Custom Request](https://ibm.biz/custom-techzone-requests) and select request type 'Customer Data Environment' to get started with this process. 
+### Customer Data Classification Support
+If you need support classifying customer data or a risk assessment associated with your engagement, please contact the Corporate BISO team directly in Slack: [#corporate-biso-help](https://ibm-techzone.slack.com/archives/C01RHTP1B8W). Izzac Gonzalez (gizzac@us.ibm.com) and Benjamin Cyr (BenjaminCyr@ibm.com) can support you on this inquiry. 
 
-![Aha Customer Data Environment Request](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Aha_customerdatarequest.png)
+## Regulated Customer Data Environment Requests
+
+If you have an environment that needs regulated customer data or you need an environment on TechZone that does not support the customer data option, please submit a [TechZone Custom Request](https://ibm.biz/custom-techzone-requests) and select request type 'Customer Data Environment' to get started with this process. Provide the environment name and collection URL for the environment on TechZone that does not currently allow for customer data in your request. 
+
+_**NOTE: Customer data environments need to go through Business Information Security Office (BISO) for legal approval before the IBM Technology Zone team can proceed with setting up your environment. Get started by submitting your custom request for the TechZone team to review and to begin this process and please be aware that this process can add an additional month for necessary legal reviews.**_
+
+![Customer Data Type](https://github.com/IBM/itz-support-public/blob/2bb827675a967ac45c49644be1f421c40e12d57a/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/customerdatatype.png)
 
 **IMPORTANT - Email your [legal "one-pager"](https://www.ibm.com/support/customer/csol/terms/internal/?id=Z126-9237&cc=us&lc=en#detail-document) to the client prior to working with their data. (*signature not required). If customer has any concerns with agreement, you must engage with legal. Legal is working w/ CIO office to create a “contract generator” which will supersede existing “one pager” at a future date.**
 
