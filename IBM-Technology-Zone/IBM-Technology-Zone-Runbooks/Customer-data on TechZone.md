@@ -31,7 +31,7 @@ The following environments are enabled to allow for supported customer data clas
 
 • [TechZone Certified VMWare Offerings](https://techzone.ibm.com/collection/tech-zone-certified-base-images/journey-vmware-on-ibm-cloud-environments) (*excludes Windows)
 
-• [Watson Assistant and Watson Discovery SaaS Offerings](https://techzone.ibm.com/collection/hcpg-ce-patterns/journey-ibm-cloud-saa-s-patterns)
+• [watsonx Assistant and watsonx Discovery SaaS Offerings](https://techzone.ibm.com/collection/hcpg-ce-patterns/journey-ibm-cloud-saa-s-patterns)
 
 
 ## Customer Data Experience Updates
