@@ -14,9 +14,17 @@ This Documentation contains information regarding reservation duration policies 
 
 Reservation duration policies are the length of time allowed to reserve an environment on a reservation form with additional insight into the length of time allowed to extend a reservation as well. Reference information below to learn about the current reservation duration policies in place today and where on the reservation form experience to look for these duration policies live.
 
-## Current Policies as of July 20th, 2023:
 
-![reservation duration policies](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/policiesssnew.png)
+### Current Policies as of October 2nd, 2023:
+
+Recent changes are highlighted below in chart.
+
+* VMWare environments reserved with purpose Customer Demo has been increased from allowing a max of 24 days to now allow for a 49 days total to align with Proof of Technology purpose durations for VMWare environments. This change is giving users 3 more days to select with creating the reservation (filling out the reservation form) as well as has increased the length of time for an extension by 3 days to allow for a full week extension lenth with 1 additional extension added. 
+* watsonx, watsonx Discover Plus, watsonx Assistant Plus environments reserved with purpose Proof of Technology has been increased from allowing a max of 28 days to now allow for a max of 42 days total. This change has given users two additional one week extensions. 
+
+<p align="center">
+  <img src="https://github.com/IBM/itz-support-public/blob/fd41279a792d19b21f4d41ae28a239a3f0d94d58/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/duration_policies_image.png" />
+</p>
 
 **Definitions:** Per the above chart
 
