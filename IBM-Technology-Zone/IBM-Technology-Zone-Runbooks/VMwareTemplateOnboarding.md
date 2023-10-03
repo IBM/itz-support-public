@@ -81,7 +81,7 @@ b. Environment name:
 
 C. Template name in Folder **templates-shared**
 
-d. Datcenter name: example Dal10 or wdc04
+d. Datacenter name: example Dal10 or wdc04
 ```
 
 It takes **2 to 3** business days to complete a template copy/onboarding request. You will be notified by the support agent when the template is available in all TechZone supported regions. 
