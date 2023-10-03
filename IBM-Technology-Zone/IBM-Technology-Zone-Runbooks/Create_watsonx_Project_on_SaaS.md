@@ -56,9 +56,8 @@ To resolve:
 
 8. The user should now be able to create a new project.
 
-## Keywords
+### (Optional) Backing up a project
+To back up projects before reservation expires so that you do not lose projects on a dedicated account, you must specify the value of the "_Default install of dedicated services (customer poc), or use shared services? Note that dedicated services include the COS instance that will get destroyed
+with your project data upon expiry, so be sure to export your projects as needed when choosing dedicated._" field.
 
-- IBM watsonx
-- IBM watsonx.ai
-- watsonx SaaS
-- watsonx.ai SaaS
+![backup-field](https://github.com/IBM/itz-support-public/blob/52c7807676a1394d1474c90bf6ad8bae0974b0b9/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/watson-backup-field.png)
