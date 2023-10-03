@@ -89,6 +89,12 @@ There are two ways to find this unique ID.
 
 ![Won ISC code error](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/WonStageISC.png)
 
+'Request out of policy scope (Invalid opportunity product)' Error:
+- Step 1: This error can typically happen if the reservation form page has been open for a long duration. Try refreshing the page to start a fresh reservation. 
+- Step 2: If previous refresh did not help resolve this error, try selecting the drop down menu option for this field and selecting a different opportunity product value in the list and then select then re-select the correct one. This error might be occuring because the value was not being sent in the payload. 
+
+![opp product error](https://github.com/IBM/itz-support-public/blob/ae3cf8ec7eb6e60aa138495b4ac01f59b1cf24f4/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/oppproducterror.png)
+
 
 ### Support
 
