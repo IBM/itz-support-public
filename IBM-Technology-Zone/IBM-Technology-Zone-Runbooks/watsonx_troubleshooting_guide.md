@@ -28,7 +28,7 @@ Instructions and troubleshooting common problems with creating a project within 
 6. Your project should be successfully created.
 
 ### Why can't I create a project on SaaS?
-Filter settings are stored as browser cookies and will continue to apply the filter on other pages including the "Creating a new project" page, preventing the user from creating a new project. Resources will not be displayed unless resource groups matching the resources are selected in the filter.
+Why can't I create a watsonx.ai or watsonx project? Filter settings are stored as browser cookies and will continue to apply the filter on other pages including the "Creating a new project" page, preventing the user from creating a new project. Resources will not be displayed unless resource groups matching the resources are selected in the filter.
 
 To resolve:
 1. Firstly ensure that the user has permissions from the parent reservation owner (unless they are the reservation owner)
