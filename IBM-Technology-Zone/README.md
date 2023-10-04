@@ -153,6 +153,9 @@
 
 [Not a Production Template](IBM-Technology-Zone-Runbooks/not-a-production-template.md)  :white_check_mark:
 
+[watsonx Troubleshooting Guide](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md) :white_check_mark:
+
+
 ## Onboarding 
 
 [Onboard a Skytap Template](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/SkytapTemplateOnboarding.md)  :white_check_mark:
