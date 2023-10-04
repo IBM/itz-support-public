@@ -1,4 +1,4 @@
-# Create watsonx Project on SaaS
+# watsonx Troubleshooting Guide
 
 ## Summary
 Instructions and troubleshooting common problems with creating a project within a watson instance on SaaS.
