@@ -1,4 +1,4 @@
-# watsonx Troubleshooting Guide
+# WatsonX Troubleshooting Guide
 
 ## Summary
 Instructions and troubleshooting common problems with creating a project within a watson instance on SaaS.
@@ -27,7 +27,7 @@ Instructions and troubleshooting common problems with creating a project within 
 
 6. Your project should be successfully created.
 
-### Why can't I create a project on SaaS?
+## Why can't I create a project on SaaS?
 Why can't I create a watsonx.ai or watsonx project? Filter settings are stored as browser cookies and will continue to apply the filter on other pages including the "Creating a new project" page, preventing the user from creating a new project. Resources will not be displayed unless resource groups matching the resources are selected in the filter.
 
 To resolve:
@@ -56,7 +56,19 @@ To resolve:
 
 8. The user should now be able to create a new project.
 
-### (Optional) Backing up a project
+## Why can't I share my WatsonX project with a user?
+
+If you are running into issues sharing a project or a user is not able to view a project that was shared with them, some permissions may be missing. To troubleshoot this:
+
+1. Create a case with Techzone Support.
+
+> Be sure to include your reservation ID and the email of the user you are attempting to share your instance with. It will be helpful to share this runbook with support and ask for the team to check on your permissions
+
+2. Support will check if you have the access policy called "All Account Management Services".
+
+3. If you are not already assigned to that group, the support team will add you, then you can attempt sharing again.
+
+## (Optional) Backing up a project
 To back up projects before reservation expires so that you do not lose projects on a dedicated account, you must specify the value of the "_Default install of dedicated services (customer poc), or use shared services? Note that dedicated services include the COS instance that will get destroyed
 with your project data upon expiry, so be sure to export your projects as needed when choosing dedicated._" field.
 
