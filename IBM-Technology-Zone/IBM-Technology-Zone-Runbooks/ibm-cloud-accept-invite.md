@@ -43,11 +43,10 @@ To learn how to reserve an environment, view this document.
 
 **Step 2** Click on the bell notifications icon.
 
-![Bell Incon](Images/bell-icon.png)
+![Bell Incon](https://github.com/IBM/itz-support-public/blob/79339c00fb16c79fc5468c05477a74b3f762c56b/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmcloud-notification.png)
 
 **Step 3** You will see a notification that says "You are invited to join an account in IBM Cloud", click the blue link on the right of your screen that says "Join now"
 
-![](Images/.png)
 
 **Step 4** You will be taken to a page where you are required to fill in information to Join IBM Cloud.
 
@@ -68,6 +67,15 @@ To learn how to reserve an environment, view this document.
 **Step 8** You now have access to your reserved cluster.
 
 ![GDPR Client capture page](Images/openshift-cluster-access.png)
+
+### What Happens If I Do Not Accept the IBM Cloud Invitation?
+
+Why can't I access IBM Cloud? If you do not accept the IBM Cloud invitation, as specifically directed in the reservation details you will encounter an error.
+
+![IBM Cloud Reservation Details](https://github.com/IBM/itz-support-public/blob/79339c00fb16c79fc5468c05477a74b3f762c56b/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmcloud-reservation-details.png)
+
+![ibmcloud-error](https://github.com/IBM/itz-support-public/blob/79339c00fb16c79fc5468c05477a74b3f762c56b/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmcloud-error.png)
+
 
 ### Support
 
