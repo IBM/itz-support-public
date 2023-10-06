@@ -1,4 +1,4 @@
-# WatsonX Troubleshooting Guide
+# watsonX Troubleshooting Guide
 
 ## Summary
 Instructions and troubleshooting common problems with creating a project within a watson instance on SaaS.
@@ -67,6 +67,19 @@ If you are running into issues sharing a project or a user is not able to view a
 2. Support will check if you have the access policy called "All Account Management Services".
 
 3. If you are not already assigned to that group, the support team will add you, then you can attempt sharing again.
+
+## Why can't I access IBM Cloud?
+
+What Happens If I Do Not Accept the IBM Cloud Invitation? If you do not accept the IBM Cloud invitation, as specifically directed in the reservation details you will encounter an error.
+
+![watsonx Cloud Error](https://github.com/IBM/itz-support-public/blob/1395e12dd3ca6461ec5d19f7feec469108bb6a0d/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/watsonx-cloud-error.png)
+
+![IBM Cloud Reservation Details](https://github.com/IBM/itz-support-public/blob/1395e12dd3ca6461ec5d19f7feec469108bb6a0d/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmcloud-reservation-details.png)
+
+To accept the invitation, either navigate to the email you should receive within 24 hours of creating your IBM Cloud account, or navigate to the bell notification icon on the top right of the IBM Cloud page, and on the right side of the screen you will see a notification that says "You are invited to join an account in IBM Cloud", click the blue hyperlink on the right of your screen that says "Join now."
+
+![Bell Icon](https://github.com/IBM/itz-support-public/blob/1395e12dd3ca6461ec5d19f7feec469108bb6a0d/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmcloud-notification.png)
+
 
 ## (Optional) Backing up a project
 To back up projects before reservation expires so that you do not lose projects on a dedicated account, you must specify the value of the "_Default install of dedicated services (customer poc), or use shared services? Note that dedicated services include the COS instance that will get destroyed
