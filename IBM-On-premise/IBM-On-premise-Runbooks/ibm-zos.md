@@ -2,20 +2,12 @@
 
 ## The following application versions are part of the deployed builds:
 
-- z/OS 2.4
-- CICS v5.6
-- CICS Performance Analyzer v5.4
-- DB2 v12.1
-- DB2 Admin Tool v 12.1
-- MQ v9.2
-- Rocket tools
-- Bash v4.3
-- TWS v9.3
-- Java v8 (1.8.0_281)
-- Enterprise Cobol v4r2, v5r1, v6r1, v6r2, v6r3
-- PL1 v2r3, v3r3, v4r2
-- REXX v1r4
-
+- z/OS V2R5
+- CICS V6R1
+- DB2 V13
+- MQ V9R3
+- TWS V9R3
+        
 ## How to connect to the z/OS LPARs
 
 Once your z/OS LPAR has been provisioned (and you have access to the IP address along with having the username and password) there are a few different ways you can connect to it depending on your workstation Operating System.
