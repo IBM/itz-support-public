@@ -80,6 +80,10 @@ To accept the invitation, either navigate to the email you should receive within
 
 ![Bell Icon](https://github.com/IBM/itz-support-public/blob/1395e12dd3ca6461ec5d19f7feec469108bb6a0d/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmcloud-notification.png)
 
+## Why am I getting error "The AWS Access Key ID you provided does not exist in our records"?
+
+That AWS access key error indicates that their COS instance was deleted. The COS instance is deleted either by reservation expiry or user deletion. To resolve, you must create a fresh reservation and re-associate the new COS instance with project.
+
 
 ## (Optional) Backing up a project
 To back up projects before reservation expires so that you do not lose projects on a dedicated account, you must specify the value of the "_Default install of dedicated services (customer poc), or use shared services? Note that dedicated services include the COS instance that will get destroyed
