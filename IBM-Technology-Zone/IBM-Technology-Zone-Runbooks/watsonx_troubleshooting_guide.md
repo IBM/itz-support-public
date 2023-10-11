@@ -82,7 +82,9 @@ To accept the invitation, either navigate to the email you should receive within
 
 ## Why am I getting error "The AWS Access Key ID you provided does not exist in our records"?
 
-That AWS access key error indicates that your COS instance was deleted. The COS instance is deleted either by reservation expiry or user deletion. To resolve, you must create a fresh reservation and re-associate the new COS instance with project.
+![cos-error](https://github.com/IBM/itz-support-public/blob/cb24717ff45c577a2e12d96ff994791330ca81e1/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/watsonx-cos-error.png)
+
+The AWS access key error indicates that your COS instance was deleted. The COS instance is deleted either by reservation expiry or user deletion. To resolve, you must create a fresh reservation and re-associate the new COS instance with project.
 
 
 ## (Optional) Backing up a project
