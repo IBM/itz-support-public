@@ -1,20 +1,20 @@
 # IBM On-premise
 
 ## Known limitations
-- Extending a reservation is not possible: This will be addressed soon and is coming in a future release.
-- Several resources within a same network: If you need more than 1 resource and they need to be able to communicate with each other, please book one or two days in the future and open a support ticket with a list of the reservation ids requesting they be placed in the same project. Project support will be available in IBM Technology Zone soon, but is being handled manually in the interm.
-- SSH key: Injecting your own SSH key into the OS is currently disabled though we hope to bring this feature back at some point. In the meantime you can use the auto-generated project key.
+
+- Inability to book serveral resources together so they provision on the same network. If you need this capability please book one or two days in the future and open a support ticket with a list of the reservation ids requesting they be placed in the same project so they provision on the same subnet. Please note that this functionality is only supported for on-premise reservations and not PowerVS, and generally only works with simple reservations that combine single VM's.
+- The ability to inject your own SSH key into the OS during provisioning is currently not available.
 
 
-## Self-service runtime actions currently not available
-- Add a second disk after the creation: A workaround is to cancel your current reservation and add a second disk during the booking process. Otherwise please open a support ticket.
-- Add shared storage: Please open a support ticket.
-- Add VPN access or add more VPN IDs: Please open a support ticket.
-- Hard reboot a server or VM: If you are unable to run shutdown -r yourself then please open a support ticket.
-- Rebuild a server or VM without a full reprovision: Please open a support ticket.     
+## Actions available that require a Help Desk ticket
 
-## Withdrawn features
-- Persistent file storage, centralized Active Directory accounts, and post provision user install hooks are withdrawn and no longer available.
+These are generally only available for on-premise provisions:
+  
+- Adding additional storage to a specific PowerVM based VM.
+- Adding shared storage to all the PowerVM based VM's in a project.
+- Adding VPN access or adding additional VPN IDs.
+- Hard rebooting a server or VM if for some reason you are unable to run sudo shutdown -r yourself.
+- Rebuild a server or VM keeping the same reservation and subnet assignment.
 
 To get help, please open a ticket to [our support team](https://techzone.ibm.com/help)
 
@@ -30,8 +30,6 @@ To get help, please open a ticket to [our support team](https://techzone.ibm.com
 
 [OpenShift offering information](IBM-On-premise-Runbooks/openshift.md)
     
-[OpenShift Multi-Tenant offering information](IBM-On-premise-Runbooks/openshift-mt.md)
-
 [IBM z/OS offering information](IBM-On-premise-Runbooks/ibm-zos.md)
 
 [IBM Spectrum Discover offering information](IBM-On-premise-Runbooks/spectrum-discover.md)
