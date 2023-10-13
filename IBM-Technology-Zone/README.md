@@ -242,6 +242,8 @@
 
 [Search Filter Logic](IBM-Technology-Zone-Runbooks/itz-filter-logic.md)  :white_check_mark:  
 
+[Content Metrics](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md) ✅
+
 ## Skytap
 
 [Skytap Automatic Shutdown/Suspend](https://github.com/IBM/itz-support-public/blob/main/Skytap/Skytap-Runbooks/skytap-autoshutdown.md)  :white_check_mark:  
