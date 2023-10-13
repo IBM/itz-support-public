@@ -24,7 +24,7 @@ Environment - An environment is a running infrastructure that can include pre-in
 
 * NOTE: If the environment failes, a metric will not be captured.  
 
-![collection metrics all](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/collection-metrics-all.png)
+![collection metrics all](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/collection-metrics-all.png)
 
 ### Content Metric Dashboard Definitions
 
@@ -63,7 +63,7 @@ Persona - The persona of the user visiting your collection. Options include: IBM
 
 * NOTE: User persona can be an IBMer or Business Partner that we legally can not capture their persona based on their personal cookie preferences. 
 
-![main dashboard filters](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/main-filters.png)
+![main dashboard filters](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/main-filters.png)
 
 ### Additional Dashboard Filters
 
@@ -73,7 +73,7 @@ Filter by Year - Select the year directly on the report to show metrics for the 
 
 Filter by Month - Select a specific month on the report to show metrics for that specific month. Notice that the totals for page views, unique users, or click events for example will update based on the specific month that you selected.
 
-![additional filters](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/additional-filters.png)
+![additional filters](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/additional-filters.png)
 
 
 ### **Digital Registry**
@@ -85,14 +85,14 @@ IBM Technology Zone leverages Segment for page view and click event metrics. Eve
 
 As of now, access is provided for IBMers directly on the Help page. We can not provide the link directly on this runbook as it should only be shared and accessible to IBMers at this time. 
 
-![help metrics](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/help-content-metrics.png)
+![help metrics](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/help-content-metrics.png)
 
 
 ## Page Views Report
 
 To get started reporting on page views for your collection page, select the Page Views report tab. By default opening up this report will display metrics for all IBM Technology Zone collection page views. 
 
-![page views report](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/page-views-report.png)
+![page views report](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/page-views-report.png)
 
 
 **Collection Page View Report**
@@ -111,14 +111,14 @@ Once you have applied your collection filter to see overall collection page view
 
 Find the collection ID filter in the top right hand banner to display collection page view metrics as shown in screenshot below. Then select the Journey name to further filter on page views by journey on the collection initially filtered. 
 
-![journey page views report](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/journey-pageviews-report.png)
+![journey page views report](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/journey-pageviews-report.png)
 
 
 ## Click Events Report
 
 To get started reporting on click events associated with the Journeys and Resources on your collection page, select the Clieck Events report tab. By default opening up this report will display metrics for all IBM Technology Zone collection page click events. 
 
-![click events report](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/click-events-report.png)
+![click events report](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/click-events-report.png)
 
 **Journey Click Events Report**
 
@@ -128,7 +128,7 @@ To see your specific Journey click events associated to your collection page, na
 
 Find the collection ID filter in the top right hand banner to display collection specific click event metrics as shown in screenshot below. Then select the Journey name to further filter on the click events associated with the specific journey selected.
 
-![journey click events](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/journey-click-events-report.png)
+![journey click events](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/journey-click-events-report.png)
 
 * NOTE: Fewer clicks on Journeys compared to Journey page views might indicate users are being shared the URL directly and not clicking the Journey tab on the collection page. 
 
@@ -142,7 +142,7 @@ This report is still in progress. We appreciate your patience as we work through
 
 To get started reporting on reservations associated with the environments on your collection page, select the Reservations report tab. By default opening up this report will display metrics for all IBM Technology Zone reservations. 
 
-![reservations report](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/reservations-report.png)
+![reservations report](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservations-report.png)
 
 **Collection Reservations Report** 
 
@@ -156,7 +156,7 @@ This report can be found from the "Reservations" report tab.
 
 To see all reservations made on a specific environment on your collection, filter by collection ID or collection name to start. Once this filter is applied, further select the environment name from the list that you would like to see reservations for a specific environment. 
 
-![environment reservations report](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/environment-reservations-report.png)
+![environment reservations report](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/environment-reservations-report.png)
 
 ## Troubleshooting Guide
 
@@ -172,17 +172,8 @@ If your collection or journey has been published and the resource was made avail
 
 * Navigate to the [Explore URLs](https://digitalregistry.wdc1a.cirrus.ibm.com/#explore_urls/check_urls) tab and enter the full URL of the collection URL or specific journey URL into the **Paste URLS here, one per line:** field. Then click the 'Submit' button.
 
-![digital registry url check](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/images/digital-registry-url-check.png)
+![digital registry url check](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/digital-registry-url-check.png)
 
 * If results display below the Submit button with the URL that you entered and the Site ID IBM_DTE, then your URL has been successfully added to Digital Registry. Open a Support case with the IBM Technology Zone team to further investigate why metrics are not displaying correctly on the Content Metrics Dashboard. 
 
 * If results do not display then this URL must be submitted to Digital Registry and metrics will not be captured until it has been submitted. Open a Support case with the IBM Technology Zone team and provide the collection URL and/or the journey URL to be submitted to Digital Registry. Please allow up to one week as this is a manual process to submit URLs to Digital Registry. 
-
-
-## ADMIN - Support team
-
-Users that open a support case providing a collection URL or journey URL to be added to digital registry, open a git issue in the support escalation repostiory and assign label "Metrics Squad" and assign Siah. Follow up with the user that the request has been sent to our metrics owner and that we will notify them when the URL has been added. Please allow up to 5 business days for a URL to be submitted as this is a manual process to upload URLs to Digital Registry. 
-
-If content owners are asking for the URL to the content metrics dashboard, ensure they are an IBMer and then share the following link with this runbook. 
-IBMer ONLY Content Metrics Dashboar URL - ibm.biz/itz-content-metrics
-Another option is to navigate them to the support page as described above in this runbook on how to get access. 
