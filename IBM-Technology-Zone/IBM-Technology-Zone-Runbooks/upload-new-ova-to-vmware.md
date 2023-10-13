@@ -1,7 +1,7 @@
 # Upload new OVA/OVF files to VMware in Techzone 
 This will guide you through the steps to upload your new OVA/OVF files for your environment to the VMware on IBM Cloud infrastructure. <br>
 
-# SUPPORT DETAILS:
+## SUPPORT DETAILS:
 TechZone Help:  https://techzone.ibm.com/help<br>
 Under "How can we help?" on right side, look for:  "Site issues - Open a case or Email: techzone.help@ibm.com"<br>
 
@@ -10,7 +10,7 @@ Link to open Support Case:  https://ibmsf.my.site.com/ibminternalproducts/s/crea
 Procedure on how to open a Support Case:<br>
 https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md <br>
 
-# PREREQS: 
+## PREREQS: 
 NOTE: User need (1) Template Builder Reservation created and (2) the OVA/OVF files and ISO files (If needed):
 
 (1) User will need a Template Builder reservation provisioned beforehand which will be used to upload the OVA/OVF and ISO (if needed) files to VMware in TechZone.<br>
@@ -31,12 +31,12 @@ a. OVA/OVF files (example Use VMware Fusion to export a VM image to OVA/OVF or u
   NOTES: OVA - a single compressed and zipped file and OVF - individual files<br>
 b.ISO file (if needed with your OVA/OVF when prompted for uploading to TechZone) <br>
   
-# REFERENCES:
+## REFERENCES:
 Deploy and Export OVF and OVA Templates<br>
 https://docs.vmware.com/en/VMware-vSphere/8.0/vsphere-vm-administration/GUID-AFEDC48B-C96F-4088-9C1F-4F0A30E965DE.html
 
-# PROCEDURE:
-## 1. In TechZone, access your Template Builder reservation 
+## PROCEDURE:
+### 1. In TechZone, access your Template Builder reservation 
 https://techzone.ibm.com/dashboard<br>
 
 Click on pulldown "My library" -> "My Reservations"<br>
@@ -48,7 +48,7 @@ Click on Blue box with Arrow to View<br>
 Click on blue box "Open your IBM Cloud environment"<br>
 ![OVA3](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA3.jpeg)
 
-## 2. **Login to your environment in VMware** 
+### 2. **Login to your environment in VMware** 
 -Click on "Remote Desktop" to access your environment in VMware<br>
 ![OVA4](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA4.jpeg)
 
@@ -91,7 +91,7 @@ Click on blue box "Open your IBM Cloud environment"<br>
 ![OVA28](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA28.jpeg)
 
 
-## 3. **Upload the OVA/OVF files to vSphere**
+### 3. **Upload the OVA/OVF files to vSphere**
 - Right click on template folder, Select "Deploy OVF Template"<br>
 ![OVA9](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA9.jpeg)
 
@@ -135,7 +135,7 @@ NOTE: If get permission errors, notify VMware Admin to check permissions.<br>
 ![OVA24](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA24.jpeg)
 
 
-## 4. **Upgrade vSphere compatibility**
+### 4. **Upgrade vSphere compatibility**
 Right Click on the VM Template file, Select "Compatibility" -> Select "Upgrade VM Compatibility" <br>
 ![OVA29](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA29.jpeg)
 
@@ -146,7 +146,7 @@ Click "YES"
 ![OVA31](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA31.jpeg)
 
 
-## 5. **Clone your VM to Template, right click the vm, select Clone, clone to template**
+### 5. **Clone your VM to Template, right click the vm, select Clone, clone to template**
 Right Click on VM -> Select "Clone" -> Select "Clone to Template"<br>
 ![OVA32](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA32.jpeg)
 
@@ -163,7 +163,7 @@ Review and Click "FINISH"<br>
 ![OVA36](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA36.jpeg)
 
 
-## 6. **To test your migration **Create Techzone environment**, please create your own collection and follow the exact same steps.
+### 6. **To test your migration **Create Techzone environment**, please create your own collection and follow the exact same steps.
 Edit Your Collection: https://techzone.ibm.com/collection/YOURCOLLECTION
 
 Sample Settings for Account pool , Cloud Account, Geo , Region, Datacenter :<br>
@@ -200,12 +200,12 @@ Example of a vm_map_string: <br>
 Published Services variables (if adding ports to be exposed as publish services, add port variable to the vm_map_string):<br>
 https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwarePublishedServices.md<br>
 
-## 7. Once all these are completed create a **Test reservation**, if testing is successful next steps is production roll out
+### 7. Once all these are completed create a **Test reservation**, if testing is successful next steps is production roll out
 1. Go to https://techzone.ibm.com <br>
 2. Find your collection<br>
 3. Create a reservation to test your template<br>
 
-## 8. For **Production rollout** your VM folder _(vm_template_id)_ in "templates-shared" needs to be copied to "templates" (production folder). This can only be completed by admins
+### 8. For **Production rollout** your VM folder _(vm_template_id)_ in "templates-shared" needs to be copied to "templates" (production folder). This can only be completed by admins
 
 Procedure on how to create a collection:<br>
 https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection
