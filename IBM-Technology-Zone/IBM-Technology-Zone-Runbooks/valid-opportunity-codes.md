@@ -71,6 +71,23 @@ There are two ways to find this unique ID.
 ![step 3 relationship id](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/step3relationship%20id.png)
 
 
+## Technology Expert Labs Project Work ID (Clarizen)
+
+IBMers in Technology Expert Labs can provide a valid Project Work ID through their Resource Deployment Manager as a validation code on an IBM Technology Zone reservation form. Similar to how Technical Sellers provide an IBM Sales Cloud opportunity code and Customer Success Managers provide a Gainsite Relationship ID, now we support Expert Labs team with Project Work IDs that can be found in Clarizen. This ID corresponds to the code IBMers use when claiming time against (billable) client project during delivery. IBMer ONLY - Reference [Technology Expert Labs Environments](https://w3.ibm.com/w3publisher/customer-success-and-tech-expert-labs/how-we-learn/lab-environments) W3 page for more information non this integration and how we are supporting Expert Labs team with validating Project Work IDs.
+
+What is a valid Project Work ID:
+- Project Work ID exists in Clarizen from an IBMer in Technology Expert Labs
+- Existing Project Work IDs are valid as well as using an ID they are no longer working on to prepare for another client
+
+**NOTE:** Clients or client projects are not billed for the use of resources on IBM TechZone by Technology Expert Labs IBMers using a Project Work ID.
+
+For support on how to identify a Project Work ID, contact the Technology Expert Labs Team for support and guidance: [#ww-technology-expertlabs](https://ibm-cloud.slack.com/archives/C04JH4G3DSL)
+
+Additional supporting resources regarding this integration:
+
+- Clarizen Portal: https://app2.clarizen.com/Clarizen
+- Clarizen W3 Page for support with additional support documentation regarding [Project Process](https://w3.ibm.com/w3publisher/clarizen/training/daily-users-pm-ops-rdms/project-process) with helpful training videos as well. 
+
 ## Invalid errors with actionable next steps
 
 'Not Found' Error: 
