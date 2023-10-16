@@ -17,6 +17,5 @@ To redeploy an environment:
 
 ### Support
 
-IBMers - use the [#itz-workshop-support](https://ibm-techzone.slack.com/archives/CTA2MV9AM) slack channel
-
+IBMers - Click [here](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) to log a Support case 
 For any questions, contact ITZ support - techzone.help@ibm.com
