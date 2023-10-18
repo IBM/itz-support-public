@@ -8,7 +8,7 @@ You own an environment that was used at a TechXchange event and you would like t
 
 1. You need to have a Collection in order to migrate your environment. 
     -  - If you already have a existing collection on TechZone, proceed to step 2. 
-       - If you don't already have one, use the following instructions. To create your own collection, see ["How to Create a Collection"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection). Have the new Collection reviewed my mbawa@us.ibm.com before proceeding to step 2.
+       - If you don't already have one, use the following instructions. To create your own collection, see ["How to Create a Collection"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection). Have the new Collection reviewed by mbawa@us.ibm.com before proceeding to step 2.
      
 2. Reach out to TechZone support team by [opening a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or by email [techzone.help@ibm.com](techzone.help@ibm.com) to request your lab to be migrated to TechZone. Provide the following details in your request: 
     -  -  The Collection name and direct URL link to the collection.
