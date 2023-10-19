@@ -95,9 +95,9 @@ Here is an example of multiple nested collections on this main collection: [Clou
 
 In this runbook we will walk through the required fields to submit a simple collection quickly on IBM Technology Zone!
 
-1. Select the 'Share your content' button right from the home page.
+1. Select the 'Contribute your content' button right from the home page.
 
-![Share your content button](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/share%20your%20content%20button.png)
+![Share your content button](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/tz-content-create-collection.png)
 
 2. Please read and agree to the "Content Contributor Guidelines"
 This will inform you of each content owner badge service level agreement that you must agree to before contributing to IBM Technology Zone. 
@@ -568,7 +568,7 @@ What does a journey look like on a collection?
 
 * Reference [Cloud Pak for Data collection](https://techzone.ibm.com/collection/cloud-pak-4-data) as an example.
 
-![Collection journey example screenshot](Images/collection%20journey%20example%20screenshot.png)
+![Collection journey example screenshot](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/journeys-homepage.png)
 
 * Each tab is a journey specified and created by the content owner to help drive a particular engagement or activity.
 * Each journey will have its own set of resources that align based on the content owners intent of the journey
