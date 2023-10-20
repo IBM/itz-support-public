@@ -90,6 +90,11 @@ To accept the invitation, either navigate to the email you should receive within
 The AWS access key error indicates that your COS instance was deleted. The COS instance is deleted either by reservation expiry or user deletion. To resolve, you must create a fresh reservation and re-associate the new COS instance with project.
 
 
+## Why can't I create a COS instance?
+I shared my reservation with a user but they cannot create a COS instance, how can a shared user create a COS instance? Shared users shouldn’t be creating a new COS instance, they should be using the COS instance that came with the reservation. 
+
+This might occur if the COS instance has been deleted, the reservation becomes unusable because all the services might have been deleted. A new reservation must be created.
+
 ## (Optional) Backing up a project
 To back up projects before reservation expires so that you do not lose projects on a dedicated account, you must specify the value of the "_Default install of dedicated services (customer poc), or use shared services? Note that dedicated services include the COS instance that will get destroyed
 with your project data upon expiry, so be sure to export your projects as needed when choosing dedicated._" field.
