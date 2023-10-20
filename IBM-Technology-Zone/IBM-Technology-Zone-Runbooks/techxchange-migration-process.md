@@ -14,6 +14,15 @@ You own an environment that was used at a TechXchange event and you would like t
     -  -  The Collection name and direct URL link to the collection.
        -  The Session ID.
 
+>  _**DISCLAIMER:** Please be aware of the following steps that are taken before the template transfer can proceed:_
+> 
+>  _* ISOs associated with the source template will be unmounted._
+> 
+> _* Snapshots associated with the source template will be deleted._
+> 
+> _The Aspera automation that does the template transfer tends to fail unless the above steps are taken._
+> _If this process is disruptive to your template, please communicate with Support so we can determine other available options._
+
 3. The TechZone support team will respond back with a text file and a link to Onboarding Environment to a Collection (next section) for you to take next steps for onboarding your environment onto TechZone.
 
 
@@ -27,7 +36,7 @@ The text file the TechZone support team will provide you is the following:
 > 
 > vm_template_folder
 > 
-> vm_map_string
+> vm_map_string - CONTENT AUTHOR TO BUILD OUT BASED ON STEPS PROVIDED BELOW IN ONBOARDING GUIDE
 > 
 > vm_subnet
 > 
@@ -35,6 +44,7 @@ The text file the TechZone support team will provide you is the following:
 > 
 > vm_domain
 > 
+
 Follow guidance below to ensure that you copy and paste this information correctly into the environment entry. 
 
 1. Navigate to your collection and select edit: https://techzone.ibm.com/my/collections?StatusFilter=%5B%22Active%22%2C%22Draft%22%2C%22Pending+Approval%22%5D
