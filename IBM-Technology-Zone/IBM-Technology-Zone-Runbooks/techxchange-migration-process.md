@@ -97,6 +97,11 @@ Follow guidance below to ensure that you copy and paste this information correct
 
         - Select vm_map_string from pulldown and add the New value and Click on the + icon
 
+            * Follow guidance on how to build out map string variable by referencing [Step 6 of Upload OVA to VMWare Runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/upload-new-ova-to-vmware.md#6-to-test-your-migration-create-techzone-environment-please-create-your-own-collection-and-follow-the-exact-same-steps). 
+            * Follow guidance on how to build out map string for an image by referencing the [Published Services runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwarePublishedServices.md). 
+
+
+
         - Select vm_subnet from pulldown and add the New value and Click on the + icon
 
         - Select vm_router_ip from pulldown and add the New value and Click on the + icon
