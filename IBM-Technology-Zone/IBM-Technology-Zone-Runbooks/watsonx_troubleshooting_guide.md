@@ -66,6 +66,9 @@ If you are running into issues sharing a project or a user is not able to view a
 
 2. Support will check if you have the access policy called "All Account Management Services".
 
+*NOTE: Access to All Account Management Service access is IBM ONLY applicable*
+
+
 3. If you are not already assigned to that group, the support team will add you, then you can attempt sharing again.
 
 ## Why can't I access IBM Cloud?
