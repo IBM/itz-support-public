@@ -71,22 +71,28 @@ There are two ways to find this unique ID.
 ![step 3 relationship id](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/step3relationship%20id.png)
 
 
-## Technology Expert Labs Project Work ID (Clarizen)
+## Technology Expert Labs Project Work ID
 
-IBMers in Technology Expert Labs can provide a valid Project Work ID through their Resource Deployment Manager as a validation code on an IBM Technology Zone reservation form. Similar to how Technical Sellers provide an IBM Sales Cloud opportunity code and Customer Success Managers provide a Gainsite Relationship ID, now we support Expert Labs team with Project Work IDs that can be found in Clarizen. This ID corresponds to the code IBMers use when claiming time against (billable) client project during delivery. IBMer ONLY - Reference [Technology Expert Labs Environments](https://w3.ibm.com/w3publisher/customer-success-and-tech-expert-labs/how-we-learn/lab-environments) W3 page for more information non this integration and how we are supporting Expert Labs team with validating Project Work IDs.
+IBMers in Technology Expert Labs can provide a valid Project Work ID through their Resource Deployment Manager as a validation code on an IBM Technology Zone reservation form. Similar to how Technical Sellers provide an IBM Sales Cloud opportunity code and Customer Success Managers provide a Gainsite Relationship ID, now we support those that work with Expert Labs team with Project Work IDs that are provided by Resource Deployment Managers (RDM) or in some cases by Delivery Managers. This Project Work ID RDMs provide correspond to the code IBMers use when claiming time against (billable) client project during delivery. 
 
-What is a valid Project Work ID:
-- Project Work ID exists in Clarizen from an IBMer in Technology Expert Labs
-- Existing Project Work IDs are valid as well as using an ID they are no longer working on to prepare for another client
+**What is a valid Project Work ID and where to find it?**
 
-**NOTE:** Clients or client projects are not billed for the use of resources on IBM TechZone by Technology Expert Labs IBMers using a Project Work ID.
+Project Work ID which you are using to register hours in TIME@IBM you can use to get an access to IBM Technology Zone.
 
-For support on how to identify a Project Work ID, contact the Technology Expert Labs Team for support and guidance: [#ww-technology-expertlabs](https://ibm-cloud.slack.com/archives/C04JH4G3DSL)
+1. Navigate to TIME @ IBM:  https://time.ibm.com/week
 
-Additional supporting resources regarding this integration:
+2. Find the Claim ID in TIME and use the code assigned to your project to reserve a TechZone environment. 
 
-- Clarizen Portal: https://app2.clarizen.com/Clarizen
-- Clarizen W3 Page for support with additional support documentation regarding [Project Process](https://w3.ibm.com/w3publisher/clarizen/training/daily-users-pm-ops-rdms/project-process) with helpful training videos as well. 
+![technology-expert-labs](Images/technology-expert-labs.png)
+
+**NOTE: Clients or client projects are not billed for the use of resources on IBM TechZone by Technology Expert Labs IBMers using a Project Work ID. Additionally, be aware that existing Project Work IDs are valid as well as using an ID they are no longer working on to prepare for another client.
+**
+
+**Additional support guidance:**
+- IBMer Announcement - Reference Technology Expert Labs Environments W3 page for more information on this integration.
+
+- For support on how to identify a Project Work ID, contact the Technology Expert Labs Team for support and guidance: [#ww-technology-expertlabs](https://ibm-techzone.slack.com/archives/C04JH4G3DSL)
+
 
 ## Invalid errors with actionable next steps
 
