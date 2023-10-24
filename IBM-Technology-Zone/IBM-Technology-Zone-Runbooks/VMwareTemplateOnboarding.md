@@ -1,4 +1,10 @@
 # VMware template onboarding to Production
+This runbook contains steps to complete Template onboarding for VMware template for TechZone. 
+
+> Kindly note it takes 48 - 72 hours to complete, please plan accordingly
+
+[VMware template onboarding from "Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md#vmware-template-onboarding-from-template-to-collection)
+[VMware template onboarding from "templates-shared"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md#vmware-template-onboarding-from-templates-shared)
 
 There are two ways to have your template onboarded to production
 1. By Providing the vm_template_id name from your [Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md) environment. (Follow this step if you are making updates from a reservation)
