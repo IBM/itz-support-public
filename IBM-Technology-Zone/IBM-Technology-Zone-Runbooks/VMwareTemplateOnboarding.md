@@ -3,15 +3,16 @@ This runbook contains steps to complete Template onboarding for VMware template 
 
 > Kindly note it takes 48 - 72 hours to complete, please plan accordingly
 
-[VMware template onboarding from "Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md#vmware-template-onboarding-from-template-to-collection)
-[VMware template onboarding from "templates-shared"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md#vmware-template-onboarding-from-templates-shared)
-
 There are two ways to have your template onboarded to production
 1. By Providing the vm_template_id name from your [Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md) environment. (Follow this step if you are making updates from a reservation)
 
 2. By Providing template name in folder templates-Shared (Applicable ONLY to Authors that completed Skytap migrations and have access to templates-shared folder in vcenter or Template builder access)
 
   All templates need to be onboarded correctly to ensure user environment provisioning do not fail. Follow steps listed below.
+
+ - [VMware template onboarding from "Template to collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md#vmware-template-onboarding-from-template-to-collection)
+
+- [VMware template onboarding from "templates-shared"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareTemplateOnboarding.md#vmware-template-onboarding-from-templates-shared)
 
 ## VMware template onboarding from "Template to collection"
 Now that your Template has been successfully created it needs to be onboarded before you can update your environment configuration setting follow directions to get this completed.
