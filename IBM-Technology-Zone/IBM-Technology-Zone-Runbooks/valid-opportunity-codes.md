@@ -1,10 +1,19 @@
 # Valid Opportunity Codes to Input on Reservation Form
 
+## Summary
 This runbook will highlight what opportunity codes are valid and what systems/portals we work with to validate an opportunity code when users are making a reservation from IBM Technology Zone.
 
 **IMPORTANT: We sync new IBM Sales Cloud and Gainsite opportunity codes and relationship IDs every three hours. If you input an opportunity code or relationship ID that was just created in ISC or Gainsite, then please wait approximately 24 hours for our opportunity table to update with your newly create opportunity code.**
 
-Example of Reservation form and the opportunity code field:
+## Table of Contents
+
+- [What is a Valid Sales Opportunity number]()
+- [IBM Sales Cloud (ISC) Opportunity codes](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md#ibm-sales-cloud-isc-opportunity-codes)
+- [Gainsite Relationship ID (Customer Success Managers CRM)](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md#gainsite-relationship-id-customer-success-managers-crm)
+- [Technology Expert Labs Project Work ID](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md#technology-expert-labs-project-work-id)
+- [Invalid Errors with Actionalble Next Steps](https://github.com/IBM/itz-support-public/edit/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md#invalid-errors-with-actionable-next-steps)
+
+## Example of Reservation form and the opportunity code field
 
 Selecting one of the following purposes will require a valid opportunity code: Customer Demo, Proof of Concept, Proof of Technology.
 
