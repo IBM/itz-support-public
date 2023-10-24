@@ -7,7 +7,7 @@ This runbook will highlight what opportunity codes are valid and what systems/po
 
 ## Table of Contents
 
-- [What is a Valid Sales Opportunity number]()
+- [What is a Valid Sales Opportunity number](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md#example-of-reservation-form-and-the-opportunity-code-field)
 - [IBM Sales Cloud (ISC) Opportunity codes](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md#ibm-sales-cloud-isc-opportunity-codes)
 - [Gainsite Relationship ID (Customer Success Managers CRM)](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md#gainsite-relationship-id-customer-success-managers-crm)
 - [Technology Expert Labs Project Work ID](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md#technology-expert-labs-project-work-id)
