@@ -1,0 +1,37 @@
+# Shared Responsibility Models
+
+The Shared Responsibility Model is a security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment, including hardware, infrastructure, endpoints, data, configurations, settings, operating system (OS), network controls and access rights.
+
+In its simplest terms, the Shared Responsibility Model dictates that the cloud provider—such as Amazon Web Service (AWS), Microsoft Azure, or Google Cloud Platform (GCP)—must monitor and respond to security threats related to the cloud itself and its underlying infrastructure. Meanwhile, end users, including individuals and companies, are responsible for protecting data and other assets they store in any cloud environment.*
+
+## IBM Cloud
+
+### IBM Cloud Shared Responsibility Model [link](https://cloud.ibm.com/docs/overview?topic=overview-shared-responsibilities)
+
+In IBM Cloud®, as is the case for other cloud service providers, the responsibilities for managing the lifecycle of, operating, and securing products are shared between IBM® and the customer.
+
+The responsibility of completing the following types of tasks on various products can be exclusive to IBM, the customer, or shared between the two. The tasks for each type of product are grouped in the following categories:
+
+    Incident and operations management: Includes tasks such as monitoring, event management, high availability, problem determination, recovery, and full state backup and recovery.
+    Change management: Includes tasks such as deployment, configuration, upgrades, patching, configuration changes, and deletion.
+    Identity and access management: Includes tasks such as authentication, authorization, access control policies, and approving, granting, and revoking access.
+    Security and regulation compliance: Includes tasks such as security controls implementation and compliance certification.
+    Disaster recovery: Includes tasks such as providing dependencies on disaster recovery sites, provision disaster recovery environments, data and configuration backup, replicating data and configuration to the disaster recovery environment, and failover on disaster events.
+
+
+### TechZone security Activities
+
+1. Whitelist the account for services
+2. Add a logdna instance to the account
+3. Add an activity tracker instance.
+4. Onboard a designated Account Owner
+5. Close the account when activity is over.
+
+### Customer Team Responsibilities
+
+Designated Account Owner is responsible for further onboarding of team members
+
+Customer Team is responsible for further security of applications and data running the cloud account.
+
+
+* [Crowdstrike.com](https://www.crowdstrike.com/cybersecurity-101/cloud-security/shared-responsibility-model/)
