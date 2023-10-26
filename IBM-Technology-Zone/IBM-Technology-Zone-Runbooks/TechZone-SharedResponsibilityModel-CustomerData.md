@@ -49,4 +49,7 @@ As part of provisioning, TechZone will:
 Designated Account Owner is responsible for further onboarding of team members and security of the Demo services, applications and data.
 
 
-* [Crowdstrike.com](https://www.crowdstrike.com/cybersecurity-101/cloud-security/shared-responsibility-model/)
+
+---
+
+- [SM Ref from Crowdstrike.com](https://www.crowdstrike.com/cybersecurity-101/cloud-security/shared-responsibility-model/)
