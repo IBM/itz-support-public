@@ -6,8 +6,7 @@ In its simplest terms, the Shared Responsibility Model dictates that the cloud p
 
 # Customer Data on TechZone and Shared Responsibility Model
 
-TechZone supports some classifications of customer data without need for further approvals as detailed on the [Customer D
-ata Document](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Customer-data%20on%20TechZone.md)
+TechZone supports some classifications of customer data without need for further approvals as detailed on the [Customer Data Runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Customer-data%20on%20TechZone.md).
 
 
 ## IBM Cloud Environments
@@ -27,12 +26,12 @@ The responsibility of completing the following types of tasks on various product
 
 ### TechZone Security Terms and Conditions
 
-TechZone users must adhere to [terms and conditions(https://techzone.ibm.com/terms)], [Content contributor Guidelines](https://techzone.ibm.com/terms/contributor), and [end user security policies](https://techzone.ibm.com/terms/securitypolicy).
+TechZone users must adhere to [terms and conditions](https://techzone.ibm.com/terms)], [Content contributor Guidelines](https://techzone.ibm.com/terms/contributor), and [end user security policies](https://techzone.ibm.com/terms/securitypolicy).
 
 
 ### TechZone Provisioning and account access responsibilities
 
-Client facing reservations (purpose: Customer Demo, Proof of Technology) with customer data will be provisioned in dedicated infrastructure to ensure a secure environment for supported customer data classifications as listed in the customer data runbook.
+Client facing reservations (purpose: Customer Demo, Proof of Technology) with customer data will be provisioned in dedicated infrastructure to ensure a secure environment for supported customer data classifications as listed in the [customer data runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Customer-data%20on%20TechZone.md).
 
 As part of provisioning, TechZone will: 
 
