@@ -26,7 +26,7 @@ The responsibility of completing the following types of tasks on various product
 
 ### TechZone Security Terms and Conditions
 
-TechZone users must adhere to [terms and conditions](https://techzone.ibm.com/terms)], [Content contributor Guidelines](https://techzone.ibm.com/terms/contributor), and [end user security policies](https://techzone.ibm.com/terms/securitypolicy).
+TechZone users must adhere to [terms and conditions](https://techzone.ibm.com/terms), [Content contributor Guidelines](https://techzone.ibm.com/terms/contributor), and [end user security policies](https://techzone.ibm.com/terms/securitypolicy).
 
 
 ### TechZone Provisioning and account access responsibilities
