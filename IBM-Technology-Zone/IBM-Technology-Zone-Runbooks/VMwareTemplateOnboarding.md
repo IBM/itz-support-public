@@ -132,7 +132,7 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
 
 **NOTES:** Only templates onboarded by the IBM Technology Zone Support Team is accepted as a Production Templates.
 
-Production Templates are admin owned VMs for environments defined within an enabled collection and stored in folder named **templates** (following steps for Template-shared) or **templates-user** (following steps for Template to collection)
+Production Templates are admin owned VMs for environments defined within an enabled collection and stored in folder named **templates** (following steps for Template-shared using Template Builder) or **templates-user** (following steps for Template to collection)
 
 
 
