@@ -13,7 +13,9 @@ Example of an IBM Cloud environment that can be requested to be enabled for work
 Examples of environment types that are not currently supported for workshops include: Systems, Systems 2, Managed OpenShift (ROKS), AWS, and Azure.
 
 
-Step 2: After validating the environment can be enabled, contact IBM Technology Zone support team via Slack [#itz-workshop-support](https://ibm-dte.slack.com/app_redirect?channel=itz-workshop-support) channel. Please provide the following information in the request:
+Step 2: After validating the environment can be enabled, contact IBM Technology Zone support team, https://ibm.biz/itzsupport. Please provide the following information in the request:
+
+Subject: Test Environment 
 
 - Date(s)which you can dedicate to help validate and test the environment through the workshop manager request process and tool. 
 
@@ -25,15 +27,16 @@ Step 2: After validating the environment can be enabled, contact IBM Technology 
 
 This information will help the support team identify which environment to enable and coordinate with you to help test the environment. 
 
-Step 3: Once a date is established for testing, the support team will enable workshop requests for the environment the morning of the specified testing date. Contact IBM Technology Zone support team if you do not see the workshop request option when selecting to reserve the environment. The workshop request process will look like the following screenshot. If you need help understanding how to get to the reservation form, reference the [How to schedule a workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md) documentation for support. 
+Step 3: Once a date is established for testing, the support team will enable workshop requests for the environment so you can schedule the specified testing date. Contact IBM Technology Zone support team if you do not see the workshop request option when selecting to reserve the environment. The workshop request process will look like the following screenshot. If you need help understanding how to get to the reservation form, reference the [How to schedule a workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md) documentation for support. 
 
 ![workshop request process](Images/workshoprequest.png)
 
 
 Step 4: Select **Schedule a workshop** option and click **submit**. 
 
-Step 5: Fill in additional information on workshop request form. Reference the right side pane through out each step of the request workshop form for additional support and guidance on how to effectively fill in the information being requested. If you have issues submitting the workshop request form, please notify the IBM
- Technology Zone support team. 
+Step 5: Fill in additional information on workshop request form. Reference the right side pane through out each step of the request workshop form for additional support and guidance on how to effectively fill in the information being requested. 
+> Ensure the workshop Titles includes "Test"
+If you have issues submitting the workshop request form, please notify the IBM Technology Zone support team. 
 
 ![Workshop form help](Images/workshophelp.png)
 
@@ -71,7 +74,7 @@ Please note that these tasks must be checked before officially enabling workshop
     - From the instructor page, locate the "environments" section towards the bottom of the page. 
     - Find the environment access URL and credentials from the environment drop down menu from the environment line item. 
 
-Step 8: After validating the above test cases, please notify the IBM Technology Zone of any issues you have along the way. The IBM Technology Zone team will work to address any found bugs as soon as possible and keep you updated along the way in case another day of testing is needed. The workshop request date can be extended if additional testing and validation is needed.
+Step 8: After validating the above test cases, please notify the IBM Technology Zone support team of any issues you have along the way. The IBM Technology Zone team will work to address any found bugs as soon as possible and keep you updated along the way in case another day of testing is needed. The workshop request date can be extended if additional testing and validation is needed.
 
 Step 9: Once all tests have successfully passed, the environment will be enabled for all IBMers to request a workshop. If you have additional feedback or ideas on how we can improve the workshop manager process or tool, please submit an enhancement request through our [IBM Technology Zone Aha enhancements portal](https://ibm.biz/techzone-enhancements) so our team can properly review and prioritize. 
 
@@ -85,6 +88,6 @@ VMWare on IBM Cloud workshops will not send an email inviting instructors or use
 
 ### Support
 
-IBMers - use the [#itz-workshop-support](https://ibm-techzone.slack.com/archives/CTA2MV9AM) slack channel
+IBMers - 
 
-For any questions, contact ITZ support - techzone.help@ibm.com
+For any questions, contact ITZ support https://ibm.biz/itzsupport, follow steps listed [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md)to create a support case
