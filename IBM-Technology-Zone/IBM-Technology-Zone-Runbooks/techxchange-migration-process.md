@@ -10,9 +10,9 @@ You own an environment that was used at a TechXchange event and you would like t
 1. You need to have a Collection in order to migrate your environment. 
     -  - If you already have a existing **Collection** on TechZone, proceed to step 2. 
        - If you don't have a Collection, following these instructions below:
-            - To create your own collection, first review TechZone [Guidance and Standards](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/techzone-content.md)
+            - To create your own collection, first review TechZone [Guidance and Standards](https://github.com/IBM/itz-support-public/blob/fc85f09311284f164fd4b49979bd9a27e5a8000f/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#L4)
            - Create a Collection - see ["How to Create a Collection"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection). 
-           - Add **Resources**- [How to Create a Resource](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,What%20is%20a%20Resource,-%3F), explaining the lab guide and as a Resource Document type
+           - Add **Resources**- [How to Create a Resource](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-resource-on-a-collection), explaining the lab guide and as a Resource Document type
            - Have the new Collection reviewed by mbawa@us.ibm.com before proceeding to step 2.
 
 > **TechXchange Instructor Collection Creation Guidance:**
