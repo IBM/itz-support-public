@@ -6,9 +6,22 @@
 You own an environment that was used at a TechXchange event and you would like to have migrated so others can make a reservation directly on TechZone. 
 
 
+
 1. You need to have a Collection in order to migrate your environment. 
-    -  - If you already have a existing collection on TechZone, proceed to step 2. 
-       - If you don't already have one, use the following instructions. To create your own collection, see ["How to Create a Collection"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection). Have the new Collection reviewed by mbawa@us.ibm.com before proceeding to step 2.
+    -  - If you already have a existing **Collection** on TechZone, proceed to step 2. 
+       - If you don't have a Collection, following these instructions below:
+            - To create your own collection, first review TechZone [Guidance and Standards](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/techzone-content.md)
+           - Create a Collection - see ["How to Create a Collection"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection). 
+           - Add **Resources**- [How to Create a Resource](https://github.ibm.com/dte-support/private/blob/master/itz/itz-runbooks/techzone-content.md#:~:text=Back%20to%20Top-,What%20is%20a%20Resource,-%3F), explaining the lab guide and as a Resource Document type
+           - Have the new Collection reviewed by mbawa@us.ibm.com before proceeding to step 2.
+
+> **TechXchange Instructor Collection Creation Guidance:**
+>
+> * New collections to be created only for the recent TechXchange assets, are encouraged to title the collection the same name used for the session so that those that attended can easily find the assets on TechZone. 
+>
+>* Collections should include the environment used for the TechXchange lab session and the Lab Guide as a supporting resource to accompany the environment.
+> 
+> Contact mbawa@us.ibm.com to review new collection before proceeding to step 2.
      
 2. Reach out to TechZone support team by [opening a case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) or by email [techzone.help@ibm.com](techzone.help@ibm.com) to request your lab to be migrated to TechZone. Provide the following details in your request: 
     -  -  The Collection name and direct URL link to the collection.
