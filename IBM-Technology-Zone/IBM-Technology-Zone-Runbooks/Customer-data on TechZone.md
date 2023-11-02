@@ -27,11 +27,18 @@ _**NOTE: Customer data environments need to go through Business Information Secu
 
 Additional information on IBM's PI/SPI Taxonomy can be found here: https://ibm.ent.box.com/s/pshzqj3lh38uqlwog6v602jea4tdc9qq
 
-The following environments are enabled to allow for supported customer data classifications on TechZone as of July 17th: 
+The following environments are enabled to allow for supported customer data classifications on TechZone: 
 
 • [TechZone Certified VMWare Offerings](https://techzone.ibm.com/collection/tech-zone-certified-base-images/journey-vmware-on-ibm-cloud-environments) (*excludes Windows)
 
 • [watsonx Assistant and watsonx Discovery SaaS Offerings](https://techzone.ibm.com/collection/hcpg-ce-patterns/journey-ibm-cloud-saa-s-patterns)
+
+• [TechZone Certified Base Images](https://techzone.ibm.com/collection/tech-zone-certified-base-images/journey-watsonx) - watsonx Environments - Ensure to select 'Dedicated' account option on reservation form when reserving with customer data
+
+• [Technology Patterns Customer Care Environments](https://techzone.ibm.com/collection/technology-patterns/journey-customer-care)
+
+• [Data, AI & Automation Demobuilder Environment](https://techzone.ibm.com/collection/data-ai--automation-demobuilder/environments)
+
 
 
 ## Customer Data Experience Updates
