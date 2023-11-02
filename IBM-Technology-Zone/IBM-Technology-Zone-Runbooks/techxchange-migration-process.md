@@ -49,7 +49,7 @@ The text file the TechZone support team will provide you is the following:
 > 
 > vm_template_folder
 > 
-> vm_map_string - CONTENT AUTHOR TO BUILD OUT BASED ON STEPS PROVIDED BELOW IN ONBOARDING GUIDE
+> vm_map_string - CONTENT AUTHOR TO UPDATE THE JSON STUB FILE PROVIDED BY TECHZONE SUPPORT
 > 
 > vm_subnet
 > 
