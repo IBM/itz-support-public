@@ -1,13 +1,14 @@
-Public Link: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareSetupCollectionVars.md
 # Add Environment variables/values to your Collection
 This will guide you through the steps to setup your environment using VMware on IBM Cloud infrastructure. <br>
 
-PREREQ:<br>
-1. Need a Collection created beforehand<br>
+### Prerequisites
+1. Need a Collection created beforehand, view the How to Create a Collection Runbook for more information on how to create a collection:
+
 https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection <br>
 
-2. Need to gather the following information from the Content author:<br>
-   hostname, IP addresses, VM startup order for the stage number, subnet, router IP,domain name, published ports (if needed)<br>
+2. Need to gather the following information from the Content author:
+
+   hostname, IP addresses, VM startup order for the stage number, subnet, router IP, domain name, published ports (if needed)
 
 ### 1. Build your vm-map-string for your Environment
 1. Use a text editor to view the provided Json stub file from TechZone Support (for example: TET-LABNUM-vm-map-string.json) <br>
@@ -41,7 +42,7 @@ https://www.jsonformatter.io/ <br>
 - If existing, click on the pencil icon on left to edit <br>
 ![EditCollection2](https://media.github.ibm.com/user/334015/files/4da19d2c-bb6e-4f12-8831-8585d3ebebed)
 
-4.For GitOps Pattern, use Pulldown menu to select vmware-template <br>
+4. For GitOps Pattern, use Pulldown menu to select vmware-template <br>
   and For Settings, use Pulldown menus to select Account Pool, Cloud Account, Geo, Region, Datacenter<br>
 ![EditCollection3](https://media.github.ibm.com/user/334015/files/c89aa560-81eb-481b-b1c4-47c8f539a0da)  <br>
 
