@@ -162,44 +162,9 @@ Select storage (Select storage with the template in the name) -> Click "NEXT"<br
 Review and Click "FINISH"<br>
 ![OVA36](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA36.jpeg)
 
+### 6. **To test your migration **Create Techzone environment**, please follow the steps in the VMwareSetupCollectionVars runbook.
 
-### 6. **To test your migration **Create Techzone environment**, please create your own collection and follow the exact same steps.
-Edit Your Collection: https://techzone.ibm.com/collection/YOURCOLLECTION
-
-Sample Settings for Account pool , Cloud Account, Geo , Region, Datacenter :<br>
-![OVA37](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA37.jpeg)
-
-Sample Network settings:<br>
-![OVA38](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA38.jpeg)
-
-Default Variables required:<br>
-- Infrastructure - where to deployed. For example "IBM Cloud"<br>
-- GitOps Patterns - Provisioning instructions - Select "vmware-template"<br>
-- Account pool - Location - Select the different locations (itzvmware), Cloud Account (itzvmware), Geo (Americas), Region (us-east), Datacenter (wdc04)<br>
-- vm_template_folder - parent folder name. For example "templates-shared"<br>
-- vm_template_id- the template folder name for the VMs<br>
-- vm_map_string - values for the VMs - make sure your VM Map string is correct, you can use any JSON validators like https://jsonlint.com/) <br>
-- vm_domain - Network domain for the VM<br>
-- vm_router_ip - Router for the VM<br>
-- vm_subnet - Subnet for the VM<br>
-
-Note: If you do not have custom Network requirements, use the defaults values below for the Network details:<br>
-Default vm_domain value is ibmdte.net<br>
-Default vm_router_ip value is 10.0.0.254<br>
-Default vm_subnet value is 10.0.0.0/24<br>
-
-Example of a vm_map_string: <br>
-{ 	"GKLM41-20230105": { 		"ip": "10.0.0.1", 		"hostname": "host-1", 		"stage": 1 	} }<br>
-"GKLM41-20230105" - Template file name<br>
-"ip": "10.0.0.1" - IP address for the VM<br>
-"hostname": "host-1" - Hostname for the VM<br>
-"stage": 1 - create and launch first (order to create a VM which has no dependency)<br>
-"stage": 2 - Optional if have more than 1 VM and there are dependencies: create and launch second (create after stage 1 has been created - dependent on stage 1 creation)<br>
-"stage": 3 - Optional if have more than 1 VM and there are dependencies: create and launch third (create after stage 2 has been created - dependent on stage 2 creation)<br>
-
-Published Services variables (if adding ports to be exposed as publish services, add port variable to the vm_map_string):<br>
-https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwarePublishedServices.md<br>
-
+To Add Environment variables/values to your Collection, please view the VMwareSetupCollectionVars runbook: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareSetupCollectionVars.md#add-environment-variablesvalues-to-your-collection
 ### 7. Once all these are completed create a **Test reservation**, if testing is successful next steps is production roll out
 1. Go to https://techzone.ibm.com <br>
 2. Find your collection<br>
