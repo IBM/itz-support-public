@@ -1,5 +1,5 @@
 # Add Environment variables/values to your Collection
-This will guide you through the steps to setup your environment using VMware on IBM Cloud infrastructure. <br>
+This runbook will guide you through how to build your vm-map-string for your VMware Environment on IBM Cloud infrastructure. <br>
 
 ### Prerequisites
 1. Need a Collection created beforehand, view the How to Create a Collection Runbook for more information on how to create a collection:
