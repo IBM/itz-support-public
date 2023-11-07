@@ -162,9 +162,9 @@ Select storage (Select storage with the template in the name) -> Click "NEXT"<br
 Review and Click "FINISH"<br>
 ![OVA36](/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/OVA36.jpeg)
 
-### 6. **To test your migration **Create Techzone environment**, please follow the steps in the VMwareSetupCollectionVars runbook.
+### 6. **To test your migration **Create Techzone environment**, please follow the steps in the VM-map-string-setup runbook.
 
-To Add Environment variables/values to your Collection, please view the VMwareSetupCollectionVars runbook: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareSetupCollectionVars.md#add-environment-variablesvalues-to-your-collection
+To Add Environment variables/values to your Collection, please view the VM-map-string-setup runbook: https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareSetupCollectionVars.md
 ### 7. Once all these are completed create a **Test reservation**, if testing is successful next steps is production roll out
 1. Go to https://techzone.ibm.com <br>
 2. Find your collection<br>
