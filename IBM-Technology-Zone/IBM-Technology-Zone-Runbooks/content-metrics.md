@@ -8,43 +8,43 @@ _**Note:** This runbook is for IBMer use only._
 
 ### 1. Before Getting Started
 
-- [General TechZone Content Definitions](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#general-techzone-content-definitions)
+- [General TechZone Content Definitions](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#general-techzone-content-definitions)
 
-- [Content Metric Dashboard Definitions](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#content-metric-dashboard-definitions)
+- [Content Metric Dashboard Definitions](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#content-metric-dashboard-definitions)
 
-- [Main Dashboard Filters](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#content-metric-dashboard-definitions)
+- [Main Dashboard Filters](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#content-metric-dashboard-definitions)
 
-- [Additional Dashboard Filters](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#additional-dashboard-filters)
+- [Additional Dashboard Filters](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#additional-dashboard-filters)
 
-- [Digital Registry](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#digital-registry)
+- [Digital Registry](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#digital-registry)
 
-- [Getting Access](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#getting-access)
+- [Getting Access](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#getting-access)
 
 ### 2. Reports
 
-- [Page Views Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#page-views-report)
+- [Page Views Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#page-views-report)
 
-- [Collection Page View Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#collection-page-view-report)
+- [Collection Page View Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#collection-page-view-report)
 
-- [Journey Page View Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#journey-page-view-report)
+- [Journey Page View Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#journey-page-view-report)
 
-- [Click Events Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#click-events-report)
+- [Click Events Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#click-events-report)
 
-- [Journey Click Events Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#journey-click-events-report)
+- [Journey Click Events Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#journey-click-events-report)
 
-- [Resource Click Events Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#resource-click-events-report)
+- [Resource Click Events Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#resource-click-events-report)
 
-- [Reservations Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#reservations-report)
+- [Reservations Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#reservations-report)
 
-- [Collection Reservations Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#collection-reservations-report)
+- [Collection Reservations Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#collection-reservations-report)
 
-- [Environment Reservations Report](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#environment-reservations-report)
+- [Environment Reservations Report](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#environment-reservations-report)
 
 ### 3. Troubleshooting
 
-- [How to resolve error "We cant retrieve the data from the dataset csv?"](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#how-to-resolve-error-we-cant-retrieve-the-data-from-the-dataset-csv)
+- [How to resolve error "We cant retrieve the data from the dataset csv?"](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#how-to-resolve-error-we-cant-retrieve-the-data-from-the-dataset-csv)
 
-- [Why is my collection, journey, or resource name not showing in the Page Views or Click Events reports?](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#why-is-my-collection-journey-or-resource-name-not-showing-in-the-page-views-or-click-events-reports)
+- [Why is my collection, journey, or resource name not showing in the Page Views or Click Events reports?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#why-is-my-collection-journey-or-resource-name-not-showing-in-the-page-views-or-click-events-reports)
 
 ## Before Getting Started
 
