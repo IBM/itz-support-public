@@ -8,9 +8,9 @@ _**Note:** This runbook is for IBMer use only._
 
 ### 1. Before Getting Started
 
-- [General TechZone Content Definitions](https://github.com/IBM/itz-support-public/blob/66955a10dec8a77f9bc04a74df96dafc640f662e/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#general-techzone-content-definitions)
+- [General TechZone Content Definitions](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#general-techzone-content-definitions)
 
-- [Content Metric Dashboard Definitions](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/content-metrics.md#content-metric-dashboard-definitions)
+- [Content Metric Dashboard Definitions](https://github.com/IBM/itz-support-public/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#content-metric-dashboard-definitions)
 
 - [Main Dashboard Filters](https://github.ibm.com/dte-support/private/blob/master/New-Runbooks/content-metrics.md#content-metric-dashboard-definitions)
 
