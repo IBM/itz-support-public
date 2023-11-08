@@ -121,7 +121,7 @@ _**NOTE:** Ensure that you press the "`add`" button, otherwise your inputted val
 
    - Select `vm_map_string` from pulldown and add the New value and Click on the + icon
 
--  Follow guidance on how to build out map string for an image by referencing the [How to Build your vm-map-string Runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareSetupCollectionVars.md). 
+-  Follow guidance on how to build out map string for an image by referencing the [How to Build your vm-map-string Runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/vm-map-string-setup.md). 
 
    - Select `vm_subnet` from pulldown and add the New value and Click on the + icon
 
