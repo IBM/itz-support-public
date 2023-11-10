@@ -95,7 +95,7 @@ _**NOTE:** `vmware-template` is for VMware only_
 
     - Select `itzvmware` from the dropdown menu under the the Cloud Account field
 
-    - Select `Any(preferred)` from the dropdown menu under the Geo field
+    - Select the relevant GEO, either `Americas`, `Europe` or `AP` from the dropdown menu under the Geo field
 
     - Select `Any(preferred)` from the dropdown menu the Region field
 
