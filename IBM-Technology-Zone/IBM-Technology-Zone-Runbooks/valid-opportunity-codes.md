@@ -107,6 +107,7 @@ Project Work ID which you are using to register hours in TIME@IBM you can use to
 
 BOSS is an internal application for IBM Systems Lab Services (now known as Systems Technology Expert Labs) that facilitates running the services-based business. The two major components of the application are Opportunity Management and Financial Management. So, when BOSS ID is being referred to, it is an opportunity ID inside BOSS.
 
+_**Note:** Only accepted BOSS IDs are active green revenue engagements with a valid WBS code. Cost recovery engagement IDs are currently not included._
 ### **Who has access to these BOSS IDs?**
 
 All Systems Technology Expert Labs should have access to the tool. But only certain consultants are assigned to the specific BOSS / Opportunity ID. BOSS URL is at [https://boss.limited-use.ibm.com/](https://boss.limited-use.ibm.com/). Login using your w3id credentials for access.
