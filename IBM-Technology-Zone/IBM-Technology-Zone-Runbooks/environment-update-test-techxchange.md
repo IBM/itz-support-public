@@ -54,40 +54,56 @@ This section is for lab developers that need to test the deployment and usabilit
 
 10. Select a preferred geography. Virtualized environments will only have one option to choose from. Non-Virtualized environments could offer one or more options. Choose the option in or closest to EMEA. 
 
-11. Select an end date and time. Ensure to select the full length of time needed to complete testing of this environment. This will be the date and time the environment is scheduled to be decommissioned. The next fields that display will be different depending on if the environment is virtualized or not. 
-Virtualized environments can optionally provide a student number. 
-Leverage this field as a test run count. For example, first reservation test input 001. For the second reservation test, if you need it, input 002.
-Non-virtualized environments, like watsonx.data SaaS, watsonx.ai SaaS, or a customer care gen ai environments: 
-Ensure to select Dedicated services if prompted. 
-Choose to enable Db2 or Watson Discovery if prompted and needed. 
-If there are other options for environments that are not for watsonx (what settings to select on the reservation form), please post questions to your lab Github issue (https://github.ibm.com/ITZ/TechX-24-Barcelona/issues. 
-Terms and Conditions: Agree to terms and conditions in the bottom right-hand corner of the reservation form to submit your reservation. 
+11. Select an end date and time. Ensure to select the full length of time needed to complete testing of this environment. This will be the date and time the environment is scheduled to be decommissioned. 
 
-Click Submit.
+12. The next fields that display will be different depending on if the environment is virtualized or not. 
+    - Virtualized environments can optionally provide a student number. 
+        - Leverage this field as a test run count. For example, first reservation test input 001. For the second reservation test, if you need it, input 002.
+    - Non-virtualized environments, like watsonx.data SaaS, watsonx.ai SaaS, or a customer care gen ai environments: 
+        - Ensure to select Dedicated services if prompted. 
+        - Choose to enable Db2 or Watson Discovery if prompted and needed. 
+
+If there are other options for environments that are not for watsonx (what settings to select on the reservation form), please post questions to your lab Github issue. ([https://github.ibm.com/ITZ/TechX-24-Barcelona/issues](https://github.ibm.com/ITZ/TechX-24-Barcelona/issues))
+
+13. Terms and Conditions: Agree to terms and conditions in the bottom right-hand corner of the reservation form to submit your reservation. 
+
+![env6](images/env6.png)
+
+14. Click Submit.
+
+![env7](images/env7.png)
+
+15. A reservation confirmation page will display upon submitting your reservation form. The provisioning process has now begun, and you will receive an email once the environment is ready.
+
+![env8](images/env8.png)
 
 
-A reservation confirmation page will display upon submitting your reservation form. The provisioning process has now begun, and you will receive an email once the environment is ready.
-
-
-Once you receive an email that the environment is ready, the provisioning testing step is complete. Please proceed to the next step to further test and validate the environment itself.   If you receive a failure to provision email instead of the successful ready email, please provide the error message within in the email and the reservation ID in the correct session ID GitHub issue (https://github.ibm.com/ITZ/TechX-24-Barcelona/issues)  "Leave a Comment" section and tag "@ITZ/manilla-team" for support. You can find your labs issue by searching for your session ID or session name. 
+- Once you receive an email that the environment is ready, the provisioning testing step is complete. Please proceed to the next step to further test and validate the environment itself.   If you receive a failure to provision email instead of the successful ready email, please provide the error message within in the email and the reservation ID in the correct session ID GitHub issue (https://github.ibm.com/ITZ/TechX-24-Barcelona/issues)  "Leave a Comment" section and tag "@ITZ/manilla-team" for support. You can find your labs issue by searching for your session ID or session name. 
 
 
 ## Test and Validate Environment Process:
 
-Navigate to your My reservations page: https://techzone.ibm.com/my/reservations 
-Click the reservation tile that you would like to test. This will navigate you to the reservation details page. 
+1. Navigate to your My reservations page: [https://techzone.ibm.com/my/reservations](https://techzone.ibm.com/my/reservations) 
 
-*If the environment is not in a Ready status, this page will not have the access links available yet for you to further test this step. We will email you once the environment is ready. The status can be found on the reservation tile.
-Ensure you can access / login to the environment. 
-Ensure you can complete the lab guide steps using the environment. 
+2. Click the reservation tile that you would like to test. This will navigate you to the reservation details page. 
+
+![env9](images/env9.png)
+
+3. _If the environment is not in a Ready status, this page will not have the access links available yet for you to further test this step. We will email you once the environment is ready. The status can be found on the reservation tile._
+
+4. Ensure you can access / login to the environment. 
+
+5. Ensure you can complete the lab guide steps using the environment. 
 
 ## Update Environment Process:
 
 If you have determined that your template requires updates/fixes, make sure to update an environment that is at start-of-lab; if you have completed any labs in your initial test environment, delete that environment and reserve a new environment. Make any needed changes to the new environment.
 
-After making the needed updates to the reserved environment, proceed with updating the correct session ID GitHub issue (https://github.ibm.com/ITZ/TechX-24-Barcelona/issues) by leaving a comment and tagging the “@itz/manilla-team” for support. Ensure to provide the reservation ID in the comment with the request. You can find your labs issue by searching for your session ID or session name.
+After making the needed updates to the reserved environment, proceed with updating the correct session ID GitHub issue ([https://github.ibm.com/ITZ/TechX-24-Barcelona/issues](https://github.ibm.com/ITZ/TechX-24-Barcelona/issues)) by leaving a comment and tagging the `“@itz/manilla-team”` for support. Ensure to provide the reservation ID in the comment with the request. You can find your labs issue by searching for your session ID or session name.
 
-*IMPORTANT: Ensure to request a template before the reservation expires. Once the reservation has expired, the environment will be decommissioned and all updates on the environment will be lost. It is a best practice to request for a template to be created minimally three days before your environment is about to expire to ensure enough time for a template on the environment to be made. 
+_**IMPORTANT:** Ensure to request a template before the reservation expires. Once the reservation has expired, the environment will be decommissioned and all updates on the environment will be lost. It is a best practice to request for a template to be created minimally three days before your environment is about to expire to ensure enough time for a template on the environment to be made. _
 
 Once the environment has been successfully templated, the TechZone Manilla support team will contact you informing in the Session ID git issue informing you that the template update was successful. Once you receive this message, proceed with deleting the current reservation and navigate back to the same collection where the original was reserved and proceed with testing the new template per the same steps above. 
-NOTE: The environment tile that you will reserve again will have the same name as before but the underlying template that you updated will now be referenced. 
+
+_**NOTE:** The environment tile that you will reserve again will have the same name as before but the underlying template that you updated will now be referenced. 
+_
