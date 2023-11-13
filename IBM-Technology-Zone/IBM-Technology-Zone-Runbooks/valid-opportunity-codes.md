@@ -141,9 +141,17 @@ For additional questions or support on BOSS IDs, email lstadmin@us.ibm.com or at
 
 ### 'Won' Sales Stage Error:
 
-- IBM Sales Cloud opportunity codes that are in a 'Won' sales stage are considered invalid for a TechZone reservation. Please provide a new opportunity code that is in a valid sales stage or if this opportunity code needs to be updated as it is now active again, proceed with updating the record in IBM Sales Cloud directly and waiting approximately 3 hours for the updates to take place on the TechZone side. 
+- IBM Sales Cloud opportunity codes that are in a 'Won' sales stage are considered invalid for a TechZone reservation. If you have a 'won' deal and are receiving this error, please attempt the following:
+
+
+ 1. Please provide a new opportunity code that is in a valid sales stage or if this opportunity code needs to be updated as it is now active again, proceed with updating the record in IBM Sales Cloud directly and waiting approximately 3 hours for the updates to take place on the TechZone side. 
+
+ 2. Please check the IBM Sales Cloud (ISC) code for the list of things that were sold as part of the deal. Expert Labs and Consulting should appear there and if so, please reach out to those relevant parties (involved in the deal) for their code(s). These are the codes that typically appear once the deal is considered "won."
+
+ 3. Also in ISC, please determine if the client is a 'Signature' or 'Select one' as they should be assigned CSM's (those dedicated to signature or selected clients). They can be contacted for their Gainsight plan ID.
 
 ![Won ISC code error](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/WonStageISC.png)
+
 
 ### 'Request out of policy scope (Invalid opportunity product)' Error:
 
@@ -152,6 +160,7 @@ For additional questions or support on BOSS IDs, email lstadmin@us.ibm.com or at
 - Step 2: If previous refresh did not help resolve this error, try selecting the drop down menu option for this field and selecting a different opportunity product value in the list and then select then re-select the correct one. This error might be occuring because the value was not being sent in the payload. 
 
 ![opp product error](https://github.com/IBM/itz-support-public/blob/ae3cf8ec7eb6e60aa138495b4ac01f59b1cf24f4/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/oppproducterror.png)
+
 
 
 ### Support
