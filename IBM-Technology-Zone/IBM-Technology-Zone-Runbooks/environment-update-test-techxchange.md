@@ -101,9 +101,8 @@ If you have determined that your template requires updates/fixes, make sure to u
 
 After making the needed updates to the reserved environment, proceed with updating the correct session ID GitHub issue ([https://github.ibm.com/ITZ/TechX-24-Barcelona/issues](https://github.ibm.com/ITZ/TechX-24-Barcelona/issues)) by leaving a comment and tagging the `@itz/manilla-team` for support. Ensure to provide the reservation ID in the comment with the request. You can find your labs issue by searching for your session ID or session name.
 
-_**IMPORTANT:** Ensure to request a template before the reservation expires. Once the reservation has expired, the environment will be decommissioned and all updates on the environment will be lost. It is a best practice to request for a template to be created minimally three days before your environment is about to expire to ensure enough time for a template on the environment to be made. _
+_**IMPORTANT:** Ensure to request a template before the reservation expires. Once the reservation has expired, the environment will be decommissioned and all updates on the environment will be lost. It is a best practice to request for a template to be created minimally three days before your environment is about to expire to ensure enough time for a template on the environment to be made._
 
 Once the environment has been successfully templated, the TechZone Manilla support team will contact you informing in the Session ID git issue informing you that the template update was successful. Once you receive this message, proceed with deleting the current reservation and navigate back to the same collection where the original was reserved and proceed with testing the new template per the same steps above. 
 
-_**NOTE:** The environment tile that you will reserve again will have the same name as before but the underlying template that you updated will now be referenced. 
-_
+_**NOTE:** The environment tile that you will reserve again will have the same name as before but the underlying template that you updated will now be referenced._
