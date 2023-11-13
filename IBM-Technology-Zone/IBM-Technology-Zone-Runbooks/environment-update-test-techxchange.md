@@ -5,10 +5,10 @@ Collection to be used for Barcelona TechXchange lab session environments: https:
 This runbook is to support Lab developers that need to test their environments to be used for TechXchange lab sessions for Barcelona event in January 2024. 
 
 ## Table of Contents: 
-- [Access](/environment-update-test-techxchange.md#access)
-- [Test Provisioning Process](/environment-update-test-techxchange.md#access)
-- [Test and Validate Environment](/environment-update-test-techxchange.md#access)
-- [Update Environment Process](/environment-update-test-techxchange.md#access)
+- [Access](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#access)
+- [Test Provisioning Process](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#test-provisioning-process)
+- [Test and Validate Environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#test-and-validate-environment)
+- [Update Environment Process](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#update-environment-process)
 
 ## Access: 
 This collection will be accessible for all TechZone users but an allow list will be created for lab developers to be able to test provisioning and the image itself to confirm that the environment that is being deployed is what is needed to successfully complete the lab guide.
