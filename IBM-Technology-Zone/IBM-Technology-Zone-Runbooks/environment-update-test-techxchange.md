@@ -5,19 +5,19 @@ Collection to be used for Barcelona TechXchange lab session environments: https:
 This runbook is to support Lab developers that need to test their environments to be used for TechXchange lab sessions for Barcelona event in January 2024. 
 
 ## Table of Contents: 
-- Access
-- Test Provisioning Process
-- Test and Validate Environment
-- Update Environment Process
+- [Access](/environment-update-test-techxchange.md#access)
+- [Test Provisioning Process](/environment-update-test-techxchange.md#access)
+- [Test and Validate Environment](/environment-update-test-techxchange.md#access)
+- [Update Environment Process](/environment-update-test-techxchange.md#access)
 
 ## Access: 
 This collection will be accessible for all TechZone users but an allow list will be created for lab developers to be able to test provisioning and the image itself to confirm that the environment that is being deployed is what is needed to successfully complete the lab guide.
 
 Those that are NOT on the allow list will receive a policy error message that will prevent them from proceeding from reserving the environment. 
 
-![env1](images/env1.png)
+![env1](Images/env1.png)
 
-If you are a lab developer and you are not on the allow list, please post request via #barcelona-texc24-labs Slack channel and provide your TechxChange Barcelona lab session ID that you are the lab developer for. Once we review and confirm you are the lab developer, we will add you to the allow list that will allow you to proceed with reserving the environment for testing. 
+If you are a lab developer and you are not on the allow list, please post request via `#barcelona-texc24-labs` Slack channel and provide your TechxChange Barcelona lab session ID that you are the lab developer for. Once we review and confirm you are the lab developer, we will add you to the allow list that will allow you to proceed with reserving the environment for testing. 
 
 ## Test Provisioning Process:
 This section is for lab developers that need to test the deployment and usability of their environment to be used for a lab session in TechXchange event. 
@@ -28,7 +28,7 @@ This section is for lab developers that need to test the deployment and usabilit
 
 2. Click Environments journey.
 
-![env2](images/env2.png)
+![env2](Images/env2.png)
 
 
 3. Find the lab session environment by the `<session id>` or by the `<title>` of the lab session>.  All environments will be in one of the following formats on this collection. 
@@ -36,17 +36,17 @@ This section is for lab developers that need to test the deployment and usabilit
 
 4. Click the blue reserve button on the environment tile that you are testing.
 
-![env3](images/env3.png)
+![env3](Images/env3.png)
 
 5. Select ‘Reserve now’ option on the first step of the reservation form.
 
-![env4](images/env4.png)
+![env4](Images/env4.png)
 
 6. To start filling out the reservation form, you can optionally update the name of the reservation. Otherwise leave the name as is.
 
 7. Select purpose ‘Practice / Self-Education”
 
-![env5](images/env5.png)
+![env5](Images/env5.png)
 
 8. Leave the Sales Opportunity number field blank. This field is optional with this purpose.
 
@@ -67,18 +67,18 @@ If there are other options for environments that are not for watsonx (what setti
 
 13. Terms and Conditions: Agree to terms and conditions in the bottom right-hand corner of the reservation form to submit your reservation. 
 
-![env6](images/env6.png)
+![env6](Images/env6.png)
 
 14. Click Submit.
 
-![env7](images/env7.png)
+![env7](Images/env7.png)
 
 15. A reservation confirmation page will display upon submitting your reservation form. The provisioning process has now begun, and you will receive an email once the environment is ready.
 
-![env8](images/env8.png)
+![env8](Images/env8.png)
 
 
-- Once you receive an email that the environment is ready, the provisioning testing step is complete. Please proceed to the next step to further test and validate the environment itself.   If you receive a failure to provision email instead of the successful ready email, please provide the error message within in the email and the reservation ID in the correct session ID GitHub issue (https://github.ibm.com/ITZ/TechX-24-Barcelona/issues)  "Leave a Comment" section and tag "@ITZ/manilla-team" for support. You can find your labs issue by searching for your session ID or session name. 
+- Once you receive an email that the environment is ready, the provisioning testing step is complete. Please proceed to the next step to further test and validate the environment itself.   If you receive a failure to provision email instead of the successful ready email, please provide the error message within in the email and the reservation ID in the correct session ID GitHub issue ([https://github.ibm.com/ITZ/TechX-24-Barcelona/issues](https://github.ibm.com/ITZ/TechX-24-Barcelona/issues))  "Leave a Comment" section and tag `@ITZ/manilla-team` for support. You can find your labs issue by searching for your session ID or session name. 
 
 
 ## Test and Validate Environment Process:
@@ -87,7 +87,7 @@ If there are other options for environments that are not for watsonx (what setti
 
 2. Click the reservation tile that you would like to test. This will navigate you to the reservation details page. 
 
-![env9](images/env9.png)
+![env9](Images/env9.png)
 
 3. _If the environment is not in a Ready status, this page will not have the access links available yet for you to further test this step. We will email you once the environment is ready. The status can be found on the reservation tile._
 
@@ -99,7 +99,7 @@ If there are other options for environments that are not for watsonx (what setti
 
 If you have determined that your template requires updates/fixes, make sure to update an environment that is at start-of-lab; if you have completed any labs in your initial test environment, delete that environment and reserve a new environment. Make any needed changes to the new environment.
 
-After making the needed updates to the reserved environment, proceed with updating the correct session ID GitHub issue ([https://github.ibm.com/ITZ/TechX-24-Barcelona/issues](https://github.ibm.com/ITZ/TechX-24-Barcelona/issues)) by leaving a comment and tagging the `“@itz/manilla-team”` for support. Ensure to provide the reservation ID in the comment with the request. You can find your labs issue by searching for your session ID or session name.
+After making the needed updates to the reserved environment, proceed with updating the correct session ID GitHub issue ([https://github.ibm.com/ITZ/TechX-24-Barcelona/issues](https://github.ibm.com/ITZ/TechX-24-Barcelona/issues)) by leaving a comment and tagging the `@itz/manilla-team` for support. Ensure to provide the reservation ID in the comment with the request. You can find your labs issue by searching for your session ID or session name.
 
 _**IMPORTANT:** Ensure to request a template before the reservation expires. Once the reservation has expired, the environment will be decommissioned and all updates on the environment will be lost. It is a best practice to request for a template to be created minimally three days before your environment is about to expire to ensure enough time for a template on the environment to be made. _
 
