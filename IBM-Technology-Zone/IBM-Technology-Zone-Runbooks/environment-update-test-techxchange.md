@@ -7,7 +7,7 @@ This runbook is to support Lab developers that need to test their environments t
 ## Table of Contents: 
 - [Access](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#access)
 - [Test Provisioning Process](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#test-provisioning-process)
-- [Test and Validate Environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#test-and-validate-environment)
+- [Test and Validate Environment](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#test-and-validate-environment-process)
 - [Update Environment Process](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/environment-update-test-techxchange.md#update-environment-process)
 
 ## Access: 
