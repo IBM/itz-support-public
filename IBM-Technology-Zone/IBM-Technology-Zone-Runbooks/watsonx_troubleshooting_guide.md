@@ -106,6 +106,8 @@ Enter the appropriate regional watsonx.ai URL directly, based on these options:
 - Dallas:  https://dataplatform.cloud.ibm.com/wx/home?context=wx
 - Frankfurt: https://eu-de.dataplatform.cloud.ibm.com/wx/home?context=wx
 - Tokyo: https://jp-tok.dataplatform.cloud.ibm.com/registration/steptwo?context=wx
+- London: https://eu-gb.dataplatform.cloud.ibm.com/wx/home?context=wx
+
 
 ## (Optional) Backing up a project
 To back up projects before reservation expires so that you do not lose projects on a dedicated account, you must specify the value of the "_Default install of dedicated services (customer poc), or use shared services? Note that dedicated services include the COS instance that will get destroyed
