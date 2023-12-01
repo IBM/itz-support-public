@@ -56,6 +56,22 @@ To resolve:
 
 8. The user should now be able to create a new project.
 
+## How to share my project?
+
+The steps below are required in order to share a wastonx project you have created. 
+
+1. Share reservation with user using share menu option on reservation card (not on reservation details page)
+2. Log techzone support ticket to request IAM Viewer access policy
+> Be sure to include your reservation ID and the email of the user you are attempting to share your instance with. It will be helpful to share this runbook with support and ask for the team to check on your permissions
+3. Ensure shared user accepts cloud invitation
+4. Ensure user initializes watsonx workspace in account and geo reservation was shared from
+> Geo Locations direct URLs
+- Dallas:  https://dataplatform.cloud.ibm.com/wx/home?context=wx
+- Frankfurt: https://eu-de.dataplatform.cloud.ibm.com/wx/home?context=wx
+- Tokyo: https://jp-tok.dataplatform.cloud.ibm.com/registration/steptwo?context=wx
+- London: https://eu-gb.dataplatform.cloud.ibm.com/wx/home?context=wx
+5. Add user to projects as needed
+
 ## Why can't I share my WatsonX project with a user?
 
 If you are running into issues sharing a project or a user is not able to view a project that was shared with them, some permissions may be missing. To troubleshoot this:
