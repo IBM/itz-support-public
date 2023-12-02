@@ -60,7 +60,8 @@ To resolve:
 
 The steps below are required in order to share a wastonx project you have created. 
 
-1. Share reservation with user using share menu option on reservation card (not on reservation details page)
+1. Share reservation with user using share menu option on reservation card (not on reservation details page), you can see how to do that as illustrated in the image bellow
+![reservations-card-share-watsonx](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservations-card-share-watsonx.png)
 2. Log techzone support ticket to request IAM Viewer access policy
 > Be sure to include your reservation ID and the email of the user you are attempting to share your instance with. It will be helpful to share this runbook with support and ask for the team to check on your permissions
 3. Ensure shared user accepts cloud invitation
