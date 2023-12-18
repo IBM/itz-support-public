@@ -27,7 +27,7 @@ Recent changes are highlighted below in chart.
 * watsonx, watsonx Discover Plus, watsonx Assistant Plus environments reserved with purpose Proof of Technology has been increased from allowing a max of 28 days to now allow for a max of 42 days total. This change has given users two additional one week extensions. 
 
 <p align="center">
-  <img src="https://github.com/IBM/itz-support-public/blob/fd41279a792d19b21f4d41ae28a239a3f0d94d58/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/duration_policies_image.png" />
+  <img src="https://github.com/IBM/itz-support-public/blob/19b2a85e898c200c7eaea9f51d2fe3a1fdae2bf8/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/updated_policies_new.png" />
 </p>
 
 **Definitions:** Per the above chart
