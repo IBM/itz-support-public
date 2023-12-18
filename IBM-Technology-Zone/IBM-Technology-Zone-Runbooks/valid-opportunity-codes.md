@@ -80,9 +80,9 @@ There are two ways to find this unique ID.
 ![step 3 relationship id](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/step3relationship%20id.png)
 
 
-## Technology Expert Labs Project Work ID
+## Technology Expert Labs Project - Work ID (Software)
 
-IBMers in Technology Expert Labs can provide a valid Project Work ID through their Resource Deployment Manager as a validation code on an IBM Technology Zone reservation form. Similar to how Technical Sellers provide an IBM Sales Cloud opportunity code and Customer Success Managers provide a Gainsite Relationship ID, now we support those that work with Expert Labs team with Project Work IDs that are provided by Resource Deployment Managers (RDM) or in some cases by Delivery Managers. This Project Work ID RDMs provide correspond to the code IBMers use when claiming time against (billable) client project during delivery. 
+IBMers in Technology Expert Labs Software Brand (Automation, Data & AI, Sustainability, and Security) can provide a valid Project Work ID through their Resource Deployment Manager as a validation code on an IBM Technology Zone reservation form. Similar to how Technical Sellers provide an IBM Sales Cloud opportunity code and Customer Success Managers provide a Gainsite Relationship ID, now we support those that work with Expert Labs team with Project Work IDs that are provided by Resource Deployment Managers (RDM) or in some cases by Delivery Managers. This Project Work ID RDMs provide correspond to the code IBMers use when claiming time against (billable) client project during delivery. 
 
 ### **What is a valid Project Work ID and where to find it?**
 
@@ -103,7 +103,7 @@ Project Work ID which you are using to register hours in TIME@IBM you can use to
 - For support on how to identify a Project Work ID, contact the Technology Expert Labs Team for support and guidance: [#ww-technology-expertlabs](https://ibm-techzone.slack.com/archives/C04JH4G3DSL)
 
 
-## BOSS ID
+## Technology Expert Labs Project - BOSS ID (Systems)
 
 BOSS is an internal application for IBM Systems Lab Services (now known as Systems Technology Expert Labs) that facilitates running the services-based business. The two major components of the application are Opportunity Management and Financial Management. So, when BOSS ID is being referred to, it is an opportunity ID inside BOSS.
 
