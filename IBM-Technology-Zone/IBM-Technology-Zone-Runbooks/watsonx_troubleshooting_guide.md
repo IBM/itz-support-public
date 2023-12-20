@@ -88,6 +88,23 @@ If you are running into issues sharing a project or a user is not able to view a
 
 3. If you are not already assigned to that group, the support team will add you, then you can attempt sharing again.
 
+## I can't open watsonx.ai ('Get Started' button instead of 'Launch')
+
+If you are getting stuck with the registration screen when attempting to access watsonx.ai via IBM Cloud please ensure to follow the steps below. 
+1. Click 'Get started' button
+2. On the tab that opens go to the URL tab and remove the contents of the URL after the slash "/" part of the URL. This is illustrated below. 
+The url should look similar to the one in the photo, depending on the geolocation. Notice the highlighted part.
+<img width="1725" alt="image" src="https://github.com/IBM/itz-support-public/assets/152641641/6ea4116b-b4d0-4c2d-8845-8abe812e518c">
+3. Once you remove the part after the slash "/", the URL should look like this (depending on the geolocation): 
+
+- Dallas:  https://dataplatform.cloud.ibm.com
+- Frankfurt: https://eu-de.dataplatform.cloud.ibm.com
+- Tokyo: https://jp-tok.dataplatform.cloud.ibm.com
+- London: https://eu-gb.dataplatform.cloud.ibm.com
+
+4. Click enter and that will take you to the watsonx.ai homepage. If you are first time user you will be prompted to select the cloud account from your reservation. Check the reservation page and select the same cloud account.
+
+
 ## Why can't I access IBM Cloud?
 
 What Happens If I Do Not Accept the IBM Cloud Invitation? If you do not accept the IBM Cloud invitation, as specifically directed in the reservation details you will encounter an error.
