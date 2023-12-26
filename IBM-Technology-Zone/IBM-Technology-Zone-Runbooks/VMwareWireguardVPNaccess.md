@@ -1,5 +1,7 @@
 ## VMware WireGuard VPN Access
 
+> **This feature can not be enabled after the reservation has been created. It must be done while reserving the instance.**
+
 The WireGuard VPN tunnel allows users to access their VMs in an isolated environment network.![image](https://media.github.ibm.com/user/408676/files/64f0c210-a26a-4a79-9195-06f6071be549)
 ![image](https://media.github.ibm.com/user/408676/files/7808612d-11f7-4643-a660-fe2255dbf4ea)
 
