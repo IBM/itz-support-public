@@ -30,7 +30,10 @@ Recent changes are highlighted below in chart.
   <img src="https://github.com/IBM/itz-support-public/blob/19b2a85e898c200c7eaea9f51d2fe3a1fdae2bf8/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/updated_policies_new.png" />
 </p>
 
-**Definitions:** Per the above chart
+
+
+**Definitions:**
+- Vendor Provided: Self-education resources are accesible through the respective 3rd-party platform, please view the [Free 3rd Party Cloud Environments for Education Purposes runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/free-third-party-cloud-infrastructure-for-education.md) for more guidance.
 
 **Use Case:** The infrastructure of the environment being reserved broken down by the purpose in which the environment is being used for. This information is captured on the reservation form to determine the duration policy per reservation. 
 
