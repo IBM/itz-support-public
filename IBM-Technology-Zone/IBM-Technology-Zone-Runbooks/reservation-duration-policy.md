@@ -2,7 +2,7 @@
 
 ## Summary
 
-This Documentation contains information regarding reservation duration policies for IBM Technology Zone environments based on the Infrastructure of the environment and the purpose in which the environment is being reserved for. This includes details for the length of time that can be requested up front for the environemnt with information on length of time allowed with extensions. 
+This Documentation contains information regarding reservation duration policies for IBM Technology Zone environments based on the Infrastructure of the environment and the purpose in which the environment is being reserved for. This includes details for the length of time that can be requested up front for the environment with information on length of time allowed with extensions. 
 
 ## Table of Contents
 
