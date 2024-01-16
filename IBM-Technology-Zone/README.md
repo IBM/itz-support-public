@@ -308,6 +308,6 @@
 
 [How to step by step for Instructors](IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md)  :white_check_mark: 
 
-[Workshop Manager Reservation Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Workshop_Reservation_Policy.md) :white_check_mark:
+[Workshop Manager Reservation Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/reservation-duration-policy.md) :white_check_mark:
 
 ## Retired/Sunset Runbooks 
