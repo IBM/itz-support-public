@@ -13,7 +13,7 @@ Learn the basics to get started using IBM Technology Zone efficiently and Take t
 
 Using a live IBM Technology Zone environment, candidate must successfully:
 
-1. Record a mock, hands-on client demonstration video (3-5 minutes) that outlines the value and capabilities of an IBM TechZone.
+1. Record a mock, hands-on client demonstration video (1-3 minutes) that outlines the value and capabilities of an IBM TechZone.
 
 2. Submit the video as an attachment to email techzone.help@ibm.com for approval before you can be granted a badge.    
    Ensure the subject line in the email is - **Partners Badge Mock Video**.
