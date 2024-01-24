@@ -220,7 +220,7 @@
 
 [How to Extend a Reservation](IBM-Technology-Zone-Runbooks/extend-a-reservation.md)  :white_check_mark: 
 
-[How to search for environments/collections](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/search-environments-collections.md) :white_check_mark:
+[How to search for environments/collections](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection) :white_check_mark:
 
 [How to Share an Environment](IBM-Technology-Zone-Runbooks/share_environment.md)  :white_check_mark:
 
