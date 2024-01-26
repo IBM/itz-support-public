@@ -24,10 +24,6 @@
 
 [Content Creator: How to Improve Your Collections Search Results](IBM-Technology-Zone-Runbooks/collection-search-results.md) :white_check_mark: 
 
-[New Content Authoring](IBM-Technology-Zone-Runbooks/new-environment-authoring.md)  :white_check_mark:
-
-[Technical Decision Points on IBM Technology Zone](IBM-Technology-Zone-Runbooks/technical-decision-points.md)  :white_check_mark: 
-
 ## Content Contribution
 
 [Add a Resource to a Collection](IBM-Technology-Zone-Runbooks/add-a-resource.md)  :white_check_mark:
