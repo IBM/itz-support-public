@@ -121,13 +121,9 @@
 
 [Business Partner Access Error(403)](IBM-Technology-Zone-Runbooks/BusinessPartnersAccess.md)  :white_check_mark:  
 
-[Couldn’t Get the Requested Template](IBM-Technology-Zone-Runbooks/Couldn%E2%80%99t-get-the-requested-template.md)  :white_check_mark: 
-
 [Failed to Fetch](IBM-Technology-Zone-Runbooks/failed-to-fetch.md)  :white_check_mark:
 
 [IBM ID Sign in Error](IBM-Technology-Zone-Runbooks/ibmidoutages.md)  :white_check_mark: 
-
-[Internal Server Error](IBM-Technology-Zone-Runbooks/Internal-server-error.md)  :white_check_mark:  
 
 [Network Error When Attempting to Fetch Resource](IBM-Technology-Zone-Runbooks/NetworkError-when-attempting-to-fetch-resource.md)  :white_check_mark:
 
@@ -172,7 +168,7 @@
 
 [How to Accept an IBM Cloud Invite](IBM-Technology-Zone-Runbooks/ibm-cloud-accept-invite.md)  :white_check_mark:    
 
-[How to Check if Your Requested ODF(OCS) is Installed](IBM-Technology-Zone-Runbooks/requested-odf-install.md)  :white_check_mark:  
+[How to Check if Your Requested ODF (OCS) is Installed](IBM-Technology-Zone-Runbooks/requested-odf-install.md)  :white_check_mark:  
 
 [How to Report ROKS Issues](IBM-Technology-Zone-Runbooks/roks-must-gather.md)  :white_check_mark:    
 
