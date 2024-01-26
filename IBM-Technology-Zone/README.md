@@ -40,8 +40,6 @@
 
 [How to Create a Journey](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-journey)  :white_check_mark:
 
-[Home Page Content Sections](hIBM-Technology-Zone-Runbooks/new-home-page.md)  :white_check_mark:  
-
 [How to Catalog Your Own Environment](IBM-Technology-Zone-Runbooks/catalog-your-environment.md)  :white_check_mark: 
 
 [How to Publish your Collection or Resource on TechZone](IBM-Technology-Zone-Runbooks/how-to-publish-on-itz.md)  :white_check_mark: 
