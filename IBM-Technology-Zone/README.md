@@ -28,11 +28,9 @@
 
 [Add a Resource to a Collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-resource-on-a-collection)  :white_check_mark:
 
-[Automated Collection Lifecycle Management](IBM-Technology-Zone-Runbooks/launch%20of%20new%20automated-lifecycle-management.md)  :white_check_mark: 
-
 [Create a Collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection)  :white_check_mark:
 
-[Collection Metrics](IBM-Technology-Zone-Runbooks/collection-metrics.md)  :white_check_mark: 
+[Collection Metrics](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md)  :white_check_mark: 
 
 [Customized Journeys with Mermaid](IBM-Technology-Zone-Runbooks/mermaid-docs.md)  :white_check_mark:  
 
