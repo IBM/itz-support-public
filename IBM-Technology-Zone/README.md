@@ -182,13 +182,7 @@
 
 [Users Don't See Cluster After Invite(IAM Fix)](IBM-Technology-Zone-Runbooks/iam-fix.md)  :white_check_mark:
 
-## Requests
-
-[Industry Environment Request Process and Expectations](IBM-Technology-Zone-Runbooks/industry-requests-user-guide.md)  :white_check_mark:  
-
 ## Reservations
-
-[Can a Client be Given Access to an Environment?](IBM-Technology-Zone-Runbooks/share-any-env-with-client.md)  :white_check_mark:  
 
 [How Long Can I Reserve an Environment for on IBM Technology Zone?](IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:  
 
