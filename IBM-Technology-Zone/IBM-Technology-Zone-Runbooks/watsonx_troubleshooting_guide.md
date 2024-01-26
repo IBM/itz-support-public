@@ -142,6 +142,20 @@ Enter the appropriate regional watsonx.ai URL directly, based on these options:
 - Tokyo: https://jp-tok.dataplatform.cloud.ibm.com/registration/steptwo?context=wx
 - London: https://eu-gb.dataplatform.cloud.ibm.com/wx/home?context=wx
 
+## User Facing out of tokens error on watsonx.ai SaaS reservation
+Often occurs when a user associates a personal WML instance to their created project. If they were to associate the correct WML, there would not be restrictions such as no tokens, so the user needs to reassociate the WML instance or create a new project with the correct WML.
+I have an Out of Token error on my watsonx.ai SaaS reservation. This happens when you associate a personal WML instance to your created project. If you associate the correct WML, there would not be restrictions such as no tokens, so the user needs to reassociate the WML instance or create a new project with the correct WML.
+
+How do I find out my token limit? Open your WML service and click on Plan tab.
+How do I find out my token limit? If you want to discover your current token limit, open your WML service and click on the Plan tab.
+
+Are there token limits for Watsonx.ai? No there are no limits, if you are hitting a limit for a techzone reserved environment you may be pointing to a WML service in their personal ibm cloud account
+Are there token limits for watsonx.ai? No there are no limits, if you are hitting a limit for a TechZone reserved environment you may be pointing to a WML service in their personal IBM Cloud account.
+
+What plan does TechZone use for Watsonx.ai? Essential Plan
+What plan does TechZone use for watsonx.ai? IBM TechZone uses the Essential Plan for watsonx.ai.
+
+
 
 ## (Optional) Backing up a project
 To back up projects before reservation expires so that you do not lose projects on a dedicated account, you must specify the value of the "_Default install of dedicated services (customer poc), or use shared services? Note that dedicated services include the COS instance that will get destroyed
