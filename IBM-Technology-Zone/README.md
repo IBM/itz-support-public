@@ -34,9 +34,7 @@
 
 [Customized Journeys with Mermaid](IBM-Technology-Zone-Runbooks/mermaid-docs.md)  :white_check_mark:  
 
-[Defining a Custom Published Service](IBM-Technology-Zone-Runbooks/Custom_Published_Service_details.md)  :white_check_mark:  
-
-[Edit a Collection](IBM-Technology-Zone-Runbooks/edit-a-collection.md)  :white_check_mark:
+[Edit a Collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-edit-a-collection)  :white_check_mark:
 
 [Github Repository as a Resource Best Practices](IBM-Technology-Zone-Runbooks/git-repo-best-practices.md)  :white_check_mark: 
 
