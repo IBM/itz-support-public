@@ -196,21 +196,17 @@
 
 [How to Transfer a Reservation](IBM-Technology-Zone-Runbooks/transfer_environment.md)  :white_check_mark: 
 
-[How to Upgrade Configurations on my Reserved Environment](IBM-Technology-Zone-Runbooks/upgrade-environment-configuration-requests.md)  :white_check_mark:
-
 [Reservation Duration Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/reservation-duration-policy.md)  :white_check_mark:
-
-[Third Party Reservation Policy Updates](IBM-Technology-Zone-Runbooks/thirdparty-res-policy-updates.md)  :white_check_mark:
 
 [Valid Opportunity Codes to Input on Reservation Form](IBM-Technology-Zone-Runbooks/valid-opportunity-codes.md)  :white_check_mark: 
 
 ## Site Navigation
 
-[Collection Brand Filter](IBM-Technology-Zone-Runbooks/brand-filter-search.md)  :white_check_mark:  
+[Collection Brand Filter](https://pages.github.ibm.com/ITZ/supp-runbooks/content/general/TechZone-Contents-Guide/#collection-brand-filter)  :white_check_mark:  
 
 [Content Preference](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-preferences.md)  :white_check_mark:
 
-[Search Filter Logic](IBM-Technology-Zone-Runbooks/itz-filter-logic.md)  :white_check_mark:  
+[Unified Search](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/unified-search.md)  :white_check_mark:  
 
 [Content Metrics](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md) ✅
 
@@ -279,5 +275,3 @@
 [How to step by step for Instructors](IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md)  :white_check_mark: 
 
 [Workshop Manager Reservation Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/reservation-duration-policy.md) :white_check_mark:
-
-## Retired/Sunset Runbooks 
