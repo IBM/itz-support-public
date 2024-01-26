@@ -70,7 +70,7 @@
 
 [Template an IBM Cloud VSI on Classic and VPC VM for Your Collection](IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md)  :white_check_mark:  
 
-[Transfer Collection Ownership](IBM-Technology-Zone-Runbooks/transfer-collection.md)  :white_check_mark:  
+[Transfer Collection Ownership](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer-collection.md)  :white_check_mark:  
 
 [Upgrade Resource to a Collection](IBM-Technology-Zone-Runbooks/upgrade-resource-to-collection.md)  :white_check_mark:  
 
