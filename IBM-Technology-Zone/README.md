@@ -60,9 +60,9 @@
 
 [Lock and Unlock an Environment in a Collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/lock-unlock-environment.md) :white_check_mark:
 
-[Ownership Transfer](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/ownership-transfer.md)  :white_check_mark: 
+[Ownership Transfer](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#ownership-transfer)  :white_check_mark: 
 
-[Resource Type Definitions](IBM-Technology-Zone-Runbooks/resource-types.md)  :white_check_mark:
+[Resource Type Definitions](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#resource-type-definitions)  :white_check_mark:
 
 [Support Contacts on a Collection](IBM-Technology-Zone-Runbooks/supportcontactsfield.md)  :white_check_mark:  
 
