@@ -64,15 +64,11 @@
 
 [Resource Type Definitions](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#resource-type-definitions)  :white_check_mark:
 
-[Support Contacts on a Collection](IBM-Technology-Zone-Runbooks/supportcontactsfield.md)  :white_check_mark:  
-
 [Testing Collections/Environments Before Making Them Active](IBM-Technology-Zone-Runbooks/testing-collections-before-launch.md)  :white_check_mark:  
 
 [Template an IBM Cloud VSI on Classic and VPC VM for Your Collection](IBM-Technology-Zone-Runbooks/template-an-ibm-cloud-classic-vm-for-your-collection.md)  :white_check_mark:  
 
-[Transfer Collection Ownership](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer-collection.md)  :white_check_mark:  
-
-[Upgrade Resource to a Collection](IBM-Technology-Zone-Runbooks/upgrade-resource-to-collection.md)  :white_check_mark:  
+[Transfer Collection Ownership](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/transfer-collection.md)  :white_check_mark:   
 
 ## Demos
 
