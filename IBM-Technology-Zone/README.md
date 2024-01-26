@@ -40,7 +40,7 @@
 
 [GitOps Template Developer Guide](IBM-Technology-Zone-Runbooks/gitops-templates.md)  :white_check_mark:  
 
-[How to Create a Journey](IBM-Technology-Zone-Runbooks/journey-creation-process.md)  :white_check_mark:
+[How to Create a Journey](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-journey)  :white_check_mark:
 
 [Home Page Content Sections](hIBM-Technology-Zone-Runbooks/new-home-page.md)  :white_check_mark:  
 
