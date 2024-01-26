@@ -36,8 +36,6 @@
 
 [Edit a Collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-edit-a-collection)  :white_check_mark:
 
-[Github Repository as a Resource Best Practices](IBM-Technology-Zone-Runbooks/git-repo-best-practices.md)  :white_check_mark: 
-
 [GitOps Template Developer Guide](IBM-Technology-Zone-Runbooks/gitops-templates.md)  :white_check_mark:  
 
 [How to Create a Journey](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-journey)  :white_check_mark:
