@@ -30,7 +30,7 @@ Proof-of-Technology purpose increased duration from 42 days to 56 days.
 * VMWare environments reserved with purpose Customer Demo has been increased from allowing a max of 24 days to now allow for a 49 days total to align with Proof of Technology purpose durations for VMWare environments. This change is giving users 3 more days to select with creating the reservation (filling out the reservation form) as well as has increased the length of time for an extension by 3 days to allow for a full week extension lenth with 1 additional extension added. 
 * watsonx, watsonx Discover Plus, watsonx Assistant Plus environments reserved with purpose Proof of Technology has been increased from allowing a max of 28 days to now allow for a max of 42 days total. This change has given users two additional one week extensions. 
 
-![01 2024 Reservation Policies](images/01-2024-reservation-policy.png)
+![01 2024 Reservation Policies](Images/01-2024-reservation-policy.png)
 
 **Definitions:**
 - Vendor Provided: Self-education resources are accesible through the respective 3rd-party platform, please view the [Free 3rd Party Cloud Environments for Education Purposes runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/free-third-party-cloud-infrastructure-for-education.md) for more guidance.
