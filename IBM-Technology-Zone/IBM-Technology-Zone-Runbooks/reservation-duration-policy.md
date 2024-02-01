@@ -19,18 +19,18 @@ This Documentation contains information regarding reservation duration policies 
 Reservation duration policies are the length of time allowed to reserve an environment on a reservation form with additional insight into the length of time allowed to extend a reservation as well. Reference information below to learn about the current reservation duration policies in place today and where on the reservation form experience to look for these duration policies live.
 
 
-### Current Policies as of October 2nd, 2023:
-
+### Current Policies as of February 1st, 2024:
 Recent changes are highlighted below in chart.
+
+watsonx.data , .ai , and .governance environments from the certified base images collection reserved with Customer Demo and Proof-of-Technology durations have been increased.
+
+Customer Demo purpose increased duration from 24 days to 35 days
+Proof-of-Technology purpose increased duration from 42 days to 56 days.
 
 * VMWare environments reserved with purpose Customer Demo has been increased from allowing a max of 24 days to now allow for a 49 days total to align with Proof of Technology purpose durations for VMWare environments. This change is giving users 3 more days to select with creating the reservation (filling out the reservation form) as well as has increased the length of time for an extension by 3 days to allow for a full week extension lenth with 1 additional extension added. 
 * watsonx, watsonx Discover Plus, watsonx Assistant Plus environments reserved with purpose Proof of Technology has been increased from allowing a max of 28 days to now allow for a max of 42 days total. This change has given users two additional one week extensions. 
 
-<p align="center">
-  <img src="https://github.com/IBM/itz-support-public/blob/19b2a85e898c200c7eaea9f51d2fe3a1fdae2bf8/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/updated_policies_new.png" />
-</p>
-
-
+![01 2024 Reservation Policies](images/01-2024-reservation-policy.png)
 
 **Definitions:**
 - Vendor Provided: Self-education resources are accesible through the respective 3rd-party platform, please view the [Free 3rd Party Cloud Environments for Education Purposes runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/free-third-party-cloud-infrastructure-for-education.md) for more guidance.
