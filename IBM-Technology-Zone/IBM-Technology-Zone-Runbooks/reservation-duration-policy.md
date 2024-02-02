@@ -22,13 +22,7 @@ Reservation duration policies are the length of time allowed to reserve an envir
 ### Current Policies as of February 1st, 2024:
 Recent changes are highlighted below in chart.
 
-watsonx.data , .ai , and .governance environments from the certified base images collection reserved with Customer Demo and Proof-of-Technology durations have been increased.
-
-Customer Demo purpose increased duration from 24 days to 35 days
-Proof-of-Technology purpose increased duration from 42 days to 56 days.
-
-* VMWare environments reserved with purpose Customer Demo has been increased from allowing a max of 24 days to now allow for a 49 days total to align with Proof of Technology purpose durations for VMWare environments. This change is giving users 3 more days to select with creating the reservation (filling out the reservation form) as well as has increased the length of time for an extension by 3 days to allow for a full week extension lenth with 1 additional extension added. 
-* watsonx, watsonx Discover Plus, watsonx Assistant Plus environments reserved with purpose Proof of Technology has been increased from allowing a max of 28 days to now allow for a max of 42 days total. This change has given users two additional one week extensions. 
+watsonx.data, watsonx.ai, and watsonx.governance environments from the certified base images collection reserved with Customer Demo and Proof-of-Technology durations have been increased.
 
 ![01 2024 Reservation Policies](Images/01-2024-reservation-policy.png)
 
