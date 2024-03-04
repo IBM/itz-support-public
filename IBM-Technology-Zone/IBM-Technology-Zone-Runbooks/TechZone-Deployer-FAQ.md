@@ -20,13 +20,13 @@ If the cluster for the reservation is successfuly provisioned but there is an er
 
 Steps to restart the pipeline with the same parameters it had when it failed:
 
-1. Log into the cluster and from the OpenShift console select the "Pipelines" section from the left side menu.![pipeline section](images/techzone-deployer-pipeline-section.png)
+1. Log into the cluster and from the OpenShift console select the "Pipelines" section from the left side menu.![pipeline section](Images/techzone-deployer-pipeline-section.png)
 
-2. Click the inner "Pipelines" section and you should be able to see the pipeline that failed.![pipeline inner section](images/techzone-deployer-pipeline-inner-section.png)
+2. Click the inner "Pipelines" section and you should be able to see the pipeline that failed.![pipeline inner section](Images/techzone-deployer-pipeline-inner-section.png)
 
    Note: If you don't see any pipelines you may be in the wrong project and should change the Project: \<projname\> at the top of the screen to "All Projects"
 
-3. Click on the three dots on the right side of the screen of the failed pipeline and select "Rerun"![pipeline section](images/techzone-deployer-rerun-pipeline.png)
+3. Click on the three dots on the right side of the screen of the failed pipeline and select "Rerun"![pipeline section](Images/techzone-deployer-rerun-pipeline.png)
 
 ### I'm having a problem that re-running the pipeline didn't fix.
 
