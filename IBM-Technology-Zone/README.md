@@ -258,6 +258,8 @@
 
 ## Workshop
 
+[Onboarding users for CPDaaS / watsonx.ai SaaS workshops](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/CPDaaS-watsonxai-SaaS-Onboarding.md)
+
 [Enable Workshop Requests on an IBM Cloud and VMware on IBM Cloud Environment](IBM-Technology-Zone-Runbooks/enable-ibmcloud-workshop.md)  :white_check_mark:  
 
 [How do I upload a list of students to a workshop?](IBM-Technology-Zone-Runbooks/UploadAttendees.md)  :white_check_mark: 
