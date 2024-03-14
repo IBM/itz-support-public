@@ -24,6 +24,8 @@
 
 [Content Creator: How to Improve Your Collections Search Results](IBM-Technology-Zone-Runbooks/collection-search-results.md) :white_check_mark: 
 
+[Replicating Functionality in TechZone](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Replicating-Functionality-TechZone.md)
+
 ## Content Contribution
 
 [Add a Resource to a Collection](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-resource-on-a-collection)  :white_check_mark:
