@@ -82,7 +82,7 @@ Quota policy violation notices are triggered from the reservation form when user
 
 ![Quota Policy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/policy_modal.png)
 
-_**IMPORTANT:** There are no exceptions to quota policies at this time.
+_**IMPORTANT:**_ There are no exceptions to quota policies at this time.
 
 Additional Guidance: 
 
