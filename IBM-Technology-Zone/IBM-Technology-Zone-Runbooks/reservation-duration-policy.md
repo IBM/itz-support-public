@@ -95,4 +95,4 @@ Additional Guidance:
 
 ### Support
 
-For any questions, contact ITZ support - techzone.help@ibm.com
+Log a support case: [https://ibmsf.force.com/ibminternalproducts](https://ibmsf.force.com/ibminternalproducts)
