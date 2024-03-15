@@ -33,7 +33,7 @@ The following environments are enabled to allow for supported customer data clas
 
 • [TechZone Certified Base Images](https://techzone.ibm.com/collection/tech-zone-certified-base-images/journey-watsonx) - watsonx Environments - Ensure to select 'Dedicated' account option on reservation form when reserving with customer data
 
-• [Technology Patterns Customer Care Environments](https://techzone.ibm.com/collection/technology-patterns/journey-customer-care)
+• [Technology Patterns Customer Care Environments](https://techzone.ibm.com/collection/technology-patterns/journey-ai-assistants)
 
 • [Data, AI & Automation Demobuilder Environment](https://techzone.ibm.com/collection/data-ai--automation-demobuilder/environments)
 
