@@ -119,7 +119,7 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
     Repeat steps to add additional entries
     ```
   
-**Note:** this is an environment settings quick steps, click on [link](https://pages.github.ibm.com/dte2-0/automation-team-docs/Best%20Practices/EnvironmentDefinitions/) for environment definition best practice, how dynamic workload placement work and how techzone decides where to place workload
+**Note:** this is an environment settings quick steps, click on [link](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Environment-Settings.md) for environment definition best practice, how dynamic workload placement work and how techzone decides where to place workload
 
 **Terraform Variables Overriding**
  
