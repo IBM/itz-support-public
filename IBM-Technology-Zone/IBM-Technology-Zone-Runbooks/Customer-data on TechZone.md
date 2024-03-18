@@ -1,7 +1,7 @@
 
 # Customer Data Enabled Environments on IBM Technology Zone
 
-Starting July 18th, IBM Technology Zone has released a select set of environments that will support specific classifications of customer data. IBM Technology Zone's [Terms and Conditions](https://techzone.ibm.com/terms) have been updated per BISO and Legal guidance. Additionally, [End User Security Policies](https://techzone.ibm.com/terms/securitypolicy) have been added to the Terms and Conditions to maintain a compliant and secure platform for all users. Continue reading this runbook to understand the classifications of Customer Data that we do/do not support, new feature functionality added the site to support this iniatitive, and other updates regarding provisioning process updates and email template changes. 
+As of July 18th, IBM Technology Zone released a select set of environments that will support specific classifications of customer data. IBM Technology Zone's [Terms and Conditions](https://techzone.ibm.com/terms) have been updated per BISO and Legal guidance. Additionally, [End User Security Policies](https://techzone.ibm.com/terms/securitypolicy) have been added to the Terms and Conditions to maintain a compliant and secure platform for all users. Continue reading this runbook to understand the classifications of Customer Data that we do/do not support, new feature functionality added the site to support this iniatitive, and other updates regarding provisioning process updates and email template changes. 
 
 Supported Customer Data Classifications:
 - Publicly available (example of data available through the web is [BERKELEY SETI RESEARCH CENTER](https://seti.berkeley.edu/listen/data.html))
