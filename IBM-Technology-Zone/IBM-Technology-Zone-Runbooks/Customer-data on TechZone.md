@@ -41,7 +41,7 @@ The following environments are enabled to allow for supported customer data clas
 
 ## Customer Data Experience Updates
 
-1. **Terms and Conditions** - All IBM Technology Zone users, starting July 17th, must re-accept the new [Terms and Conditions](https://techzone.ibm.com/terms) to sign into IBM Technology Zone. Along with the updated Terms page includes the addition of a new [End User Security Policies](https://techzone.ibm.com/terms/securitypolicy) page that users are agreeing to as part of overall Terms of Use. Not agreeing to the new Terms and Conditions and End User Security Policies will limit users from being able to login to the site. Agreeing to the new Terms and Conditions will immmidietly log the user into the site for continued use. 
+1. **Terms and Conditions** - All IBM Technology Zone users, must re-accept the new [Terms and Conditions](https://techzone.ibm.com/terms) to sign into IBM Technology Zone. Along with the updated Terms page includes the addition of a new [End User Security Policies](https://techzone.ibm.com/terms/securitypolicy) page that users are agreeing to as part of overall Terms of Use. Not agreeing to the new Terms and Conditions and End User Security Policies will limit users from being able to login to the site. Agreeing to the new Terms and Conditions will immmidietly log the user into the site for continued use. 
 
 ![Terms and Conditions page](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/TermsConditions.png)
 *Please note that content on this page may have been updated since this image was captured.*
