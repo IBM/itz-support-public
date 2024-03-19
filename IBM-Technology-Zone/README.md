@@ -20,6 +20,8 @@
 
 ## Content
 
+[IBM Technology Zone Maintenance](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/TechZone-Maintenance.md)
+
 [BP-Visibility](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/bp-visibility.md)  :white_check_mark:
 
 [Content Creator: How to Improve Your Collections Search Results](IBM-Technology-Zone-Runbooks/collection-search-results.md) :white_check_mark: 
