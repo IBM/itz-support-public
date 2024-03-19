@@ -10,7 +10,7 @@ This runbook details how to locate environment credentials for single environmen
 
 When the entire IBM Technology Zone site is expected to be down during a maintenance window, users can expect to see the following maintenance page when trying to access the site. On the maintenance page, you'll find the scheduled maintenance date and time that the site will be unaccessible, along with convenient links to our TechZone status page and a support case submission form should you require assistance during the maintenance period.
 
-![maintenance page](images/maintenance.png)
+![maintenance page](Images/maintenance.png)
 
 ### Scheduled Maintenance Dates
 
