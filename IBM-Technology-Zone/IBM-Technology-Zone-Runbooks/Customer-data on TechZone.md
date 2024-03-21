@@ -13,7 +13,7 @@ NOT Supported Customer Data Classifications:
 - Governed by a plethora of global/federal/local regulations- GDPR, HIPAA, GLB, FTC, CCPA, Sarbanes-Oxley, + many others. Regulated data **requires** engaging Legal & BISO. 
 
 ### Customer Data Classification Support
-If you need support classifying customer data or a risk assessment associated with your engagement, please contact the Corporate BISO team directly in Slack: [#corporate-biso-help](https://ibm-techzone.slack.com/archives/C01RHTP1B8W). Izzac Gonzalez (gizzac@us.ibm.com) and Benjamin Cyr (BenjaminCyr@ibm.com) can support you on this inquiry. 
+If you need support classifying customer data or a risk assessment associated with your engagement, please contact the Corporate BISO team directly in Slack: #corporate-biso-help. Izzac Gonzalez (gizzac@us.ibm.com) and Benjamin Cyr (BenjaminCyr@ibm.com) can support you on this inquiry. 
 
 ## Regulated Customer Data Environment Requests
 
@@ -77,14 +77,3 @@ The following environments are enabled to allow for supported customer data clas
 6. **Email updates** - All reservation email templates have been updated to remove environment access credentials. To access a TechZone reserved environment all users must login to TechZone and navigate to their My reservations page and select the reservation tile in which they would like to access. Access credentials can be found on the Reservation details page.
 
 7. **Provisioning Updates** - Client facing reservations (purpose: Customer Demo, Proof of Technology) with customer data will be provisioned in dedicated infrastructure to ensure a secure environment for supported customer data classifications as listed at the top of this runbook document. Due to provisioning into these dedicated client facing pods, no reservation purpose field and/or customer data datapoint can be updated after the reservation has been created. For example: Self education and Test reservation purposes may not be updated after the reservation has been scheduled due to the deployment placing the environment in a non-client facing infrastructure. The same goes for a Customer Demo and Proof of Technology reservation, as no purpose can be updated after creation of the reservation due to the environment being scheduled for deployment on a dedicated client facing infrastructure.
-
-
-## Supporting Links
-
-[Business Information Security Office (BISO)](https://w3.ibm.com/w3publisher/ibm-corporate-biso-office)
-
-BISO/CISO slack support channel: [#corporate-biso-help](https://ibm-techzone.slack.com/archives/C01RHTP1B8W)
-
-### SME
-
-brooke.jones@ibm.com
