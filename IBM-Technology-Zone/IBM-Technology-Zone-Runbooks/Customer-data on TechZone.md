@@ -13,7 +13,7 @@ NOT Supported Customer Data Classifications:
 - Governed by a plethora of global/federal/local regulations- GDPR, HIPAA, GLB, FTC, CCPA, Sarbanes-Oxley, + many others. Regulated data **requires** engaging Legal & BISO. 
 
 ### Customer Data Classification Support
-If you need support classifying customer data or a risk assessment associated with your engagement, please contact the Corporate BISO team directly in Slack: #corporate-biso-help. Izzac Gonzalez (gizzac@us.ibm.com) and Benjamin Cyr (BenjaminCyr@ibm.com) can support you on this inquiry. 
+If you need support classifying customer data or a risk assessment associated with your engagement, please contact the Corporate BISO team directly in Slack: #corporate-biso-help. 
 
 ## Regulated Customer Data Environment Requests
 
