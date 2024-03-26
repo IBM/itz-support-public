@@ -25,6 +25,3 @@ Purple Card - Platforms
 
 Red Card - Resources
 
-
-
-### SME
