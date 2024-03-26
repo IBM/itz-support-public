@@ -32,9 +32,3 @@ Notice in both persona example screenshots below that each persona (IBMr and Bus
 ![Partner preview](Images/PreviewPartner.png)
 
 If you have questions as to why the content author made a specific collection, resource, environment, or journey (tab) only available to an IBMer. Feel free to contact the content owner to find out if the specific collection, resource, environment, or journey (tab) can be made available to business partners as well.
-
-runbook support copy paste
-
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
