@@ -23,6 +23,3 @@ See additional details on "Environment Information": The Skytap template being u
 
 Provide this information to support team if you are having issues with any environments during your workshop so that they can provide investigate the issue quickly.
 
-### Support
-
-All inquiries and Support for Workshop Manager use slack channel [#itz-workshop-support](https://ibm-techzone.slack.com/archives/CTA2MV9AM)
