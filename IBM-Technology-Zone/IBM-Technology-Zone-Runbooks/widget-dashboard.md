@@ -79,8 +79,4 @@ Note: At this time, the "Get Started widget" cannot be removed.
 
 ![Customer Dashboard View](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/customer_dashboard_view.png)
 
-### Support
-
-For any questions, contact ITZ support: techzone.help@ibm.com
-
 
