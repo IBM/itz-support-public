@@ -13,7 +13,7 @@
 
 ![image](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/validatingcollections2.png)
 
-- Current validations run once a week on Mondays. The cron job schedule can be found here: https://github.ibm.com/dte2-0/timing-events-service/blob/dcd2a392dec74d4a20e60f40c58d36dcaec50ab2/config/cron.js#L11
+- Current validations run once a week on Mondays.
 
 - Some active collections may not have validations because they meet all criteria and never have been invalidated
 - Some validations can run multiple times and have a higher `attempt` number
