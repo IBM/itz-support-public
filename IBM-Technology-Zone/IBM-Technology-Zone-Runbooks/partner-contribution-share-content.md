@@ -3,7 +3,7 @@
 First, when a partner clicks on the "share content" button, they will be presented with a pop-up that includes two links: 
 
 [IBM Business Partner Contribution Terms and Conditions](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/bp-contribution-agreement.md) and 
-Aligning with a [Platinum Squad Leader](https://ibm.ent.box.com/v/squad-leader)
+Aligning with a [Platinum Squad Leader]()
 
 Partners agree to the terms and conditions by proceeding through the process to align with a Squad Leader.
 
