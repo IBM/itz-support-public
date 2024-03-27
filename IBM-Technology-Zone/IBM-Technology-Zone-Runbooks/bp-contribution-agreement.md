@@ -18,7 +18,7 @@ Your participation in contributing to IBM Technology Zone is subject to the foll
 
    **Content Contributor Guidelines & Accountability** 
 
-IBM Technology Zone is a crowdsourced content portal for our go-to-market teams and partner ecosystem. In order to build the site with best-of-breed content, all [Bronze, Silver, Gold and Platinum](https://ibm.box.com/v/branding-standards) Contributors must adhere to the following standards to ensure content quality, accessibility and currency, which will keep the site viable.
+IBM Technology Zone is a crowdsourced content portal for our go-to-market teams and partner ecosystem. In order to build the site with best-of-breed content, all Bronze, Silver, Gold and Platinum Contributors must adhere to the following standards to ensure content quality, accessibility and currency, which will keep the site viable.
 
 NOTE: As you level up, your collections must incorporate the standards from the previous level, plus the new standards for the next level.
 
@@ -33,4 +33,4 @@ NOTE: As you level up, your collections must incorporate the standards from the 
 
 To get started contributing content, contact the brand squad leader that best aligns to the product or solution demo you would like to contribute. By doing so you are acknowledging that you have read and "AGREE" to the Business Partner contribution terms and conditions and the Content Contribution Guidelines and Accountability as stated above. 
 
-Align with a [Platinum squad leader](https://ibm.box.com/v/squad-leader) today! 
+Align with a Platinum squad leader today! 
