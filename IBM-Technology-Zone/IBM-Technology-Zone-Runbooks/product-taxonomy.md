@@ -93,13 +93,7 @@ Below is an example of a Cognitive Systems Minor unit not matching with a Brand 
 
 ## Report an IBM Federated Catalog taxonomy issue
 
-Not finding a product? 
-Identied a wrong UT values associated with a product? 
 
-Please contact: 
-
-* Dee Ann Benning - benning@us.ibm.com
-* Rupal Mehta - mehtar@us.ibm.com
 
 Dee Ann and Rupal will be able to point you to the contact to work with depending on the Unified Taxonomy update request or questions you have. Keep in mind branding changes or taxonomy changes could take time to go through approval process. 
 
