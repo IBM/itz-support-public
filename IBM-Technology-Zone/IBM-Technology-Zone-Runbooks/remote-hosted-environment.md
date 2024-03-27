@@ -9,7 +9,7 @@ The following are all infrastructure options that will let you redirect to other
 - VMWare Private Cloud TEC EMEA
 - Hosted redirect.
 
-If you have another portal or infrastructure that you would like to redirect to and have a new label, please create an [enhancement request](https://ibm.biz/techzone-enhancements) in Aha with the name of your new infrastructure. Additionally provide your business justification and the user base this would support. 
+
 
 ## Catalog the environment
 
