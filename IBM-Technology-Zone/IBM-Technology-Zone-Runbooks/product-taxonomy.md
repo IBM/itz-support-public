@@ -4,7 +4,6 @@ How it works today and who to contact based on the issue you are facing with IBM
 
 ## Basics of IBM Unified Taxonomy (UT)
 
-Learn more about [unitified taxonomy terminology](https://w3.ibm.com/w3publisher/unified-taxonomy/ut-terminology)
 
 To find your official product, brand, and business unit, please visit the official [IBM Federated Catalog (FedCat)](https://uatfedcat001.w3-969.ibm.com:9201/).
 
