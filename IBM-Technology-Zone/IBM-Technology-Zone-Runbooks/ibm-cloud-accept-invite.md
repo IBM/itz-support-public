@@ -43,7 +43,7 @@ To learn how to reserve an environment, view this document.
 
 **Step 2** Click on the bell notifications icon.
 
-![Bell Incon](https://github.com/IBM/itz-support-public/blob/79339c00fb16c79fc5468c05477a74b3f762c56b/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmcloud-notification.png)
+![Bell Incon](Images/ibmcloud-notification1.png)
 
 **Step 3** You will see a notification that says "You are invited to join an account in IBM Cloud", click the blue link on the right of your screen that says "Join now"
 
