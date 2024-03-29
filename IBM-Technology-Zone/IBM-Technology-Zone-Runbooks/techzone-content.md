@@ -247,36 +247,6 @@ Why is this process being automated? As content contributors accumulate and cont
 
 Emails sent to authors to remind them to update content based on content badge standards. Refer to the above list of issues that our new validation service will check regarding your content. 
 
-
-## When to expect this automation: 
-
-This automation is planned for Q3 2022. 
-
-Please come back to this runbook for additional documentation as we have more details on this initiative. 
-
-![validation](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/validationservice.png)
-
-Two validation checks to expect with MVP rollout end of July. 
-
-1. Based on badge of collection email authors if collections last updated date is more than the following per badge.
-   - 30 days for Platinum
-   - 60 days for Gold
-   - 90 days for Silver & Bronze
-2. Validate content owner is still valid. If not found in Blue Pages or within Authorization service, then email collaborators to reassign ownership.
-
-Emails sent to authors with trigger based on once a week running validation checks on all collections on published on Technology Zone. If a collection is in a draft or retired status the validation will not occur on these collections.
-
-## Support
-
-Additional questions or support on this initiative can be direct to brooke.jones@ibm.com.
-
-[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
-
-### SME
-
-Bugs identified can be captured in git issue board: https://github.ibm.com/dte2-0/cap-common-access-portal
-Questions can be directed to brooke.jones@ibm.com
-
 [Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
 
