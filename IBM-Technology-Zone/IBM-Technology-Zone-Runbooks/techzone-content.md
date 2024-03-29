@@ -139,8 +139,6 @@ Example two: Table view (otherwise known as list view)
 
 ![Product drop down list](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/product%20drop%20down%20list.png)
 
-* For more information on how we pull our list of IBM Products, reference the [Product Taxonomy run book](https://github.ibm.com/dte-support/private/blob/master/AssetRepo/AssetRepo-Runbooks/product-taxonomy.md)
-
 7. **Brand field:** This field is required but if you follow the previous step, this feild will automatically populate based on the Product that you input in the IBM Product field. 
 
 ![auto populated taxonomy](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/taxonomy%20auto%20populated.png)
