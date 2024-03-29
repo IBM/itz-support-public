@@ -94,7 +94,3 @@ A notification E-Mail is sent when a case is submitted and when subsequent actio
 
 ### Case Closed
 ![caseclosedmail](Images/caseclosedmail.png)
-
-## Further Support
-
-*For any further help needed to create a case, please reach out to Cameron Bhatnagar (cjbhatnagar@ibm.com)*
