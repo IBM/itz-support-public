@@ -381,10 +381,7 @@ Your reservation will be automatically deleted.
 
 
 ### Note:
-If any errors occur, request support on slack channel #itz-techzone-support. Please include your reservation information (environment id, dekstop url, cluster id, cluster name etc.)
-
-### SME:
-brooke.jones@ibm.com      
+If any errors occur, request support on slack channel #itz-techzone-support. Please include your reservation information (environment id, dekstop url, cluster id, cluster name etc.)    
     
 
 [Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
