@@ -8,7 +8,7 @@ To learn how to reserve an environment, view this document.
 ## How to Accept an IBM Cloud Invite through your email
 **Step 1** Navigate to your email where you should have received IBM Cloud environment updates ("Your environment has been scheduled", "Your environment is provisioning", "You are invited to join an account in IBM Cloud" and finally "Your environment is ready")
 
-![IBM Cloud account](Images/ibm-cloud-emails.png) 
+![IBM Cloud account](Images/ibm-cloud-emails1.png) 
 
 **Step 2** Inside the email titled "You are invited to join an account in IBM Cloud", click "Join now". 
 
