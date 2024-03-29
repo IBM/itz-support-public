@@ -10,7 +10,7 @@ To setup the Widget Dashboard as your Homepage:
 
 1. Click your profile picture in the top right corner and click "Profile"
 
-![widgetdashprofile](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashprofile1.png)
+![widgetdashprofile](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/widgetdashprofile11.png)
 
 2. Under "Default Homepage", select dashboard. 
 
@@ -77,6 +77,6 @@ Note: At this time, the "Get Started widget" cannot be removed.
 
 ## Customer Dashboard View
 
-![Customer Dashboard View](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/customer_dashboard_view.png)
+![Customer Dashboard View](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/customer_dashboard_view1.png)
 
 
