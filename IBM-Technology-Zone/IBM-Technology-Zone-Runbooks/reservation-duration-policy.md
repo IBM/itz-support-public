@@ -18,13 +18,12 @@ This Documentation contains information regarding reservation duration policies 
 
 Reservation duration policies are the length of time allowed to reserve an environment on a reservation form with additional insight into the length of time allowed to extend a reservation as well. Reference information below to learn about the current reservation duration policies in place today and where on the reservation form experience to look for these duration policies live.
 
-
-### Current Policies as of February 1st, 2024:
+### Current Policies as of April 1st, 2024:
 Recent changes are highlighted below in chart.
 
-watsonx.data, watsonx.ai, and watsonx.governance environments from the certified base images collection reserved with Customer Demo and Proof-of-Technology durations have been increased.
+VMWare environments reserved with Customer Demo and Proof-of-Technology durations have been increased.
 
-![01 2024 Reservation Policies](Images/02-2024-reservation-policies.png)
+![04 2024 Reservation Policies](Images/04-2024-reservation-policies.png)
 
 **Definitions:**
 - Vendor Provided: Self-education resources are accesible through the respective 3rd-party platform, please view the [Free 3rd Party Cloud Environments for Education Purposes runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/free-third-party-cloud-infrastructure-for-education.md) for more guidance.
