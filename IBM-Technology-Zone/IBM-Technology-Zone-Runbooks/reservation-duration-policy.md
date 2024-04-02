@@ -21,7 +21,8 @@ Reservation duration policies are the length of time allowed to reserve an envir
 ### Current Policies as of April 1st, 2024:
 Recent changes are highlighted below in chart.
 
-VMWare environments reserved with Customer Demo and Proof-of-Technology durations have been increased.
+- VMWare environments reserved with Customer Demo and Proof-of-Technology durations have been increased.
+- watsonx.data developer now allowing education reservations.
 
 ![04 2024 Reservation Policies](Images/04-2024-reservation-policies.png)
 
