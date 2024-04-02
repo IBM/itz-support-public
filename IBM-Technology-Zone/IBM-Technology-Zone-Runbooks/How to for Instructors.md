@@ -71,7 +71,6 @@ Note: **IBM Cloud ONLY!!!**  Attendee's will need to formally accept the invite 
 
 ![Workshopcompletemail](Images/workshopcompletemail.png) 
 
-For support and inquiries use the Slack channel #itz-workshop-support
 
 For Feed back click the "Workshop Manager feedback form" from the instructor page
 
