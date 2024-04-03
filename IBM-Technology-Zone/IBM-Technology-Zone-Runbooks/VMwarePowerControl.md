@@ -17,6 +17,3 @@ When the VM is on. User can reboot or shutdown it down
 When the VM is off. User can power it on. The loading circle will continue spinning until the VM powering process is completed.
 ![VPN](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/vm-status-off.png)
 
-
-## Support
-For any questions, contact ITZ support - techzone.help@ibm.com
