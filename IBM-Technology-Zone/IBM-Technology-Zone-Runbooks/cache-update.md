@@ -19,7 +19,3 @@ IBM Technology Zone has a cache layer that will take time to display changes and
 5. Once the job runs it will exit the Cache buster page or you can select done. 
 
 6. Notice your changes will now display and for others visiting your collection, it will display the most recent version for them as well.
-
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
