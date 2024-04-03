@@ -46,7 +46,3 @@ Regular Access:
 Use buttons under "VM Remote Console" to access your provisioned VMs.
 
 ![ConsoleAccess3](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Consoleaccess3.png)
-
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
