@@ -31,6 +31,3 @@ E.g. open MS Remote Desktop client and add the published service RDP link
 Enter your RDP credentials
 ![svc](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/vmware-public-rdp2.png)
 
-### Support
-
-For any questions, contact ITZ support: techzone.help@ibm.com
