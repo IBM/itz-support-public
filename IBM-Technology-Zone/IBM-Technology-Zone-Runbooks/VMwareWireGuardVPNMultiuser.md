@@ -40,6 +40,3 @@ Endpoint = 169.60.19.194:31907
 ```
 
 7. Share the new WireGuard config with your user
-
-Support
-For any questions, contact ITZ support - techzone.help@ibm.com
