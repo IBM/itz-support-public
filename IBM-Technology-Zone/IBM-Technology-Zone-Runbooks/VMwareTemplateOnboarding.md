@@ -136,8 +136,3 @@ Production Templates are admin owned VMs for environments defined within an enab
 
 
 
-
-For any questions, contact ITZ support - techzone.help@ibm.com
-
-
-
