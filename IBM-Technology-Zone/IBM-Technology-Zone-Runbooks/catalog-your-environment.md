@@ -12,10 +12,3 @@
 
 ### Step 4: To additionally customize your environment, view this [runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/gitops-tf-override.md) on how to override environment setting.
 
-
-
-**For support or additional questions,** contact techzone.help@ibm.com
-
-**SME** for all additonal help and inquiries is brooke.jones@ibm.com 
-
-
