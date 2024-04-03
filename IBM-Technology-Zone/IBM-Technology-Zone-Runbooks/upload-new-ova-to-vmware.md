@@ -2,8 +2,6 @@
 This will guide you through the steps to upload your new OVA/OVF files for your environment to the VMware on IBM Cloud infrastructure. <br>
 
 ## SUPPORT DETAILS:
-TechZone Help:  https://techzone.ibm.com/help<br>
-Under "How can we help?" on right side, look for:  "Site issues - Open a case or Email: techzone.help@ibm.com"<br>
 
 Link to open Support Case:  https://ibmsf.my.site.com/ibminternalproducts/s/createrecord/NewCase?language=en_US  <br>
 
