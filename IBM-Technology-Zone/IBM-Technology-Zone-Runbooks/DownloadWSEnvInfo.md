@@ -16,6 +16,6 @@ To download the spreadsheet:
 
 ### Support
 
-IBMers - use the [#itz-workshop-support](https://ibm-techzone.slack.com/archives/CTA2MV9AM) slack channel  
+
 
 For any questions, contact ITZ support - techzone.help@ibm.com  
