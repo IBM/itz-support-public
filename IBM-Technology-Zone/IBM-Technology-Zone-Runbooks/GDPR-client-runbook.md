@@ -24,7 +24,7 @@ Select the helper text icon for more information on each of these options.
 
 Once logged in, select your profile icon located in the L0 (top) navigation bar to the far right, then select "Profile". 
 
-![profile icon](Images/customer-profile.png)
+
 
 Select the "My opt-ins" tab.
 
