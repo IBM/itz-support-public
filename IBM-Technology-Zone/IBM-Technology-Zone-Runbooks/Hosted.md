@@ -37,10 +37,7 @@ Example environment detail
 
 ## Support
 
-For any questions, contact IBM TechnologyZone support.
-
-IBMers - Make a post on the #itz-techzone-support Slack Channel
-Business Partners - contact IBM TechZone support techzone.help@ibm.com
+For any questions, contact IBM Technology Zone support.
 
 Please include the 
 - Environment name, url or ID from your reservation
