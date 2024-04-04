@@ -48,11 +48,6 @@ Other Runbooks for the IBM Technology Zone or other DTE infrastructure can be fo
 
 ## Support
 
-For any questions, contact IBM TechnologyZone support.
-
-IBMers - Make a post on the #itz-techzone-support Slack Channel
-Business Partners - contact IBM TechZone support techzone.help@ibm.com
-
 Please include the 
 - Environment name, url or ID from your reservation
 - Error messages you have observed, or other specifics regarding the issue you are experiencing
