@@ -42,12 +42,3 @@ Runbooks regarding the time environments can be reserved, extensions, and transf
 
 Other Runbooks for the IBM Technology Zone or other DTE infrastructure can be found [here](https://github.com/IBM/itz-support-public).
 
-### Support
-
-For any questions, contact DTE support.
-
-Please include the Environment Name or Environment ID from your reservation in your message.
-
-Business Partners - Contact DTE Support - techzone.help@ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.
