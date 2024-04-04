@@ -19,13 +19,13 @@ Disclaimer: If you are not the author or a collaborator of the collection, then 
 
 ![audit log flag example](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/audit%20flag%20update.png)
 
-See in this example above that username: brooke.jones@ibm.com added an 'Activation kit' contributor flag.
+See in this example above that user added an 'Activation kit' contributor flag.
 
 5. Additionally, selecting another line item, we see that there was another update to the description field on August 27th at 4:54pm.
 
 ![description update](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/audit%20log%20example%202.png)
 
-Please note, that the 'Unknown' most likely can be tied to the last username that made an update to the collection. Meaning brooke.jones@ibm.com was the associated update that followed in the screenshot shown above for the 'Unknown' update.
+Please note, that the 'Unknown' most likely can be tied to the last username that made an update to the collection. Meaning the user was the associated update that followed in the screenshot shown above for the 'Unknown' update.
 
 Additionally note, that there are 'System' Username updates. This can be tied to cache updates or content calls to flags that need to be updated on the front end. 
 
@@ -54,10 +54,3 @@ Additionally note, that there are 'System' Username updates. This can be tied to
 - Industries: Industry flags on the collection form.
 
 
-
-
-## SME 
-
-Additional questions regarding 'System' or 'Unknown' username updates in the audit log can be directed to tpomeroy@us.ibm.com
-
-Question is terms of how to navigate the Audit log or use it can be directed to brooke.jones@ibm.com
