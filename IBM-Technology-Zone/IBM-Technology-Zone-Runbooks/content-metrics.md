@@ -244,16 +244,3 @@ If your collection or journey has been published and the resource was made avail
 * If results display below the Submit button with the URL that you entered and the Site ID IBM_DTE, then your URL has been successfully added to Digital Registry. Open a Support case with the IBM Technology Zone team to further investigate why metrics are not displaying correctly on the Content Metrics Dashboard. 
 
 * If results do not display then this URL must be submitted to Digital Registry and metrics will not be captured until it has been submitted. Open a Support case with the IBM Technology Zone team and provide the collection URL and/or the journey URL to be submitted to Digital Registry. Please allow up to one week as this is a manual process to submit URLs to Digital Registry. 
-
-
-## ADMIN - Support team
-
-Users that open a support case providing a collection URL or journey URL to be added to digital registry, open a git issue in the support escalation repostiory and assign label "Metrics Squad" and assign Siah. 
-
-Follow up with the user that the request has been sent to our metrics owner and that we will notify them when the URL has been added. Please allow up to 5 business days for a URL to be submitted as this is a manual process to upload URLs to Digital Registry. 
-
-If content owners are asking for the URL to the content metrics dashboard, ensure they are an IBMer and then share the following link with this runbook. 
-
-IBMer ONLY Content Metrics Dashboard URL - https://ibm.biz/itz-content-metrics
-
-Another option is to navigate them to the support page as described above in this runbook on how to get access. 
