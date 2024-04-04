@@ -51,6 +51,3 @@ Automated Mail output
 
 7. Click Save once form is completed
 
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
