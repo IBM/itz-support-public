@@ -35,13 +35,3 @@ Simply add your filters: in this example I filtered Visibility:Business Partner 
 ![filtered export](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/filtered-export.png)
 
 See 43 total collections display with this filtered set. Selecting the download icon will download the data set based of your filtered set. 
-
-runbook support copy pase
-
-### Support
-
-For any questions, contact DTE support.
-
-Business Partners - Contact DTE Support - itz@us.ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-itz.slack.com/archives/C0124J683GW) slack channel.
