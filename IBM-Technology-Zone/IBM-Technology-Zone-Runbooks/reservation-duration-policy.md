@@ -25,7 +25,7 @@ Recent changes are highlighted below in chart.
 - watsonx Customer Demo and POCs have increased durations
 - watsonx.data developer now allow education reservations
 
-![04 2024 Reservation Policies](Images/04-2024-reservation-policies-4.png)
+![04 2024 Reservation Policies](Images/04-2024-reservation-policies-5.png)
 
 **Definitions:**
 - Vendor Provided: Self-education resources are accesible through the respective 3rd-party platform
