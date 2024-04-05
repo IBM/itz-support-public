@@ -28,7 +28,3 @@ Are you going on vacation and worried about losing your reservation? You can tra
 
 Attention: It is a user's responsibility to ensure they extend reservations before the listed end date and time. 
 Environments are auto removed once reservations are expired and are currently not recoverable. All exception request should come in at least 72 hours before the scheduled end date and time. 
-
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
