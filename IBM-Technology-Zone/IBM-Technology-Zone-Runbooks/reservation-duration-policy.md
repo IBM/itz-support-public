@@ -28,7 +28,7 @@ Recent changes are highlighted below in chart.
 ![04 2024 Reservation Policies](Images/04-2024-reservation-policies-4.png)
 
 **Definitions:**
-- Vendor Provided: Self-education resources are accesible through the respective 3rd-party platform, please view the [Free 3rd Party Cloud Environments for Education Purposes runbook](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/free-third-party-cloud-infrastructure-for-education.md) for more guidance.
+- Vendor Provided: Self-education resources are accesible through the respective 3rd-party platform
 
 **Use Case:** The infrastructure of the environment being reserved broken down by the purpose in which the environment is being used for. This information is captured on the reservation form to determine the duration policy per reservation. 
 
