@@ -8,13 +8,13 @@ Content Preferences steps
 
 2.  Click the profile in the menu
 
-![](Images/Screen%20Shot%202022-08-30%20at%2010.13.46%20AM.png)
+![](Images/Screen%20Shot%202022-08-30%20at%2010.13.46%20AM1.png)
  
 
 
 3.  Click open preferences
 
-![](Images/Screen%20Shot%202022-08-30%20at%2010.13.54%20AM1.png)
+![](Images/Screen%20Shot%202022-08-30%20at%2010.13.54%20AM.png)
 
 
 
