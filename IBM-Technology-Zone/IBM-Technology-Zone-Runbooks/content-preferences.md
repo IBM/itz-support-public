@@ -14,7 +14,7 @@ Content Preferences steps
 
 3.  Click open preferences
 
-![](Images/Screen%20Shot%202022-08-30%20at%2010.13.54%20AM.png)
+![](Images/Screen%20Shot%202022-08-30%20at%2010.13.54%20AM1.png)
 
 
 
