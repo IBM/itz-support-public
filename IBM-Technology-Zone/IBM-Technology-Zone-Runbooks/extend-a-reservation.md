@@ -32,4 +32,3 @@ Environments are auto removed once reservations are expired and are currently no
 ### Support
 
 For any questions, contact ITZ support - techzone.help@ibm.com
-IBMers Slack Channel #itz-techzone-support(https://ibm-techzone.slack.com/archives/C0124J683GW)
