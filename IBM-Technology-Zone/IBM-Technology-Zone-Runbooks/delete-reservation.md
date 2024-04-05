@@ -18,6 +18,3 @@
 
 Your reservation will be automatically deleted.
 
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
