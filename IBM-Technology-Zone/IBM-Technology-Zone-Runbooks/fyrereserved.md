@@ -40,12 +40,6 @@ Example Environment detail
 ![fyrereservationdetails](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/fyrereservationdetail.png)
 
 
-For any issues with the environment check the documentation in the resources first.
-
-Runbooks regarding the time environments can be reserved, extensions, and transfers can be found ![here](https://github.com/IBM/dte-support-public/tree/main/IBM-Technology-Zone#reservations)
-
-Other Runbooks for the IBM Technology Zone or other DTE infrastructure can be found ![here](https://github.com/IBM/dte-support-public)
-
 ## Support
 
 Please include the 
