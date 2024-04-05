@@ -71,11 +71,3 @@ oc delete pod -l component=ibm-nginx
 ```
 
 Done. Check Cloud Pak for Integration dashboard route. It should have valid ROKS SSL certificates.
-
-### Support
-
-For any questions, contact ITZ support.
-
-Business Partners - Contact ITZ Support - techzone.help@ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
