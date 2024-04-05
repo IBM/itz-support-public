@@ -85,9 +85,3 @@ When running an IBM Cloud environment workshop (except VMware), an email will be
 ## VMWare on IBM Cloud invite information
 
 VMWare on IBM Cloud workshops will not send an email inviting instructors or users to the IBM Cloud account. Access credentials will be provided on the instructor and student pages. 
-
-### Support
-
-IBMers - 
-
-For any questions, contact ITZ support https://ibm.biz/itzsupport, follow steps listed [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/open_case_web_internal.md)to create a support case
