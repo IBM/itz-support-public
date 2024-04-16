@@ -46,15 +46,17 @@ _**Note:** This runbook is for IBMer use only._
 
 - [Why is my collection, journey, or resource name not showing in the Page Views or Click Events reports?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md#why-is-my-collection-journey-or-resource-name-not-showing-in-the-page-views-or-click-events-reports)
 
+Public link: [https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/content-metrics.md)
+
+# Content Metrics
+
+In this runbook, we will walk through the process for how a content author can access their to metrics regarding their content that they have contributed to IBM Technology Zone. 
+
+_**Note:** This runbook is for IBMer use only._
+
 ## Before Getting Started
 
 This section will help get you started understanding the terminology of metrics that are captured for content and the filters that you can leverage today. Additionally, best practices to be aware of before loading the dashboard or while loading the dashboard to get the best performance. 
-
-* Preferred browser for this content metrics dashboard that we recommend is Firefox. This browser option is the more performant browser than chrome at this time. 
-
-* For your awareness: There are over 2 million page views, over 500K click events, and over 200K reservations captured today throughout the three reports that we are making available to you in this content metrics dashboard. Due to the volume of metrics that are captured on these reports, loading these reports can take up to 5 minutes.
-
-* Best Practice is to clear filters before moving to another report. 
 
 ### General TechZone Content Definitions
 
@@ -66,9 +68,9 @@ Resource - A resource is a discrete piece of content in a collection to accompan
 
 Environment - An environment is a running infrastructure that can include pre-installed applications and services to interact with. An environment will generate a **reservation** metric every time a user reserves the environment successfully. 
 
-* NOTE: If the environment failes, a metric will not be captured.  
+* NOTE: If the environment fails, a metric will not be captured.  
 
-![collection metrics all](Images/collection-metrics-all.png)
+![collection metrics all](images/collection-metrics-all.png)
 
 ### Content Metric Dashboard Definitions
 
@@ -82,7 +84,7 @@ Click event - An element receives a click event when a pointing device button (s
 
 Unique users - Unique visitors refers to the number of distinct individuals visting your collection during the selected time frame selected. 
 
-* NOTE: Adding up unqique users month on month will never add up to the total unique user count that displays for the entire year. Unique users, depending on the time frame that you are selecting will show the unique users during that time frame. If you select one month, you will see the total unique users that month. If you select unique users for all of 2023, the user that you counted individually in one particular month might have revisted in another month in that year. 
+* NOTE: Adding up unique users month on month will never add up to the total unique user count that displays for the entire year. Unique users, depending on the time frame that you are selecting will show the unique users during that time frame. If you select one month, you will see the total unique users that month. If you select unique users for current year, the user that you counted individually in one particular month might have revisited in another month in that year. 
 
 Persona - The persona of the user visiting your collection. Options include: IBMer, Business Partner, and User. 
 
@@ -93,7 +95,7 @@ Persona - The persona of the user visiting your collection. Options include: IBM
 
 There are three main filters that can be applied to each report. Find definitions of each below with guidance on how to find the informatoin to effectivly filter your content metrics.
 
-* **NOTE** - Due to each report tab (Page views, Click Events, and Reservations) pulling from different data sources, leveraging these filters will have to be used one at a time. For example: When on the Page Views report tab, selecting a collection ID filter will not carry over if you then move to the Click Events report. This is a different data set so the filter will have to be reapplied. We simply provide these main filters at the top of all reports since there is a requirement to filter all reports by these three main data points. It is a best practice to remove the filter before navigating to the new report tab or by simply refreshing the page when you want to start over on a fresh report tab.
+* **NOTE** - Due to each report tab (Page views, Click Events, and Reservations) pulling from different data sources, leveraging these filters will have to be used one at a time. For example: When on the Page Views report tab, selecting a collection ID filter will not carry over if you then move to the Click Events report. This is a different data set so the filter will have to be reapplied. We simply provide these main filters at the top of all reports since there is a requirement to filter all reports by these three main data points. It is a best practice to refresh the page when you want to start over on a fresh report tab.
 
 Collection name - Can be found as the first title on a collection page. For example: This collection name is '[Model Home]( Unique visitors refers to the number of distinct individuals visting your collection during the selected time frame selected.)'. 
 
@@ -111,7 +113,7 @@ GEO - The geo of the user visiting your collection. Options include: Americas, A
 
 * NOTE: not-captured is similar to user persona note above. This user can not be tracked based on their personal cookie preferences. Additionally, this GEO metrics is not a filterable option on the "Reservations" report tab. Only from the Click Events and Page Views Reports.
 
-![main dashboard filters](Images/w_GEO_metrics.png)
+![collection-metrics.png](images%2Fcollection-metrics.png)
 
 ### Additional Dashboard Filters
 
@@ -121,9 +123,7 @@ Filter by Year - Select the year directly on the report to show metrics for the 
 
 Filter by Month - Select a specific month on the report to show metrics for that specific month. Notice that the totals for page views, unique users, or click events for example will update based on the specific month that you selected.
 
-NEW - As of November 2023, Page View reports are broken out by 2022 report tab and a 2023 tab. This change was done to improve performance due to the high volume of page view events captured per year. To filter by page view metrics on 2022, select the 2022 Page Views report tab. To filter by 2023 Page Views, select the 2023 Page Views report tab. 
-
-![additional filters](Images/additional-filters.png)
+![more-filters.png](images%2Fmore-filters.png)
 
 
 ### Digital Registry
@@ -133,28 +133,27 @@ IBM Technology Zone leverages Segment for page view and click event metrics. Eve
 
 ### Getting Access
 
-As of now, access is provided for IBMers directly on the Help page. We can not provide the link directly on this runbook as it should only be shared and accessible to IBMers at this time. 
+As of now, access is provided for IBMers directly on the Help page. We can not provide the link directly on this runbook as it should only be shared and accessible to IBMers at this time.
 
-![help metrics](Images/help-content-metrics.png)
 
-## Reports
+![help metrics](images/help-content-metrics.png)
+
+Once you open the link select Log in with ENTERPRISE SAML and use your ibm credentials.
+
+![cp4d-login.png](images%2Fcp4d-login.png)
+
+### **Reports**
 
 ### Page Views Report
 
-To get started reporting on page views for your collection page, select the 2022 Page Views report tab or the 2023 Page Views report tab. By default opening up either of these reports will display metrics for all IBM Technology Zone collection page views for that reports year. 
-
-![page views report](Images/pageviews_reports_yearly.png)
-
+To get started reporting on page views for your collection page, select the Page Views report tab . By default opening up either of these reports will display metrics for all IBM Technology Zone collections page views. 
 
 ### Collection Page View Report
-
-This report can be found from the "2022 Page Views" or "2023 Page Views" report tab.
-
 To see your specific collections page view metrics, navigate to the collection ID or collection name filter in the top right hand banner of this page to find your collection. Once the collection name or collection ID filter is applied, the Total Page Views count and Unique Users count will be updated to show the metrics associated for your collection. Additionally the Journey Name section will be updated automatically to pull in the journeys that you have associated with this collection.
 
 * NOTE: Need help finding your collection ID or collection name, scroll back up to the getting started section of this runbook to learn about the terminology and how to find the information we are requesting in these filters. 
 
-### **Journey Page View Report**
+### Journey Page View Report
 
 This report can be found from the "Page Views" report tab.
 
@@ -162,14 +161,14 @@ Once you have applied your collection filter to see overall collection page view
 
 Find the collection ID filter in the top right hand banner to display collection page view metrics as shown in screenshot below. Then select the Journey name to further filter on page views by journey on the collection initially filtered. 
 
-![journey page views report](Images/journey-pageviews-report.png)
-
+![journey-pageviews.png](images%2Fjourney-pageviews.png)
 
 ### Click Events Report
 
 To get started reporting on click events associated with the Journeys and Resources on your collection page, select the Clieck Events report tab. By default opening up this report will display metrics for all IBM Technology Zone collection page click events. 
 
-![click events report](Images/click-events-report.png)
+![click events report](images/click-events-report.png)
+
 
 ### **Journey Click Events Report**
 
@@ -179,23 +178,15 @@ To see your specific Journey click events associated to your collection page, na
 
 Find the collection ID filter in the top right hand banner to display collection specific click event metrics as shown in screenshot below. Then select the Journey name to further filter on the click events associated with the specific journey selected.
 
-![journey click events](Images/journey-click-events-report.png)
+![journey click events](images/journey-click-events-report.png)
 
 * NOTE: Fewer clicks on Journeys compared to Journey page views might indicate users are being shared the URL directly and not clicking the Journey tab on the collection page. 
-
-### **Resource Click Events Report**
-
-This report will be made available from the "Click Events" report tab.
-
-To see specific resource click events associated to your collection page, navigate to the collection ID or collection name filter in the top right hand banner of the metrics report page. Once the collection name or collection ID filter is applied, then you can choose to filter by Journey or go straight to the resource section (scroll down the page in the report) to filter by Resource name. Filtering by resource name will update the metrics dashboard to show you the Resource click events associated with this collection. 
-
-![resource click events report](Images/resourceclicksreport.png)
 
 ### Reservations Report
 
 To get started reporting on reservations associated with the environments on your collection page, select the Reservations report tab. By default opening up this report will display metrics for all IBM Technology Zone reservations. 
 
-![reservations report](Images/reservations-report.png)
+![reservations report](images/reservations-report.png)
 
 ### **Collection Reservations Report** 
 
@@ -209,25 +200,12 @@ This report can be found from the "Reservations" report tab.
 
 To see all reservations made on a specific environment on your collection, filter by collection ID or collection name to start. Once this filter is applied, further select the environment name from the list that you would like to see reservations for a specific environment. 
 
-![environment reservations report](Images/environment-reservations-report.png)
+![environment reservations report](images/environment-reservations-report.png)
 
-## Troubleshooting Guide
+### **Troubleshooting Guide**
 
 This section is to provide guidance to troubleshoot why certain metrics are not showing up in the dashboard as you would expect. 
 
-### How to resolve error "We cant retrieve the data from the dataset csv."?
-
-![metrics-datacsv-error](Images/metrics-datacsv-error.png)
-
-* We recommend Firefox as the preferred browser so if you are not using this browser please switch
-
-* Refresh the page
-
-* Clear history and cache
-
-* Open the content metrics dashboard in an incognito window on Firefox browser
-
-* If the issue persists, please log a support case with TechZone support.
 
 ### Why is my collection, journey, or resource name not showing in the Page Views or Click Events reports?
 
@@ -235,11 +213,11 @@ This section is to provide guidance to troubleshoot why certain metrics are not 
 
 If your collection or journey has been published and the resource was made available on the collection or Journey page for more than two weeks, follow these steps to further troubleshoot:
 
-* Navigate to [Digital Registry](https://digitalregistry.wdc1a.cirrus.ibm.com/#about/overview) site to check that the URL has been submitted. Digitial Registry site is an IBMer ONLY accessible.
+* Navigate to [Digital Registry](https://digitalregistry.wdc1a.cirrus.ibm.com/#about/overview) site to check that the URL has been submitted. Digital Registry site is an IBMer ONLY accessible.
 
 * Navigate to the [Explore URLs](https://digitalregistry.wdc1a.cirrus.ibm.com/#explore_urls/check_urls) tab and enter the full URL of the collection URL or specific journey URL into the **Paste URLS here, one per line:** field. Then click the 'Submit' button.
 
-![digital registry url check](Images/digital-registry-url-check.png)
+![digital registry url check](images/digital-registry-url-check.png)
 
 * If results display below the Submit button with the URL that you entered and the Site ID IBM_DTE, then your URL has been successfully added to Digital Registry. Open a Support case with the IBM Technology Zone team to further investigate why metrics are not displaying correctly on the Content Metrics Dashboard. 
 
