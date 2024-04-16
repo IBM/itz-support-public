@@ -217,7 +217,7 @@ If your collection or journey has been published and the resource was made avail
 
 * Navigate to the [Explore URLs](https://digitalregistry.wdc1a.cirrus.ibm.com/#explore_urls/check_urls) tab and enter the full URL of the collection URL or specific journey URL into the **Paste URLS here, one per line:** field. Then click the 'Submit' button.
 
-![digital registry url check](%mages/digital-registry-url-check.png)
+![digital registry url check](Images/digital-registry-url-check.png)
 
 * If results display below the Submit button with the URL that you entered and the Site ID IBM_DTE, then your URL has been successfully added to Digital Registry. Open a Support case with the IBM Technology Zone team to further investigate why metrics are not displaying correctly on the Content Metrics Dashboard. 
 
