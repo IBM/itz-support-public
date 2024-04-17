@@ -381,7 +381,3 @@ Example: https://github.ibm.com/dte2-0/ccp-gitops-patterns/tree/main/ibm-classic
 Save your TF files in a new folder. The folder name (e.g. `ibm-classic-vm`) will be used as your pattern name. Commit changes to 
 https://github.ibm.com/dte2-0/ccp-gitops-patterns
 The GitOps agent will upload your pattern to Techzone automatically.
-
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
