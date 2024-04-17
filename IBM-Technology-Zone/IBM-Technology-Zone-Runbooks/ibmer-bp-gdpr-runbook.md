@@ -48,11 +48,3 @@ A notification will display once your changes have been successfully captured to
 ![terms and conditions unaccepte](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/Terms%20and%20conditions%20modal%20unnaccept.png)
 
 
-### Support
-
-For any questions, contact ITZ support.
-
-Business Partners - Contact ITZ Support - techzone.help@ibm.com
-
-IBMers - Make a post on the [#itz-techzone-support](https://ibm-dte.slack.com/archives/C0124J683GW) slack channel.
-
