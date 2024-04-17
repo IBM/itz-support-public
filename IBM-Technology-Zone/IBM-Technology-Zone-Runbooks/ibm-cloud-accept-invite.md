@@ -76,7 +76,3 @@ Why can't I access IBM Cloud? If you do not accept the IBM Cloud invitation, as 
 
 ![ibmcloud-error](https://github.com/IBM/itz-support-public/blob/79339c00fb16c79fc5468c05477a74b3f762c56b/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/ibmcloud-error.png)
 
-
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
