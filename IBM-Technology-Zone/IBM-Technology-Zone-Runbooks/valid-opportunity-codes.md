@@ -161,9 +161,3 @@ For additional questions or support on BOSS IDs, email lstadmin@us.ibm.com or at
 
 ![opp product error](https://github.com/IBM/itz-support-public/blob/ae3cf8ec7eb6e60aa138495b4ac01f59b1cf24f4/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/oppproducterror.png)
 
-
-
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
-
