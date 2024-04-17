@@ -51,6 +51,3 @@ $ oc login -u apikey -p API_KEY
 
 The IBM Cloud documentation describes some additional steps to get an OCP access token to the cluster. Those did not seem to be necessary.
 
-### Support
-
-For any questions, contact ITZ support - techzone.help@ibm.com
