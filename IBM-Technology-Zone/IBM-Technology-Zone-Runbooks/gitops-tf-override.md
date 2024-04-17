@@ -24,7 +24,3 @@ Once your pattern is onboarded, you can create a new environment from it.
 
 
 *- GitOps based: IBM Cloud, AWS, and Azure
-
-### Support
-
-For any questions, contact ITZ support, techzone.help@ibm.com
