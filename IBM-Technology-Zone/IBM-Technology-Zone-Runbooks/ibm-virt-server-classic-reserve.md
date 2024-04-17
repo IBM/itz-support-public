@@ -12,6 +12,3 @@ For Windows, use RDP
 
 Note: Private IP is not accessible externally. This can only be used between IBM Virtual Server Instance (Classic) VMs.  
 
-### Support  
-
-For any questions, contact ITZ support - techzone.help@ibm.com  
