@@ -21,7 +21,7 @@ If you have an environment that needs regulated customer data or you need an env
 
 _**NOTE: Customer data environments need to go through Business Information Security Office (BISO) for legal approval before the IBM Technology Zone team can proceed with setting up your environment. Get started by submitting your custom request for the TechZone team to review and to begin this process and please be aware that this process can add an additional month for necessary legal reviews.**_
 
-![Customer Data Type](https://github.com/IBM/itz-support-public/blob/2bb827675a967ac45c49644be1f421c40e12d57a/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/CRcustomerdata.png)
+![Customer Data Type](https://raw.githubusercontent.com/IBM/itz-support-public/9d6a3b7e1ff4d9bfb294a540092012cf739515f3/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/CRcustomerdata.png)
 
 **IMPORTANT - Email your [legal "one-pager"](https://www.ibm.com/support/customer/csol/terms/internal/?id=Z126-9237&cc=us&lc=en#detail-document) to the client prior to working with their data. (*signature not required). If customer has any concerns with agreement, you must engage with legal. Legal is working w/ CIO office to create a “contract generator” which will supersede existing “one pager” at a future date.**
 
