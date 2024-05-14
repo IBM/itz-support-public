@@ -17,11 +17,11 @@ If you need support classifying customer data or a risk assessment associated wi
 
 ## Regulated Customer Data Environment Requests
 
-If you have an environment that needs regulated customer data or you need an environment on TechZone that does not support the customer data option, please submit a [TechZone Custom Request](https://ibm.biz/custom-techzone-requests) and select request type 'Customer Data Environment' to get started with this process. Provide the environment name and collection URL for the environment on TechZone that does not currently allow for customer data in your request. 
+If you have an environment that needs regulated customer data or you need an environment on TechZone that does not support the customer data option, please submit a [TechZone Custom Request](https://ibm.biz/custom-techzone-requests) and select option "Yes, I will be using customer data that is NOT regulated. I understand that PI, SPI, PCI, PHI, financial, or other regulated data is NOT allowed." under "Customer Data" to indicate this. This will appears once a Customer Data or PoT purpose and region is selected. Please also provide the environment name and collection URL for the environment on TechZone that does not currently allow for customer data in your request. 
 
 _**NOTE: Customer data environments need to go through Business Information Security Office (BISO) for legal approval before the IBM Technology Zone team can proceed with setting up your environment. Get started by submitting your custom request for the TechZone team to review and to begin this process and please be aware that this process can add an additional month for necessary legal reviews.**_
 
-![Customer Data Type](https://github.com/IBM/itz-support-public/blob/2bb827675a967ac45c49644be1f421c40e12d57a/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/customerdatatype.png)
+![Customer Data Type](https://raw.githubusercontent.com/IBM/itz-support-public/9d6a3b7e1ff4d9bfb294a540092012cf739515f3/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/CRcustomerdata.png)
 
 **IMPORTANT - Email your [legal "one-pager"](https://www.ibm.com/support/customer/csol/terms/internal/?id=Z126-9237&cc=us&lc=en#detail-document) to the client prior to working with their data. (*signature not required). If customer has any concerns with agreement, you must engage with legal. Legal is working w/ CIO office to create a “contract generator” which will supersede existing “one pager” at a future date.**
 
