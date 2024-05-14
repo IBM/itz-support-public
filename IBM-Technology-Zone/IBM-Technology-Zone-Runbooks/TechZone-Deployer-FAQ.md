@@ -32,11 +32,11 @@ Steps to restart the pipeline with the same parameters it had when it failed:
 
 The TechZone Deployer is one piece of the reservation deployment process, and it will save you time if you contact the right people for the problem you are experiencing.
 
-If you are having problems with the cluster in general (reservation failed to be created, storage not working correctly, nodes are not to the correct specifications, ect.), create a support case. Information for creating a support case can be found in the ["Help" section of the IBM Technology Zone on the right side](https://techzone.ibm.com/help).
+If you are having problems with the cluster in general (reservation failed to be created, storage not working correctly, nodes are not to the correct specifications, ect.), create a support case.
+
+If there is a problem with the Pipeline that was deploying the IBM product defined by the reservation, then create a support case and be sure to include the name of the pipeline as well as any errors you can see. Information for creating a support case can be found in the ["Help" section of the IBM Technology Zone on the right side](https://techzone.ibm.com/help).
 
 If you are having problems installing demos or running scripts from people outside of the IBM Technology Zone, then reach out to the owners of those demos or scripts. We can't help everyone debug every issue from custom resources, but if there is something wrong with the way our automation configured the IBM product it depends on, the owners of the demo/script will be the best able to work with us to fix it.
-
-If there is a problem with the Pipeline that was deploying the IBM product defined by the reservation, then reach out to our team at our slack channel [#itz-techzone-deployer](https://ibm.enterprise.slack.com/archives/C03NLFN335M) or email one of the SME's listed in this runbook.
 
 ## TechZone Deployer SMEs
 
