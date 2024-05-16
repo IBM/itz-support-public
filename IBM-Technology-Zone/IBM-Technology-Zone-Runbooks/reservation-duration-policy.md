@@ -18,12 +18,10 @@ This Documentation contains information regarding reservation duration policies 
 
 Reservation duration policies are the length of time allowed to reserve an environment on a reservation form with additional insight into the length of time allowed to extend a reservation as well. Reference information below to learn about the current reservation duration policies in place today and where on the reservation form experience to look for these duration policies live.
 
-### Current Policies as of April 1st, 2024:
+### Current Policies as of May 7th, 2024:
 Recent changes are highlighted below in chart.
 
-- VMWare environments reserved with Customer Demo and Proof-of-Technology have increased durations
-- watsonx Customer Demo and POCs have increased durations
-- watsonx.data developer now allow education reservations
+- watsonx.ai, watsonx Assistant Plus, and watsonx Discovery Plus increased from 6 to 14 days.
 
 ![04 2024 Reservation Policies](Images/04-2024-reservation-policies-5.png)
 
