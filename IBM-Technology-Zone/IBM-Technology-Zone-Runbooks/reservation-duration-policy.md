@@ -23,7 +23,20 @@ Recent changes are highlighted below in chart.
 
 - watsonx.ai, watsonx Assistant Plus, and watsonx Discovery Plus increased from 6 to 14 days.
 
-![04 2024 Reservation Policies](Images/04-2024-reservation-policies-5.png)
+### TechZone Reservation Purpose Name Updates as of May 16th:
+
+To align with IBM Sales Cloud, TechZone is updating reservation purpose names to align with PoX's.
+
+Old reservation purpose name -> new reservation purpose name:
+- Customer Demo -> Demo
+- Proof-of-Technology -> Pilot
+
+Additionally, to simplify nomenclature of other purposes, we are updating Practice / Self Education to simply Education. 
+
+Please note: Existing reservations with old purpose names will not be impacted and will keep existing duration policies. Net new reservations on new purpose names will adhere to the same duration policies as the old purpose name it is replacing. 
+
+
+![04 2024 Reservation Policies](Images/purpose-updates.png)
 
 **Definitions:**
 - Vendor Provided: Self-education resources are accesible through the respective 3rd-party platform
