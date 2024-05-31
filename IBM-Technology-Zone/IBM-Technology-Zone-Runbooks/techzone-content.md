@@ -337,7 +337,30 @@ Select the view tab at the top right hand corner of the edit collection form. If
         
 [Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
 
+## Collection Image Upload Recommendations
 
+Content owners that would like to leverage the collection cover art field, please leverage the guidance below:
+![cover art field](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/card%20cover%20art.png)
+
+**General Guidelines:**
+
+- Avoid Images with Text: Ensure the image does not contain any text as it may not display properly and can distract from the overall design.
+- Simplicity is Key: Choose images where intricate details are not important. This ensures the image looks good across various screen sizes and resolutions. 
+
+**Aspect Ratio:**
+
+- Preferred Aspect Ratio: 2:4 (2 units tall by 4 units wide). This aspect ratio is optimal for our platform and ensures the best display quality.
+- Square Images: While uploading square images is acceptable, extremely tall or wide images will appear stretched. Aim for images that are more balanced in height and width.
+
+**Image Display Dynamics:**
+- Centering: Images will be centered both vertically and horizontally on the screen. Ensure your subject is in the center for the best visual appeal.
+- Cover Fit: Images will cover the designated area completely. This means they might be stretched to fit the width or height, so avoid using images where this could distort important details.
+
+**Theme and Content:**
+- Pattern-Centric Themes: Images with patterns or abstract designs work well. These images generally look good when stretched or resized, maintaining their visual appeal.
+- Minimal Fine Details: Opt for images without small, fine details that could be lost or blurred when the image is resized.
+
+By following these guidelines, you can ensure that your images will look great and maintain their quality regardless of the screen size or browser used by your audience.
 
 ## 3. Environments
 
