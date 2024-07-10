@@ -17,9 +17,12 @@ If you need support classifying customer data or a risk assessment associated wi
 
 ## Regulated Customer Data Environment Requests
 
-If you have an environment that needs regulated customer data or you need an environment on TechZone that does not support the customer data option, please submit a [TechZone Custom Request](https://ibm.biz/custom-techzone-requests) and select option "Yes, I will be using customer data that is NOT regulated. I understand that PI, SPI, PCI, PHI, financial, or other regulated data is NOT allowed." under "Customer Data" to indicate this. This will appears once a Customer Data or PoT purpose and region is selected. Please also provide the environment name and collection URL for the environment on TechZone that does not currently allow for customer data in your request. 
+If you have an environment that needs regulated customer data or you need an environment on TechZone that does not support the customer data option, please submit a [TechZone Custom Request](https://ibm.biz/custom-techzone-requests) and select option "Customer Data" 
 
 _**NOTE: Customer data environments need to go through Business Information Security Office (BISO) for legal approval before the IBM Technology Zone team can proceed with setting up your environment. Get started by submitting your custom request for the TechZone team to review and to begin this process and please be aware that this process can add an additional month for necessary legal reviews.**_
+
+<img width="588" alt="image" src="https://github.com/IBM/itz-support-public/assets/112491286/d539e724-1099-42b2-a60f-1dccef37a6e0">
+
 
 ![Customer Data Type](https://raw.githubusercontent.com/IBM/itz-support-public/9d6a3b7e1ff4d9bfb294a540092012cf739515f3/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/CRcustomerdata.png)
 
