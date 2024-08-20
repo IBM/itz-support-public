@@ -62,7 +62,7 @@ There are three ways to modify the components to your cluster after the pipeline
 
 ### I want to create a reuseable component configuration so that I don't have to always change the pipeline values in the UI.
 
-The CP4D pipeline and pipeline run code are located in there own public repo at https://github.com/cloud-native-toolkit/deployer-cloud-pak-deployer and [this is a link](https://github.com/cloud-native-toolkit/deployer-cloud-pak-deployer/tree/main/cp4d/4.8.x) to the pipeline and pipelinerun used in the CP4D 4.8.4 reservation.
+The CP4D pipeline and pipeline run code are located in their own public repo at https://github.com/cloud-native-toolkit/deployer-cloud-pak-deployer and [this is a link](https://github.com/cloud-native-toolkit/deployer-cloud-pak-deployer/tree/main/cp4d/4.8.x) to the pipeline and pipelinerun used in the CP4D 4.8.4 reservation.
 
 As long as you are using a TechZone created Deployer cluster, you can create/apply the pipeline and pipelinerun files in the cluster to start the pipeline manually with a pre-defined configuration of components.
 
