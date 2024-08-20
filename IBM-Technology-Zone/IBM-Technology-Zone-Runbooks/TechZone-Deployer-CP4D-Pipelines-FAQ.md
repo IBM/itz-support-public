@@ -93,15 +93,19 @@ Below are step-by-step instructions for uninstalling the the TechZone Deployer o
 1. Go to the installed operators section of the UI in OpenShift and find the TechZone Deployer Operator.
 ![deployer operator](Images/tz-deployer-operator.png)
 
-2. Click the three dots on the right and select "Uninstall Operator"
+2. Click the three dots on the right and select "Uninstall Operator"  
+**When given the option, click the checkbox to "Delete all operand instances for this operator"**
 ![deployer operator](Images/tz-deployer-operator-uninstall.png)
+![deployer operator](Images/deployer-uninstall-checkbox.png)
+
 
 3. Confirm that you want to uninstall it and then wait for the OpenShift Pipelines operator to stop updating. It should take ~3 to 5 minutes as the Deployer Operator locks OpenShift Pipelines to a specific version, so once it is uninstalled the OpenShift Pipelines Operator will automatically attempt to update to the latest version.
 
 **DO NOT UNINSTALL OPENSHIFT PIPELINES WHILE IT IS STILL UPDATING** - this will leave remnants in the cluster that will be hard to manually remove later.
 
-4. Once OpenShift Pipelines is done updating, uninstall the operator the same way as before. Click the three dots on the right and select "Uninstall Operator"
+4. Once OpenShift Pipelines is done updating, uninstall the operator the same way as before. Click the three dots on the right and select "Uninstall Operator" and click the checkbox to "Delete all operand instances for this operator" 
 ![deployer operator](Images/openshift-pipelines-uninstall.png)
+![deployer operator](Images/os-pipelines-uninstall-checkbox.png)
 
 5. Once the OpenShift Pipelines operator is uninstalled, go to the cloud pak deployer's configmap named "cloud-pak-deployer-config" located in the cloud-pak-deployer project.
 ![deployer operator](Images/cloud-pak-deployer-configmap.png)
