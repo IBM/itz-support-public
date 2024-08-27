@@ -88,6 +88,66 @@ Watson Pipelines is incapable of exisiting on a cluster that already has OpenShi
 
 This is a failure of the product that the product team has stated there is no timeline to fix. If you need to install it on the cluster, first uninstall the TechZone Deployer operator and the OpenShift Pipelines operator, then install Watson Pipelines using [the official instructions for installing Watson Pipelines](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=pipelines-installing) or the [Cloud Pak Deployer](https://ibm.github.io/cloud-pak-deployer/).
 
+Below are step-by-step instructions for uninstalling the the TechZone Deployer operator and the OpenShift Pipelines operator, as well as guidance for running the cloud pak deployer afterwards to install Watson Studio Pipelines. Once the TechZone Deployer and OpenShift Pipelines are uninstalled you will no longer be able to run any TechZone Deployer pipelines, so be sure that you've installed everything else that you want before doing this.
+
+1. Go to the installed operators section of the UI in OpenShift and find the TechZone Deployer Operator.
+![deployer operator](Images/tz-deployer-operator.png)
+
+2. Click the three dots on the right and select "Uninstall Operator"  
+**When given the option, click the checkbox to "Delete all operand instances for this operator"**
+![deployer operator](Images/tz-deployer-operator-uninstall.png)
+![deployer operator](Images/deployer-uninstall-checkbox.png)
+
+
+3. Confirm that you want to uninstall it and then wait for the OpenShift Pipelines operator to stop updating. It should take ~3 to 5 minutes as the Deployer Operator locks OpenShift Pipelines to a specific version, so once it is uninstalled the OpenShift Pipelines Operator will automatically attempt to update to the latest version.
+
+**DO NOT UNINSTALL OPENSHIFT PIPELINES WHILE IT IS STILL UPDATING** - this will leave remnants in the cluster that will be hard to manually remove later.
+
+4. Once OpenShift Pipelines is done updating, uninstall the operator the same way as before. Click the three dots on the right and select "Uninstall Operator" and click the checkbox to "Delete all operand instances for this operator" 
+![deployer operator](Images/openshift-pipelines-uninstall.png)
+![deployer operator](Images/os-pipelines-uninstall-checkbox.png)
+
+5. Once the OpenShift Pipelines operator is uninstalled, go to the cloud pak deployer's configmap named "cloud-pak-deployer-config" located in the cloud-pak-deployer project.
+![deployer operator](Images/cloud-pak-deployer-configmap.png)
+
+6. Edit the configmap to change the value of ws_pipelines from "removed" to "installed" and save the change.
+![deployer operator](Images/cpd-configmap-ws-pipelines-removed.png)
+![deployer operator](Images/cpd-configmap-ws-pipelines-installed.png)
+
+
+7. Click the plus button on the top right of the screen in the OpenShift UI and paste the following yaml from [the cloud pak deployer documentation](https://ibm.github.io/cloud-pak-deployer/10-use-deployer/3-run/existing-openshift-console/#start-the-deployer).
+
+```
+apiVersion: v1
+kind: Pod
+metadata:
+  labels:
+    app: cloud-pak-deployer-start
+  generateName: cloud-pak-deployer-start-
+  namespace: cloud-pak-deployer
+spec:
+  containers:
+  - name: cloud-pak-deployer
+    image: quay.io/cloud-pak-deployer/cloud-pak-deployer:latest
+    imagePullPolicy: Always
+    terminationMessagePath: /dev/termination-log
+    terminationMessagePolicy: File
+    command: ["/bin/sh","-xc"]
+    args: 
+      - /cloud-pak-deployer/scripts/deployer/cpd-start-deployer.sh
+  restartPolicy: Never
+  securityContext:
+    runAsUser: 0
+  serviceAccountName: cloud-pak-deployer-sa
+  ```
+
+![deployer operator](Images/cloud-pak-deployer-start-yaml.png)
+
+8. Once you click the create button at the bottom left it will kick off the creation of the new cloud pak deployer pods where you can watch the logs to see if the install is successful. Because you are no longer using the TechZone supported installation process, questions/issues about the cloud pak deployer may best be answered in the #cloud-pak-deployer-users slack channel.
+
+![deployer operator](Images/cloud-pak-deployer-start.png)
+![deployer operator](Images/cloud-pak-deployer-logs.png)
+
 ## TechZone Deployer SMEs
 
 [David Massey](mailto:david.massey@ibm.com), [David Stacy](mailto:david.stacy@ibm.com), [Cong Nguyen](mailto:cong.nguyen@au1.ibm.com), [Craig Cooper](mailto:craig.cooper@ibm.com)
