@@ -42,7 +42,7 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
 * Settings
   * Preffered     
     ```
-    Account Pool: itzmware
+    Account Pool: itzvmware
     Cloud Account: Any
     Geo: Select preferred geo (Americas,Europe or AP)
     Region: Any
@@ -52,7 +52,7 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
     ```
   * Alternative
     ```
-    Account Pool: itzmware
+    Account Pool: itzvmware
     Cloud Account: Select preferred cloud account (itzvmware,itzsquad, itzvmware-ocpgym,itzv2...)
     Geo: Select preferred geo (Americas,Europe or AP)
     Region: Select preferred region (us-east,eu-de, jp-tok ... )
@@ -99,7 +99,7 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
 
   * Preffered
     ```
-    Account Pool: itzmware
+    Account Pool: itzvmware
     Cloud Account: Any
     Geo: Select preferred geo (Americas,Europe or AP)
     Region: Any
@@ -110,7 +110,7 @@ It takes **2 to 3** business days to complete a template copy/onboarding request
 
   * Alternative
     ```
-    Account Pool: itzmware
+    Account Pool: itzvmware
     Cloud Account: Select preferred cloud account (itzvmware,itzsquad, itzvmware-ocpgym,itzv2...)
     Geo: Select preferred geo (Americas,Europe or AP)
     Region: Select preferred region (us-east,eu-de, jp-tok ... ) 
