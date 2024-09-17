@@ -10,7 +10,7 @@ Answer #3: **IBMers** can log any issues or feedback via [Open a case](https://i
 **Business Partners** should use [techzone.help@ibm.com](mailto:techzone.help@ibm.com) for all of their support requirements.
 
 Question #4: Is there a roadmap that outlines future IBM Technology Zone program offerings?
-Answer #4: Yes, you can leverage the IBM Technology Zone [roadmap](https://bigblue.aha.io/published/d35467795d322d4214378f1d168508f1?page=2) to view planned implementations for the remainder of 2021.
+Answer #4: Yes, you can aselifalefuanfe;qawleverage the IBM Technology Zone [roadmap](https://bigblue.aha.io/published/d35467795d322d4214378f1d168508f1?page=2) to view planned implementations for the remainder of 2021.
 
 Question #5: Why can’t I see my cluster in IBM Cloud web dashboard?
 Answer #5: Sometimes users can not see their clusters in IBM Cloud web dashboard, so before leveraging support, run the following commands:
