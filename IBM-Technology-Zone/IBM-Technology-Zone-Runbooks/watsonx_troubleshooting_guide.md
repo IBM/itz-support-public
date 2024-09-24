@@ -11,7 +11,7 @@ Instructions how to navigate and troubleshoot issues on Techzone's watsonx Certi
 ### 1. IBM ID watsonx SaaS environments
   * [Steps to create a Project on a watsonx.ai instance on SaaS](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#steps-to-create-a-project-on-a-watsonxai-instance-on-saas)
 
-  * [Why can't I create a project on SaaS or associate my service in the project?]()
+  * [Why can't I create a project on SaaS or associate my service in the project?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#why-cant-i-create-a-project-on-saas-or-associate-my-service-in-the-project)
 
   * [How to share my project?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-share-my-project)
 
@@ -31,16 +31,16 @@ Instructions how to navigate and troubleshoot issues on Techzone's watsonx Certi
 
 ### 2. Student ID watsonx SaaS environments
               
-   * [What is Student ID environment?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#introduction-to-collections----what-is-a-collection)
+   * [What is Student ID environment?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#what-is-student-id-environment)
 
-   * [How to login with my Student ID?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-create-a-collection)
+   * [How to login with my Student ID?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-login-with-my-student-id)
 
-   * [How to get to the watsonx.ai platform via Student ID?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#how-to-edit-a-collection)
+   * [How to get to the watsonx.ai platform via Student ID?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-get-to-the-watsonxai-platform-via-student-id)
 
-   * [How to use the API Key with my Student ID reservation? (IBM Only)](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#ownership-transfer)
+   * [How to use the API Key with my Student ID reservation?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-with-my-student-id-reservation)
 
 
-[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/techzone-content.md#techzone-contents-guide)
+[Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#watsonx-troubleshooting-guide)
 
 
 ## IBM ID watsonx SaaS environments
@@ -208,11 +208,11 @@ The watsonx Student ID environments are now available as part of Certified Base 
 
 2. Once you have provisioned your environment, navigate to the reservation page and you will notice that there is a different login in link and credentials provided. They are different from logging into IBM Cloud directly.
 
-![studentid-resdetails](https://github.com/IBM/itz-support-public/blob/52c7807676a1394d1474c90bf6ad8bae0974b0b9/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-resdetails.png)
+![studentid-resdetails](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-resdetails.png)
 
 3. Open the access link in a private tab or ensure you have logged out of your own IBM Cloud account. The URL name will be different depending on the cloud account where your reservation is.
 
-![studentid-loginpage](https://github.com/IBM/itz-support-public/blob/52c7807676a1394d1474c90bf6ad8bae0974b0b9/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-loginpage.png)
+![studentid-loginpage](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-loginpage.png)
 
 4. Enter the credentials provided within the reservation, do not use your IBM ID.
 
@@ -221,20 +221,20 @@ The watsonx Student ID environments are now available as part of Certified Base 
 ### How to get to the watsonx.ai platform via Student ID?
 1. Once you have logged in to the cloud account using the Student ID, navigate to the resource list and find the watson studio instance.
 
-![studentid-resources](https://github.com/IBM/itz-support-public/blob/52c7807676a1394d1474c90bf6ad8bae0974b0b9/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-resources.png)
+![studentid-resources](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-resources.png)
 
 2. Select the instance and click 'Launch in watsonx'.
 
-![studentid-studio](https://github.com/IBM/itz-support-public/blob/52c7807676a1394d1474c90bf6ad8bae0974b0b9/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-studio.png)
+![studentid-studio](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-studio.png)
 
 3. A form will be prompted requesting to provide details. Wait for up to a minute and the form will disappear and click the continue button, then the platform will apear.
 
-![studentid-form](https://github.com/IBM/itz-support-public/blob/52c7807676a1394d1474c90bf6ad8bae0974b0b9/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-form.png)
+![studentid-form](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-form.png)
 
 ### How to use the API Key with my Student ID reservation?
 1. To enable the use of API Key with your student ID, open the project settings under Access Control.
 
-![studentid-dropdown](https://github.com/IBM/itz-support-public/blob/52c7807676a1394d1474c90bf6ad8bae0974b0b9/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-dropdown.png)
+![studentid-dropdown](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-dropdown.png)
 
 2. Click the Add Collaborators button and select Add Access Group.
 
@@ -242,4 +242,4 @@ The watsonx Student ID environments are now available as part of Certified Base 
 
 4. Select the access group and import it as admin.
 
-![studentid-agadd](https://github.com/IBM/itz-support-public/blob/52c7807676a1394d1474c90bf6ad8bae0974b0b9/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-agadd.png)
+![studentid-agadd](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-agadd.png)
