@@ -116,19 +116,11 @@ The steps below are required in order to share a wastonx project you have create
 5. Add user to projects as needed
 
 ### Why can't I share my WatsonX project with a user?
+1. Ensure you have imported the access group as outlined here in your project: 
+   * [How to use the API Key with my Student ID reservation?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-with-my-student-id-reservation)
 
-If you are running into issues sharing a project or a user is not able to view a project that was shared with them, some permissions may be missing. To troubleshoot this:
+2. Share the reservation with the user and ensure they are part of the access group.
 
-1. Create a case with Techzone Support.
-
-> Be sure to include your reservation ID and the email of the user you are attempting to share your instance with. It will be helpful to share this runbook with support and ask for the team to check on your permissions
-
-2. Support will check if you have the access policy called "All Account Management Services".
-
-*NOTE: Access to All Account Management Service access is IBM ONLY applicable*
-
-
-3. If you are not already assigned to that group, the support team will add you, then you can attempt sharing again.
 
 ### I can't open watsonx.ai ('Get Started' button instead of 'Launch')
 
