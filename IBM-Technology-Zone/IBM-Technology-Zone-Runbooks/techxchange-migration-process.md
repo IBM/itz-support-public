@@ -3,8 +3,23 @@
 
 You own an environment that was used at a TechXchange event and you would like to have migrated so others can make a reservation directly on TechZone. 
 
-## Getting Started
+## Before you start
 
+Before you migrate your labs from TechXchange to TechZone, you should be aware of both the initial
+and the ongoing expectations for TechZone content. To continue to have up-to-date and relavent 
+content in TechZone, you should be aware of TechZone's content lifecycle.
+
+To learn more about the content lifecycle for TechZone, see the questions below in the FAQ:
+
+1. [Is there a lifecycle for content in TechZone?](/IBM-Technology-Zone/IBM-Technology-Zone-FAQs/content-faqs.md#is-there-a-lifecycle-for-content-in-techzone)
+1. [What are the expectations for author support in TechZone?](/IBM-Technology-Zone/IBM-Technology-Zone-FAQs/content-faqs.md#what-are-the-expectations-for-author-support-in-techzone)
+
+It is important to understand--before migrating your content to TechZone--that publishing your
+content in TechZone comes with an obligation to support the content and keep it updated as long
+as it's published in TechZone.
+
+
+## Getting Started
 
 ### 1. Before migrating an Environment you must first have a TechZone Collection.
 
