@@ -101,7 +101,7 @@ It is recommended to have the participants of the workshop to create IBM ID to a
 If the participants are not known in advance and they are unable to create IBM IDs, for best results consider the use of the Student ID environments to avoid any issues related to onboarding users to IBM ID and getting access to the workshop environment.
 
 ### How can I get help during my workshop?
-Live workshop issues can be reported to our support team as Severity 1. Please contact Techzone Support using this form to get assistance with provisioning issues and environment access issues. If the issue is specific to only a few environments include their numbers and replication steps for the issue with any error message present. The Support team will work accordingly to address the issue, ensure the workshop ID or URL is included in the support ticket for faster resolution of the problem.
+Live workshop issues can be reported to our support team as Severity 1. Please contact Techzone Support using [this form](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) to get assistance with provisioning issues and environment access issues. If the issue is specific to only a few environments include their numbers and replication steps for the issue with any error message present. The Support team will work accordingly to address the issue, ensure the workshop ID or URL is included in the support ticket for faster resolution of the problem.
 
 
 ### What additional resources can I provide to my students for troubleshooting and help?
