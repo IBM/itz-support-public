@@ -144,11 +144,4 @@ Content that is authored by contributors outside should be supported by the cont
 contributor. If the author or collaborators are unresponsive or unable to commit to supporting
 the content, the content will be archived.
 
-TechZone supports the infrastructure and automation inside TechZone, no matter who authored the
-content. For example, provisioning or automation failures can be broadly broken up into two
-categories:
-
-1. **Issues with infrastructure** - For example, capacity problems or problems with TechZone 
-  services that prevent the content from being deployed.
-2. **Issues with content** - For example, scripts that install data, product installation, licensing
-  files or certificates.
+That means if you publish content to TechZone, you are responsible for supporting the content.

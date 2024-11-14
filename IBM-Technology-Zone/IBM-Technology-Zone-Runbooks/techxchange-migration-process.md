@@ -6,7 +6,7 @@ You own an environment that was used at a TechXchange event and you would like t
 ## Before you start
 
 Before you migrate your labs from TechXchange to TechZone, you should be aware of both the initial
-and the ongoing expectations for TechZone content. To continue to have up-to-date and relavent 
+and the ongoing expectations for TechZone content. To continue to have up-to-date and relevant 
 content in TechZone, you should be aware of TechZone's content lifecycle.
 
 To learn more about the content lifecycle for TechZone, see the questions below in the FAQ:
