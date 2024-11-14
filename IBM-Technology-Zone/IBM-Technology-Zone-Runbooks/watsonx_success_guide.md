@@ -52,7 +52,7 @@ There are several elements that would need to be taken into consideration when p
 Additionaly, there are common popular collections that have been contributed by recognised authors offering this option too. These offerings also leverage the need for an existing IBM ID. Ensure you have searched through Techzone using the search option to cover everything available on the Technology Zone platform. If the workshop carried out does not require an isolated ID and can be associated with an IBM ID, we recommend reserving the regular IBM ID environments. This means that once the workshop has started, the students will be required to use their own IBM ID and will receive a cloud account invite for their dedicated environment upon signing up using the student link.
 
 The following diagram can also be used to determine the more suitable environment:
-![diagram-watsonx-workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/diagram-flow-workshop-watsonx.png)
+![diagram-watsonx-workshop](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/diagram-flow-workshops-watsonx.png)
 
 Here is a list of popular and featured watsonx-related collections used by IBMers and patners:
 * [IBM watsonx Code Assistant for Z](https://techzone.ibm.com/collection/653fee8bf2cbbb0017e126de)
