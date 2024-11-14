@@ -260,6 +260,12 @@
 
 [VMware Wireguard VPN Multi User](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/VMwareWireGuardVPNMultiuser.md) :white_check_mark:
 
+## watsonx
+
+[watsonx Workshop Success Guide](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md) :white_check_mark:
+
+[watsonx Troubleshooting Guide](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md) :white_check_mark:
+
 ## Workshop
 
 [Onboarding users for CPDaaS / watsonx.ai SaaS workshops](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/CPDaaS-watsonxai-SaaS-Onboarding.md)
