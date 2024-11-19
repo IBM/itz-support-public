@@ -9,28 +9,28 @@ This guide contains suggestions and ideas on how to run a successful workshop us
 
 
 ### Determining the environment for the workshop
-  * [How do I tell if an environment is available for a workshop?]()
+  * [How do I tell if an environment is available for a workshop?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#how-do-i-tell-if-an-environment-is-available-for-a-workshop)
 
-  * [What environment should I use if my workshop is internal/with IBMers?]()
+  * [What environment should I use if my workshop is internal/with IBMers?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#what-environment-should-i-use-if-my-workshop-is-internalwith-ibmers)
 
-  * [What environment should I use if my workshop is external/with partners/clients?]()
+  * [What environment should I use if my workshop is external/with partners/clients?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#what-environment-should-i-use-if-my-workshop-is-externalwith-partnersclients)
 
-  * [How do I make a workshop request?]()
+  * [How do I make a workshop request?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#how-do-i-make-a-workshop-request)
 
-  * [What region should my workshop be hosted in?]()
+  * [What region should my workshop be hosted in?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#what-region-should-my-workshop-be-hosted-in)
 
-  * [What plans would the services under my environment be?]()
+  * [What plans would the services under my environment be?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#what-plans-would-the-services-under-my-environment-be)
 
 
 ### Ensuring success during the workshop
               
-   * [Will the instructor be able to access the student environments?]()
+   * [Will the instructor be able to access the student environments?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#will-the-instructor-be-able-to-access-the-student-environments)
 
-   * [Suggestions for workshop students who are not IBMers]()
+   * [Suggestions for workshop students who are not IBMers](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#suggestions-for-workshop-students-who-are-not-ibmers)
 
-   * [How can I get help during my workshop?]()
+   * [How can I get help during my workshop?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#how-can-i-get-help-during-my-workshop)
 
-   * [What additional resources can I provide to my students for troubleshooting and help?]()
+   * [What additional resources can I provide to my students for troubleshooting and help?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_success_guide.md#what-additional-resources-can-i-provide-to-my-students-for-troubleshooting-and-help)
 
 
 [Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#watsonx-troubleshooting-guide)
