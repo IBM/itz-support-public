@@ -10,5 +10,5 @@ The purpose options self-education and test can be found on every IBM Technology
 How our Turbonomic system is working:
 
 - Daily at 1 AM (local timezone) IBM Turbonomic will process resizing actions
-- Turbonomic analyzes historical utilization and will resize vCPU and vMem up or down when it identified historically light or heavy utilization
+- Turbonomic analyzes historical utilization and will resize vCPU and vMem up or down when it identified historically heavy or light utilization respectively
 - This automation is actioned on for reservations that are NOT customer facing and can be resized up if needed but currently requires [opening a support case](https://ibmsf.my.site.com/ibminternalproducts/s/createrecord/NewCase?language=en_US)
