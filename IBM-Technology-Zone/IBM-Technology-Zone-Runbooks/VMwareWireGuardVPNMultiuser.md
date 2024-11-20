@@ -13,6 +13,9 @@ If `wg` is not found, install it by `sudo yum install wireguard-tools`
 
 3. Go the router web interface https://192.168.253.1/wg/vpn_wg_peers.php from your VM bastion
 (Default username: `admin`, password: `< your bastion password from reservation page >`)
+
+NOTE: Some environments, where the router functions as a load-balancer (OCP for e.g), its web interface is running on port 8443 - https://192.168.252.1:8443/wg/vpn_wg_peers.php 
+
 4. Create a VPN peer for each user:
 - Click `Add peer`
 - Select `tun_wg0` tunnel
