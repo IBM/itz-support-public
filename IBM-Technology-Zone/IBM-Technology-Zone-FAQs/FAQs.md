@@ -150,7 +150,7 @@ Answer #25: To request a demo be added to an existing Live Demos Platinum collec
 
 1.  Ensure your demo collection or resource(s) meet [Platinum standards](https://ibm.box.com/s/rw6lxuoor1q2vvrdy3r194a96bhwjt6u).
 2.  Review the available Live Demo Collections to see if your resource and/or collection would help make that collection more robust.
-3.  If yes, select the appropriate [Product Squad Leader](https://ibm.box.com/v/brand-squad-leads).
+3.  If yes, select the appropriate [Product Squad Leader](https://ibm.ent.box.com/v/squad-leader).
 4.  Send the Product Squad leader an email with your request to add content to their Platinum collection.
 5.  If approved, the Product Squad Leader will work with you to add your content to their Platinum collection.
 6.  The Product Squad Leader will make you a Collaborator of that collection so that you can manage and maintain your resources. Your name will also show on the Live Demos Collection as a Collaborator.
