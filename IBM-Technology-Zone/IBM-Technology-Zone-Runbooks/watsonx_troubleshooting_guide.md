@@ -45,6 +45,11 @@ Instructions how to navigate and troubleshoot issues on Techzone's watsonx Certi
 
 ## IBM ID watsonx SaaS environments
 
+### Why am I not receiving a cloud account invite?
+1. If you are already part of the account where the reservation is provisioned you will not receive an invite. You can start using your reservation upon provision.
+
+2. If you don't have the account and haven't received an invite, please [open a support case](https://ibmsf.force.com/ibminternalproducts/s/createrecord/NewCase?language=en_US) so that our team can quickly resend the invite for you or the user whom you shared with.
+
 ### Steps to create a Project on a watsonx.ai instance on SaaS
 
 1. On the IBM watsonx home, at the top left of the screen, select the menu button.
@@ -104,8 +109,7 @@ The steps below are required in order to share a wastonx project you have create
 
 1. Share reservation with user using share menu option on reservation card (not on reservation details page), you can see how to do that as illustrated in the image bellow
 ![reservations-card-share-watsonx](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservations-card-share-watsonx.png)
-2. Log techzone support ticket to request IAM Viewer access policy
-> Be sure to include your reservation ID and the email of the user you are attempting to share your instance with. It will be helpful to share this runbook with support and ask for the team to check on your permissions
+2. Import your access group following the steps outlined [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-with-my-student-id-reservation): 
 3. Ensure shared user accepts cloud invitation
 4. Ensure user initializes watsonx workspace in account and geo reservation was shared from
 > Geo Locations direct URLs
@@ -113,7 +117,7 @@ The steps below are required in order to share a wastonx project you have create
 - Frankfurt: https://eu-de.dataplatform.cloud.ibm.com/wx/home?context=wx
 - Tokyo: https://jp-tok.dataplatform.cloud.ibm.com/registration/steptwo?context=wx
 - London: https://eu-gb.dataplatform.cloud.ibm.com/wx/home?context=wx
-5. Add user to projects as needed
+5. The user should have access now as part of the access group.
 
 ### Why can't I share my WatsonX project with a user?
 1. Ensure you have imported the access group as outlined here in your project: 
