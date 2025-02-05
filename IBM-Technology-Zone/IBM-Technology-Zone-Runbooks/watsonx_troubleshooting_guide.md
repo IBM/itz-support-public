@@ -9,6 +9,7 @@ Instructions how to navigate and troubleshoot issues on Techzone's watsonx Certi
 
 
 ### 1. IBM ID watsonx SaaS environments
+  * [Why am I not receiving a cloud account invite?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#why-am-i-not-receiving-a-cloud-account-invite)
   * [Steps to create a Project on a watsonx.ai instance on SaaS](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#steps-to-create-a-project-on-a-watsonxai-instance-on-saas)
 
   * [Why can't I create a project on SaaS or associate my service in the project?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#why-cant-i-create-a-project-on-saas-or-associate-my-service-in-the-project)
