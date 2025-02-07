@@ -28,7 +28,7 @@ Instructions how to navigate and troubleshoot issues on Techzone's watsonx Certi
 
   * [User Facing out of tokens error on watsonx.ai SaaS reservation](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#user-facing-out-of-tokens-error-on-watsonxai-saas-reservation)
   
-  * [How to use the API Key attached to my watsonx reservation?](https://github.com/IBM/itz-support-public/edit/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-attached-to-my-watsonx-reservation)
+  * [How to use the API Key attached to my watsonx reservation?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-attached-to-my-watsonx-reservation)
 
   * [(Optional) Backing up a project](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#optional-backing-up-a-project)
 
@@ -40,7 +40,7 @@ Instructions how to navigate and troubleshoot issues on Techzone's watsonx Certi
 
    * [How to get to the watsonx.ai platform via Student ID?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-get-to-the-watsonxai-platform-via-student-id)
 
-   * [How to use the API Key attached to my watsonx reservation?](https://github.com/IBM/itz-support-public/edit/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-attached-to-my-watsonx-reservation)
+   * [How to use the API Key attached to my watsonx reservation?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-attached-to-my-watsonx-reservation)
 
 
 [Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#watsonx-troubleshooting-guide)
@@ -112,7 +112,7 @@ The steps below are required in order to share a wastonx project you have create
 
 1. Share reservation with user using share menu option on reservation card (not on reservation details page), you can see how to do that as illustrated in the image bellow
 ![reservations-card-share-watsonx](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservations-card-share-watsonx.png)
-2. Import your access group following the steps outlined [here](https://github.com/IBM/itz-support-public/edit/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-attached-to-my-watsonx-reservation): 
+2. Import your access group following the steps outlined [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-attached-to-my-watsonx-reservation): 
 3. Ensure shared user accepts cloud invitation
 4. Ensure user initializes watsonx workspace in account and geo reservation was shared from
 > Geo Locations direct URLs
@@ -124,7 +124,7 @@ The steps below are required in order to share a wastonx project you have create
 
 ### Why can't I share my WatsonX project with a user?
 1. Ensure you have imported the access group as outlined here in your project: 
-   * [How to use the API Key with my Student ID reservation?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-with-my-student-id-reservation)
+   * [How to use the API Key with my Student ID reservation?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-attached-to-my-watsonx-reservation)
 
 2. Share the reservation with the user and ensure they are part of the access group.
 
