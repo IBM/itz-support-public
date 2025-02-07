@@ -38,7 +38,7 @@ Instructions how to navigate and troubleshoot issues on Techzone's watsonx Certi
 
    * [How to get to the watsonx.ai platform via Student ID?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-get-to-the-watsonxai-platform-via-student-id)
 
-   * [How to use the API Key with my Student ID reservation?](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-with-my-student-id-reservation)
+   * [How to use the API Key with my reservation?](https://github.com/IBM/itz-support-public/edit/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-with-my-reservation)
 
 
 [Back to Top](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#watsonx-troubleshooting-guide)
@@ -110,7 +110,7 @@ The steps below are required in order to share a wastonx project you have create
 
 1. Share reservation with user using share menu option on reservation card (not on reservation details page), you can see how to do that as illustrated in the image bellow
 ![reservations-card-share-watsonx](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/reservations-card-share-watsonx.png)
-2. Import your access group following the steps outlined [here](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-with-my-student-id-reservation): 
+2. Import your access group following the steps outlined [here](https://github.com/IBM/itz-support-public/edit/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/watsonx_troubleshooting_guide.md#how-to-use-the-api-key-with-my-reservation): 
 3. Ensure shared user accepts cloud invitation
 4. Ensure user initializes watsonx workspace in account and geo reservation was shared from
 > Geo Locations direct URLs
@@ -228,8 +228,8 @@ The watsonx Student ID environments are now available as part of Certified Base 
 
 ![studentid-form](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-form.png)
 
-### How to use the API Key with my Student ID reservation?
-1. To enable the use of API Key with your student ID, open the project settings under Access Control.
+### How to use the API Key with my reservation?
+1. To enable the use of API Key, open the project settings under Access Control.
 
 ![studentid-dropdown](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/studentid-dropdown.png)
 
